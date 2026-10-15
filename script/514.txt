@@ -1,0 +1,214 @@
+@ 000
+JP ジュニア戦士達の史上最大のイベント、
+JP 『キング・オブ・ワールドジュニア』が
+JP 終わった。
+EN The biggest junior event in history,
+EN the "King of World Juniors," was over.
+
+@ 001
+JP 出場者がリングに上がる。
+EN The entrants climbed into the ring.
+
+@ 002
+JP #WS093：
+JP 「ええ試合やったで！
+EN Delfin:
+EN "That was one heck of a match!"
+
+@ 003
+JP #WS111：
+JP 「ユー達の素晴らしいファイト、
+JP 　ハートに響いたよ！
+EN Benoit:
+EN "Your wonderful fight touched my
+EN  heart!"
+
+@ 004
+JP #WS017：
+JP 「ホンマ、大したモンや。
+EN Kanemoto:
+EN "Seriously, that was somethin'."
+
+@ 005
+JP #WS018：
+JP 「ライバルっていいよな！
+EN Otani:
+EN "Rivals are a great thing!"
+
+@ 006
+JP #WS134：
+JP 「アメリカのファンや関係者にも
+JP 　見せてやりたいぜ。
+EN TAKA:
+EN "Wish I could show that to the fans
+EN  and the suits in America."
+
+@ 007
+JP #WS065：
+JP 「凄い試合だったよ。
+JP 　またいつか、試合をしたいもんだな。
+EN Fuchi:
+EN "Amazing match. I'd like to wrestle
+EN  you again someday."
+
+@ 008
+JP #WS113：
+JP 「本当に、世界に誇れる試合だった。
+EN Ultimo:
+EN "Truly, a match the world can be
+EN  proud of."
+
+@ 009
+JP #WS015：
+JP 「まだまだ道を譲る気はないけど、
+JP 　お前達になら安心して後を任せられるよ。
+EN Liger:
+EN "I'm not stepping aside yet, but I'd
+EN  feel safe leaving the future to you."
+
+@ 010
+JP #WS092：
+JP 「本当に・・・本当にビッグになったな！
+JP 　もう俺は言う事無いよ・・・・
+EN Sasuke:
+EN "You've really... really hit the big
+EN  time! I've got nothing left to say...."
+
+@ 011
+JP 坂上：
+JP 「#MS・・・俺はお前と出会えて、
+JP 　本当に良かったと思ってる。
+EN Sakagami:
+EN "#MS... I'm really glad I met
+EN  you."
+
+@ 012
+JP #MS：
+JP 「俺もだぜ、坂上。
+JP 　お前と言う友が・・・ライバルがいたから
+JP 　俺はここまで来れたんだ。
+EN #MS:
+EN "Me too, Sakagami. It's because I had a
+EN  friend... a rival like you that I made
+EN  it this far."
+
+@ 013
+JP 坂上：
+JP 「あの、#WS026道場で・・・あっ！
+EN Sakagami:
+EN "Back at the Yamamoto dojo... Oh!"
+
+@ 014
+JP #MS：
+JP 「？
+EN #MS:
+EN "?"
+
+@ 015
+JP 坂上：
+JP 「見ろ、花道の奥・・・・
+EN Sakagami:
+EN "Look, at the back of the aisle...."
+
+@ 016
+JP #MS：
+JP 「#WL026先生・・・・
+EN #MS:
+EN "Coach Yamamoto...."
+
+@ 017
+JP #WL026：
+JP 「フフフ・・・・・
+EN Yamamoto:
+EN "Heh heh heh....."
+
+@ 018
+JP 「あいつら・・・
+JP 　本当に大きくなりやがって。
+EN "Those two... they've really grown."
+
+@ 019
+JP 「俺はもう弟子は取らない。
+JP 　お前達以上のレスラーは
+JP 　育てられそうも無いからな・・・・
+EN "I'm not taking any more students. I
+EN  could never raise wrestlers better
+EN  than them...."
+
+@ 020
+JP 「フフフ・・・・
+EN "Heh heh heh...."
+
+@ 021
+JP 俺達は去って行く#WL026先生に
+JP 向かって礼をした。ちょうどあの、
+JP 道場で別れた時のように・・・・
+EN We bowed to Coach Yamamoto as he
+EN left. Just like when we parted at the
+EN dojo....
+
+@ 022
+JP その後俺達はみんなに胴上げされ、
+JP 肩車をされて退場した。
+EN Then everyone tossed us in the air
+EN and carried us out on their shoulders.
+
+@ 023
+JP だが俺達が退場した後でも、
+JP 歓声は中々途切れなかった・・・・
+EN But even after we left, the cheers just
+EN wouldn't stop....
+
+@ 024
+JP あの大会の後、俺と坂上は世界を回る事にした。
+EN After that event, Sakagami and I
+EN decided to tour the world.
+
+@ 025
+JP 色んな国、色んな人達に俺達のプロレスを
+JP 見てもらう為だ。
+EN To show our pro wrestling to all kinds
+EN of countries and people.
+
+@ 026
+JP そして世界に、
+JP プロレスの素晴らしさを伝えたい、
+JP そう思っている。
+EN And to show the world how wonderful
+EN pro wrestling is. That's what we want.
+
+@ 027
+JP もちろん日本の各地も回って、
+JP 俺達のプロレスを見てもらうつもりだ。
+EN Of course, we'll tour all over Japan
+EN too, to show people our wrestling.
+
+@ 028
+JP まだプロレスを知らない人に。
+EN To people who don't know wrestling
+EN yet.
+
+@ 029
+JP プロレスを否定する人に。
+EN To people who reject wrestling.
+
+@ 030
+JP 多くのプロレスファン達に・・・・
+EN To all the wrestling fans....
+
+@ 031
+JP その中からいつか、将来のプロレス界を
+JP 支える人間が現れるはずだ。
+EN Someday, among them, the people who
+EN carry the wrestling world forward
+EN will appear.
+
+@ 032
+JP そして受け継がれて行く事だろう。
+EN And it will be passed on.
+
+@ 033
+JP 俺達の闘いの道、
+JP 『ファイティング・ロード』が・・・・・
+EN Our road of battle, our "Fighting
+EN Road"......

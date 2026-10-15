@@ -1,0 +1,200 @@
+@ 000
+JP #WS092：
+JP 「最近自信に満ち溢れてるな。
+EN Sasuke:
+EN "You've been brimming with
+EN  confidence lately."
+
+@ 001
+JP #MS：
+JP 「そうですか？ただ自分が出来る事が
+JP 　分かって来たと言うか・・・
+JP 　何かが分かったというのはありますね。
+EN #MS:
+EN "Have I? I guess I've started to see
+EN  what I can do... Something clicked."
+
+@ 002
+JP #WS092：
+JP 「そうか。俺もだんだん膝の調子が
+JP 　良くなって来てるんだよ。
+EN Sasuke:
+EN "I see. My knee's been getting better
+EN  too, little by little."
+
+@ 003
+JP #MS：
+JP 「じゃあ！
+EN #MS:
+EN "Then!"
+
+@ 004
+JP #WS092：
+JP 「ああ。もう少ししたら復帰出来そうだ。
+EN Sasuke:
+EN "Yeah. Looks like I can come back
+EN  before long."
+
+@ 005
+JP #MS：
+JP 「良かった！そうすれば本当の#PS04が
+JP 　また戻って来ますね！
+EN #MS:
+EN "Great! Then the real #PS04 will
+EN  be back again!"
+
+@ 006
+JP #WS092：
+JP 「そうだな。また俺も一緒に頑張って、
+JP 　経営危機なんかふっ飛ばすぞ！
+EN Sasuke:
+EN "Right. I'll fight alongside you again
+EN  and blow this money crisis away!"
+
+@ 007
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 008
+JP #WS092：
+JP 「ああ、いかんいかん。
+JP 　今日来てもらった本題を忘れていたよ。
+EN Sasuke:
+EN "Oh, shoot. I forgot the real reason I
+EN  called you here."
+
+@ 009
+JP #MS：
+JP 「本題、ですか？
+EN #MS:
+EN "The real reason?"
+
+@ 010
+JP #WS092：
+JP 「実は前々から話はしていたんだが、
+JP 　#WF163が
+JP 　スポット参戦する事になってな。
+EN Sasuke:
+EN "We've been talking for a while, and
+EN  Dos Caras is coming in for a spot
+EN  appearance."
+
+@ 011
+JP #MS：
+JP 「#WF163が・・・
+EN #MS:
+EN "Dos Caras..."
+
+@ 012
+JP #WS092：
+JP 「『世界マスクマンリーグ』の時に俺が
+JP 　場外へのパワーボムで負けたの覚えてるか？
+EN Sasuke:
+EN "Remember at the World Masked Man
+EN  League, when I lost to his powerbomb
+EN  to the floor?"
+
+@ 013
+JP #MS：
+JP 「はい。あれは危なかったですね。
+EN #MS:
+EN "Yes. That was a scary one."
+
+@ 014
+JP #WS092：
+JP 「本当は俺があの時の借りを返そうと思って
+JP 　話を進めてたんだが・・・・こんな時に
+JP 　スケジュールが合っちまってな。
+EN Sasuke:
+EN "I set this up to pay him back for
+EN  that... but his schedule lined up at
+EN  the worst time."
+
+@ 015
+JP 「金額的にもスケジュール的にもそう呼べる
+JP 　相手じゃない。どうせだったら今回
+JP 　呼んでおきたいんだよ。
+EN "With his fee and schedule, we can't
+EN  book him just any time. I want him
+EN  here while we can."
+
+@ 016
+JP 「だから俺の代わりに#MS、
+JP 　お前があいつの相手をしてくれ。
+EN "So in my place, #MS, you face
+EN  him."
+
+@ 017
+JP #MS：
+JP 「えっ！？
+EN #MS:
+EN "What!?"
+
+@ 018
+JP #WS092：
+JP 「誰にやってもらうか色々考えたんだが、
+JP 　やっぱりお前しかいないと思ってな。
+EN Sasuke:
+EN "I thought hard about who should do
+EN  it, and you're the only one."
+
+@ 019
+JP 「どうだ、やってくれるか？
+EN "So, will you do it?"
+
+@ 020
+JP #MS：
+JP 「俺で良ければ喜んで！あんな大物とは
+JP 　そうそう出来るチャンスは無いですからね！
+EN #MS:
+EN "If you'll have me, gladly! A chance to
+EN  face a star like that doesn't come
+EN  often!"
+
+@ 021
+JP #WS092：
+JP 「よし！
+EN Sasuke:
+EN "All right!"
+
+@ 022
+JP #WS163：
+JP 「わざわざ来てみればユーのような
+JP 　ヤングボーイのお相手か？
+EN Dos Caras:
+EN "I come all this way, and I get a young
+EN  boy like you?"
+
+@ 023
+JP #MS：
+JP 「俺は#WS092さんの代理として・・・
+JP 　そして俺個人としてあなたと闘う！
+EN #MS:
+EN "I'm fighting you in Sasuke's place...
+EN  and for myself!"
+
+@ 024
+JP 「ただのヤングボーイと舐めてかかるなら
+JP 　それもいいだろう。けど、もしそのままの
+JP 　気持ちで来るなら、勝つのは俺だ！
+EN "Look down on me as just a young
+EN  boy, that's fine. But come at me like
+EN  that, and I win!"
+
+@ 025
+JP #WS163：
+JP 「ほう？随分と威勢のいいヤングボーイだ。
+JP 　ならばミーはルチャの奥義を持って
+JP 　ユーのスピリットに応えよう！
+EN Dos Caras:
+EN "Oh? A feisty young boy. Then I'll
+EN  answer your spirit with the secrets of
+EN  lucha!"
+
+@ 026
+JP #MS：
+JP 「行くぞ！
+EN #MS:
+EN "Here I come!"

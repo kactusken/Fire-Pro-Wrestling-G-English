@@ -1,0 +1,87 @@
+@ 000
+JP 記者：
+JP 「メジャー、しかも一線級の選手からの勝利、
+JP 　おめでとうございます！
+EN Reporter:
+EN "Congratulations on beating top-tier
+EN  major-league talent!"
+
+@ 001
+JP #WS076：
+JP 「どうじゃ、#WS090！#WS033！
+JP 　これが邪道の力じゃ！
+EN Onita:
+EN "How 'bout that, Tenryu! Koshinaka!
+EN  That's outlaw power!"
+
+@ 002
+JP #MS：
+JP 「邪道だ、インディーだって舐めてると
+JP 　こういう目に合うんだよ！良く覚えておけ！
+EN #MS:
+EN "That's what you get for looking
+EN  down on outlaws and indies!
+EN  Remember it!"
+
+@ 003
+JP 記者：
+JP 「試合後、#WS033選手が
+JP 　シングル戦を要求してましたが？
+EN Reporter:
+EN "After the match, Koshinaka
+EN  demanded a singles bout?"
+
+@ 004
+JP #MS：
+JP 「#WS076さんの出る幕じゃないですよ。
+JP 　俺が出て行って、返り討ちにしますよ！
+EN #MS:
+EN "No need for Mr. Onita to bother. I'll
+EN  go out and shut him down!"
+
+@ 005
+JP #WS076：
+JP 「よし！#MS！頼んだぞ！
+EN Onita:
+EN "All right! #MS! I'm counting on
+EN  you!"
+
+@ 006
+JP そして#WS033選手との
+JP シングル戦の日がやって来た。
+EN And the day of my singles match with
+EN Koshinaka arrived.
+
+@ 007
+JP #WS033：
+JP 「倒幕軍の大将として
+JP 　お前達なんかに舐められてちゃ
+JP 　いられないんだよ！
+EN Koshinaka:
+EN "As leader of the Ishingun, I can't let
+EN  punks like you look down on me!"
+
+@ 008
+JP 「今日は俺がキッチリと決着つけてやるよ！
+EN "Today I'm settling this for good!"
+
+@ 009
+JP #MS：
+JP 「決着、望む所だよ！
+JP 　ただ１つ言っておいてやるよ！
+EN #MS:
+EN "Settle it, then! But let me tell you one
+EN  thing!"
+
+@ 010
+JP 「こっちは全てを賭けて闘ってんだよ。
+JP 　ぬくぬくやってるお前達とは
+JP 　覚悟が違うんだよ！
+EN "We're fighting with everything on
+EN  the line. Our resolve's nothing like
+EN  you cushy guys!"
+
+@ 011
+JP 「邪道の覚悟、受け止めてみろ！
+EN "Take the outlaw's resolve, if you
+EN  can!"

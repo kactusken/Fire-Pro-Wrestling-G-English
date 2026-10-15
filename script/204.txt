@@ -1,0 +1,127 @@
+@ 000
+JP 勝ったのは坂上だった。
+EN Sakagami was the winner.
+
+@ 001
+JP #MS：
+JP 「クッ・・・・
+EN #MS:
+EN "Damn...."
+
+@ 002
+JP 坂上：
+JP 「#MS！
+JP 　試合前の約束、覚えてるだろうな！
+EN Sakagami:
+EN "#MS! You remember our deal,
+EN  right!?"
+
+@ 003
+JP #MS：
+JP 「負けは負けだ・・・・分かった。
+JP 　お前の付き人になってやるよ！
+EN #MS:
+EN "A loss is a loss.... Fine. I'll be your
+EN  valet!"
+
+@ 004
+JP だが実際はそうは行かなかった。
+JP #PS00が俺の受け入れを拒否。坂上と、
+JP 一緒に来た#WS035は処罰を受けた。
+EN But it didn't happen. #PS00
+EN refused me, and Sakagami and Goto
+EN were punished.
+
+@ 005
+JP この事で団体間の関係は悪化。坂上とは
+JP 下手をすると二度と闘えなくなるかも
+JP しれなかった・・・・・
+EN Relations between the promotions
+EN soured. If things went badly, I might
+EN never face Sakagami again.....
+
+@ 006
+JP 俺は坂上との事を考えて憂鬱になっていた。
+EN Thinking about Sakagami had me
+EN down in the dumps.
+
+@ 007
+JP #WS071：
+JP 「何だオイ、すっかり時化たツラしてんな。
+EN Fuyuki:
+EN "Hey, what's with the gloomy face?"
+
+@ 008
+JP #MS：
+JP 「#WS071さん・・・・
+EN #MS:
+EN "Mr. Fuyuki...."
+
+@ 009
+JP #WS071：
+JP 「オイオイオイ、本当にひどいツラだな。
+JP 　そんなツラしてても良い事なんてないぞ。
+EN Fuyuki:
+EN "Hey, hey, hey, you look awful.
+EN  Moping like that won't do you any
+EN  good."
+
+@ 010
+JP #MS：
+JP 「はぁ・・・・
+EN #MS:
+EN "Sigh...."
+
+@ 011
+JP #WS071：
+JP 「いい加減にしろ！全く・・・・
+EN Fuyuki:
+EN "Knock it off! Geez...."
+
+@ 012
+JP 「用件だけを伝えるぞ。次のシリーズに
+JP 　#WS069が緊急帰国する事になった。
+JP 　お前あいつとやれ。じゃあな。
+EN "I'll keep it short. Tanaka's rushing
+EN  back home for next series. You're
+EN  fighting him. See ya."
+
+@ 013
+JP #WS071さんは何で
+JP #WS069とやれなんて・・・・
+EN Why would Fuyuki want me to fight
+EN Tanaka....
+
+@ 014
+JP 俺の心は晴れないままだった・・・・
+EN The clouds in my heart just wouldn't
+EN clear....
+
+@ 015
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 016
+JP #WS069：
+JP 「どうした！腑抜けたツラしよって！
+JP 　そんな調子じゃ秒殺するぞ！
+EN Tanaka:
+EN "What's with that gutless face! Keep
+EN  that up and I'll finish you in
+EN  seconds!"
+
+@ 017
+JP #WS069は凱旋帰国で気合が入っている。
+JP ちょっと前の俺のように・・・・・
+JP 俺は懐かしいような気になってしまった。
+EN Back in triumph, Tanaka was fired up.
+EN Like I used to be not long ago..... It
+EN made me feel nostalgic.
+
+@ 018
+JP #WS069：
+JP 「何を寝ぼけとんや！俺が目ェ覚まさせてやる！
+EN Tanaka:
+EN "Quit sleepwalkin'! I'll wake you up!"

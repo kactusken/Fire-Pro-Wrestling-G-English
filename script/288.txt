@@ -1,0 +1,62 @@
+@ 000
+JP 場内には
+JP #MSコールが鳴り響いている。
+JP 俺は何時の間にかマイクを握っていた。
+EN Chants of "#MS" ring through
+EN the arena. Before I knew it, I had a
+EN mic in my hand.
+
+@ 001
+JP #MS：
+JP 「プロレスラー#MS、
+JP 　勝ちましたあぁぁぁっ！！
+EN #MS:
+EN "Pro wrestler #MS... has
+EN  WOOOOON!!"
+
+@ 002
+JP 「プロレスファンの皆さん・・・
+JP 　色々ありましたけど、これで終わりです！
+EN "Wrestling fans... A lot has happened,
+EN  but it's over now!"
+
+@ 003
+JP 「#WL169不敗伝説は
+JP 　終わったんです！！
+EN "The Gracie legend of invincibility is
+EN  over!!"
+
+@ 004
+JP 「俺も不安でしたけど、仲間が、そして
+JP 　ファンの皆さんが支えてくれたお陰で
+JP 　勝てたんです！ありがとうございました！
+EN "I was nervous too, but my friends
+EN  and all of you fans carried me to this
+EN  win! Thank you so much!"
+
+@ 005
+JP #WS149：
+JP 「ようやった、ホンマにようやったな！
+EN Maeda:
+EN "Ya did it, ya really did it!"
+
+@ 006
+JP #WS141：
+JP 「今回は完全に先を越されましたね。
+JP 　おめでとうございます！
+EN Y. Yamamoto:
+EN "You totally beat me to it this time.
+EN  Congratulations!"
+
+@ 007
+JP #WS143：
+JP 「やったな！大した奴だよ、お前は！
+EN Tamura:
+EN "You did it! You're really something!"
+
+@ 008
+JP いつしか俺は仲間に胴上げされていた。
+JP 大きな歓声の渦に包まれながら・・・・
+EN Before I knew it, my friends were
+EN tossing me in the air, surrounded by a
+EN whirlwind of cheers....

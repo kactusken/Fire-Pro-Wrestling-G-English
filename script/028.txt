@@ -1,0 +1,161 @@
+@ 000
+JP 記者：
+JP 「Ｖ－１は残念でした。
+JP 　しかしその実力と勢いは
+JP 　十分にアピール出来たんじゃないですか？
+EN Reporter:
+EN "Too bad about the G1. But surely you
+EN  showed off your skill and
+EN  momentum?"
+
+@ 001
+JP #MS：
+JP 「Ｖ－１？
+JP 　過ぎた事グダグダ言ってんじゃねえぞ！
+JP 　要はベルト取りゃあいいんだよ、ベルト！
+EN #MS:
+EN "The G1? Quit whining about the past!
+EN  What matters is taking a belt, a belt!"
+
+@ 002
+JP 記者：
+JP 「ベルト取りですか？
+EN Reporter:
+EN "Going for a belt?"
+
+@ 003
+JP #MS：
+JP 「当たり前だろーが！
+JP 　まずはタッグからだ！タッグ取ってやるよ！
+EN #MS:
+EN "Damn right! Starting with the tag
+EN  belts! I'm taking the tag titles!"
+
+@ 004
+JP 記者：
+JP 「#WS090、#WS033組に挑戦ですか？
+EN Reporter:
+EN "You'll challenge Tenryu and
+EN  Koshinaka?"
+
+@ 005
+JP #MS：
+JP 「あんな老いぼれどもがベルト持ってたら
+JP 　腐っちまうだろ！俺が光らせてやるから
+JP 　とっととよこせって！
+EN #MS:
+EN "Those belts'll rot with those old men
+EN  holding them! I'll make 'em shine, so
+EN  hand 'em over already!"
+
+@ 006
+JP 「あいつらにな！
+JP 　良く磨いて待ってろって言っとけ！
+EN "Tell those two to polish them up and
+EN  wait for me!"
+
+@ 007
+JP その後、リング内外でのアピールにより
+JP #WS028さんとのタッグでの
+JP ＩＧＰタッグ王座挑戦が決定した。
+EN After making noise in and out of the
+EN ring, Mutoh and I got an IWGP tag
+EN title shot.
+
+@ 008
+JP この勢いで必ずベルトを奪って見せる！
+EN I'll ride this momentum and take that
+EN belt!
+
+@ 009
+JP #WS028：
+JP 「おい！ブラザー！今日は絶対勝つぞ！
+JP 　お前と俺のタッグ結成の記念に
+JP 　ベルトが必要だからな！
+EN Mutoh:
+EN "Hey! Brother! We're winning today!
+EN  We need those belts to celebrate our
+EN  new team, you and me!"
+
+@ 010
+JP #MS：
+JP 「はい！あんな連中にベルト巻かせてたら
+JP 　ダメですよ！
+EN #MS:
+EN "Right! We can't let guys like that
+EN  wear the belts!"
+
+@ 011
+JP #WS028：
+JP 「いいぞ！ブラザー！行くぞ！
+EN Mutoh:
+EN "All right! Brother! Let's go!"
+
+@ 012
+JP リング入場寸前で
+JP #WS029が
+JP 近づいて来た。
+EN Just before we hit the ring, Tenzan
+EN came over.
+
+@ 013
+JP #WS029：
+JP 「おい！#MS！
+JP 　絶対に勝てよ！オェッ！
+EN Tenzan:
+EN "Hey! #MS! You better win! Oeh!"
+
+@ 014
+JP 今回、パートナーが最後まで決まらなかった。
+JP 候補に#WS028さんと#WS029が
+JP 挙がって、結局こうなったのだ。
+EN This time, my partner wasn't settled
+EN until the end. It was between Mutoh
+EN and Tenzan, and this is how it went.
+
+@ 015
+JP 奴としても複雑なのだろう。
+EN He must have mixed feelings about it.
+
+@ 016
+JP #MS：
+JP 「当たり前だ！見てろよ！
+EN #MS:
+EN "Of course! Just watch!"
+
+@ 017
+JP #WS029：
+JP 「いいから勝てよ！オェッ！
+EN Tenzan:
+EN "Just win! Oeh!"
+
+@ 018
+JP #WS033：
+JP 「随分とインタビューで
+JP 　なめた事言ってたみたいだな、あ？
+EN Koshinaka:
+EN "You talked pretty big in that
+EN  interview, didn't you, huh?"
+
+@ 019
+JP #WS090：
+JP 「・・・・・・・・・
+EN Tenryu:
+EN "........."
+
+@ 020
+JP #MS：
+JP 「だから何だってんだ！
+JP 　てめえらのアカで汚れたそのベルト、
+JP 　ちゃんと磨いて来ただろうな！
+EN #MS:
+EN "So what! Did you polish those belts,
+EN  all grimy from you two?"
+
+@ 021
+JP #WS033：
+JP 「ふざけんじゃねえぞ、あ？
+JP 　やってやるよ！
+EN Koshinaka:
+EN "Don't screw with me, huh? Bring it
+EN  on!"

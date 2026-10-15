@@ -1,0 +1,108 @@
+@ 000
+JP 記者：
+JP 「Ｖ－１は残念でした。
+JP 　しかしその実力と勢いは
+JP 　十分にアピール出来たんじゃないですか？
+EN Reporter:
+EN "Too bad about the G1. But surely you
+EN  showed off your skill and
+EN  momentum?"
+
+@ 001
+JP #MS：
+JP 「今の自分の力がね、ここまでだったと。
+JP 　ただこのままじゃなくて次に良い意味で
+JP 　つないで行きますよ。
+EN #MS:
+EN "That's as far as I could go for now.
+EN  But I won't stop here. I'll build on it
+EN  for next time."
+
+@ 002
+JP 記者：
+JP 「現在勢いに乗っている、と言う意味では
+JP 　まだ#MSさんが抜けていると
+JP 　思うんですが？
+EN Reporter:
+EN "In terms of momentum, I think you're
+EN  still ahead of everyone."
+
+@ 003
+JP #MS：
+JP 「そうですね。今とても元気ですから。
+JP 　その俺の勢いをぶつけたい人達が
+JP 　いるんですよ。
+EN #MS:
+EN "Well, I'm feeling great right now.
+EN  And there are some guys I want to hit
+EN  with that momentum."
+
+@ 004
+JP 記者：
+JP 「ほう、それは？
+EN Reporter:
+EN "Oh? Who's that?"
+
+@ 005
+JP #MS：
+JP 「#WS090、#WS033組です。
+JP 　あのチームも歳の割に元気ですし、
+JP 　#WS090さん個人にも興味があります。
+EN #MS:
+EN "Tenryu and Koshinaka. They're
+EN  lively for their age, and I'm
+EN  interested in Tenryu himself, too."
+
+@ 006
+JP 記者：
+JP 「なるほど、ＩＧＰタッグ挑戦ですか！
+EN Reporter:
+EN "I see, an IWGP tag title challenge!"
+
+@ 007
+JP #MS：
+JP 「近い内に実現させたいですね。
+EN #MS:
+EN "I'd like to make it happen soon."
+
+@ 008
+JP その後、リング内外でのアピールにより
+JP #WS008とのタッグでの
+JP ＩＧＰタッグ王座挑戦が決定した。
+EN After making noise in and out of the
+EN ring, Nakanishi and I got an IWGP tag
+EN title shot.
+
+@ 009
+JP この勢いで必ずベルトを奪って見せる！
+EN I'll ride this momentum and take that
+EN belt!
+
+@ 010
+JP #WS033：
+JP 「お前ら俺と#WS090さんのタッグに
+JP 　勝てると思ってるのか、あ？
+EN Koshinaka:
+EN "You two think you can beat me and
+EN  Tenryu, huh?"
+
+@ 011
+JP #MS：
+JP 「当然でしょう？ベルト、俺らが
+JP 　もらいますよ！
+EN #MS:
+EN "Of course. Those belts are ours!"
+
+@ 012
+JP #WS090：
+JP 「・・・・・・・・・
+EN Tenryu:
+EN "........."
+
+@ 013
+JP #WS033：
+JP 「ふざけんじゃねえぞ、あ？
+JP 　やってやるよ！
+EN Koshinaka:
+EN "Don't screw with me, huh? Bring it
+EN  on!"

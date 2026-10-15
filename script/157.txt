@@ -1,0 +1,60 @@
+@ 000
+JP #WS090：
+JP 「これから#WS033達と組む事になった。
+EN Tenryu:
+EN "We're gonna team up with
+EN  Koshinaka's crew from now on."
+
+@ 001
+JP #MS：
+JP 「倒幕軍と、ですか？
+EN #MS:
+EN "With the Heisei Ishingun?"
+
+@ 002
+JP #WS090：
+JP 「そうだ。
+EN Tenryu:
+EN "That's right."
+
+@ 003
+JP #WS033：
+JP 「よろしくな！期待してるぞ！
+EN Koshinaka:
+EN "Glad to have you! We're expecting
+EN  big things!"
+
+@ 004
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 005
+JP #WS090：
+JP 「これからはこの軍団で
+JP 　革命して行くぞ！
+EN Tenryu:
+EN "From here on, this army's gonna lead
+EN  the revolution!"
+
+@ 006
+JP だが俺はこの後すぐ腕を痛め欠場。
+JP 復帰した頃には話題性も薄れ、勢いが
+JP なくなっていた。
+EN But I soon hurt my arm and sat out.
+EN By my return, the buzz had faded and
+EN the momentum was gone.
+
+@ 007
+JP その後も倒幕軍の一員となって試合を
+JP 続けているが、目立った成果も残せずにいる。
+EN I kept wrestling with the Ishingun
+EN after that, but never made much of a
+EN mark.
+
+@ 008
+JP そして今日も、
+JP 俺はリングに上がる・・・・・・
+EN And today, once again, I step into the
+EN ring......

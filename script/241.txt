@@ -1,0 +1,26 @@
+@ 000
+JP そしてタッグマッチながら試合が組まれた。
+JP 坂上・#WS008組対
+JP #WS076・#MS組。
+EN And a match was set, if only a tag
+EN match: Sakagami and Nakanishi vs.
+EN Onita and #MS.
+
+@ 001
+JP 坂上：
+JP 「・・・・・・・
+EN Sakagami:
+EN "......."
+
+@ 002
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 003
+JP 俺達は何も言わず睨み合った。
+JP 後は試合で語ればいい。
+EN We glared at each other without a
+EN word. The match would do the
+EN talking.

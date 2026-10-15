@@ -1,0 +1,86 @@
+@ 000
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 001
+JP 俺は坂上を見つめる。
+JP 俺の闘いが伝わったかどうか・・・・
+EN I stare at Sakagami. Did my fight get
+EN through to him....
+
+@ 002
+JP 坂上：
+JP 「・・・・・・・
+EN Sakagami:
+EN "......."
+
+@ 003
+JP だが坂上は目を逸らして
+JP リングを降りて行ってしまった。
+JP どうしたって言うんだ、坂上・・・・
+EN But Sakagami looked away and left
+EN the ring. What's wrong, Sakagami....
+
+@ 004
+JP 俺は#WF002選手との
+JP シングルマッチを組まれた。
+EN I was booked in a singles match with
+EN Kensuke Sasaki.
+
+@ 005
+JP 最初に#WS076さんと闘って、
+JP かなり邪道に対して反発心を
+JP 抱いていたようだったが・・・・
+EN After his first fight with Mr. Onita,
+EN he seemed to really resent outlaw
+EN wrestling....
+
+@ 006
+JP #WS002：
+JP 「このカードは俺が会社に頼んだものだ。
+JP 　#WS076を認めるつもりは無いが
+JP 　お前は少し違う。
+EN Sasaki:
+EN "I asked the company for this match. I
+EN  won't accept Onita, but you're a bit
+EN  different."
+
+@ 007
+JP 「お前の邪道には何か違うものを感じる。
+JP 　そうでなければ坂上達とあんな試合は
+JP 　出来ないだろう。
+EN "I sense something different in your
+EN  outlaw style. Otherwise you couldn't
+EN  have had that match with Sakagami."
+
+@ 008
+JP 「俺の考えが間違っていないかどうか・・・
+JP 　お前の邪道魂を思いっきりぶつけてみろ！
+EN "To see whether I'm right... hit me
+EN  with your outlaw spirit, all of it!"
+
+@ 009
+JP 俺はうれしかった。自分の闘いが他人に
+JP 伝わり始めている・・・・
+EN I was happy. My fight was starting to
+EN reach people....
+
+@ 010
+JP もしかしたら坂上も何かを感じて
+JP 迷っているのかもしれない。
+EN Maybe Sakagami felt something too,
+EN and was torn.
+
+@ 011
+JP #MS：
+JP 「そこまで言ってくれたあんたには
+JP 　それに報いる試合で応える！
+EN #MS:
+EN "After saying all that, you deserve a
+EN  match worthy of it!"
+
+@ 012
+JP 「俺の邪道魂、見せてやる！
+EN "I'll show you my outlaw spirit!"

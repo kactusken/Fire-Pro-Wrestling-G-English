@@ -1,0 +1,13 @@
+@ 000
+JP #WS151：
+JP 「今日は#WL152とですね。
+EN Ishikawa:
+EN "You've got Ikeda today."
+
+@ 001
+JP #MS：
+JP 「ああ。あいつもタフになったからな。
+JP 　気を引き締めて行くさ。
+EN #MS:
+EN "Yeah. He's gotten tough. I'll stay
+EN  sharp."

@@ -1,0 +1,37 @@
+@ 000
+JP #WS126：
+JP 「ユーが俺のここでの最後の相手か。
+JP 　少々不足気味だが最後は
+JP 　勝利で飾らせてもらうとしよう。
+EN Williams:
+EN "So you're my last opponent here. A
+EN  little lacking, but I'll go out with a
+EN  win."
+
+@ 001
+JP #MS：
+JP 「こんな奴がいるなら残れば良かったと
+JP 　思わせてやる！
+EN #MS:
+EN "I'll make you wish you'd stayed, with
+EN  a guy like me around!"
+
+@ 002
+JP #WS126：
+JP 「威勢の良いヤングボーイだ。
+JP 　せいぜい首を痛めるなよ！
+EN Williams:
+EN "Feisty young boy. Just try not to
+EN  hurt your neck!"
+
+@ 003
+JP #MS：
+JP 「行くぞ！
+EN #MS:
+EN "Here I come!"
+
+@ 004
+JP #WS126：
+JP 「カモォォォォォン！！
+EN Williams:
+EN "Come ooooooon!!"

@@ -1,0 +1,105 @@
+@ 000
+JP 記者：
+JP 「素晴らしい試合でした。そして
+JP 　初戴冠おめでとうございます！
+EN Reporter:
+EN "A fantastic match. And
+EN  congratulations on your first title!"
+
+@ 001
+JP #MS：
+JP 「ありがとうございます。
+JP 　キツかったですけど何とかね、
+JP 　形は出せたんで。
+EN #MS:
+EN "Thank you. It was rough, but
+EN  somehow I pulled it off."
+
+@ 002
+JP 「でもこの苦しさがまた、１つの経験であり、
+JP 　自信につながりますよ。これでまた俺自身が
+JP 　強くなったって事でしょう。
+EN "But going through that is experience
+EN  too, and it builds confidence. It
+EN  means I've gotten stronger."
+
+@ 003
+JP 記者：
+JP 「今後は狙われる立場になる訳ですが？
+EN Reporter:
+EN "Now you'll be the one they're
+EN  gunning for."
+
+@ 004
+JP #MS：
+JP 「世代交代だけじゃなくて、#PS00を
+JP 　高めて行く為の闘いをね、
+JP 　どんどんして行きたいですね。
+EN #MS:
+EN "Not just a changing of the guard. I
+EN  want to keep having fights that raise
+EN  #PS00 up."
+
+@ 005
+JP 「頑張って行きますんで、
+JP 　今後とも応援お願いします！
+EN "I'll keep working hard, so please keep
+EN  cheering me on!"
+
+@ 006
+JP #WS001：
+JP 「#MS！やったな！おめでとう！
+EN Hashimoto:
+EN "#MS! You did it!
+EN  Congratulations!"
+
+@ 007
+JP #MS：
+JP 「やりました！
+EN #MS:
+EN "I did it!"
+
+@ 008
+JP #WS001：
+JP 「本当に強くなったな！
+JP 　今#PS00の頂点に立ってるのは
+JP 　お前なんだからな！
+EN Hashimoto:
+EN "You've really gotten strong! You're
+EN  the one at the top of #PS00 now!"
+
+@ 009
+JP #MS：
+JP 「ありがとうございます！
+JP 　最高の気分です！
+EN #MS:
+EN "Thank you! I feel amazing!"
+
+@ 010
+JP #WS001：
+JP 「でもこれからが大変だぞ。これから
+JP 　闘わなくちゃならんのは敵だけじゃない。
+EN Hashimoto:
+EN "But the hard part starts now. From
+EN  here on, it's not just opponents you'll
+EN  be fighting."
+
+@ 011
+JP 「追われる側ってのは想像を絶する
+JP 　プレッシャーとも闘って行かなきゃならない。
+JP 　覚悟しておけよ。
+EN "When you're the one being chased,
+EN  you fight pressure you can't imagine.
+EN  Be ready for it."
+
+@ 012
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 013
+JP 俺はとうとうＩＧＰのベルトを・・・
+JP 世界最強の称号を手に入れたのだ。
+EN At last I had the IWGP belt... The title
+EN of the strongest in the world.

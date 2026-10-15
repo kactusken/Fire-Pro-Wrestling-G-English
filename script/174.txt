@@ -1,0 +1,73 @@
+@ 000
+JP 今日は正規軍とのタッグマッチが組まれた。
+JP 奴等は自由に闘っている俺達にゴチャゴチャと
+JP 文句を言うのでうざったい。
+EN Today we had a tag match against the
+EN regulars. They always nag at us for
+EN fighting how we like. So annoying.
+
+@ 001
+JP 特に#WS068は
+JP 悲劇のヒーローを気取っていて
+JP 無性に腹が立つ。
+EN Hayabusa especially, playing the
+EN tragic hero, just pisses me off.
+
+@ 002
+JP #WS068：
+JP 「お前らは汚いんだ！出来るんだから
+JP 　正々堂々とレスリングで勝負しろ！
+EN Hayabusa:
+EN "You guys fight dirty! You've got the
+EN  skills, so wrestle fair and square!"
+
+@ 003
+JP #MS：
+JP 「馬鹿じゃねぇのか、この偽善者野郎！
+JP 　もっと自分に正直になれや！
+JP 　本当は俺達がうらやましいんだろ？
+EN #MS:
+EN "Are you stupid, you hypocrite? Be
+EN  honest with yourself! You're jealous
+EN  of us, right?"
+
+@ 004
+JP 「俺達のように自由に闘えないなんて
+JP 　確かに可哀相だけどな！
+EN "Can't fight free like us... I do feel
+EN  sorry for you!"
+
+@ 005
+JP #WS068：
+JP 「お前らをうらやましく思った事なんて
+JP 　一度だって無いし、
+JP 　ましてや同情なんてされたく無い！
+EN Hayabusa:
+EN "I've never once been jealous of you,
+EN  and I sure don't want your pity!"
+
+@ 006
+JP #WS069：
+JP 「俺達の武器はこの肉体一つ！
+JP 　この肘でお前達をブチ砕く！
+EN Tanaka:
+EN "Our only weapon is this body! This
+EN  elbow's gonna smash you!"
+
+@ 007
+JP #MS：
+JP 「やれるもんならやってみな！
+EN #MS:
+EN "Try it if you think you can!"
+
+@ 008
+JP #WS071：
+JP 「行くぞ！
+EN Fuyuki:
+EN "Let's go!"
+
+@ 009
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yeah!"

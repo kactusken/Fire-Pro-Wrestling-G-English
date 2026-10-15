@@ -1,0 +1,160 @@
+@ 000
+JP 記者：
+JP 「おめでとうございます！
+JP 　噂のチームが、遂にタッグ王者になりました！
+EN Reporter:
+EN "Congratulations! The team
+EN  everyone's talking about are finally
+EN  tag champions!"
+
+@ 001
+JP #MS：
+JP 「まあ当然だろ！俺と坂上がタッグ組んだら
+JP 　こんなもんだよ！
+EN #MS:
+EN "Well, obviously! This is what happens
+EN  when Sakagami and I team up!"
+
+@ 002
+JP 記者：
+JP 「今後の防衛戦ですが・・・・
+EN Reporter:
+EN "As for future title defenses...."
+
+@ 003
+JP 坂上：
+JP 「俺達に勝てるチームなんかあるのか！？
+JP 　もう敵なんかいないだろ！
+EN Sakagami:
+EN "Is there any team that can beat us!?
+EN  We've got no rivals left!"
+
+@ 004
+JP #MS：
+JP 「そんな結果の決まった防衛戦やっても
+JP 　お客も喜ばないだろ！だからな！
+JP 　俺と坂上が、もっと凄いもの見せてやるよ！
+EN #MS:
+EN "Nobody wants a defense with a
+EN  foregone result! Sakagami and I will
+EN  show you something bigger!"
+
+@ 005
+JP 坂上：
+JP 「そう言う事だ！楽しみにしておけ！
+EN Sakagami:
+EN "That's right! Look forward to it!"
+
+@ 006
+JP 記者：
+JP 「おめでとうございます！インディーの
+JP 　噂のチームが、メジャー#PS01の
+JP 　リングで勝利を上げました！
+EN Reporter:
+EN "Congratulations! The indies' hottest
+EN  team has won in the ring of major
+EN  #PS01!"
+
+@ 007
+JP #MS：
+JP 「まあ当然だろ！俺と坂上がタッグ組んだら
+JP 　こんなもんだよ！
+EN #MS:
+EN "Well, obviously! This is what happens
+EN  when Sakagami and I team up!"
+
+@ 008
+JP 記者：
+JP 「今後の展開ですが・・・・
+EN Reporter:
+EN "As for what comes next...."
+
+@ 009
+JP 坂上：
+JP 「俺達に勝てるチームなんかあるのか！？
+JP 　もう敵なんかいないだろ！
+EN Sakagami:
+EN "Is there any team that can beat us!?
+EN  We've got no rivals left!"
+
+@ 010
+JP #MS：
+JP 「これで俺達の力がメジャーにもちゃんと
+JP 　通用するって事が分かっただろ！
+EN #MS:
+EN "That proves we can hang with the
+EN  majors!"
+
+@ 011
+JP 「だからこれから、もっともっと打って出るよ！
+JP 　プロレス界の台風の目になってやるからな！
+EN "So from here, we're going on the
+EN  offensive! We'll be the eye of the
+EN  storm in wrestling!"
+
+@ 012
+JP 「それともう一つ！
+JP 　俺と坂上が凄いもの見せてやるよ！
+EN "And one more thing! Sakagami and I
+EN  are gonna show you something
+EN  amazing!"
+
+@ 013
+JP 坂上：
+JP 「そう言う事だ！楽しみにしておけ！
+EN Sakagami:
+EN "That's right! Look forward to it!"
+
+@ 014
+JP 坂上：
+JP 「今日という日を待ち続けていたよ。
+JP 　あの道場で同じスタートを切った
+JP 　お前と大舞台で対決する・・この時を！
+EN Sakagami:
+EN "I've waited for this day. To face you,
+EN  who started out with me at that dojo,
+EN  on the big stage!"
+
+@ 015
+JP #MS：
+JP 「俺もだ。道場で会ったあの日から、お前に
+JP 　負けないよう頑張って来た・・・・・
+JP 　いつか必ず来るであろう今日という日の為に！
+EN #MS:
+EN "Me too. Since we met at the dojo, I've
+EN  pushed to keep up with you... for this
+EN  day!"
+
+@ 016
+JP そう、俺達は決めていた。タッグで勝ったら
+JP ２人のシングルを実現しようと・・・・
+EN Yes, we'd decided. If we won as a
+EN team, we'd make our singles match
+EN happen....
+
+@ 017
+JP 坂上：
+JP 「この一戦でみんなの度肝を抜いてやろうぜ！
+EN Sakagami:
+EN "Let's blow everybody's minds with
+EN  this match!"
+
+@ 018
+JP #MS：
+JP 「おう！そしてここから
+JP 　俺達の革命が始まるんだ！
+EN #MS:
+EN "Yeah! And our revolution starts
+EN  here!"
+
+@ 019
+JP 坂上：
+JP 「行くぜ！！
+EN Sakagami:
+EN "Here I come!!"
+
+@ 020
+JP #MS：
+JP 「来い！！
+EN #MS:
+EN "Bring it!!"

@@ -1,0 +1,25 @@
+@ 000
+JP 決勝に勝ち進んだ俺を待っていたのは
+JP #WF073だった。
+EN Waiting for me in the final was Mr.
+EN Gannosuke.
+
+@ 001
+JP #MS：
+JP 「このトーナメント、俺がもらう！
+EN #MS:
+EN "This tournament is mine!"
+
+@ 002
+JP #WS073：
+JP 「・・・・・
+EN Gannosuke:
+EN "....."
+
+@ 003
+JP #MS：
+JP 「しゃべる気は無いって事か。
+JP 　なら試合で語ってもらおうか！
+EN #MS:
+EN "Not in a talking mood, huh? Then
+EN  let's talk in the ring!"

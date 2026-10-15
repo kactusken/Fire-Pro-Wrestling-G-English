@@ -1,0 +1,66 @@
+@ 000
+JP 記者：
+JP 「優勝おめでとうございます！
+EN Reporter:
+EN "Congratulations on the win!"
+
+@ 001
+JP #MS：
+JP 「ありがとうございます！
+JP 　ハードな試合でした！
+EN #MS:
+EN "Thank you! That was a tough one!"
+
+@ 002
+JP 記者：
+JP 「王座返上後のトーナメントで優勝、
+JP 　現在のトップだと言っても
+JP 　誰も文句は言えないでしょう。
+EN Reporter:
+EN "Winning the tournament after the
+EN  title was vacated, no one can say
+EN  you're not the top guy now."
+
+@ 003
+JP #MS：
+JP 「そうですね。我ながら
+JP 　良くやったと思いますよ。自分の中で
+JP 　この優勝は自信に繋がります。
+EN #MS:
+EN "I guess so. I'm proud of how I did.
+EN  This win gives me real confidence."
+
+@ 004
+JP 「でもこれで終わりじゃないですから。
+JP 　これからも気を引き締めて行きますよ！
+EN "But this isn't the end. I'm going to
+EN  stay focused from here on!"
+
+@ 005
+JP 記者：
+JP 「今回の優勝で、新王座決定戦進出は
+JP 　決まりなんじゃないですか？
+EN Reporter:
+EN "With this win, surely you're in the
+EN  match for the new title?"
+
+@ 006
+JP #MS：
+JP 「#WS068さんとの
+JP 　再戦を是非やりたいですね！
+EN #MS:
+EN "I'd really love a rematch with
+EN  Hayabusa!"
+
+@ 007
+JP 「それで借りを返して、新王座の
+JP 　初代チャンピオンとして
+JP 　名を残したいです！
+EN "Then I'll pay him back and make my
+EN  name as the first new champion!"
+
+@ 008
+JP 記者：
+JP 「ありがとうございました！
+EN Reporter:
+EN "Thank you very much!"

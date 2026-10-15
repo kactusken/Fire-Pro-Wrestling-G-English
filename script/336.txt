@@ -1,0 +1,101 @@
+@ 000
+JP 最近の俺は無気力な自分を
+JP どうにも出来ずにいた。
+EN Lately I just couldn't shake my
+EN apathy.
+
+@ 001
+JP #WS066：
+JP 「ちょっと邪魔するぞ。
+EN Kikuchi:
+EN "Mind if I come in?"
+
+@ 002
+JP #MS：
+JP 「あ、#WS066さん・・・
+EN #MS:
+EN "Oh, Mr. Kikuchi..."
+
+@ 003
+JP #WS066：
+JP 「最近どうしたんだ？
+JP 　随分調子が悪そうじゃないか。
+EN Kikuchi:
+EN "What's up with you lately? You seem
+EN  way off."
+
+@ 004
+JP #MS：
+JP 「自分でも分かりません・・・・
+EN #MS:
+EN "I don't know myself...."
+
+@ 005
+JP #WS066：
+JP 「じゃあ俺と一緒に道場で若いのに
+JP 　稽古つけないか？
+EN Kikuchi:
+EN "Then why not help me train the
+EN  young guys at the dojo?"
+
+@ 006
+JP #MS：
+JP 「え？
+EN #MS:
+EN "Huh?"
+
+@ 007
+JP #WS066：
+JP 「『Ｕ』仕込みの関節技とかを
+JP 　教えてやってくれよ、な？
+EN Kikuchi:
+EN "Teach 'em those U-style submissions
+EN  and stuff, okay?"
+
+@ 008
+JP #WS066さんは
+JP 俺を気遣ってくれているようだ。
+EN Kikuchi seemed to be looking out for
+EN me.
+
+@ 009
+JP #MS：
+JP 「分かりました。
+EN #MS:
+EN "All right."
+
+@ 010
+JP 俺は#WS066さんの誘いに乗る事にした。
+EN I decided to take Kikuchi up on it.
+
+@ 011
+JP その後の俺は#WS066さんと一緒に
+JP 若手の育成係を務めるようになった。
+EN After that, I helped Kikuchi train the
+EN young wrestlers.
+
+@ 012
+JP 始めは気分転換のつもりだったが、
+JP 次第に試合よりも面白いと
+JP 思うようになって行った。
+EN At first it was just a change of pace,
+EN but little by little it became more fun
+EN than wrestling.
+
+@ 013
+JP そして今では・・・・
+EN And now....
+
+@ 014
+JP #MS：
+JP 「おい、そこ！もっとテンポ良くやるんだ！
+EN #MS:
+EN "Hey, you! Pick up the pace!"
+
+@ 015
+JP 「サボってるんじゃ無い！
+EN "No slacking off!"
+
+@ 016
+JP 俺はトレーナーとして過ごしている。
+EN I spend my days as a trainer.

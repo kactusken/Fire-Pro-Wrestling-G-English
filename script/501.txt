@@ -1,0 +1,157 @@
+@ 000
+JP ディンク：
+JP 「リサーチと検討の結果、#PS06では
+JP 　サイレンターイとの単独契約を
+JP 　結ぶ事になった。
+EN McMahon:
+EN "After research and review, #PS06
+EN  has decided to sign Kai-En-Tai
+EN  alone."
+
+@ 001
+JP 「#PL04との専属契約は
+JP 　中止になった。
+EN "The exclusive deal with
+EN  #PL04 is off."
+
+@ 002
+JP #MS：
+JP 「えっ！？
+EN #MS:
+EN "What!?"
+
+@ 003
+JP ディンク：
+JP 「だからユー達は個人として
+JP 　契約する事が出来る。
+EN McMahon:
+EN "So you can sign with us as an
+EN  individual."
+
+@ 004
+JP #MS：
+JP 「#PS04との契約・・・
+JP 　ダメなんですか！？
+EN #MS:
+EN "The deal with #PS04... it's off!?"
+
+@ 005
+JP ディンク：
+JP 「これはあくまでビジネスだ。
+JP 　そして我々の判断はそうなった。
+JP 　それだけの事だ。
+EN McMahon:
+EN "This is simply business. And that is
+EN  our decision. That's all there is to it."
+
+@ 006
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 007
+JP ディンク：
+JP 「#MS、ユーはどうする？
+JP 　サイレンターイの一員として
+JP 　個人契約してもいいぞ？
+EN McMahon:
+EN "#MS, what will you do? You can
+EN  sign on your own as a member of
+EN  Kai-En-Tai."
+
+@ 008
+JP #MS：
+JP 「俺、俺は・・・・・・
+EN #MS:
+EN "I, I......"
+
+@ 009
+JP #WS134：
+JP 「冷たいようだけど仕方ねぇよ。
+JP 　オーナーの言うようにこれは
+JP 　ビジネスだからな。
+EN TAKA:
+EN "Sounds cold, but it can't be helped.
+EN  Like the owner said, it's business."
+
+@ 010
+JP #MS：
+JP 「はい・・・
+EN #MS:
+EN "Yeah..."
+
+@ 011
+JP #WS134：
+JP 「で、どうするよ？
+JP 　#WS092に話つければ、
+JP 　俺は歓迎するぜ？
+EN TAKA:
+EN "So what'll it be? If you square it with
+EN  Sasuke, you're welcome here."
+
+@ 012
+JP #MS：
+JP 「いえ、俺は帰ります。
+EN #MS:
+EN "No, I'm going home."
+
+@ 013
+JP #WS134：
+JP 「そうか・・・ま、お前の道だ。
+JP 　お前がそう言うならそれがいいんだろう。
+EN TAKA:
+EN "I see... Well, it's your road. If that's
+EN  what you say, it's for the best."
+
+@ 014
+JP #MS：
+JP 「気持ちは凄く、嬉しいんですけど・・・
+EN #MS:
+EN "I really appreciate the offer,
+EN  though..."
+
+@ 015
+JP #WS134：
+JP 「何、いいって事よ。
+JP 　それよりな・・・・・
+EN TAKA:
+EN "Hey, don't mention it. More
+EN  importantly....."
+
+@ 016
+JP #WS134：
+JP 「日本的に言えば壮行試合って奴か？
+JP 　お前とは１度も試合した事なかったからな。
+EN TAKA:
+EN "In Japan you'd call it a send-off
+EN  match, right? We never wrestled even
+EN  once."
+
+@ 017
+JP #MS：
+JP 「ありがとうございます。
+JP 　#WS134さんと試合が出来るのは
+JP 　とても嬉しいです。
+EN #MS:
+EN "Thank you. I'm really happy to get a
+EN  match with you, TAKA."
+
+@ 018
+JP #WS134：
+JP 「でもここでのストーリーは仲間割れ、だ。
+JP 　お前は俺に嫌気が差して日本に帰る。
+EN TAKA:
+EN "But the storyline here is a breakup.
+EN  You get sick of me and go home."
+
+@ 019
+JP 「一応その事も頭に置いて試合しろよ！
+EN "Keep that in mind when you
+EN  wrestle!"
+
+@ 020
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Right!"

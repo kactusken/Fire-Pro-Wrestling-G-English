@@ -1,0 +1,68 @@
+@ 000
+JP ディンク：
+JP 「最近良くやってくれているな。
+EN McMahon:
+EN "You've been doing good work lately."
+
+@ 001
+JP #MS：
+JP 「ありがとうございます。
+EN #MS:
+EN "Thank you."
+
+@ 002
+JP ディンク：
+JP 「で、今度#PS05にいた#WS186が
+JP 　ウチに移籍して来る事になった。
+EN McMahon:
+EN "Now, Big Show is jumping to us from
+EN  #PS05."
+
+@ 003
+JP #MS：
+JP 「ああ、あのデッカイ奴ですか。
+EN #MS:
+EN "Oh, that huge guy."
+
+@ 004
+JP ディンク：
+JP 「ハハハ、その通りだ。で、彼には
+JP 　衝撃デビューの後、チーム・カンパニーに
+JP 　入ってもらう予定だ。
+EN McMahon:
+EN "Ha ha, exactly. After a shocking
+EN  debut, he'll join the Corporation."
+
+@ 005
+JP #MS：
+JP 「ああ・・・・もしかして今度はそいつと
+JP 　抗争に入るんですか？
+EN #MS:
+EN "Ah... So I'm feuding with him next?"
+
+@ 006
+JP ディンク：
+JP 「察しが良いな。その通りだ。
+JP 　彼と最初のシングルマッチをやってもらう。
+EN McMahon:
+EN "Sharp. That's right. You'll be in his
+EN  first singles match."
+
+@ 007
+JP #MS：
+JP 「分かりました。
+EN #MS:
+EN "Understood."
+
+@ 008
+JP とは言ったものの、あんなデッカイ奴と
+JP どうやって闘えば良いのか、俺は悩まずには
+JP いられなかった。
+EN That's what I said, but I couldn't stop
+EN worrying about how to fight someone
+EN that huge.
+
+@ 009
+JP 俺は試合までの日々を悩みながら過ごした。
+EN I spent every day until the match
+EN worrying.

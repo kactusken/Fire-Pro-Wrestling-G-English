@@ -1,0 +1,147 @@
+@ 000
+JP 試合が終わった俺はしばらく
+JP リング上に立ち尽くしていた。
+EN After the match, I just stood in the
+EN ring for a while.
+
+@ 001
+JP #WS069との試合は熱く俺の心を
+JP 揺さぶった。坂上だけが俺の敵じゃない。
+JP こんなに心を熱くしてくれる相手がいるんだ！
+EN Tanaka really stirred my heart.
+EN Sakagami isn't my only rival. Other
+EN guys can fire me up like this!
+
+@ 002
+JP それにいつかまた闘える時が来るかもしれない。
+JP その時のために今から気合を入れて
+JP 闘って行かなければ！
+EN And maybe someday we'll fight again.
+EN I've got to fight hard from now on, for
+EN that day!
+
+@ 003
+JP 俺は自分の心が
+JP 晴れ渡って行くのを感じていた・・・・
+EN I could feel my heart clearing up....
+
+@ 004
+JP #WS071：
+JP 「よう、#MS！
+JP 　やっと元に戻ったか。
+EN Fuyuki:
+EN "Hey, #MS! Back to your old self
+EN  at last, huh?"
+
+@ 005
+JP #MS：
+JP 「はい、吹っ切れました。
+JP 　#WS071さんのおかげですよ！
+EN #MS:
+EN "Yeah, I've shaken it off. Thanks to
+EN  you, Mr. Fuyuki!"
+
+@ 006
+JP #WS071：
+JP 「よし、ここまで戻れば問題ねぇだろ。
+EN Fuyuki:
+EN "Good. If you're back this far, no
+EN  problem."
+
+@ 007
+JP #MS：
+JP 「何がですか？
+EN #MS:
+EN "No problem with what?"
+
+@ 008
+JP #WS071：
+JP 「チームノーリストリクトの素晴らしさを
+JP 　アピールする為に、タイトルを賭けた
+JP 　同門対決をしようかと思ってるんだよ。
+EN Fuyuki:
+EN "To show off how great Team No
+EN  Respect is, I'm thinkin' of a title
+EN  match between stablemates."
+
+@ 009
+JP #MS：
+JP 「タイトル・・・タッグですか？
+EN #MS:
+EN "A title... the tag belts?"
+
+@ 010
+JP #WS071：
+JP 「おう。俺と#WS075が持ってる
+JP 　タッグ王座に、#WS074とお前で
+JP 　挑戦するんだよ！
+EN Fuyuki:
+EN "Yeah. You and Jado are gonna
+EN  challenge for the tag titles Kanemura
+EN  and I hold!"
+
+@ 011
+JP #MS：
+JP 「なるほど・・・・
+EN #MS:
+EN "I see...."
+
+@ 012
+JP #WS071：
+JP 「この試合で俺達ノーリストリクトが
+JP 　正規軍なんかより凄いって事をみんなに
+JP 　教えてやるからな！
+EN Fuyuki:
+EN "With this match, we'll show everyone
+EN  No Respect is way better than the
+EN  regulars!"
+
+@ 013
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Right!"
+
+@ 014
+JP #WS071：
+JP 「よーし！今日の試合の目的は分かってるな？
+EN Fuyuki:
+EN "All right! You know what today's
+EN  match is for, right?"
+
+@ 015
+JP #WS075：
+JP 「チームノーリストリクトの素晴らしさを
+JP 　ばっちりと伝えた上で、俺達フトットルースの
+JP 　防衛記録を伸ばす事です！
+EN Kanemura:
+EN "Showing off how great Team No
+EN  Respect is, and extending Footloose's
+EN  defense record!"
+
+@ 016
+JP #WS071：
+JP 「その通りだ！行くぞ、#WS075！
+EN Fuyuki:
+EN "Exactly! Let's go, Kanemura!"
+
+@ 017
+JP #WS075：
+JP 「任せて下さい、#WS071さん！
+EN Kanemura:
+EN "Leave it to me, Mr. Fuyuki!"
+
+@ 018
+JP #WS074：
+JP 「いいか、#WS071さんは
+JP 　あんな事言ってるけど、ベルトはしっかり
+JP 　もらうからな！気合入れて行けよ！
+EN Jado:
+EN "Listen, whatever Fuyuki says, we're
+EN  takin' those belts! Get fired up!"
+
+@ 019
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Right!"

@@ -1,0 +1,67 @@
+@ 000
+JP #WS059：
+JP 「ケガの具合はどうだ？
+EN Baba:
+EN "How's the injury?"
+
+@ 001
+JP #MS：
+JP 「はい、まだしばらくは・・・・
+EN #MS:
+EN "Well, it'll be a while yet...."
+
+@ 002
+JP 俺はあの後膝を痛めた。予想以上の重いケガで、
+JP 半年経った今でも欠場を続けている。
+EN I hurt my knee after that. It was
+EN worse than expected. Half a year
+EN later, I'm still out.
+
+@ 003
+JP #WS059：
+JP 「そうか・・・仕方無いな。
+JP 　まあ焦らず治す事を考えるんだ。
+EN Baba:
+EN "I see... Can't be helped. Don't rush it.
+EN  Just focus on healing."
+
+@ 004
+JP #MS：
+JP 「すみません。少しでも早く復帰出来るよう、
+JP 　頑張ります・・・・
+EN #MS:
+EN "I'm sorry. I'll work hard to come back
+EN  as soon as I can...."
+
+@ 005
+JP しかし#MSは復帰を果たすも度々
+JP 同じ個所を負傷。次第に思うような結果を
+JP 出す事も出来なくなって行った。
+EN #MS did return, but kept hurting
+EN the same spot. Little by little, the
+EN results he wanted slipped away.
+
+@ 006
+JP そして・・・・
+EN And then....
+
+@ 007
+JP #WS066：
+JP 「行くぞ、この野郎！
+EN Kikuchi:
+EN "Let's go, punk!"
+
+@ 008
+JP 興行の休憩前で行われる、悪者協会と
+JP フレンドリー軍団の闘いにレギュラー参加
+JP する毎日が続いた。
+EN Day after day, he was a regular in the
+EN pre-intermission Akuyaku Shokai vs.
+EN Family Gundan comedy bouts.
+
+@ 009
+JP いつかケガを克服し、再びメインイベントに
+JP 出場する日を夢見ながら・・・・・
+EN Dreaming of the day he'd beat his
+EN injuries and return to the main
+EN event.....

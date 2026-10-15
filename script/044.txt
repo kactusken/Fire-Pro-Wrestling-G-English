@@ -1,0 +1,48 @@
+@ 000
+JP 周囲の慌ただしさも収まらぬ中、
+JP 次のシリーズでＩＧＰ王座の挑戦者決定
+JP トーナメントが行われた。
+EN Amid all the turmoil, the next series
+EN held a tournament for an IWGP title
+EN shot.
+
+@ 001
+JP 優勝したのは#WS001さんだった。
+JP ここは王者としての、俺の正念場だ。
+JP 絶対に負けられない！
+EN The winner was Hashimoto. This is
+EN my moment of truth as champion. I
+EN can't lose, no matter what!
+
+@ 002
+JP #WS001：
+JP 「今の俺にはベルトが必要だ。
+JP 　#WF001
+JP 　再生の為に・・・
+EN Hashimoto:
+EN "Right now I need that belt. To bring
+EN  Shinya Hashimoto back to life..."
+
+@ 003
+JP 「何としても貰い受ける！
+EN "I'm taking it, no matter what!"
+
+@ 004
+JP #MS：
+JP 「生憎な！俺にも必要なんだよ！
+JP 　こいつで上の連中に言う事
+JP 　聞かせなくちゃならねえんだよ！
+EN #MS:
+EN "Too bad! I need it too! With this, I can
+EN  make the bosses upstairs listen to
+EN  me!"
+
+@ 005
+JP 「絶対に渡さねぇ！
+EN "You're not getting it!"
+
+@ 006
+JP #WS001：
+JP 「行くぞ！
+EN Hashimoto:
+EN "Here I come!"

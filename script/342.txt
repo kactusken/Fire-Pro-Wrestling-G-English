@@ -1,0 +1,59 @@
+@ 000
+JP #WS151：
+JP 「また今日も出張興行ですね。
+EN Ishikawa:
+EN "On the road again today."
+
+@ 001
+JP #MS：
+JP 「そうだな。
+EN #MS:
+EN "Yep."
+
+@ 002
+JP #WS151：
+JP 「でも俺、結構ワクワクしてるんですよ。
+EN Ishikawa:
+EN "But I'm pretty excited."
+
+@ 003
+JP #MS：
+JP 「何でだ？
+EN #MS:
+EN "Why's that?"
+
+@ 004
+JP #WS151：
+JP 「だって#MSさんとちゃんとした
+JP 　試合で当たるの、初めてじゃないですか！
+EN Ishikawa:
+EN "'Cause it's our first real match
+EN  against each other, #MS!"
+
+@ 005
+JP #MS：
+JP 「・・・・・そうだっけ？
+EN #MS:
+EN "..... Is it?"
+
+@ 006
+JP #WS151：
+JP 「そうですよ！
+JP 　だから俺楽しみにしてたんです！
+EN Ishikawa:
+EN "It is! That's why I've been looking
+EN  forward to it!"
+
+@ 007
+JP #MS：
+JP 「そうか。じゃあその気持ちにしっかりと
+JP 　応えてやらないとな。
+EN #MS:
+EN "I see. Then I'd better give you what
+EN  you came for."
+
+@ 008
+JP #WS151：
+JP 「行きます！
+EN Ishikawa:
+EN "Here I come!"

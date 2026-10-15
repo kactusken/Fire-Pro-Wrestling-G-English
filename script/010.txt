@@ -1,0 +1,27 @@
+@ 000
+JP 俺の遠征中に#PL00では
+JP 大きな変化が起きていた。
+EN While I was away, big changes had hit
+EN #PL00.
+
+@ 001
+JP #WS027さんが#WS029達と組んで
+JP 作った新軍団、「ＦＷＯ・ＪＡＰＡＮ」が
+JP 猛威を振るっていたのだ。
+EN Chono had teamed with Tenzan and
+EN others to form a new faction, "nWo
+EN JAPAN", and they were running wild.
+
+@ 002
+JP ＦＷＯ・ＪＡＰＡＮの勢いは今や正規軍を
+JP 飲み込もうとしている。そんなところへ
+JP 俺は帰って来たのだ。
+EN nWo JAPAN's momentum now
+EN threatened to swallow the regular
+EN army. That's what I came home to.
+
+@ 003
+JP そんなある日、俺はリング上で
+JP 帰国の挨拶をするために会場を訪れた。
+EN One day, I went to a show to greet the
+EN fans from the ring after my return.

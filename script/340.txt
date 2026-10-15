@@ -1,0 +1,96 @@
+@ 000
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 001
+JP #WS151：
+JP 「・・・・・・・
+EN Ishikawa:
+EN "......."
+
+@ 002
+JP #WS150：
+JP 「レスラーで残ったのはこれだけか？
+EN Fujiwara:
+EN "This is all the wrestlers we've got
+EN  left?"
+
+@ 003
+JP #MS：
+JP 「・・・・はい。
+EN #MS:
+EN ".... Yes."
+
+@ 004
+JP #WS150：
+JP 「ま、仕方ねぇな・・・・
+EN Fujiwara:
+EN "Well, can't be helped...."
+
+@ 005
+JP だが残された人数では興行を打てる訳も無く、
+JP 他の団体に試合ごと出張したりする日々が
+JP 続いた。
+EN With so few left we couldn't run our
+EN own shows, so day after day we went
+EN to other promotions' shows as a unit.
+
+@ 006
+JP それと平行して練習生の育成にも力を入れ、
+JP 徐々にレスラーとして戦力になる人材を
+JP 増やして行ったのだ。
+EN Alongside that, we put a lot into
+EN training rookies, slowly building up
+EN wrestlers who could pull their weight.
+
+@ 007
+JP #WS151：
+JP 「今日も出張ですね・・・・
+EN Ishikawa:
+EN "On the road again today...."
+
+@ 008
+JP #MS：
+JP 「仕方ないさ。闘う場があるだけでも
+JP 　ありがたいよ。あいつらの経験の場にも
+JP 　なるしな。
+EN #MS:
+EN "Can't be helped. Just having a place
+EN  to fight is a blessing. It's good
+EN  experience for them, too."
+
+@ 009
+JP 俺はデビューしたての連中の方を見る。
+EN I look over at the fresh rookies.
+
+@ 010
+JP #WS151：
+JP 「そうですね。それにこういう所で
+JP 　凄い試合をしておけば、自主興行に
+JP 　お客が来ますしね。
+EN Ishikawa:
+EN "True. And if we put on great
+EN  matches here, fans will come to our
+EN  own shows."
+
+@ 011
+JP #MS：
+JP 「そうだな。
+EN #MS:
+EN "That's right."
+
+@ 012
+JP #WS151：
+JP 「じゃあ#WL152の相手、
+JP 　よろしくお願いします。
+EN Ishikawa:
+EN "Then you've got Ikeda. Give him a
+EN  good match."
+
+@ 013
+JP #MS：
+JP 「ああ、分かってるよ。
+EN #MS:
+EN "Yeah, I know."

@@ -1,0 +1,52 @@
+@ 000
+JP #WS113：
+JP 「どうだ、仕上がりは？
+EN Ultimo:
+EN "How's your conditioning?"
+
+@ 001
+JP #MS：
+JP 「ええ。ベストな状態です。
+EN #MS:
+EN "I'm in the best shape possible."
+
+@ 002
+JP #WS113：
+JP 「そうか。初挑戦初戴冠、狙って来い！
+EN Ultimo:
+EN "Good. First shot, first title. Go get
+EN  it!"
+
+@ 003
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 004
+JP #WS100：
+JP 「・・・・・・・
+EN Goldberg:
+EN "......."
+
+@ 005
+JP #MS：
+JP 「・・・・・・・・
+EN #MS:
+EN "........"
+
+@ 006
+JP 俺達はひたすら睨み合っていた。
+EN We just kept staring each other down.
+
+@ 007
+JP この男の不敗伝説にピリオドを打ち、
+JP チャンピオンになって見せる！
+EN I'll end this man's unbeaten legend
+EN and become champion!
+
+@ 008
+JP #MS：
+JP 「行くぞ！
+EN #MS:
+EN "Here I come!"

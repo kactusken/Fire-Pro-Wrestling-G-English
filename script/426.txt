@@ -1,0 +1,85 @@
+@ 000
+JP 俺はあの
+JP #WF001に
+JP 勝ったのだ。
+EN I beat the great Shinya Hashimoto.
+
+@ 001
+JP 俺は日本のトップクラスにも十分通じる
+JP 実力を身につけていたのだ。
+EN I'd built the skill to hang with the
+EN very best in Japan.
+
+@ 002
+JP しかし・・・・
+EN And yet...
+
+@ 003
+JP 俺は残念ながら負けてしまったが、
+JP 日本のトップクラスにも十分通じる
+JP 実力を身につけていた事が嬉しかった。
+EN I lost, sadly, but I was glad I'd built
+EN the skill to hang with Japan's very
+EN best.
+
+@ 004
+JP しかし・・・・
+EN And yet...
+
+@ 005
+JP 実力はともかく、俺は日本では
+JP 認められる事は無かった。
+EN Skill or not, Japan never accepted me.
+
+@ 006
+JP ファン、関係者共に俺に対する評価は厳しく、
+JP これを境に日本からは声がかからなくなった。
+EN Fans and insiders alike judged me
+EN harshly, and after that, Japan stopped
+EN calling.
+
+@ 007
+JP 俺は今日もＦＷＯ軍に袋叩きにされた。
+EN Today the nWo beat me down again.
+
+@ 008
+JP #WS100：
+JP 「ウォォォォォォッ！
+EN Goldberg:
+EN "Raaaaaaaagh!"
+
+@ 009
+JP そして今日も
+JP #WF100に
+JP 助けられた・・・・・
+EN And again today, Bill Goldberg came
+EN to my rescue...
+
+@ 010
+JP 最近の俺はやられ役ばかりで、
+JP ろくな試合も組まれなくなっていた。
+EN Lately I was nothing but a punching
+EN bag, and I never got a decent match.
+
+@ 011
+JP 売り出しをかけたがお客に受けなくて
+JP 失敗した、と言う事なのだろう。
+EN They'd tried to push me, but the
+EN crowd didn't buy it. The push had
+EN failed, I guess.
+
+@ 012
+JP それでも頑張って来たつもりだが、
+JP これ以上はどうしていいのか分からない。
+JP 俺はどうすればいいのだろう・・・・
+EN I'd kept giving it my all, but I don't
+EN know what else to do. What do I do
+EN now...?
+
+@ 013
+JP 済まない坂上・・・お前との約束は・・・・
+EN I'm sorry, Sakagami... Our promise...
+
+@ 014
+JP 果たせそうも無い・・・・・
+EN I don't think I can keep it...

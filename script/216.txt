@@ -1,0 +1,145 @@
+@ 000
+JP 記者：
+JP 「二冠統一王座奪取、おめでとうございます！
+EN Reporter:
+EN "Congratulations on winning the
+EN  unified Double Championship!"
+
+@ 001
+JP #MS：
+JP 「チャンピオンになって嬉しいのもありますけど
+JP 　今日はそれ以上に、気持ちの良い試合が
+JP 　出来たってのが嬉しいですよ。
+EN #MS:
+EN "I'm glad to be champion, but what
+EN  makes me happiest is that it was such
+EN  a great match."
+
+@ 002
+JP 記者：
+JP 「内容もタイトルマッチに相応しいものでした。
+EN Reporter:
+EN "And it was a match worthy of a title
+EN  bout."
+
+@ 003
+JP #MS：
+JP 「明日につながって行く闘いが
+JP 　出来たと思いますよ。
+EN #MS:
+EN "I think it was a fight that leads to a
+EN  better tomorrow."
+
+@ 004
+JP 記者：
+JP 「次期シリーズでは第一回
+JP 　『トップオブ#PS02トーナメント』が
+JP 　開かれます。
+EN Reporter:
+EN "Next series is the first-ever "Top of
+EN  #PS02 Tournament.""
+
+@ 005
+JP #MS：
+JP 「チャンピオンですからやっぱり優勝しないと。
+JP 　負けられないですよ。
+EN #MS:
+EN "I'm the champion, so I've got to win
+EN  it. I can't lose."
+
+@ 006
+JP 記者：
+JP 「ありがとうございました。
+EN Reporter:
+EN "Thank you very much."
+
+@ 007
+JP マスコミが帰った後、
+JP 俺は感動を噛み締めていた。
+EN After the press left, I let it all sink in.
+
+@ 008
+JP #WS026道場入門からこれまで、
+JP 色々あった。そしてようやく、
+JP 念願のチャンピオンになったのだ・・・・
+EN So much had happened since I joined
+EN Yamamoto's dojo. And at last, I was
+EN the champion I'd dreamed of being....
+
+@ 009
+JP #WS088：
+JP 「いいのか、本当に？
+EN Fuji:
+EN "You sure about this?"
+
+@ 010
+JP 俺は、今回のタイトル戦で勝ったら
+JP やりたいことがあった。
+EN If I won this title match, there was
+EN something I wanted to do.
+
+@ 011
+JP それはベルト返還だ。
+EN Give back the belt.
+
+@ 012
+JP #WS076色の古い#PS02の
+JP タイトルを永久封印し、
+JP 新たな#PS02ベルトを作るのだ。
+EN Seal away the old #PS02 title,
+EN stained with Onita's colors, forever,
+EN and create a new #PS02 belt.
+
+@ 013
+JP #WS088：
+JP 「防衛戦もやらなくていいのか？
+EN Fuji:
+EN "You don't even want to defend it?"
+
+@ 014
+JP #WS088さんはベルトを初めて巻いて
+JP 感動している俺を気遣ってくれているようだ。
+EN Fuji seemed worried about me, since I
+EN was so moved to wear the belt for the
+EN first time.
+
+@ 015
+JP #MS：
+JP 「いえ、いいんです。第一負けて
+JP 　ベルト取られちゃったら
+JP 　困るじゃないですか。
+EN #MS:
+EN "No, it's fine. Besides, it'd be a
+EN  problem if I lost and they took the
+EN  belt, right?"
+
+@ 016
+JP 俺はニヤリと笑って見せる。
+EN I flashed him a grin.
+
+@ 017
+JP #WS088：
+JP 「そうか。大した奴だよ、お前は。
+EN Fuji:
+EN "I see. You're really somethin', you
+EN  know that?"
+
+@ 018
+JP 「フゥ～～～～ッ！
+JP 　#MSと新しいインディーの為に
+JP 　ロックな大パーティーを開くぜぇ！
+EN "Whoooooo! We're throwin' a huge
+EN  rockin' party for #MS and the
+EN  new indie scene!"
+
+@ 019
+JP #MS：
+JP 「ロ、ロックなパーティーって・・・・
+EN #MS:
+EN "A r-rockin' party...."
+
+@ 020
+JP そして俺は翌日、ベルトの封印を
+JP 統一機構に申し出た・・・・・
+EN And the next day, I asked the
+EN commission to retire the belt.....

@@ -1,0 +1,113 @@
+@ 000
+JP #WS183との試合後、
+JP 俺が退場しようとした時だった。
+EN After my match with The Rock, I was
+EN just heading to the back.
+
+@ 001
+JP 会場の全ての照明が突然消えて、
+JP あるレスラーのテーマ曲が流れ出した。
+EN Suddenly every light in the arena
+EN went out, and a certain wrestler's
+EN theme began to play.
+
+@ 002
+JP この曲は・・・・
+EN That music...
+
+@ 003
+JP #MS：
+JP 「うわっ！
+EN #MS:
+EN "Whoa!"
+
+@ 004
+JP 照明がついた時、そのテーマ曲の人物、
+JP #WF118が
+JP 俺の目の前にいたのだ。
+EN When the lights came up, the man
+EN whose theme it was, The Undertaker,
+EN stood right in front of me.
+
+@ 005
+JP #WF118：
+JP 『・・・貴様は魔界同盟に
+JP 　参加しなければならない・・・・
+EN Undertaker:
+EN "...You... must join... the Ministry of
+EN  Darkness..."
+
+@ 006
+JP 魔界同盟とは、
+JP #WF118が
+JP 組織しているチームだ。
+EN The Ministry of Darkness is the
+EN faction The Undertaker leads.
+
+@ 007
+JP #MS：
+JP 「冗談じゃ無い！なんで俺が・・・・
+EN #MS:
+EN "No way! Why should I..."
+
+@ 008
+JP 俺は#WF118に
+JP 気を取られている間に、魔界同盟の連中に
+JP 背後から襲われた。
+EN While The Undertaker held my
+EN attention, the Ministry jumped me
+EN from behind.
+
+@ 009
+JP それからも俺は度々魔界同盟に襲われ、
+JP 大変な目にあった。
+EN After that, the Ministry kept
+EN ambushing me, and life got pretty
+EN rough.
+
+@ 010
+JP このままでは埒が明かないと感じた俺は
+JP １つの決断をした。
+EN This was going nowhere. So I made a
+EN decision.
+
+@ 011
+JP #MS：
+JP 『おい！#WF118！
+EN #MS:
+EN "Hey! Undertaker!"
+
+@ 012
+JP 『俺とシングルで闘え！俺が負けたら
+JP 　魔界同盟に入ってやる！ただし！俺が
+JP 　勝ったら２度と手出しするな！
+EN "Face me one on one! If I lose, I'll join
+EN  the Ministry! But if I win, you leave
+EN  me alone for good!"
+
+@ 013
+JP 『どうだ！俺とのシングル、受けられるか！
+EN "Well? Have you got the guts to face
+EN  me?"
+
+@ 014
+JP するとテーマ曲に合わせて、
+JP #WF118が
+JP 入場して来た。
+EN Then, to his theme music, The
+EN Undertaker made his entrance.
+
+@ 015
+JP #WF118：
+JP 『・・・いいだろう・・・お前の申し出・・・
+JP 　受けてやろう・・・・
+EN Undertaker:
+EN "...Very well... Your challenge... I
+EN  accept..."
+
+@ 016
+JP こうして俺は
+JP #WF118との
+JP シングルマッチに臨む事になった。
+EN And so I'd face The Undertaker in a
+EN singles match.

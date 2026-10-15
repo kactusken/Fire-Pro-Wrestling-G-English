@@ -1,0 +1,85 @@
+@ 000
+JP #WS151：
+JP 「で、前言ってた外の話って奴なんですけど。
+EN Ishikawa:
+EN "So, about those offers from outside I
+EN  mentioned."
+
+@ 001
+JP #MS：
+JP 「ああ、そう言えば。で、どこから？
+EN #MS:
+EN "Oh, right. So, from where?"
+
+@ 002
+JP #WS151：
+JP 「バーリトゥードの大会からです。
+EN Ishikawa:
+EN "From a vale tudo tournament."
+
+@ 003
+JP #MS：
+JP 「なるほど・・・面白そうだな。
+EN #MS:
+EN "I see... sounds interesting."
+
+@ 004
+JP #WS151：
+JP 「行ってもらえますか？
+EN Ishikawa:
+EN "Will you go?"
+
+@ 005
+JP #MS：
+JP 「ああ、行く。後は相手がザコじゃなければ
+JP 　文句無いんだがな。
+EN #MS:
+EN "Yeah, I'll go. As long as my
+EN  opponent's not a nobody, I'm happy."
+
+@ 006
+JP #MS：
+JP 「・・・確かに・・・・
+EN #MS:
+EN "...Sure enough...."
+
+@ 007
+JP #WS151：
+JP 「え？
+EN Ishikawa:
+EN "Huh?"
+
+@ 008
+JP #MS：
+JP 「確かにザコじゃないけど、まさか
+JP 　#WS170だとはね・・・・
+EN #MS:
+EN "Sure, he's not a nobody, but Gordeau,
+EN  of all people...."
+
+@ 009
+JP #WS151：
+JP 「結構ビッグネームでしょう？
+EN Ishikawa:
+EN "Pretty big name, huh?"
+
+@ 010
+JP #MS：
+JP 「お前、よく話つけて来るよな。
+EN #MS:
+EN "You sure know how to land these
+EN  deals."
+
+@ 011
+JP #WS151：
+JP 「これでも苦労してるんですから、
+JP 　俺の為にも勝って下さいよ！
+EN Ishikawa:
+EN "It wasn't easy, you know. So win, for
+EN  my sake too!"
+
+@ 012
+JP #MS：
+JP 「ああ、分かってる！
+EN #MS:
+EN "Yeah, I know!"

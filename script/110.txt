@@ -1,0 +1,51 @@
+@ 000
+JP なかなかにハードな試合だった。
+JP 思ったよりも疲れを感じてる。
+JP しかし・・・
+EN That was one hard-fought match. I'm
+EN more worn out than I expected. But...
+
+@ 001
+JP どこか爽やかな、気持ちの良い部分が
+JP あるのも確かだ。
+EN There's no denying it felt good, too.
+EN Refreshing, somehow.
+
+@ 002
+JP #MS：
+JP 「#WS049・・・・
+EN #MS:
+EN "Takayama...."
+
+@ 003
+JP #WS049：
+JP 「良い試合だったよ。正直言って
+JP 　お前とここまでの試合が出来ただけで
+JP 　#PS01に来た甲斐があったと思う。
+EN Takayama:
+EN "Good match. Honestly, just having a
+EN  match like that with you made
+EN  coming to #PS01 worth it."
+
+@ 004
+JP 「今回はこれで一旦片がついたが、
+JP 　また熱い試合をやろう！
+EN "That settles it for now, but let's have
+EN  another hot one!"
+
+@ 005
+JP #MS：
+JP 「ああ。何度でもな！
+EN #MS:
+EN "Yeah. As many as you want!"
+
+@ 006
+JP #WS049：
+JP 「おう！
+EN Takayama:
+EN "You got it!"
+
+@ 007
+JP 俺達は最後に軽く握手をして別れた。
+EN We shook hands briefly and went our
+EN separate ways.

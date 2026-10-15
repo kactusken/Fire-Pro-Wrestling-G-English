@@ -1,0 +1,232 @@
+@ 000
+JP 記者：
+JP 「どうでしたか？初のタイトル戦は？
+EN Reporter:
+EN "How was it? Your first title match?"
+
+@ 001
+JP #MS：
+JP 「さすがでしたね。
+JP 　コンディションも万全だったんで行けると
+JP 　思ったんですけどね。また出直しです。
+EN #MS:
+EN "They were the real deal. I was in top
+EN  shape and thought I had it. Back to
+EN  square one."
+
+@ 002
+JP 記者：
+JP 「しかし内容的には素晴らしいものでした。
+EN Reporter:
+EN "But it was a fantastic match."
+
+@ 003
+JP #MS：
+JP 「いや。やはり負けは負けですから。
+JP 　とにかくもう一度です。
+EN #MS:
+EN "No. A loss is a loss. I'll just have to
+EN  try again."
+
+@ 004
+JP 「ただ、今度は必ず勝ちますよ。
+JP 　ここで止まってる訳にはいかないですから！
+EN "But next time, I'll win for sure. I
+EN  can't afford to stop here!"
+
+@ 005
+JP 正直な所かなりショックだった。
+JP 勢いに乗っている中、自信もあったのに
+JP 負けたのだ。
+EN Honestly, it hit me hard. I was on a
+EN roll, I was confident, and I lost.
+
+@ 006
+JP #WS006：
+JP 「残念だったな。お前も良く攻めたけど、
+JP 　最後にキャリアの差が出たってとこだな。
+EN Iizuka:
+EN "Tough luck. You attacked well, but
+EN  in the end, experience made the
+EN  difference."
+
+@ 007
+JP #MS：
+JP 「キャリア、ですか・・・・
+EN #MS:
+EN "Experience, huh...."
+
+@ 008
+JP 先輩達がいかに高い壁であるかを改めて感じた。
+JP だがそうでなくては面白くない。
+JP 高い壁ほど越え甲斐があると言うものだ。
+EN The veterans are a high wall. But
+EN that's the fun of it. The higher the
+EN wall, the better the climb.
+
+@ 009
+JP 俺は思わずニヤッと笑っていたらしい。
+EN I guess I broke into a grin without
+EN meaning to.
+
+@ 010
+JP #WS006：
+JP 「何だ、もう吹っ切れたのか？
+EN Iizuka:
+EN "What, over it already?"
+
+@ 011
+JP #WS001：
+JP 「でもな、それがこいつの良い所だよ！
+JP 　ウジウジしてても始まらねえよ、なあ？
+EN Hashimoto:
+EN "Hey, that's what's great about him!
+EN  Moping gets you nowhere, right?"
+
+@ 012
+JP #MS：
+JP 「そうですね！今回の試合を糧にして、
+JP 　次やったら必ず勝ちますよ！
+EN #MS:
+EN "Right! I'll learn from this one, and
+EN  next time I'll win for sure!"
+
+@ 013
+JP その日は正規軍メンバーによる
+JP 大宴会が行われた。
+EN That day, the regulars threw a huge
+EN party.
+
+@ 014
+JP ・・・・・・・・・
+EN .........
+
+@ 015
+JP 正直、あまり思い出したくないかも知れない。
+EN Honestly, I'd rather not remember it.
+
+@ 016
+JP ウップ・・・・・
+EN Urp.....
+
+@ 017
+JP そしてある日、俺は事務所に呼ばれた。
+EN Then one day, I was called to the
+EN office.
+
+@ 018
+JP #WS013：
+JP 「おう、来たか。
+EN Choshu:
+EN "Oh, you're here."
+
+@ 019
+JP #MS：
+JP 「どうも・・・
+EN #MS:
+EN "Hey..."
+
+@ 020
+JP #WS013：
+JP 「早速なんだがな・・・
+EN Choshu:
+EN "Let's get right to it..."
+
+@ 021
+JP #WS013さんの話とは異種格闘技戦だった。
+EN Choshu wanted me in a mixed martial
+EN arts match.
+
+@ 022
+JP #MS：
+JP 「うーん・・・
+EN #MS:
+EN "Hmm..."
+
+@ 023
+JP 正直余り興味が無かった。
+EN Honestly, I wasn't that interested.
+
+@ 024
+JP #WS013：
+JP 「相手は#WF174だ。
+EN Choshu:
+EN "Your opponent is Don Frye."
+
+@ 025
+JP #WS174はグルーサムの大会で
+JP 優勝の経験がある
+JP バーリ・トゥードファイターだ。
+EN Frye is a vale tudo fighter who's won
+EN a UFC tournament.
+
+@ 026
+JP フリーで#PS00に参戦、
+JP #WS003さんや倒幕軍の#WS038を
+JP 倒し、現在シングルでは無敗。
+EN A #PS00 freelancer, he's beaten
+EN Yamazaki and Ishingun's Akitoshi.
+EN Unbeaten in singles.
+
+@ 027
+JP #MS：
+JP 「・・・・
+EN #MS:
+EN "...."
+
+@ 028
+JP 王座奪取に失敗した俺は、また実績を
+JP 積み重ねて行かなければならない。
+JP 話題性のある方がアピール度も高いだろう。
+EN After failing to win the title, I have to
+EN build my record back up. A
+EN high-profile fight would get noticed.
+
+@ 029
+JP #WS013：
+JP 「どうする？お前が行かないなら
+JP 　#WS173に振ろうかと思ってんだよ。
+EN Choshu:
+EN "What'll it be? If you won't go, I'm
+EN  thinking of handing it to Ogawa."
+
+@ 030
+JP #MS：
+JP 「やります！
+EN #MS:
+EN "I'll do it!"
+
+@ 031
+JP #WS013：
+JP 「そうか。最近お前、目がギラついてるからな。
+JP 　そう言うと思ったよ。
+EN Choshu:
+EN "Thought so. You've had that hungry
+EN  look in your eyes lately."
+
+@ 032
+JP 「しかし分かってると思うが、
+JP 　やるからには頼むぞ。
+EN "But you know the deal. If you do it,
+EN  don't let me down."
+
+@ 033
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 034
+JP 俺は#WS003さんに
+JP つきあってもらい、対バーリ・トゥードの
+JP シュミレーションを少し行った。
+EN I had Yamazaki help me run some
+EN drills against vale tudo.
+
+@ 035
+JP もちろん勝つ為のものだけじゃない。
+JP いかにプロレス技を仕掛けるか、のものだ。
+JP 内容も重要だからな。
+EN Not just to win. To land real pro
+EN wrestling moves on him. The match
+EN itself matters too.

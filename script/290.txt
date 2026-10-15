@@ -1,0 +1,269 @@
+@ 000
+JP #WS149：
+JP 「衰える事を知らんな、
+JP 　バーリトゥード人気は。
+EN Maeda:
+EN "Vale tudo just keeps gettin' more
+EN  popular."
+
+@ 001
+JP あの大会以来、その規模は様々ではあったが
+JP 各地で頻繁にバーリトゥードの大会が
+JP 行われるようになっていた。
+EN Since that event, vale tudo shows of
+EN all sizes were being held all over.
+
+@ 002
+JP この状態を知った海外の大物選手達は
+JP 『格闘技王国日本』と呼び、続々と
+JP 日本の大会に参戦するようになっていた。
+EN Big foreign names took notice, dubbed
+EN Japan "the Kingdom of Combat
+EN Sports," and flocked to its shows.
+
+@ 003
+JP #MS：
+JP 「そうですね。
+JP 　とくに外人選手は大物が多いし、
+JP 　盛り上がりますよね。
+EN #MS:
+EN "Yeah. There are lots of big-name
+EN  foreigners especially, and it gets the
+EN  crowd going."
+
+@ 004
+JP #WS149：
+JP 「まあ、海外ではバーリトゥードへの
+JP 　反対運動が盛んになって来てるからな。
+JP 　当然と言えば当然かもしれんな。
+EN Maeda:
+EN "Well, overseas the movement against
+EN  vale tudo's gettin' strong. Kinda
+EN  natural, I guess."
+
+@ 005
+JP 現在海外では過激な試合シーンが問題になり
+JP バーリトゥード反対運動が高まっている。
+EN Overseas, the brutal fights had
+EN become a problem, and opposition to
+EN vale tudo was growing.
+
+@ 006
+JP しかし日本では反対運動は少なく
+JP 海外の選手にとっては、格好の
+JP 出稼ぎ国になった事も理由の１つである。
+EN But Japan had little opposition, which
+EN made it the perfect place for foreign
+EN fighters to earn money.
+
+@ 007
+JP #WS149：
+JP 「今度、大物選手を一同に集めた大会が
+JP 　開かれるそうやないか。
+EN Maeda:
+EN "Heard there's gonna be a show with
+EN  all the big names together."
+
+@ 008
+JP #MS：
+JP 「はい。その実行委員会から俺の所にも
+JP 　参戦要請が来ました。
+EN #MS:
+EN "Yes. Its committee asked me to enter
+EN  too."
+
+@ 009
+JP #WS149：
+JP 「そうか。もうお前も日本を代表する
+JP 　ファイターだからな。
+EN Maeda:
+EN "I see. You're one of Japan's top
+EN  fighters now."
+
+@ 010
+JP 「やるからには勝って来いや！
+EN "If you're doin' it, go win it!"
+
+@ 011
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 012
+JP そして大会の詳細が団体を通じて送られて来た。
+EN Then the event details arrived
+EN through the company.
+
+@ 013
+JP 大会は何とドーム２ヶ所で同時に
+JP トーナメントを行い、各々のベスト４を
+JP 決勝大会で戦わせる大掛かりなものであった。
+EN It was huge: tournaments in two
+EN domes at once, with the final four
+EN from each meeting in the finals.
+
+@ 014
+JP #WS149：
+JP 「えらくデカイ大会やな・・・・
+EN Maeda:
+EN "Some big event, huh...."
+
+@ 015
+JP #MS：
+JP 「そうですね・・・・あっ！？
+EN #MS:
+EN "Yeah.... Huh!?"
+
+@ 016
+JP 俺は思わず声を上げていた。
+EN I let out a shout without thinking.
+
+@ 017
+JP #WS149：
+JP 「どないした？
+EN Maeda:
+EN "What is it?"
+
+@ 018
+JP #MS：
+JP 「坂上浩一って・・・・・
+EN #MS:
+EN "Koichi Sakagami....."
+
+@ 019
+JP そう、出場選手の欄に坂上の名前があったのだ。
+EN That's right, Sakagami's name was on
+EN the entrant list.
+
+@ 020
+JP #WS149：
+JP 「ああ、坂上な。どうもアメリカで
+JP 　総合格闘技に目覚めて頑張ってたそうや。
+EN Maeda:
+EN "Oh, Sakagami. Seems he got into
+EN  MMA over in America and was
+EN  workin' hard at it."
+
+@ 021
+JP #MS：
+JP 「そうなんですか？
+EN #MS:
+EN "Really?"
+
+@ 022
+JP #WS149：
+JP 「日本じゃまだ知名度は低いがあっちでは
+JP 　売れてきてるらしい。フフフ・・・因縁やな。
+EN Maeda:
+EN "Not well known in Japan yet, but he's
+EN  gettin' popular over there. Heh heh...
+EN  It's fate."
+
+@ 023
+JP 「しかもこの調子やと・・・・
+JP 　決勝出るしか無いようやな。
+EN "And the way it looks.... you'll only
+EN  meet in the final."
+
+@ 024
+JP そう、坂上がエントリーされているのは俺と
+JP 別のブロック。決勝まで進まないと対戦の
+JP 機会は得られない、と言う訳だ。
+EN Right, Sakagami was in the other
+EN bracket. We could only face each
+EN other if we both made the final.
+
+@ 025
+JP #MS：
+JP 「坂上・・・・・
+EN #MS:
+EN "Sakagami....."
+
+@ 026
+JP あいつもきっと俺と同じ気持ちに違いない。
+JP #WL026道場での約束を
+JP 大会決勝で果たすのだと・・・・・
+EN He must feel the same as me. That
+EN we'll keep our Yamamoto's dojo
+EN promise in the final.....
+
+@ 027
+JP 待ってろ、坂上！決勝で会おう！
+EN Wait for me, Sakagami! See you in the
+EN final!
+
+@ 028
+JP そして大会が始まり
+JP 俺は１試合１試合勝ち進んで行った。
+EN The event began, and I won my way
+EN through, match by match.
+
+@ 029
+JP 苦戦しながらも決勝に駒を進めた俺を
+JP 待っていたのは・・・・・・
+EN After a tough road to the final,
+EN waiting for me was......
+
+@ 030
+JP #MS：
+JP 「いよいよだな。
+EN #MS:
+EN "Here we are at last."
+
+@ 031
+JP 坂上：
+JP 「ああ。
+EN Sakagami:
+EN "Yeah."
+
+@ 032
+JP #MS：
+JP 「どれだけこの日を待ちわびた事か・・・
+EN #MS:
+EN "I've waited so long for this day..."
+
+@ 033
+JP 坂上：
+JP 「俺もそうだ。その為に俺は
+JP 　色んな試練を乗り越えて来た。
+EN Sakagami:
+EN "Me too. I got through all kinds of
+EN  trials for it."
+
+@ 034
+JP #MS：
+JP 「同じ道場で同期の２人が
+JP 　今や日本を代表する格闘家になって
+JP 　この大舞台で激突する。夢みたいだな。
+EN #MS:
+EN "Two classmates from the same dojo,
+EN  now top fighters of Japan, clashing
+EN  on this big stage. It's like a dream."
+
+@ 035
+JP 坂上：
+JP 「へへへ・・・まさにドリームマッチって訳だ。
+EN Sakagami:
+EN "Heh heh... A real dream match, huh."
+
+@ 036
+JP #MS：
+JP 「ああ、本気で来いよ！
+JP 　思い出にふけって
+JP 　手を抜いたら承知しないぜ！
+EN #MS:
+EN "Yeah, so come at me for real! Go easy,
+EN  lost in memories, and you'll regret it!"
+
+@ 037
+JP 坂上：
+JP 「それはこっちのセリフだ！
+JP 　腰抜かすなよ！俺の成長ぶりに！
+EN Sakagami:
+EN "That's my line! Don't fall over when
+EN  you see how far I've come!"
+
+@ 038
+JP そして運命のゴングが鳴った・・・・
+EN And the fateful bell rang....

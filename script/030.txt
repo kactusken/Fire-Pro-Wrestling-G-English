@@ -1,0 +1,224 @@
+@ 000
+JP 試合後、大勢の仲間や記者陣に囲まれた。
+EN After the match, I was swarmed by
+EN friends and reporters.
+
+@ 001
+JP 記者：
+JP 「素晴らしい試合でした。
+JP 　そして優勝おめでとうございます！
+EN Reporter:
+EN "What a match. And congratulations
+EN  on winning!"
+
+@ 002
+JP #MS：
+JP 「ありがとうございます！
+JP 　素直に嬉しいです！
+EN #MS:
+EN "Thank you! I'm just really happy!"
+
+@ 003
+JP 記者：
+JP 「これで、ＩＧＰのタイトルへの
+JP 　挑戦権を得ました。
+JP 　初挑戦への意気込みは？
+EN Reporter:
+EN "You've earned a shot at the IWGP
+EN  title. Any thoughts on your first
+EN  challenge?"
+
+@ 004
+JP #MS：
+JP 「いや、今はまだ考えられないですよ。
+EN #MS:
+EN "No, I can't think about that yet."
+
+@ 005
+JP 「それよりも今日ね、あの
+JP 　#WF001に勝って
+JP 　優勝出来たって言うのが大きいですよね。
+EN "What really matters today is that I
+EN  beat Shinya Hashimoto to win it."
+
+@ 006
+JP 記者：
+JP 「感無量といったところですね。
+EN Reporter:
+EN "You must be overwhelmed."
+
+@ 007
+JP #MS：
+JP 「そうですね！
+JP 　でもこれもまた明日の為の１歩ですから！
+EN #MS:
+EN "I am! But this is just another step
+EN  toward tomorrow!"
+
+@ 008
+JP #WS001：
+JP 「強くなったな。
+JP 　正直ここまでとは思わなかったよ。
+JP 　今日は俺の負けだ、おめでとう！
+EN Hashimoto:
+EN "You've gotten strong. Honestly, I
+EN  didn't think you'd get this far. I lost
+EN  today. Congratulations!"
+
+@ 009
+JP #WS001さんが手を差し出してきた。
+JP 俺も立ちあがって握手する。
+EN Hashimoto held out his hand. I stood
+EN up and shook it.
+
+@ 010
+JP #MS：
+JP 「ありがとうございました！
+EN #MS:
+EN "Thank you so much!"
+
+@ 011
+JP #WS001：
+JP 「でもな、俺もこのままじゃ終わらないからな！
+JP 　お前がベルト取って、俺が挑戦だ！
+EN Hashimoto:
+EN "But I'm not done either! You take the
+EN  belt, and I'll challenge you!"
+
+@ 012
+JP 「ベルト取れよ！
+EN "Go win that belt!"
+
+@ 013
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 014
+JP #WS001さんは
+JP 俺の肩を叩くと控え室を出て行った。
+EN Hashimoto patted my shoulder and
+EN left the locker room.
+
+@ 015
+JP #WS006：
+JP 「いよいよだな。
+JP 　今日はセコンドつくからな。
+EN Iizuka:
+EN "This is it. I'll be in your corner
+EN  today."
+
+@ 016
+JP #MS：
+JP 「ありがとうございます。
+EN #MS:
+EN "Thank you."
+
+@ 017
+JP #WS003：
+JP 「落ち付いて行け。がむしゃら過ぎると
+JP 　隙を突かれ易くなる。
+EN Yamazaki:
+EN "Stay calm out there. Go too
+EN  recklessly and he'll find an opening."
+
+@ 018
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Right!"
+
+@ 019
+JP #WS001：
+JP 「・・・・頑張れよ。
+EN Hashimoto:
+EN "...Good luck."
+
+@ 020
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Thanks!"
+
+@ 021
+JP 俺は顔を両手でパン、パンと叩いて
+JP 気合を入れる。
+EN I slap my face with both hands,
+EN smack, smack, to psych myself up.
+
+@ 022
+JP #MS：
+JP 「ヨッシャッ！！
+EN #MS:
+EN "All right!!"
+
+@ 023
+JP この勢いで必ずベルトを奪って見せる！
+EN I'll ride this momentum and take that
+EN belt!
+
+@ 024
+JP #WS000：
+JP 「この衰えた身体がどこまでお前達の攻撃に
+JP 　耐えられるか・・・
+JP 　しかし精神は簡単に屈したりはしない！
+EN Fujinami:
+EN "How long this worn-out body can
+EN  take your attacks... I don't know. But
+EN  my spirit won't break so easily!"
+
+@ 025
+JP 「このＩＧＰのベルトの重さの意味が分かるか？
+JP 　この重さにお前の心は耐えられるか？
+EN "Do you know what the weight of this
+EN  IWGP belt means? Can your heart
+EN  bear that weight?"
+
+@ 026
+JP #MS：
+JP 「耐えて見せます！
+EN #MS:
+EN "I'll bear it!"
+
+@ 027
+JP #WS000：
+JP 「なら見せてみろ、お前の覚悟を。
+JP 　そして受け取るんだ！
+EN Fujinami:
+EN "Then show me your resolve. And
+EN  take it!"
+
+@ 028
+JP 「俺達が#WS012さんから
+JP 　受け継いで来たものを・・・
+EN "Everything we inherited from
+EN  Inoki..."
+
+@ 029
+JP #MS：
+JP 「ベルトも、その重みも、背負っているものも！
+JP 　全て受け止めて見せます！
+EN #MS:
+EN "The belt, its weight, everything it
+EN  carries! I'll take it all on!"
+
+@ 030
+JP #WS000：
+JP 「フフフ・・・頼もしいな。
+EN Fujinami:
+EN "Heh heh heh... Spoken boldly."
+
+@ 031
+JP 「でもプロレスとは奥深いもの。
+JP 　若さと勢いでどうにもならない事もある。
+JP 　それを教えてやろう。
+EN "But pro wrestling runs deep. Some
+EN  things youth and momentum can't
+EN  overcome. Let me teach you that."
+
+@ 032
+JP #MS：
+JP 「行くぞ！
+EN #MS:
+EN "Here I come!"

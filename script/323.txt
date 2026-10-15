@@ -1,0 +1,70 @@
+@ 000
+JP 試合後。
+EN After the match.
+
+@ 001
+JP #WS042：
+JP 「・・・・・・・
+EN Kawada:
+EN "......."
+
+@ 002
+JP いつしか俺達は睨み合っていた。
+JP 激しい試合の余韻もあったが何より・・・・
+EN Before I knew it we were glaring at
+EN each other. The heat of the match was
+EN part of it, but more than that....
+
+@ 003
+JP #MS：
+JP 「#WS042選手！
+JP 　俺とシングルで闘って下さい！
+EN #MS:
+EN "Kawada! Wrestle me one-on-one!"
+
+@ 004
+JP #WS042：
+JP 「・・・・・・・
+EN Kawada:
+EN "......."
+
+@ 005
+JP #WS042選手は無言のまま
+JP 手を差し出して来た。俺も握り返す。
+JP シングルを承諾してもらえた、と言う事だ。
+EN Without a word, Kawada held out his
+EN hand. I took it. He'd accepted the
+EN singles match.
+
+@ 006
+JP その後、俺と#WS042さん自身の意志と
+JP 観客の沸き具合から、すぐに試合は組まれた。
+EN With both of us willing and the crowd
+EN roaring, the match was booked right
+EN away.
+
+@ 007
+JP #WS042：
+JP 「・・・・・・・・・
+EN Kawada:
+EN "........."
+
+@ 008
+JP 相変わらず無言の#WS042選手だが、
+JP ヒシヒシとその気合が伝わって来る。
+JP こちらも半端な気合ではケガをしそうだ。
+EN Kawada was silent as ever, but I could
+EN feel his intensity. Anything less than
+EN full focus and I'd get hurt.
+
+@ 009
+JP #MS：
+JP 「よろしくお願いします！
+EN #MS:
+EN "Let's have a good one!"
+
+@ 010
+JP #WS042：
+JP 「・・・・・・・・・
+EN Kawada:
+EN "........."

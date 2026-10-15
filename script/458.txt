@@ -1,0 +1,271 @@
+@ 000
+JP #PL04。
+EN #PL04.
+
+@ 001
+JP 本格的なルチャ・リブレを
+JP 日本で展開させる事を
+JP 目的として作られた団体だ。
+EN A promotion founded to bring real
+EN lucha libre to Japan.
+
+@ 002
+JP だが近年はそれのみに止まらず、
+JP 激しいプロレスとの融合を図って新たなる
+JP プロレスをファンに提供し続けている。
+EN But lately it's gone further, blending
+EN in hard-hitting pro wrestling to give
+EN fans something new.
+
+@ 003
+JP #MS：
+JP 「失礼します！
+EN #MS:
+EN "Excuse me!"
+
+@ 004
+JP ？：
+JP 「おう、来たか。
+EN ???:
+EN "Hey, you made it."
+
+@ 005
+JP #MS：
+JP 「おはようございます！
+EN #MS:
+EN "Good morning!"
+
+@ 006
+JP #WS092：
+JP 「おう。おはよう。
+JP 　ま、そこにかけろや。
+EN Sasuke:
+EN "Morning. Go on, have a seat."
+
+@ 007
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes, sir."
+
+@ 008
+JP #WS092：
+JP 「どうだ、最近の調子は？
+EN Sasuke:
+EN "So, how've you been feeling?"
+
+@ 009
+JP #MS：
+JP 「俺はいつでも調子いいです！
+EN #MS:
+EN "I'm always in top shape!"
+
+@ 010
+JP #WS092：
+JP 「そうか、そうか。
+EN Sasuke:
+EN "Good, good."
+
+@ 011
+JP 「それでな。そろそろお前を
+JP 　デビューさせてやろうかと思ってな。
+EN "So. I'm thinking it's about time you
+EN  made your debut."
+
+@ 012
+JP #MS：
+JP 「本当ですか！？
+EN #MS:
+EN "Really!?"
+
+@ 013
+JP #WS092：
+JP 「もちろん本当だよ。
+EN Sasuke:
+EN "Of course, really."
+
+@ 014
+JP 「次のシリーズのどこかで組むから、
+JP 　いつでも行けるように調子、整えておけよ。
+EN "We'll book you sometime next series,
+EN  so keep yourself ready to go."
+
+@ 015
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 016
+JP そして次のシリーズが始まり・・・・
+EN Then the next series began...
+
+@ 017
+JP 俺は遂に今日、デビュー戦を
+JP 組んでもらう事になった。
+EN And today, at last, I was booked for
+EN my debut.
+
+@ 018
+JP それを考えると、会場の準備にも力が入る。
+EN With that in mind, I put extra effort
+EN into setting up the venue.
+
+@ 019
+JP ？：
+JP 「おう、#MS！
+EN ???:
+EN "Hey, #MS!"
+
+@ 020
+JP #WS093：
+JP 「今日遂にデビューやて？
+EN Delfin:
+EN "Debut today, is it?"
+
+@ 021
+JP #MS：
+JP 「はい！おかげさまで！
+EN #MS:
+EN "Yes! Thanks to you all!"
+
+@ 022
+JP #WS093：
+JP 「そうか。良かったな。
+JP 　お前には期待しとるさかい、頑張ってくれや。
+EN Delfin:
+EN "Good for ya. I got high hopes for ya,
+EN  so give it your all."
+
+@ 023
+JP #MS：
+JP 「はい！
+JP 　少しでも早く戦力になれるように、
+JP 　頑張ります！
+EN #MS:
+EN "Yes, sir! I'll do my best to pull my
+EN  weight as soon as I can!"
+
+@ 024
+JP #WS093：
+JP 「その意気や。ほんじゃな！
+EN Delfin:
+EN "That's the spirit. See ya!"
+
+@ 025
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 026
+JP ？：
+JP 「おーい、#MS！
+EN ???:
+EN "Hey, #MS!"
+
+@ 027
+JP #MS：
+JP 「あ、若部さん！
+EN #MS:
+EN "Oh, Mr. Tanabe!"
+
+@ 028
+JP バット：
+JP 「頑張れよ、デビュー戦。
+EN Tanabe:
+EN "Good luck in your debut."
+
+@ 029
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Thanks!"
+
+@ 030
+JP バット：
+JP 「お前はちょっと緊張しがちだからな。
+JP 　気をつけないとガチガチになってるかも
+JP 　しれないからな。
+EN Tanabe:
+EN "You tend to get nervous. Be careful,
+EN  or you'll freeze up stiff."
+
+@ 031
+JP #MS：
+JP 「そうですね・・・気をつけます！
+EN #MS:
+EN "True... I'll be careful!"
+
+@ 032
+JP バット：
+JP 「お前の試合、
+JP 　俺がレフェリーやってやるからさ。
+EN Tanabe:
+EN "I'll be refereeing your match."
+
+@ 033
+JP #MS：
+JP 「本当ですか！？
+EN #MS:
+EN "Really!?"
+
+@ 034
+JP バット：
+JP 「あんまり硬くなってたら
+JP 　こっそり注意してやるから、
+JP 　そうしたら深呼吸の１つでもしろよ。
+EN Tanabe:
+EN "If you're too tense, I'll quietly tip
+EN  you off. When I do, take a deep
+EN  breath."
+
+@ 035
+JP #MS：
+JP 「お気遣い、ありがとうございます！
+EN #MS:
+EN "Thanks for looking out for me!"
+
+@ 036
+JP バット：
+JP 「じゃあな。
+EN Tanabe:
+EN "See you."
+
+@ 037
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 038
+JP 俺は自分のデビューがこんなに
+JP 気にして貰っているものだとは思わなかった。
+EN I never imagined so many people
+EN cared about my debut.
+
+@ 039
+JP そして色々と気に掛けてくれている人達に
+JP 恩返しがしたいと思った。
+EN I wanted to repay everyone who'd
+EN looked out for me.
+
+@ 040
+JP その為にはデビュー戦でしっかりとした
+JP 試合をして報いるしかない。
+JP 俺は気合を入れ直した。
+EN The only way was to have a solid
+EN debut match. I fired myself up all
+EN over again.
+
+@ 041
+JP デビュー戦の相手は
+JP #WF099さんだ。
+EN My debut opponent was Masato
+EN Yakushiji.
+
+@ 042
+JP スピーディーなルチャの動きに
+JP 惑わされないようにしたい。
+EN I can't let his speedy lucha moves
+EN throw me off.

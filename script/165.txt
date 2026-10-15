@@ -1,0 +1,179 @@
+@ 000
+JP その日俺はいつものように道場で
+JP 練習をしていた。
+EN That day I was training at the dojo as
+EN usual.
+
+@ 001
+JP #WS088：
+JP 「おい！大変だ！
+EN Fuji:
+EN "Hey! Big news!"
+
+@ 002
+JP #MS：
+JP 「どうしたんですか#WS088さん、
+JP 　そんなに慌てて。
+EN #MS:
+EN "What is it, Mr. Fuji? Why the panic?"
+
+@ 003
+JP #WS088：
+JP 「これが慌てずにいられるか！
+JP 　どうも#WS076さんが本当に
+JP 　復帰するらしいぞ！
+EN Fuji:
+EN "How could I not panic! Looks like
+EN  Onita really is coming back!"
+
+@ 004
+JP #MS：
+JP 「そんな！
+EN #MS:
+EN "No way!"
+
+@ 005
+JP #WS088：
+JP 「#WS068達も困ってるよ。
+JP 　どうすりゃいいんだ、ってよ。
+EN Fuji:
+EN "Hayabusa and the guys are lost too.
+EN  Don't know what to do, they say."
+
+@ 006
+JP #MS：
+JP 「・・・・・・・・・・
+EN #MS:
+EN ".........."
+
+@ 007
+JP 俺は裏切られた気分だった。二度とリングには
+JP 上がらないと言っていたのに・・・
+JP 俺は怒りを感じずにはいられなかった。
+EN I felt betrayed. He said he'd never set
+EN foot in the ring again... I couldn't help
+EN getting angry.
+
+@ 008
+JP #WS088さんが去った後、俺は
+JP 怒りをぶつけるかのように
+JP トレーニングを続けた。
+EN After Fuji left, I kept training, like I
+EN was taking my anger out on it.
+
+@ 009
+JP #WS071：
+JP 「おい#MS！
+EN Fuyuki:
+EN "Hey, #MS!"
+
+@ 010
+JP #MS：
+JP 「#WS071さん！？
+EN #MS:
+EN "Mr. Fuyuki!?"
+
+@ 011
+JP #WS071：
+JP 「#WS076が復帰するらしいな。
+JP 　お前どう思う？
+EN Fuyuki:
+EN "Heard Onita's comin' back. What do
+EN  you think?"
+
+@ 012
+JP #MS：
+JP 「どう、って・・・・
+EN #MS:
+EN "What do I think...."
+
+@ 013
+JP #WS071：
+JP 「今更あんな奴が復帰したら
+JP 　また昔に逆戻りだろ。今まで進めて来た
+JP 　色んなものが無意味になっちまう。
+EN Fuyuki:
+EN "If that guy comes back now, it's back
+EN  to the old days. All we've built goes
+EN  down the drain."
+
+@ 014
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 015
+JP #WS071：
+JP 「で、どうだ#MS。お前
+JP 　#WS071軍として
+JP 　一緒に闘って行かないか？え？
+EN Fuyuki:
+EN "So how 'bout it, #MS? Wanna
+EN  fight alongside us in the
+EN  Fuyuki-gun? Eh?"
+
+@ 016
+JP 「#WS076のヤローをよ、一緒に
+JP 　ぶっ潰してやるんだよ！そして新しい
+JP 　インディーを作るんだよ！
+EN "We'll crush that bastard Onita
+EN  together! And build a new indie
+EN  scene!"
+
+@ 017
+JP #MS：
+JP 「新しい、インディー・・・・
+EN #MS:
+EN "A new indie scene...."
+
+@ 018
+JP #WS071：
+JP 「古い#PS02に戻っちまうか、
+JP 　新しい#PS02に進化出来るか、
+JP 　大事な時なんだよ！
+EN Fuyuki:
+EN "Slide back to the old #PS02, or
+EN  evolve into a new #PS02? This is
+EN  the moment!"
+
+@ 019
+JP 「あいつをのさばらせておいちゃ
+JP 　ダメなんだよ！
+EN "We can't let that guy run wild!"
+
+@ 020
+JP #MS：
+JP 「分かりました。
+JP 　俺もあの人の復帰は認められない。
+EN #MS:
+EN "All right. I can't accept his comeback
+EN  either."
+
+@ 021
+JP 「そして俺もあなたの言う
+JP 　『新しいインディー』を作りたい！
+EN "And I want to build that "new indie
+EN  scene" of yours too!"
+
+@ 022
+JP #WS071：
+JP 「さすが物分かりがいいよ！
+JP 　出世すんぞ、お前は。
+EN Fuyuki:
+EN "Quick on the uptake! You're goin'
+EN  places, kid."
+
+@ 023
+JP 俺は#WS076さんに対する反感と
+JP #WS071さんの理想に対する共感から、
+JP 誘いに乗る事にした。
+EN Resenting Onita and drawn to
+EN Fuyuki's vision, I took him up on the
+EN offer.
+
+@ 024
+JP そして俺は#WS071軍としての
+JP デビュー戦を迎えた。
+EN And so came my debut match as a
+EN member of the Fuyuki-gun.

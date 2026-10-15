@@ -1,0 +1,32 @@
+@ 000
+JP 記者：
+JP 「どうでしたか？タイトル戦は？
+EN Reporter:
+EN "How was it? The title match?"
+
+@ 001
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 002
+JP #WS028：
+JP 「ま、こういう事もあるよな。
+JP 　チャンスはまた来るって。
+EN Mutoh:
+EN "Well, these things happen. You'll get
+EN  another chance."
+
+@ 003
+JP #WS028さんは俺の肩を叩くと
+JP 去って行った。
+EN Mutoh patted me on the shoulder and
+EN walked off.
+
+@ 004
+JP そうとも。また挑んでやるさ。
+JP 俺が諦めない限り、チャンスはまた掴める！
+EN That's right. I'll challenge again. As
+EN long as I don't give up, I'll get another
+EN shot!

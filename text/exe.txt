@@ -1,0 +1,534 @@
+# EXE: strings in 0x800103b0..0x800109b0
+
+@ 800103b0 len=12 refs=p1,c0
+# added by hand (pointer table 0x80048f60, below the first scanned range)
+JP 反則負け
+EN DQ Loss
+
+@ 800103bc len=12 refs=p1,c0
+# added by hand
+JP 反則勝ち
+EN DQ Win
+
+@ 800103c8 len=12 refs=p1,c0
+JP ﾘﾝグｱｳﾄ負け
+EN R.O. Loss
+
+@ 800103d4 len=12 refs=p1,c0
+JP ﾘﾝグｱｳﾄ勝ち
+EN R.O. Win
+
+@ 800103e0 len=12 refs=p1,c0
+JP K.O.負け
+EN K.O. Loss
+
+@ 800103ec len=12 refs=p1,c0
+JP K.O.勝ち
+EN K.O. Win
+
+@ 800103f8 len=12 refs=p0,c1
+JP Ld|ﾄﾝガ
+
+@ 80010404 len=16 refs=p1,c0
+JP 南ｱﾌﾘｶ共和国
+EN South Africa
+
+@ 80010414 len=12 refs=p1,c0
+JP ボﾂﾜﾅ共和国
+EN Botswana
+
+@ 80010420 len=16 refs=p1,c0
+JP ブﾙガﾘｱ共和国
+EN Bulgaria
+
+@ 80010430 len=12 refs=p1,c0
+JP ﾆｭｰジｰﾗﾝド
+EN New Zealand
+
+@ 8001043c len=8 refs=p1,c0
+JP ｵｰｽﾄﾗﾘｱ
+EN Australia
+
+@ 80010444 len=4 refs=p1,c0
+JP ﾀｲ
+EN Thailand
+
+@ 80010448 len=8 refs=p1,c0
+JP ﾓﾝゴﾙ
+EN Mongolia
+
+@ 80010450 len=8 refs=p1,c0
+JP 朝鮮
+EN N. Korea
+
+@ 80010458 len=8 refs=p1,c0
+JP 韓国
+EN S. Korea
+
+@ 80010460 len=8 refs=p1,c0
+JP 中国
+EN China
+
+@ 80010468 len=4 refs=p1,c0
+JP ｽｲｽ
+EN Swiss
+
+@ 8001046c len=8 refs=p1,c0
+JP ｽペｲﾝ
+EN Spain
+
+@ 80010474 len=8 refs=p1,c0
+JP ｲﾀﾘｱ
+EN Italy
+
+@ 8001047c len=8 refs=p1,c0
+JP ｵﾗﾝダ
+EN Holland
+
+@ 80010484 len=16 refs=p1,c0
+JP グﾙジｱ共和国
+EN Georgia
+
+@ 80010494 len=8 refs=p1,c0
+JP ﾌｨﾝﾗﾝド
+EN Finland
+
+@ 8001049c len=8 refs=p1,c0
+JP ｷｭｰバ
+EN Cuba
+
+@ 800104a4 len=8 refs=p1,c0
+JP ﾖﾙダﾝ
+EN Jordan
+
+@ 800104ac len=8 refs=p1,c0
+JP ｽｰダﾝ
+EN Sudan
+
+@ 800104b4 len=8 refs=p1,c0
+JP ｲﾝド
+EN India
+
+@ 800104bc len=8 refs=p1,c0
+JP プｴﾙﾄﾘｺ
+EN Puerto Rico
+
+@ 800104c4 len=4 refs=p1,c0
+JP ﾛｼｱ
+EN Russia
+
+@ 800104c8 len=8 refs=p1,c0
+JP ブﾗジﾙ
+EN Brazil
+
+@ 800104d0 len=8 refs=p1,c0
+JP ﾌﾗﾝｽ
+EN France
+
+@ 800104d8 len=8 refs=p1,c0
+JP ｲギﾘｽ
+EN England
+
+@ 800104e0 len=8 refs=p1,c0
+JP ﾒｷｼｺ
+EN Mexico
+
+@ 800104e8 len=8 refs=p1,c0
+JP ドｲﾂ
+EN Germany
+
+@ 800104f0 len=8 refs=p1,c0
+JP ｶﾅダ
+EN Canada
+
+@ 800104f8 len=8 refs=p1,c0
+JP ｱﾒﾘｶ
+EN USA
+
+@ 80010500 len=8 refs=p1,c0
+JP 日本
+EN Japan
+
+@ 80010508 len=8 refs=p1,c0
+JP 不明
+EN Unknown
+
+@ 80010518 len=8 refs=p1,c0
+JP ﾊｲｸﾗｽ
+EN Pancrase
+
+@ 80010520 len=20 refs=p1,c0
+JP 格闘探検隊バﾄﾚｰｼｮﾝ
+EN BattlArts
+
+@ 80010538 len=12 refs=p1,c0
+JP ゴングス
+EN RINGS
+
+@ 80010548 len=12 refs=p1,c0
+JP WFWプﾛﾚｽ
+EN WWF
+
+@ 80010554 len=12 refs=p1,c0
+JP WWCプﾛﾚｽ
+EN WCW
+
+@ 80010560 len=16 refs=p1,c0
+JP ゆきぐにプﾛﾚｽ
+EN Michinoku Pro
+
+@ 80010570 len=8 refs=p1,c0
+JP R・Y・U
+EN WAR
+
+@ 80010578 len=8 refs=p1,c0
+JP 新生IW
+EN FMW
+
+@ 8001058c len=12 refs=p2,c0
+JP 真誠倒幕軍
+EN Tobaku-gun
+
+@ 800105ac len=12 refs=p1,c0
+JP 氷川のﾃｰﾏ
+EN Hikawa
+
+@ 800105b8 len=12 refs=p1,c0
+JP 武蔵のﾃｰﾏ
+EN Musashi
+
+@ 80010608 len=12 refs=p1,c0
+JP 叩き落とし
+EN Knockdown
+
+@ 80010614 len=12 refs=p2,c0
+JP ｽﾗｲデｨﾝグ
+EN Sliding
+
+@ 80010620 len=16 refs=p2,c0
+JP バｯｸﾊﾝドｴﾙボー
+EN Back Elbow
+
+@ 80010630 len=8 refs=p4,c0
+JP ﾐドﾙｷｯｸ
+EN Mid Kick
+
+@ 80010638 len=4 refs=p4,c0
+JP ｷｯｸ
+EN Kick
+
+@ 8001063c len=12 refs=p2,c0
+JP ダｯｼｭﾆーﾘﾌﾄ
+EN Run Knee
+
+@ 80010648 len=12 refs=p1,c0
+JP ボデｨパﾝﾁ
+EN Body Punch
+
+@ 80010654 len=8 refs=p1,c0
+JP 前蹴り
+EN Front Kick
+
+@ 8001065c len=12 refs=p1,c0
+JP プﾛﾚｽｷｯｸ
+EN Pro Kick
+
+@ 80010668 len=8 refs=p1,c0
+JP 膝蹴り
+EN Knee Kick
+
+@ 80010670 len=16 refs=p1,c0
+JP 後ろ体浴びせ
+EN Back Splash
+
+@ 80010680 len=16 refs=p1,c0
+JP 押し込みｴﾙボー
+EN Push Elbow
+
+@ 80010690 len=8 refs=p1,c0
+JP ﾆーﾘﾌﾄ
+EN Knee Lift
+
+@ 8001069c len=12 refs=p2,c0
+JP ｱｷﾚｽ腱固め
+EN Ankle Hold
+
+@ 800106a8 len=12 refs=p3,c0
+JP ｼｮﾙダーｽﾙー
+EN Back Toss
+
+@ 800106b4 len=16 refs=p2,c0
+JP ドﾗゴﾝｽｸﾘｭー
+EN Dragon Screw
+
+@ 800106c4 len=12 refs=p1,c0
+JP 水車落とし
+EN Waterwheel
+
+@ 800106d0 len=20 refs=p1,c0
+JP ブﾙドｯｷﾝグﾍｯドﾛｯｸ
+EN Bulldog
+
+@ 800106e4 len=16 refs=p1,c0
+JP ﾌﾗﾝｹﾝｼｭﾀｲﾅー
+EN Frankensteiner
+
+@ 800106f4 len=12 refs=p1,c0
+JP バｯｸドﾛｯプ
+EN Backdrop
+
+@ 80010700 len=20 refs=p1,c0
+JP 抱え式バｯｸドﾛｯプ
+EN Cradle Backdrop
+
+@ 80010714 len=12 refs=p1,c0
+JP ｻｲｸﾛﾝﾎｲｯプ
+EN Cyclone Whip
+
+@ 80010720 len=12 refs=p2,c0
+JP パﾜーボﾑ
+EN Powerbomb
+
+@ 8001072c len=16 refs=p1,c0
+JP ブﾚーﾝバｽﾀー
+EN Brainbuster
+
+@ 8001073c len=8 refs=p1,c0
+JP ＤＤＴ
+EN DDT
+
+@ 80010744 len=20 refs=p1,c0
+JP ｽﾓーﾙパｯｹージﾎーﾙド
+EN Small Package
+
+@ 80010758 len=12 refs=p1,c0
+JP ｳﾗｶﾝ・ﾗﾅ
+EN Huracanrana
+
+@ 80010764 len=12 refs=p1,c0
+JP ｽ-パ-ｽﾀ-ズ
+EN Superstars
+
+@ 80010770 len=8 refs=p1,c0
+JP パﾝｻ-隊
+EN Panthers
+
+@ 80010778 len=12 refs=p1,c0
+JP ｶﾙガﾘ-戦士
+EN Calgary
+
+@ 80010784 len=12 refs=p1,c0
+JP ブﾗｯデｨﾋ-ﾙ
+EN Bloody Heel
+
+@ 80010790 len=16 refs=p1,c0
+JP 旧最強外人軍
+EN Old Gaijin
+
+@ 800107a0 len=12 refs=p1,c0
+JP MWA王者軍
+EN NWA Champs
+
+@ 800107ac len=12 refs=p1,c0
+JP 新生UWH軍
+EN New UWF
+
+@ 800107b8 len=8 refs=p1,c0
+JP 旧UWH軍
+EN Old UWF
+
+@ 800107c0 len=8 refs=p1,c0
+JP 力丸隊
+EN Rikimaru
+
+@ 800107c8 len=12 refs=p1,c0
+JP 旧VIEW軍
+EN Old NJPW
+
+@ 800107d4 len=12 refs=p1,c0
+JP ﾊｲパ-ジｭﾆｱ
+EN Hyper Jr.
+
+@ 800107e0 len=16 refs=p1,c0
+JP 新最強外人軍
+EN New Gaijin
+
+@ 800107f0 len=12 refs=p1,c0
+JP ビバ！ﾒﾋｺ軍
+EN Viva Mexico
+
+@ 800107fc len=8 refs=p1,c0
+JP ﾊｲｸﾗｽ軍
+EN Pancrase
+
+@ 80010804 len=8 refs=p1,c0
+JP Uｲﾝﾃﾙ軍
+EN UWF-i
+
+@ 8001080c len=12 refs=p1,c0
+JP バ-ﾘﾄｩ-ド
+EN Vale Tudo
+
+@ 80010818 len=12 refs=p1,c0
+JP S-1ﾌｧｲﾀ-
+EN S-1 Fighters
+
+@ 80010824 len=8 refs=p1,c0
+JP 梶原組
+EN Fujiwara
+
+@ 8001082c len=12 refs=p1,c0
+JP GONGSベｽﾄ
+EN RINGS Best
+
+@ 80010838 len=12 refs=p1,c0
+JP ﾁ-ﾑｶﾝパﾆ-
+EN Team Company
+
+@ 80010844 len=8 refs=p1,c0
+JP WFW軍
+EN WWF Army
+
+@ 8001084c len=12 refs=p1,c0
+JP WWCジｭﾆｱ
+EN WCW Jr.
+
+@ 80010858 len=8 refs=p1,c0
+JP FWO軍
+EN nWo Army
+
+@ 80010860 len=12 refs=p1,c0
+JP WWC正規軍
+EN WCW Main
+
+@ 8001086c len=12 refs=p1,c0
+JP 平成西連隊
+EN Heisei West
+
+@ 80010878 len=16 refs=p1,c0
+JP 旧ゆきプﾛ選手会
+EN Old M-Pro Union
+
+@ 80010888 len=16 refs=p1,c0
+JP ゆきプﾛ正規軍
+EN M-Pro Main
+
+@ 80010898 len=8 refs=p1,c0
+JP 真IW軍
+EN True FMW
+
+@ 800108a0 len=12 refs=p1,c0
+JP Tブﾗザ-ズ
+EN T Brothers
+
+@ 800108ac len=16 refs=p1,c0
+JP 新生IW正規軍
+EN FMW Main
+
+@ 800108bc len=12 refs=p1,c0
+JP OLIVE外人
+EN AJPW Gaijin
+
+@ 800108c8 len=8 refs=p1,c0
+JP ﾑ-ブﾒﾝﾄ
+EN Movement
+
+@ 800108d4 len=8 refs=p1,c0
+JP ﾗｲﾄﾆﾝグ
+EN Lightning
+
+@ 800108dc len=8 refs=p1,c0
+JP 氷川軍
+EN Hikawa Army
+
+@ 800108e4 len=8 refs=p1,c0
+JP 誠鬼軍
+EN Seiki Army
+
+@ 800108ec len=12 refs=p1,c0
+JP OLIVE５天王
+EN AJPW Big 5
+
+@ 800108f8 len=12 refs=p1,c0
+JP VIEWジｭﾆｱ
+EN NJPW Jr.
+
+@ 80010904 len=16 refs=p1,c0
+JP VIEW第３世代
+EN NJPW 3rd Gen
+
+@ 80010914 len=12 refs=p1,c0
+JP FWOジｬパﾝ２
+EN nWo Japan 2
+
+@ 80010920 len=12 refs=p1,c0
+JP FWOジｬパﾝ１
+EN nWo Japan 1
+
+@ 8001092c len=12 refs=p1,c0
+JP VIEW正規軍
+EN NJPW Main
+
+@ 80010978 len=8 refs=p0,c2
+JP ＦＷＯ
+EN nWo
+
+@ 80010980 len=8 refs=p0,c1
+JP 三郎
+EN Saburo
+
+@ 80010988 len=12 refs=p0,c1
+JP ヒューマン
+EN Human
+
+@ 80010994 len=12 refs=p0,c1
+JP 最後の戦士
+EN Last Warrior
+
+@ 800109a0 len=8 refs=p0,c1
+JP 山下
+EN Yamashita
+
+@ 800109a8 len=8 refs=p0,c1
+JP 祐二
+EN Yuji
+
+# Added by hand: follows 4 bytes of data the scanner merged it with.
+@ 800103fc len=8 refs=p1,c0
+JP ﾄﾝガ
+EN Tonga
+
+@ 800109b0 len=12 refs=p0,c1
+JP 期待の新星
+EN Rising Star
+
+@ 80010afc len=28 refs=p0,c1
+JP デスマッチ・トーナメント
+EN Deathmatch Tournament
+
+# Default event name for a Gruesome Fighting tournament (copied at 0x800214e0
+# into a 25-byte field; shown as the bracket title).
+@ 80010b18 len=28 refs=p0,c1
+JP グルーサム・ファイティング
+EN Gruesome Fighting
+
+# Stand-in promotion names already in English letters (pointer-only).
+@ 80010510 len=8 refs=p1,c0
+JP THREE-A
+EN AAA
+
+@ 80010544 len=4 refs=p1,c0
+JP UWH
+EN UWF
+
+@ 80010580 len=12 refs=p1,c0
+JP OLIVE JAPAN
+EN All Japan
+
+@ 80010598 len=4 refs=p1,c0
+JP FWO
+EN nWo
+
+@ 8001059c len=12 refs=p1,c0
+JP VIEW JAPAN
+EN New Japan

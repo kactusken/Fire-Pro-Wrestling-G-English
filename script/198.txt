@@ -1,0 +1,39 @@
+@ 000
+JP 決勝に勝ち進んだ俺を待っていたのは
+JP #WS073。昔は仲間だったが、怪我から
+JP 復帰して以来俺達と口をきこうとしない・・・
+EN Waiting in the final: Gannosuke. He
+EN used to be one of us, but since coming
+EN back from injury he won't talk to us...
+
+@ 001
+JP #MS：
+JP 「おい！何でノーリストリクトに
+JP 　戻って来ないんだよ！
+EN #MS:
+EN "Hey! Why won't you come back to No
+EN  Respect?"
+
+@ 002
+JP #WS073：
+JP 「・・・・・
+EN Gannosuke:
+EN "....."
+
+@ 003
+JP #MS：
+JP 「#WS075も心配してるぞ。
+EN #MS:
+EN "Kanemura's worried about you too."
+
+@ 004
+JP #WS073：
+JP 「・・・・・
+EN Gannosuke:
+EN "....."
+
+@ 005
+JP どうやら相変わらず喋る気が無いらしい。
+JP ならば試合で返事を聞かせてもらおう！
+EN Looks like he still won't talk. Then I'll
+EN get my answer in the match!

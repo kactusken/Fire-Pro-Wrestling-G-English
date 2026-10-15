@@ -1,0 +1,57 @@
+@ 000
+JP ジュニア戦士達の史上最大のイベント、
+JP 『キング・オブ・ワールドジュニア』も
+JP ２日目、２回戦を迎えた。
+EN The biggest junior event in history,
+EN the "King of World Juniors." Day two:
+EN the second round.
+
+@ 001
+JP １回戦で#WS092さんに敗れた俺は、
+JP 同じ敗者である他団体の選手と
+JP 消化試合をする事になった。
+EN Beaten by Sasuke in round one, I got a
+EN consolation match with a loser from
+EN another promotion.
+
+@ 002
+JP その相手とは１回戦で#WS015さんに敗れた
+JP #WF066選手。
+EN My opponent: Tsuyoshi Kikuchi, who
+EN lost to Liger in the first round.
+
+@ 003
+JP #WS066：
+JP 「残念ながらトーナメントには
+JP 　負けてしまったけど、こうして他団体の
+JP 　選手と試合が出来るいい機会だ。
+EN Kikuchi:
+EN "Too bad I lost in the tournament, but
+EN  this is a good chance to fight a guy
+EN  from another promotion."
+
+@ 004
+JP 「全力のファイトで#PS01の
+JP 　レベルの高さを証明して見せる！
+EN "I'll fight all-out and prove how high
+EN  #PS01's level is!"
+
+@ 005
+JP 「大・バクハツだ！
+EN "Big... EXPLOSION!"
+
+@ 006
+JP #MS：
+JP 「俺としても#PS01の選手がどれだけ
+JP 　強いのか興味がある。
+EN #MS:
+EN "I'm curious too, how tough #PS01
+EN  guys really are."
+
+@ 007
+JP 「#WS066選手！俺とあなたの
+JP 　全力ファイト、この大観衆の前で
+JP 　見せてやりましょう！
+EN "Kikuchi! Let's show this huge crowd
+EN  an all-out fight between you and
+EN  me!"

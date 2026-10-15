@@ -1,0 +1,254 @@
+@ 000
+JP #MS：
+JP 「ふぅ・・・
+EN #MS:
+EN "Phew..."
+
+@ 001
+JP #WS060：
+JP 「お疲れさん。
+EN Tsuruta:
+EN "Good work out there."
+
+@ 002
+JP #MS：
+JP 「#WS060さん！
+JP 　今日は来てらしたんですね！
+JP 　試合、見てもらえました？
+EN #MS:
+EN "Mr. Tsuruta! You came today! Did
+EN  you see my match?"
+
+@ 003
+JP #WS060：
+JP 「ああ。#WS065クン相手に
+JP 　あそこまでやるとは思わなかったよ。
+EN Tsuruta:
+EN "I did. I never thought you'd go that
+EN  far with Fuchi."
+
+@ 004
+JP #MS：
+JP 「そうですか？
+JP 　でも色々勉強になりました。
+EN #MS:
+EN "You think so? I sure learned a lot,
+EN  though."
+
+@ 005
+JP #WS060：
+JP 「そうか、そうか。
+JP 　フフフ、こりゃあ面白くなるかもな・・・
+EN Tsuruta:
+EN "I see, I see. Heh heh, this could get
+EN  interesting..."
+
+@ 006
+JP #MS：
+JP 「え？
+EN #MS:
+EN "Huh?"
+
+@ 007
+JP #WS060：
+JP 「いや、こっちの話だよ。
+EN Tsuruta:
+EN "Oh, nothing. Talking to myself."
+
+@ 008
+JP 「そうそう、言い忘れてたけど
+JP 　#WS059さんが明日の昼間、
+JP 　会社の方に顔を出せって言ってたぞ。
+EN "Oh, I almost forgot. Mr. Baba wants
+EN  you at the office tomorrow
+EN  afternoon."
+
+@ 009
+JP #MS：
+JP 「分かりました。
+EN #MS:
+EN "Understood."
+
+@ 010
+JP #MS：
+JP 「おはようございます！
+EN #MS:
+EN "Good morning!"
+
+@ 011
+JP #WS059：
+JP 「おう、来たか。まあ座れ。
+EN Baba:
+EN "Ah, you're here. Have a seat."
+
+@ 012
+JP #WS059：
+JP 「実はな、次期シリーズで『すばる杯』を
+JP 　開催しようと思ってる。
+EN Baba:
+EN "The thing is, I plan to hold the
+EN  Asunaro Cup next series."
+
+@ 013
+JP すばる杯とは明日の#PS01を
+JP 担う若手レスラーだけで行うリーグ戦だ。
+EN The Asunaro Cup is a league for the
+EN young wrestlers who'll carry
+EN #PS01's future.
+
+@ 014
+JP 当然ここで優勝すれば同期との出世レースで
+JP 一歩抜きん出た事になり、その後のチャンスも
+JP 大きく広がると言うものだ。
+EN Win it, and you jump ahead in the
+EN race against your classmates, and
+EN your chances open wide.
+
+@ 015
+JP #WS059：
+JP 「メンバーはお前と#WS046、
+JP 　#WS047、#WS048の４人だ。
+EN Baba:
+EN "The entrants are you, Omori, Honda
+EN  and Izumida. Four men."
+
+@ 016
+JP #MS：
+JP 「#WS044はやっぱり
+JP 　出ないんですね・・・・
+EN #MS:
+EN "So Akiyama's not in it after all..."
+
+@ 017
+JP #WS059：
+JP 「まあそうだな。
+EN Baba:
+EN "Well, no."
+
+@ 018
+JP #WS044は鳴り物入りで入団、俺や
+JP #WS046達とは同期みたいなものだが、
+JP 一歩先を行っている。
+EN Akiyama joined amid huge hype. He's
+EN basically in our class, but he's a step
+EN ahead of Omori and me.
+
+@ 019
+JP あいつは『すばる杯』に出る必要が無いと
+JP 言う事なのだ・・・・
+EN He doesn't need the Asunaro Cup, in
+EN other words....
+
+@ 020
+JP #MS：
+JP 「・・・・・・・・
+EN #MS:
+EN "........"
+
+@ 021
+JP 俺を見ていた社長がニヤッ、と笑う。
+JP どうも悔しい気持ちが顔に出ていたらしい。
+EN The boss watched me and grinned. My
+EN frustration must have shown on my
+EN face.
+
+@ 022
+JP #WS059：
+JP 「#WS046も話をしたら同じ顔をしてたよ。
+EN Baba:
+EN "Omori made the same face when I
+EN  told him."
+
+@ 023
+JP #MS：
+JP 「#WS046が？
+EN #MS:
+EN "Omori did?"
+
+@ 024
+JP #WS059：
+JP 「お前達のその気持ちが試合に出れば、
+JP 　『すばる杯』も盛り上がるだろう。
+JP 　頼むぞ。
+EN Baba:
+EN "If you boys bring that feeling into
+EN  the ring, the Cup will be a hit. I'm
+EN  counting on you."
+
+@ 025
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 026
+JP 俺は『すばる杯』の事を考えていた。
+EN My head was full of the Asunaro Cup.
+
+@ 027
+JP #MS：
+JP 「痛てっ！あ、#WS065さん。
+EN #MS:
+EN "Ow! Oh, Mr. Fuchi."
+
+@ 028
+JP #WS065：
+JP 「『あ、#WS065さん』じゃないだろ。
+EN Fuchi:
+EN "Don't 'Oh, Mr. Fuchi' me."
+
+@ 029
+JP 「さっきから呼んでるのに
+JP 　全然気づかないんだからな。
+EN "I've been calling you this whole time,
+EN  and you didn't even notice."
+
+@ 030
+JP #MS：
+JP 「え？そうなんですか？
+EN #MS:
+EN "Huh? You were?"
+
+@ 031
+JP #WS065：
+JP 「まあ『すばる杯』の事で頭が一杯なのは
+JP 　分かるけどな。周りが見えなくなると
+JP 　良くないぞ。
+EN Fuchi:
+EN "I know the Cup's all you can think
+EN  about. But it's bad to lose sight of
+EN  what's around you."
+
+@ 032
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes, sir."
+
+@ 033
+JP #WS065：
+JP 「特に今日は#WS055とシングルだろ？
+JP 　ああいう奴には足元すくわれるぞ。
+EN Fuchi:
+EN "Especially today. You've got Smith
+EN  one-on-one, right? Guys like him
+EN  will trip you up."
+
+@ 034
+JP #MS：
+JP 「そうですね・・・注意します。
+EN #MS:
+EN "Right... I'll be careful."
+
+@ 035
+JP #WS065：
+JP 「おう。まあ、応援してるから頑張れや。
+EN Fuchi:
+EN "Good. Anyway, I'm rooting for you.
+EN  Go get 'em."
+
+@ 036
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"

@@ -1,0 +1,83 @@
+@ 000
+JP 海外遠征してからあっという間に半年が経ち、
+JP 帰国の時が近づいてきた。
+EN Half a year flew by after I went
+EN abroad, and the time to go home drew
+EN near.
+
+@ 001
+JP マサ：
+JP 「どうだった、この半年は。
+EN Masa:
+EN "So, how were these six months?"
+
+@ 002
+JP ちょうどマサさんもこっちに来ていて、
+JP 今晩同じ飛行機で帰る事になっていた。
+EN Masa happened to be here too, and we
+EN were flying home on the same plane
+EN tonight.
+
+@ 003
+JP ついでに早く来て、俺の試合を
+JP 見て行くつもりらしい。
+EN He seems to have come early to watch
+EN my match while he's here.
+
+@ 004
+JP #MS：
+JP 「色々勉強になって、凄く充実してました。
+JP 　観客の反応が日本よりストレートで
+JP 　面白いですしね。
+EN #MS:
+EN "I learned a lot. It was great. The
+EN  crowds react more directly than in
+EN  Japan. It's fun."
+
+@ 005
+JP マサ：
+JP 「そうか。観客の様子を見れるぐらいには
+JP 　成長したって事か。
+EN Masa:
+EN "I see. So you've grown enough to
+EN  notice the crowd."
+
+@ 006
+JP #MS：
+JP 「そうなんですかね？
+JP 　自分じゃ良く分からないですけど。
+EN #MS:
+EN "Have I? I can't really tell myself."
+
+@ 007
+JP マサ：
+JP 「まあいい。それより次、出番じゃないのか？
+EN Masa:
+EN "Anyway. Aren't you up next?"
+
+@ 008
+JP #MS：
+JP 「そうですね。行って来ます！
+EN #MS:
+EN "That's right. Here I go!"
+
+@ 009
+JP 海外遠征最終戦の相手は
+JP #WF108。
+EN My last opponent on this tour is Bret
+EN Hart.
+
+@ 010
+JP パフォーマンスやキャラクターが重視される
+JP アメリカンプロレスの中では珍しく通好みの
+JP レスリングをする実力派レスラーだ。
+EN Amid America's showmen, he's a rare
+EN technician, a wrestler's wrestler.
+
+@ 011
+JP 何度もチャンピオンベルトを巻いた
+JP 経験の持ち主でもある。
+JP 海外遠征最後を飾るには最高の相手だ！
+EN He's worn championship belts many
+EN times over. The perfect foe to cap off
+EN my tour!

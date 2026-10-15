@@ -1,0 +1,147 @@
+@ 000
+JP その日俺はいつものように道場で
+JP 練習をしていた。
+EN That day I was training at the dojo as
+EN usual.
+
+@ 001
+JP #WS088：
+JP 「おい！大変だ！
+EN Fuji:
+EN "Hey! Big news!"
+
+@ 002
+JP #MS：
+JP 「どうしたんですか#WS088さん、
+JP 　そんなに慌てて。
+EN #MS:
+EN "What is it, Mr. Fuji? Why the panic?"
+
+@ 003
+JP #WS088：
+JP 「これが慌てずにいられるか！
+JP 　どうも#WS076さんが本当に
+JP 　復帰するらしいぞ！
+EN Fuji:
+EN "How could I not panic! Looks like
+EN  Onita really is coming back!"
+
+@ 004
+JP #MS：
+JP 「そんな！
+EN #MS:
+EN "No way!"
+
+@ 005
+JP #WS088：
+JP 「#WS068達も困ってるよ。
+JP 　どうすりゃいいんだ、ってよ。
+EN Fuji:
+EN "Hayabusa and the guys are lost too.
+EN  Don't know what to do, they say."
+
+@ 006
+JP #MS：
+JP 「・・・・・・・・・・
+EN #MS:
+EN ".........."
+
+@ 007
+JP 俺は裏切られた気分だった。二度とリングには
+JP 上がらないと言っていたのに・・・
+JP 俺は怒りを感じずにはいられなかった。
+EN I felt betrayed. He said he'd never set
+EN foot in the ring again... I couldn't help
+EN getting angry.
+
+@ 008
+JP #WS088さんが去った後、俺は
+JP 怒りをぶつけるかのように
+JP トレーニングを続けた。
+EN After Fuji left, I kept training, like I
+EN was taking my anger out on it.
+
+@ 009
+JP #WS068：
+JP 「#MS！
+EN Hayabusa:
+EN "#MS!"
+
+@ 010
+JP #MS：
+JP 「#WS068さん・・・・
+EN #MS:
+EN "Hayabusa...."
+
+@ 011
+JP #WS068：
+JP 「聞いたか？
+EN Hayabusa:
+EN "Did you hear?"
+
+@ 012
+JP #MS：
+JP 「ええ・・・
+EN #MS:
+EN "Yeah..."
+
+@ 013
+JP #WS068：
+JP 「もしかしたら俺達が不甲斐無い部分が
+JP 　あったのかもしれない。でも・・・
+EN Hayabusa:
+EN "Maybe we fell short in some ways.
+EN  But..."
+
+@ 014
+JP 「今更あの人が復帰したらまた昔に逆戻りだ。
+JP 　今まで育てて来た新しい#PS02が
+JP 　昔に戻ってしまう。
+EN "If he comes back now, it's back to the
+EN  old days. The new #PS02 we've
+EN  built will slide backward."
+
+@ 015
+JP #WS076さんに団体の後を任されて
+JP やっとここまで来た#WS068さんにとっては
+JP 確かに『今更』だろう。
+EN Onita left him in charge, and he'd
+EN brought us this far. To him, it really
+EN was "too late."
+
+@ 016
+JP #WS068：
+JP 「俺達の『今』を守る為に今まで以上に
+JP 　結束して闘って行こう！
+EN Hayabusa:
+EN "To protect our "now," let's stand
+EN  together and fight harder than ever!"
+
+@ 017
+JP #MS：
+JP 「分かりました。
+JP 　俺も#WS076さんの復帰は
+JP 　ある種の裏切りだと思ってますから。
+EN #MS:
+EN "Got it. I think Onita's comeback is a
+EN  kind of betrayal too."
+
+@ 018
+JP #WS068：
+JP 「良かった・・・
+JP 　これからもよろしく頼むよ。
+EN Hayabusa:
+EN "Good... I'm counting on you."
+
+@ 019
+JP 俺達正規軍は#WS071軍、
+JP ＪＥＮという２つの敵との闘いを
+JP しなければならなくなった。
+EN We regulars now had two enemies to
+EN fight: the Fuyuki-gun and ZEN.
+
+@ 020
+JP その中でＪＥＮについた
+JP #WS180とのシングルマッチが組まれた。
+EN Amid all that, I got a singles match
+EN with Kuroda, who'd sided with ZEN.

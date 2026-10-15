@@ -1,0 +1,31 @@
+@ 000
+JP #WS068：
+JP 「いよいよだな。正規軍同士で
+JP 　中々闘う機会が無かったから、
+JP 　とても楽しみにしていたよ。
+EN Hayabusa:
+EN "This is it. Regulars rarely get to
+EN  fight each other, so I've been really
+EN  looking forward to this."
+
+@ 001
+JP 「俺達にしか出来ない、熱い闘いを
+JP 　他のチームの連中に
+JP 　見せ付けてやろうじゃないか！
+EN "Let's show the other teams a hot
+EN  fight only we can have!"
+
+@ 002
+JP #MS：
+JP 「ええ。同じ目標を持つ２人だから出来る
+JP 　最高の試合を見せてやりましょう！
+EN #MS:
+EN "Yeah. Let's show them the best
+EN  match two guys with the same goal
+EN  can have!"
+
+@ 003
+JP #WS068：
+JP 「#PL02の明日の為にな！
+EN Hayabusa:
+EN "For the future of #PL02!"

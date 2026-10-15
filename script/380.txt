@@ -1,0 +1,63 @@
+@ 000
+JP #WS154：
+JP 「・・・・・・
+EN Funaki:
+EN "......"
+
+@ 001
+JP #MS：
+JP 「いや、驚きましたよ。
+JP 　まさか#WS154さんが・・・
+EN #MS:
+EN "Man, that was a shock. Who'd have
+EN  thought you'd...."
+
+@ 002
+JP 最近次第に若い世代、新たな外国人選手が
+JP 育ち、上位陣に肉薄して来た。
+EN Lately a younger generation and new
+EN foreign fighters had grown up and
+EN were closing in on the top guys.
+
+@ 003
+JP そして#WS154さんは相手に
+JP 若手を指名しての防衛戦を行った。
+JP そしてまさかの敗北を喫したのだ。
+EN Funaki picked a young guy for his
+EN title defense... and suffered a
+EN stunning loss.
+
+@ 004
+JP #WS154：
+JP 「油断してた訳じゃないんだが・・・
+EN Funaki:
+EN "It's not like I was careless..."
+
+@ 005
+JP #MS：
+JP 「分かってます。攻めはいつものように
+JP 　厳しかったし、隙も無かった。現に最後まで
+JP 　押しっ放しだった。
+EN #MS:
+EN "I know. Your offense was as tough as
+EN  ever, no openings. You had him on
+EN  the ropes right to the end."
+
+@ 006
+JP 「今回はあのミクロの瞬間を捕らえた
+JP 　あいつを誉めてやるべきでしょうね。
+EN "This time we just have to hand it to
+EN  him for seizing that split second."
+
+@ 007
+JP #WS154：
+JP 「若い奴らも育って来てるんだな。
+EN Funaki:
+EN "The young guys are coming up,
+EN  huh."
+
+@ 008
+JP #MS：
+JP 「そうですね。
+EN #MS:
+EN "They sure are."

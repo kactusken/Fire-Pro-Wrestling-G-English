@@ -1,0 +1,17 @@
+@ 000
+JP トーナメント１回戦で敗れた俺は
+JP #WS146との消化試合を組まれた。
+EN Out in the first round, I was booked in
+EN a dead-rubber match with Vrij.
+
+@ 001
+JP あいつも最近すっかり不甲斐無いファイトを
+JP するようになってしまった。旗揚げ当初の
+JP 怖さはもうどこにも無い。
+EN He's been fighting so weakly lately.
+EN None of the menace he had at the
+EN debut show is left.
+
+@ 002
+JP 俺が目を覚まさせてやるしか無いだろう。
+EN Guess I'll have to wake him up.

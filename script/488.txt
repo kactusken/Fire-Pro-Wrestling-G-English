@@ -1,0 +1,63 @@
+@ 000
+JP ５番勝負は第４戦を迎えた。
+EN The series reached match four.
+
+@ 001
+JP 相手は現ＩＧＰジュニアタッグ王者の
+JP #WF162・
+JP #WF019組だ。
+EN Our opponents: the current IWGP
+EN Junior Tag champs, Dr. Wagner Jr.
+EN and Kendo Ka Shin.
+
+@ 002
+JP 一見全く噛み合わないように見えるが、
+JP お互いがお互いを補う形でチームになっている、
+JP 不思議なチームだ。
+EN At a glance they don't mesh at all, but
+EN each covers for the other. A strange
+EN team.
+
+@ 003
+JP #WS162：
+JP 「ユー達がどんなに勢いがあるチームでも
+JP 　ミーと#WS019のチームには
+JP 　かなわない。
+EN Wagner:
+EN "No matter how hot your team is, you
+EN  can't beat me and Ka Shin."
+
+@ 004
+JP 「ミー達は
+JP 　タッグチームのチャンピオンだからな！
+EN "Because we are the tag team
+EN  champions!"
+
+@ 005
+JP #MS：
+JP 「それならあんた達に勝って、
+JP 　俺達こそがチャンピオンに
+JP 　相応しいチームだと証明する！
+EN #MS:
+EN "Then we'll beat you and prove we're
+EN  the team that deserves to be champs!"
+
+@ 006
+JP 坂上：
+JP 「ノンタイトルのこの試合で勝って、
+JP 　必ずタイトルマッチを組んでもらう！
+EN Sakagami:
+EN "We'll win this non-title match and
+EN  make them give us a title shot!"
+
+@ 007
+JP 「そしてタイトルマッチで俺達が勝って
+JP 　チャンピオンになるんだ！
+EN "Then we'll win the title match and
+EN  become the champions!"
+
+@ 008
+JP #WS162：
+JP 「出来るものならやってみるがいい！
+EN Wagner:
+EN "Try it if you can!"

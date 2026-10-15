@@ -1,0 +1,11 @@
+@ 000
+JP 今日の対戦相手は#WS070さん。
+EN Today's opponent was Ohya.
+
+@ 001
+JP 元#PL00の選手だった
+JP 実力者だ。最近はテクニックにも
+JP 磨きをかけている。要注意だ。
+EN A tough customer who used to be in
+EN #PL00. He's been sharpening his
+EN technique lately. Gotta watch out.

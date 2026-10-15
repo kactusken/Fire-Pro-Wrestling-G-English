@@ -1,0 +1,128 @@
+@ 000
+JP 俺はたまたま事務所で
+JP #WS149さんと会って話をしていた。
+EN I happened to run into Mr. Maeda at
+EN the office and we got talking.
+
+@ 001
+JP #MS：
+JP 「どうですか、交渉の方は？
+EN #MS:
+EN "How are the negotiations going?"
+
+@ 002
+JP #WS149：
+JP 「どうにもアカン。奴等金の事しか
+JP 　言わへんのや。少しはファイターとしての
+JP 　心意気が持てへんのか、全く・・・
+EN Maeda:
+EN "No good at all. All they talk about's
+EN  money. Can't they have a little
+EN  fighter's spirit? Jeez..."
+
+@ 003
+JP 交渉、と言うのは#WS149さんの正真正銘
+JP 最後の引退試合の相手の事だ。その名は
+JP #WF169・・・
+EN The talks were for the opponent in
+EN Mr. Maeda's very last retirement
+EN match. His name... Rickson Gracie...
+
+@ 004
+JP しかし現在#WS165さんのスポンサーが
+JP 多額の金を投入して獲得に動いている上、
+JP こちらに対する妨害工作までして来ているのだ。
+EN But Mr. Takada's sponsor was pouring
+EN in big money to land him, and even
+EN sabotaging our efforts.
+
+@ 005
+JP #WS149：
+JP 「まあ、この調子やと厳しいな。
+EN Maeda:
+EN "Well, at this rate it's lookin' tough."
+
+@ 006
+JP #MS：
+JP 「そうなんですか・・・
+EN #MS:
+EN "Is that so..."
+
+@ 007
+JP #WS149：
+JP 「ま、こっちはこっちで別の候補も
+JP 　考えとるからな。ダメならダメで
+JP 　その時は何とかするしかないやろ。
+EN Maeda:
+EN "Well, I got other candidates in mind.
+EN  If it's a no, I'll just have to figure
+EN  somethin' out."
+
+@ 008
+JP #MS：
+JP 「でも#WS169には誰かが
+JP 　土つけてやらないとダメですよね。
+EN #MS:
+EN "But somebody has to hand Gracie a
+EN  loss."
+
+@ 009
+JP 「#WS149さんか#WS165さんが
+JP 　やってくれるならいいんですけど・・・
+EN "If you or Mr. Takada could do it,
+EN  that'd be great, but..."
+
+@ 010
+JP #WS149：
+JP 「そうやな・・・まあダメやったら
+JP 　お前がその後行けばいいやろ。
+JP 　そん時はまた交渉に動いてやる。
+EN Maeda:
+EN "Yeah... Well, if that fails, you can go
+EN  after him next. I'll get negotiatin'
+EN  again then."
+
+@ 011
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 012
+JP #WS169・#WS165戦が
+JP 決まったのはその後すぐの事だった。
+EN Soon after, Gracie vs. Takada was
+EN made official.
+
+@ 013
+JP 複雑な心情のまま迎えた次の大会・・・・
+EN With mixed feelings, the next show
+EN came....
+
+@ 014
+JP #WS141：
+JP 「#WS149さんの後継者としての
+JP 　地位を確立する為には
+JP 　１人１人勝って行くしかない！
+EN Y. Yamamoto:
+EN "To make my name as Mr. Maeda's
+EN  heir, I have to beat them one by one!"
+
+@ 015
+JP 「ましてあなただけには負けたくない！
+EN "And you're the last guy I want to
+EN  lose to!"
+
+@ 016
+JP 相手はライバル心剥き出しの#WS141。
+JP 悩んでいる時にはちょうど良い
+JP 相手かもしれない。
+EN My opponent was Yamamoto, his
+EN rivalry out in the open. Just the guy
+EN to face when I'm troubled.
+
+@ 017
+JP #MS：
+JP 「・・・・よし、来い！
+EN #MS:
+EN "....All right, come on!"

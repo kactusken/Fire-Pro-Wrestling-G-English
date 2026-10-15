@@ -1,0 +1,59 @@
+@ 000
+JP ジュニア戦士達の史上最大のイベント、
+JP 『キング・オブ・ワールドジュニア』も
+JP 遂に決勝戦が行われる。
+EN The biggest junior event in history,
+EN the "King of World Juniors." At last,
+EN the final.
+
+@ 001
+JP 遂に決勝に進出した俺の相手は・・・・
+EN I'd made it to the final. My opponent
+EN was....
+
+@ 002
+JP #WF015さんだ。
+EN Jushin Thunder Liger.
+
+@ 003
+JP 準決勝において、坂上は残念ながら
+JP この人に敗れてしまったのだ。
+EN Sadly, Sakagami had lost to him in the
+EN semifinals.
+
+@ 004
+JP #WS015：
+JP 「坂上・・・あいつは凄いレスラーになった。
+JP 　でもまだだ。俺とあいつとの差は紙一重・・・
+JP 　とてつもなく大きい紙一重なんだ。
+EN Liger:
+EN "Sakagami's become a great wrestler.
+EN  But not yet. The gap's paper thin...
+EN  but what a thick sheet of paper."
+
+@ 005
+JP 「そしてお前にも負けない。歴史に
+JP 　#WF015ありと
+JP 　言うのを刻み付けてやる！
+EN "And I won't lose to you either. I'll
+EN  carve the name Jushin Thunder Liger
+EN  into history!"
+
+@ 006
+JP #MS：
+JP 「俺は勝ってみせる。
+EN #MS:
+EN "I'm going to win."
+
+@ 007
+JP 「偉大なるジュニアの盟主
+JP 　#WF015を
+JP 　俺は越えて見せる！
+EN "I'll surpass the great leader of the
+EN  juniors, Jushin Thunder Liger!"
+
+@ 008
+JP #WS015：
+JP 「よし、来い！
+EN Liger:
+EN "All right, come on!"

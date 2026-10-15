@@ -1,0 +1,429 @@
+@ 000
+JP 記者：
+JP 「素晴らしい試合でした。そして
+JP 　三冠王座奪取おめでとうございます！
+EN Reporter:
+EN "What a match. And congratulations
+EN  on winning the Triple Crown!"
+
+@ 001
+JP #MS：
+JP 「ありがとうございます。
+JP 　ここまで来れたのも応援してくれた
+JP 　ファンの皆さんのおかげです。
+EN #MS:
+EN "Thank you. I owe getting here to all
+EN  the fans who supported me."
+
+@ 002
+JP 記者：
+JP 「今後は狙われる立場になる訳ですが？
+EN Reporter:
+EN "From now on, you're the one being
+EN  hunted."
+
+@ 003
+JP #MS：
+JP 「三冠チャンピオンですからね。
+JP 　#PL01の代表として
+JP 　恥ずかしくないように頑張りたいと思います。
+EN #MS:
+EN "I'm Triple Crown champion. I want to
+EN  work hard to be worthy of
+EN  representing #PL01."
+
+@ 004
+JP 「今日は本当にありがとうございました！
+EN "Thank you so much today!"
+
+@ 005
+JP マスコミが帰った後、俺は１人感慨にふけった。
+JP ようやくベルトを手にした。子供の頃からの夢、
+JP 道場で見た夢が現実になったのだ。
+EN Alone after the press left, it sank in.
+EN The belt was mine. My dream since
+EN childhood, since the dojo, came true.
+
+@ 006
+JP #WL026先生、見てるかな・・・
+JP 坂上の奴元気にしてるかな・・・
+EN Are you watching, Coach Yamamoto...
+EN How's Sakagami doing...
+
+@ 007
+JP その時誰かが肩を叩いた。
+EN Just then, someone patted my
+EN shoulder.
+
+@ 008
+JP #WS044：
+JP 「とうとう追い越されちまったな。
+JP 　正直言って悔しいよ。
+EN Akiyama:
+EN "So you finally passed me. Honestly, it
+EN  stings."
+
+@ 009
+JP 「けどな、お前みたいなライバルがいて、
+JP 　うれしい気分でもあるんだ。これからは
+JP 　俺が追いかけさせてもらうよ。
+EN "But having a rival like you makes me
+EN  happy too. Now it's my turn to chase
+EN  you."
+
+@ 010
+JP #MS：
+JP 「#WS044・・・
+EN #MS:
+EN "Akiyama..."
+
+@ 011
+JP #WS041：
+JP 「強くなったな、#MS。
+JP 　あの#WS040さんに勝ったんだから。
+EN Kobashi:
+EN "You've gotten strong, #MS. You
+EN  beat Misawa, after all."
+
+@ 012
+JP 「お前はもう間違い無く#PS01の
+JP 　トップレスラーの一員だよ。
+JP 　本当におめでとう！
+EN "You're one of #PS01's top
+EN  wrestlers now, no question.
+EN  Congratulations!"
+
+@ 013
+JP #MS：
+JP 「ありがとうございます！
+EN #MS:
+EN "Thank you, sir!"
+
+@ 014
+JP #WS041：
+JP 「これから数々の挑戦を
+JP 　受けて立たなければならない。
+EN Kobashi:
+EN "Now you'll have to take on
+EN  challenger after challenger."
+
+@ 015
+JP 「王座奪取より、防衛の方が
+JP 　何倍も大変だと思うけど
+JP 　気持ちで負けないよう、頑張れよ！
+EN "Defending is many times harder than
+EN  winning the belt. Don't let your spirit
+EN  lose!"
+
+@ 016
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 017
+JP #WS044：
+JP 「必ず俺も挑戦する。
+JP 　それまで防衛しててくれよ！
+JP 　俺達の世代でメインを張るんだ。
+EN Akiyama:
+EN "I'll challenge you for sure. Stay
+EN  champ till then! Our generation will
+EN  headline!"
+
+@ 018
+JP #MS：
+JP 「ああ。頑張るよ。
+EN #MS:
+EN "Yeah. I'll do my best."
+
+@ 019
+JP #WS042さんとの２度目の防衛戦に
+JP 勝利した俺は事務所に呼び出しを受けていた。
+EN After winning my second defense,
+EN against Kawada, I was called to the
+EN office.
+
+@ 020
+JP #WS059：
+JP 「と、言う訳でプロレスサミットを
+JP 　#PL00と
+JP 　行う事になった。
+EN Baba:
+EN "And so, we're holding a Wrestling
+EN  Summit with #PL00."
+
+@ 021
+JP #MS：
+JP 「そう、ですか・・・・
+EN #MS:
+EN "I-I see...."
+
+@ 022
+JP 信じられなくてイマイチ実感が無い。
+EN I couldn't believe it. It didn't feel real.
+
+@ 023
+JP #WS059：
+JP 「で、メインを
+JP 　お前に任せようと思ってる。
+EN Baba:
+EN "And I'm thinking of giving you the
+EN  main event."
+
+@ 024
+JP #MS：
+JP 「シングルですか？相手は？
+EN #MS:
+EN "A single? Against who?"
+
+@ 025
+JP #WS059：
+JP 「その時点でのＩＧＰ王者とのノンタイトルでの
+JP 　シングルマッチだ。
+EN Baba:
+EN "A non-title single against whoever
+EN  holds the IWGP title then."
+
+@ 026
+JP #MS：
+JP 「その時点での？まだ分からないんですか？
+EN #MS:
+EN "Whoever holds it then? It's not
+EN  decided yet?"
+
+@ 027
+JP #WS059：
+JP 「今晩タイトルマッチがあるらしい。
+JP 　カードは・・・
+EN Baba:
+EN "There's a title match tonight, I hear.
+EN  The card is..."
+
+@ 028
+JP 「#WF001対
+JP 　坂上浩一だ。
+EN "Shinya Hashimoto vs. Koichi
+EN  Sakagami."
+
+@ 029
+JP #MS：
+JP 「！！
+EN #MS:
+EN "!!"
+
+@ 030
+JP 俺は余程凄い表情をしていたらしい。
+JP #WS059さんがニヤッ、と笑っていた。
+EN My face must have been something.
+EN Mr. Baba was grinning.
+
+@ 031
+JP #WS059：
+JP 「チャンピオンとして、代表として
+JP 　最高の試合を期待してるぞ。
+EN Baba:
+EN "As champion, as our representative, I
+EN  expect the best match you've got."
+
+@ 032
+JP #MS：
+JP 「ありがとうございます！
+EN #MS:
+EN "Thank you, sir!"
+
+@ 033
+JP 正直驚きだ。プロレス界の為、今後
+JP 年に１回、#PS00と#PS01が
+JP 交流戦を行うなんて・・・
+EN I'm amazed. For wrestling's sake,
+EN #PS00 and #PS01 will now hold
+EN a joint show every year...
+
+@ 034
+JP そして記念すべき第一回大会のメインが
+JP 俺と坂上とのシングルマッチかもしれない
+JP だなんて・・・・
+EN And the main event of the historic
+EN first show might be a single between
+EN me and Sakagami...
+
+@ 035
+JP 俺は今晩のＩＧＰ戦の結果で決定するカードに
+JP コメントをするように言われていた。
+EN I was asked to comment on the card
+EN once tonight's IWGP result decided it.
+
+@ 036
+JP 勝って来い、坂上。俺とお前の夢、
+JP 実現させよう！
+EN Win it, Sakagami. Let's make our
+EN dream come true!
+
+@ 037
+JP 記者：
+JP 「結果出ました！
+EN Reporter:
+EN "The result's in!"
+
+@ 038
+JP 俺は唾を飲み込んだ。
+EN I swallowed hard.
+
+@ 039
+JP 記者：
+JP 「２７分４５秒・・・・・・
+EN Reporter:
+EN "27 minutes, 45 seconds......"
+
+@ 040
+JP 「坂上が体固めで勝利！
+EN "Sakagami wins with a body press!"
+
+@ 041
+JP やりやがった・・・あの野郎！
+JP 俺は思わず立ち上がっていた。
+EN He did it... that son of a gun! I was on
+EN my feet before I knew it.
+
+@ 042
+JP 記者：
+JP 「決まりました！
+JP 　坂上選手についてコメントを！
+EN Reporter:
+EN "It's set! A comment on Sakagami,
+EN  please!"
+
+@ 043
+JP その後、俺は何を言ってどうしたか
+JP 良く覚えていない。
+EN I barely remember what I said or did
+EN after that.
+
+@ 044
+JP 気がついたら道場でトレーニングしていた。
+EN Next thing I knew, I was training at
+EN the dojo.
+
+@ 045
+JP #WS040：
+JP 「いよいよだな。
+EN Misawa:
+EN "This is it."
+
+@ 046
+JP #WS066：
+JP 「行って来い、#MS。
+JP 　お前ならやれるよ。
+EN Kikuchi:
+EN "Go get him, #MS. You can do
+EN  it."
+
+@ 047
+JP #WS065：
+JP 「頑張れ。人生最大のイベントだろ？
+EN Fuchi:
+EN "Good luck. Biggest night of your life,
+EN  right?"
+
+@ 048
+JP #WS044：
+JP 「気合入れてけよ！
+EN Akiyama:
+EN "Get fired up!"
+
+@ 049
+JP #WS040：
+JP 「お前達の全てを見せてみろ。
+JP 　ファンに、マスコミに、そして俺達
+JP 　レスラーに！
+EN Misawa:
+EN "Show them everything you two have.
+EN  The fans, the press, and us
+EN  wrestlers!"
+
+@ 050
+JP 俺は力強く頷く。
+EN I nodded firmly.
+
+@ 051
+JP #MS：
+JP 「行きます！
+EN #MS:
+EN "Here I go!"
+
+@ 052
+JP 坂上：
+JP 「・・・・・・・・・
+EN Sakagami:
+EN "........."
+
+@ 053
+JP #MS：
+JP 「・・・・・・・・・
+EN #MS:
+EN "........."
+
+@ 054
+JP 坂上：
+JP 「とうとう・・・実現したな。
+EN Sakagami:
+EN "It finally... happened."
+
+@ 055
+JP #MS：
+JP 「ああ。#WS026道場で見た、
+JP 　俺達２人の夢がな。
+EN #MS:
+EN "Yeah. The dream we had back at the
+EN  Yamamoto dojo."
+
+@ 056
+JP 坂上：
+JP 「へへっ、この大舞台でお前を倒して日本一。
+JP 　悪くないよな。
+EN Sakagami:
+EN "Heh, beating you on this huge stage
+EN  to be No. 1 in Japan. Not bad."
+
+@ 057
+JP #MS：
+JP 「ばーか。俺が勝つに決まってんだろ。
+EN #MS:
+EN "Idiot. I'm obviously gonna win."
+
+@ 058
+JP 坂上：
+JP 「へへへ・・・
+EN Sakagami:
+EN "Heh heh heh..."
+
+@ 059
+JP #MS：
+JP 「フフフ・・・
+EN #MS:
+EN "Heh heh heh..."
+
+@ 060
+JP 「見せてやろうぜ。
+JP 　俺達が創る、プロレス新世紀を！
+EN "Let's show them. The new century of
+EN  wrestling that we'll build!"
+
+@ 061
+JP 坂上：
+JP 「見せてやるさ、新しい時代を！
+EN Sakagami:
+EN "We'll show them a new era!"
+
+@ 062
+JP #MS：
+JP 「行くぜ！
+EN #MS:
+EN "Let's go!"
+
+@ 063
+JP 坂上：
+JP 「おう！
+EN Sakagami:
+EN "Yeah!"

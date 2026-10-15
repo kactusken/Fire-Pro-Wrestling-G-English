@@ -1,0 +1,133 @@
+@ 000
+JP 俺は控え室で#WS068さんと
+JP 今日のカードで悩んでいた。
+EN In the locker room, Hayabusa and I
+EN were brooding over today's card.
+
+@ 001
+JP #WS068：
+JP 「よりによってこのカードとはね・・・
+EN Hayabusa:
+EN "Of all the matchups..."
+
+@ 002
+JP 今日のカード、それは
+JP #WS068、#MS組対
+JP #WS076、#WS072組。
+EN Today's card: Hayabusa and #MS
+EN vs. Onita and Yamakawa.
+
+@ 003
+JP #WS076さんと、その復帰を手伝い、
+JP 現在もＪＥＮの一員として闘っている
+JP #WS072さんとのタッグマッチだ。
+EN A tag match against Onita and
+EN Yamakawa, who'd helped his
+EN comeback and still fought for ZEN.
+
+@ 004
+JP 今の正規軍にとって
+JP 最悪のカードかもしれない。
+EN For the regulars right now, it might
+EN be the worst card possible.
+
+@ 005
+JP #WS068：
+JP 「出来る事ならもう関わり合いたくない。
+JP 　あの人と関わると俺達が築いて来たもの全てが
+JP 　音を立てて崩れていくような気がするよ。
+EN Hayabusa:
+EN "I'd rather not deal with him at all.
+EN  When I do, it feels like all we've built
+EN  comes crashing down."
+
+@ 006
+JP 「あの人が引退してから今まで
+JP 　俺達は手の平の上で踊らされていたのか？
+EN "Since he retired, have we just been
+EN  dancing in the palm of his hand?"
+
+@ 007
+JP #MS：
+JP 「#WS068さん・・・
+EN #MS:
+EN "Hayabusa..."
+
+@ 008
+JP 「確かに俺達にとってあの人は邪魔者です。
+JP 　でも組まれてしまった以上は一生懸命
+JP 　やりましょう。
+EN "Sure, he's in our way. But now that
+EN  the match is set, let's give it
+EN  everything."
+
+@ 009
+JP 「そしてあんたはいらないんだ、って
+JP 　試合であの人に教えてやりましょうよ！
+EN "And let's show him in the ring that
+EN  we don't need him!"
+
+@ 010
+JP #WS068：
+JP 「そうだな・・・
+EN Hayabusa:
+EN "Yeah..."
+
+@ 011
+JP 「分かった。お前の言う通りだ。
+JP 　悩んでいてもお客さんを満足させる試合は
+JP 　出来ないよな！
+EN "Okay. You're right. Brooding won't
+EN  give the fans a match worth seeing!"
+
+@ 012
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Right!"
+
+@ 013
+JP #WS076：
+JP 「#WS068！ワシを避けてどうする！
+JP 　避けては何にもならんぞ！
+EN Onita:
+EN "Hayabusa! What good is running
+EN  from me! Running gets you nowhere!"
+
+@ 014
+JP #MS：
+JP 「あんたの引退後、みんなが
+JP 　どれだけ頑張って来たか・・・
+JP 　その苦労をあんたはぶち壊すつもりか！
+EN #MS:
+EN "After you retired, everyone worked
+EN  so hard... Are you gonna wreck all of
+EN  that!?"
+
+@ 015
+JP #WS068：
+JP 「もう#PS02はあなたの物じゃ無い！
+JP 　生まれ変わったんだ！
+EN Hayabusa:
+EN "#PS02 isn't yours anymore! It's
+EN  been reborn!"
+
+@ 016
+JP #WS076：
+JP 「お前らのような、青二才に、
+JP 　何がわかるんじゃ！
+EN Onita:
+EN "What do greenhorns, greenhorns like
+EN  you know!"
+
+@ 017
+JP 「ワシが、このワシが何の為に
+JP 　復帰したかぁ、お前らに分かるのか！
+EN "Do you know why, why I came back!?
+EN  Do you!?"
+
+@ 018
+JP #MS：
+JP 「そんなもの分かりたくも無い！
+EN #MS:
+EN "I don't even want to know!"

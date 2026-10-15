@@ -1,0 +1,80 @@
+@ 000
+JP タッグマッチは終わった。だが・・・・
+EN The tag match was over. But....
+
+@ 001
+JP #WS089：
+JP 「#MSファック！！
+EN Orihara:
+EN "#MS, FUCK!!"
+
+@ 002
+JP 他人の急所をポコポコ叩きまくった挙げ句
+JP この挑発・・・・
+JP 俺はついカチンと来てしまった。
+EN After whacking me below the belt
+EN over and over, now this taunt.... I lost
+EN my temper.
+
+@ 003
+JP #MS：
+JP 「ふざけんなコラァ！！
+EN #MS:
+EN "Screw you, punk!!"
+
+@ 004
+JP #WS089：
+JP 「あんだこのヤロー！
+EN Orihara:
+EN "What'd you say, bastard!"
+
+@ 005
+JP #MS：
+JP 「このっ！
+EN #MS:
+EN "Why, you!"
+
+@ 006
+JP #WS088：
+JP 「落ち着け、#MS！
+JP 　試合は終わったんだぞ。
+EN Fuji:
+EN "Calm down, #MS! The match is
+EN  over."
+
+@ 007
+JP 俺を押さえる#WS088さん。
+JP だが向こうではまだこっちに向かって
+JP 中指立てて挑発している。
+EN Fuji held me back. But over there, he
+EN was still flipping me off.
+
+@ 008
+JP #MS：
+JP 「オイ、この野郎！シングルだ！
+JP 　シングルでやってやる！
+EN #MS:
+EN "Hey, you bastard! Singles! I'll take
+EN  you on one-on-one!"
+
+@ 009
+JP #WS089：
+JP 「おもしれぇ、お前に出来るのか。
+JP 　何をやってやるのか知らねぇが
+JP 　受けて立とうじゃねぇか！
+EN Orihara:
+EN "Interesting. Think you can? Dunno
+EN  what you're gonna do, but I'll take
+EN  you on!"
+
+@ 010
+JP #MS：
+JP 「よし！逃げるんじゃないぞ！
+EN #MS:
+EN "Good! Don't you run away!"
+
+@ 011
+JP こうして#WS089選手との
+JP シングルマッチを行う事になった。
+EN And so a singles match with Orihara
+EN was set.

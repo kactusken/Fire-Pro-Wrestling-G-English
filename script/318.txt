@@ -1,0 +1,47 @@
+@ 000
+JP 記者：
+JP 「おめでとうございます！
+EN Reporter:
+EN "Congratulations!"
+
+@ 001
+JP #MS：
+JP 「ありがとうございます。
+EN #MS:
+EN "Thank you."
+
+@ 002
+JP 記者：
+JP 「先輩の#WS166選手を
+JP 　破っての優勝ですが。
+EN Reporter:
+EN "You won it all by beating your
+EN  senior, Anjoh."
+
+@ 003
+JP #MS：
+JP 「そうですね、キャッスルはあの人だけじゃ
+JP 　ないんだ、ってのを証明出来たと思います。
+EN #MS:
+EN "Yes. I think I proved Kingdom isn't
+EN  just about him."
+
+@ 004
+JP 記者：
+JP 「今後の見通しは？
+EN Reporter:
+EN "What's next for you?"
+
+@ 005
+JP #MS：
+JP 「バーリトゥードを始めとして色々な闘いに
+JP 　出向いて行きたいですね。
+EN #MS:
+EN "I want to take on all kinds of fights,
+EN  starting with vale tudo."
+
+@ 006
+JP 記者：
+JP 「ありがとうございました！
+EN Reporter:
+EN "Thank you very much!"

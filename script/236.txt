@@ -1,0 +1,141 @@
+@ 000
+JP #WS076さんの相手は
+JP #WF002。
+EN Mr. Onita's opponent was Kensuke
+EN Sasaki.
+
+@ 001
+JP まともに闘ってかなう相手では無い。
+JP それでも自分の生き様をぶつける為に
+JP #WS076さんは・・・・
+EN No way he could win fighting
+EN straight. But to throw his whole way
+EN of life at him, Mr. Onita...
+
+@ 002
+JP 何と#PS00マットで
+JP 火炎攻撃をやってのけたのだ。
+EN Actually pulled off a fireball attack
+EN on the #PS00 mat.
+
+@ 003
+JP #WS076：
+JP 「オイ！オイ！#PS00よ！
+JP 　これが、これが俺の生き様じゃ！
+EN Onita:
+EN "Hey! Hey! #PS00! This, this is how
+EN  I live!"
+
+@ 004
+JP 結果的には反則負けになったが、
+JP 試合に負けて勝負に勝った。
+JP まさにその言葉が相応しかった。
+EN He lost by DQ, but he lost the match
+EN and won the fight. Those words fit
+EN perfectly.
+
+@ 005
+JP #WS076：
+JP 「おい、#MS！
+JP 　#WS090・#WS033組を
+JP 　引っ張り出したぞ！
+EN Onita:
+EN "Hey, #MS! I dragged out Tenryu
+EN  and Koshinaka!"
+
+@ 006
+JP #MS：
+JP 「本当ですか！？
+EN #MS:
+EN "Really!?"
+
+@ 007
+JP #WS076：
+JP 「ああ、俺に引導を渡すのは自分しかいない、
+JP 　なんて言ってたよ。
+EN Onita:
+EN "Yeah. Tenryu said he's the only one
+EN  who can put me to rest."
+
+@ 008
+JP 「いいか！結果によっては邪道が
+JP 　メジャーを逆に飲み込む事になるぞ！
+EN "Listen! Depending how this goes, the
+EN  outlaws could swallow up the
+EN  majors!"
+
+@ 009
+JP #MS：
+JP 「そうですね！目にもの見せてやりましょう！
+EN #MS:
+EN "Right! Let's show 'em what we've
+EN  got!"
+
+@ 010
+JP #WS076：
+JP 「いいか！やってやるぞ、オイ！
+JP 　骨の髄まで邪道という毒を
+JP 　染み込ませてやるんじゃ！
+EN Onita:
+EN "Listen! We're doing this! We'll soak
+EN  'em in outlaw poison right to the
+EN  bone!"
+
+@ 011
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 012
+JP #WS090：
+JP 「#WS076とまたやる事になろうとは
+JP 　思ってもいなかったよ。
+EN Tenryu:
+EN "Never thought I'd be facing Onita
+EN  again."
+
+@ 013
+JP 「死んでも死にきれないなら、
+JP 　俺が直接お前に引導を渡してやるよ！
+EN "If you can't die in peace, I'll put you
+EN  to rest myself!"
+
+@ 014
+JP #WS033：
+JP 「ふざけんじゃねぇぞ、このヤロー！
+JP 　お前達みたいなのがこのリングに上がる
+JP 　なんて許せないんだよ！
+EN Koshinaka:
+EN "Screw you, bastard! I won't stand for
+EN  punks like you in this ring!"
+
+@ 015
+JP 「分かってんのか、あ？
+JP 　ぶっ潰してやるよ！
+EN "You hear me, huh? I'll crush you!"
+
+@ 016
+JP #WS076：
+JP 「#WS090！#WS033！
+JP 　ワシは簡単には死なん！ましてや邪道は
+JP 　決して死なん！こいつがいる限りな！
+EN Onita:
+EN "Tenryu! Koshinaka! I don't die that
+EN  easy! And outlaws never die! Not
+EN  while this kid's around!"
+
+@ 017
+JP #MS：
+JP 「新たな邪道の力、あんた達の体に
+JP 　刻み込んでやるよ！
+EN #MS:
+EN "We'll carve the power of the new
+EN  outlaws into your bodies!"
+
+@ 018
+JP #WS090：
+JP 「すぐにその減らず口を黙らせてやる！
+EN Tenryu:
+EN "I'll shut that smart mouth soon
+EN  enough!"

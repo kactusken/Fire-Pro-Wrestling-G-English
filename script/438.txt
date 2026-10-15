@@ -1,0 +1,88 @@
+@ 000
+JP 俺がちょうど会場入りした時だった。
+EN I'd only just arrived at the arena.
+
+@ 001
+JP #WS117：
+JP 「シュッ、シュッ！
+EN Austin:
+EN "Hyah! Hyah!"
+
+@ 002
+JP また空手ポーズを取っている、この男に会った。
+JP #WN117
+JP #WF117。
+EN There he was, doing the karate pose
+EN again: Stone Cold Steve Austin.
+
+@ 003
+JP #MS：
+JP 「おはようございます！
+EN #MS:
+EN "Good morning!"
+
+@ 004
+JP #WS117：
+JP 「最近大活躍だな、#MS。
+EN Austin:
+EN "You're on a roll lately, #MS."
+
+@ 005
+JP #MS：
+JP 「おかげさまで・・・
+EN #MS:
+EN "Thanks to all of you..."
+
+@ 006
+JP #WS117：
+JP 「今日は遂に#WS183と
+JP 　タッグ対決だって？
+EN Austin:
+EN "Today you finally face The Rock in a
+EN  tag match?"
+
+@ 007
+JP #MS：
+JP 「ええ。#WS128と組んで
+JP 　#WS183・#WS186組と対戦です。
+EN #MS:
+EN "Yeah. Mankind and I are taking on
+EN  The Rock and Big Show."
+
+@ 008
+JP 「そう言えば最近あまり
+JP 　試合に出てないですけど、どうしたんですか？
+EN "Come to think of it, you haven't
+EN  wrestled much lately. What's up?"
+
+@ 009
+JP #WS117：
+JP 「ああ、ちょっと首の方が調子悪くてな。
+EN Austin:
+EN "Ah, my neck's been acting up."
+
+@ 010
+JP #MS：
+JP 「首ですか・・・それはまた・・・
+EN #MS:
+EN "Your neck... That's rough..."
+
+@ 011
+JP #WS117：
+JP 「困ったもんだがな。まあレスラーなら誰でも
+JP 　どこかイカレちまうからな。仕方無いさ。
+EN Austin:
+EN "It's a pain. But every wrestler breaks
+EN  down somewhere. Can't be helped."
+
+@ 012
+JP #MS：
+JP 「そうですね・・・・
+EN #MS:
+EN "I guess so..."
+
+@ 013
+JP 俺は重いケガをしないようにと、
+JP 改めて気をつけようと思った。
+EN It made me resolve all over again to
+EN steer clear of any serious injury.

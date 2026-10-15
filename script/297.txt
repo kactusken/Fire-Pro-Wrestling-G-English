@@ -1,0 +1,197 @@
+@ 000
+JP 記者：
+JP 「おめでとうございます！
+EN Reporter:
+EN "Congratulations!"
+
+@ 001
+JP #MS：
+JP 「ありがとうございます。
+EN #MS:
+EN "Thank you."
+
+@ 002
+JP 記者：
+JP 「デビュー戦以来２度目の#WS050戦、
+JP 　いかがでしたか？
+EN Reporter:
+EN "Your second match with Kakihara
+EN  since your debut. How was it?"
+
+@ 003
+JP #MS：
+JP 「勢いもありますしテクニックも上なんで、
+JP 　勝てたのが不思議なくらいですよ。
+EN #MS:
+EN "He's got momentum and better
+EN  technique. It's a wonder I won."
+
+@ 004
+JP 記者：
+JP 「ＵＷＨインテグラルデビュー戦を
+JP 　白星で飾りましたね？
+EN Reporter:
+EN "A win in your UWF International
+EN  debut!"
+
+@ 005
+JP #MS：
+JP 「はい。とても嬉しく思います。
+JP 　これで慢心せずに
+JP 　いつも通り頑張って行きたいです。
+EN #MS:
+EN "Yes, I'm really happy. I won't get
+EN  cocky, I'll just keep working hard."
+
+@ 006
+JP 記者：
+JP 「ありがとうございました。
+EN Reporter:
+EN "Thank you very much."
+
+@ 007
+JP 記者：
+JP 「お疲れ様です。
+EN Reporter:
+EN "Good work out there."
+
+@ 008
+JP 「デビュー戦以来２度目の#WS050戦、
+JP 　いかがでしたか？
+EN "Your second match with Kakihara
+EN  since your debut. How was it?"
+
+@ 009
+JP #MS：
+JP 「今の#WS050さんは勢いが凄いですよ。
+JP 　正直言って勝ちたかったですけど
+JP 　今日は完敗ですね。
+EN #MS:
+EN "Kakihara's on a roll right now. I
+EN  wanted to win, but honestly, I was
+EN  outclassed."
+
+@ 010
+JP 「ただ明日につながる闘いは出来たと
+JP 　思ってますよ。この敗戦を糧にして、
+JP 　今度は勝ちます！頑張ります！
+EN "But it was a fight that leads
+EN  somewhere. I'll learn from this loss
+EN  and win next time! I'll work hard!"
+
+@ 011
+JP 記者：
+JP 「ありがとうございました。
+EN Reporter:
+EN "Thank you very much."
+
+@ 012
+JP その後、Ｕインテグラルは
+JP その規模を徐々に拡大していった。
+EN After that, U-International steadily
+EN grew.
+
+@ 013
+JP 大物選手を参戦させては話題を作り、
+JP エース#WS165さんの実力も伴って
+JP 不動の地位を築いて行った。
+EN Big-name signings made headlines,
+EN and with ace Takada's strength
+EN behind it, it became rock solid.
+
+@ 014
+JP そんなある日、俺が道場で
+JP 汗を流している時だった。
+EN Then one day, while I was sweating it
+EN out in the dojo...
+
+@ 015
+JP #WS165：
+JP 「よっ！
+EN Takada:
+EN "Yo!"
+
+@ 016
+JP #MS：
+JP 「#WS165さん！
+EN #MS:
+EN "Mr. Takada!"
+
+@ 017
+JP #WS165：
+JP 「ダブルファイトの事は知ってるよな？
+EN Takada:
+EN "You know about Double Fight,
+EN  right?"
+
+@ 018
+JP 『ダブルファイト』とは新たに考案された
+JP 試合形式で、タッグマッチのＵ系版と言えば
+JP 良いだろうか。
+EN "Double Fight" is a newly devised
+EN  match type. Call it the U-style
+EN  version of a tag match.
+
+@ 019
+JP #MS：
+JP 「ええ。ルールは一通り見ました。
+EN #MS:
+EN "Yeah. I looked over the rules."
+
+@ 020
+JP #WS165：
+JP 「今度の大会で早速やる事になったんだが、
+JP 　どうだ、お前やってみないか？
+EN Takada:
+EN "We're doing one at the next show.
+EN  How about it, want to try?"
+
+@ 021
+JP #MS：
+JP 「そうですね・・・
+EN #MS:
+EN "Let me think..."
+
+@ 022
+JP #WS003：
+JP 「安心しろ、多少なら俺が
+JP 　アドバイスしてやるよ。
+EN Yamazaki:
+EN "Relax, I can give you a few pointers."
+
+@ 023
+JP #MS：
+JP 「あ、#WS003さん。
+EN #MS:
+EN "Oh, Mr. Yamazaki."
+
+@ 024
+JP そうか。#WS165さんや#WS003さんは
+JP #PS00でタッグマッチを
+JP 経験しているはずだ。
+EN Right. Takada and Yamazaki must
+EN have tag experience from #PS00.
+
+@ 025
+JP #WS165：
+JP 「そうか。じゃあ、お前は#WS003と組め。
+JP 　俺は#WS167でも連れて行くよ。
+EN Takada:
+EN "Settled. You team with Yamazaki. I'll
+EN  bring Sano or someone."
+
+@ 026
+JP 「じゃ、試合でな。
+EN "See you at the match."
+
+@ 027
+JP #WS003：
+JP 「それじゃあ少し説明しておくか。
+EN Yamazaki:
+EN "Well then, let me explain a bit."
+
+@ 028
+JP #MS：
+JP 「お願いします！
+EN #MS:
+EN "Please do!"

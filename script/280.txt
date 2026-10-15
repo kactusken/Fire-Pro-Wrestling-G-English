@@ -1,0 +1,104 @@
+@ 000
+JP 俺は#WS149さんに呼び出されていた。
+EN Mr. Maeda had called for me.
+
+@ 001
+JP #WS149：
+JP 「どうや、最近の調子は？
+EN Maeda:
+EN "So how ya been lately?"
+
+@ 002
+JP #MS：
+JP 「ええ、それなりに・・・ところで今日は
+JP 　何かあったんですか？
+EN #MS:
+EN "Oh, not bad... But what's up today?"
+
+@ 003
+JP #WS149：
+JP 「実はな・・・引退を考えてるんや。
+EN Maeda:
+EN "Truth is... I'm thinkin' about
+EN  retirin'."
+
+@ 004
+JP #MS：
+JP 「い、引退！？
+JP 　#WS149さんがですか！？
+EN #MS:
+EN "R-Retiring!? You, Mr. Maeda!?"
+
+@ 005
+JP #WS149：
+JP 「そんなに驚く事でも無いやろ。
+JP 　体の事を考えればおかしくは無い時期や。
+EN Maeda:
+EN "Ain't nothin' to be so shocked about.
+EN  With my body, it's about time."
+
+@ 006
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 007
+JP #WS149：
+JP 「取りあえず#PS07での最終試合で
+JP 　引退セレモニーをやった後、最後に
+JP 　でっかい花火を上げるつもりや。
+EN Maeda:
+EN "Anyway, after a retirement
+EN  ceremony at my last #PS07 show,
+EN  I'm gonna go out with one big bang."
+
+@ 008
+JP 「で、色々考えたんやが・・・
+EN "So I gave it a lot of thought..."
+
+@ 009
+JP 「#PS07引退試合の相手をお前に
+JP 　やってもらおうかと思ってるんや。
+EN "And I'm thinkin' you should be my
+EN  opponent in my #PS07 retirement
+EN  match."
+
+@ 010
+JP #MS：
+JP 「えっ！？
+EN #MS:
+EN "What!?"
+
+@ 011
+JP #WS149：
+JP 「他にも候補はたくさんおるけどな。
+JP 　結局お前しか無いと結論を出した訳や。
+EN Maeda:
+EN "There's plenty of other candidates.
+EN  But in the end, I decided it had to be
+EN  you."
+
+@ 012
+JP #MS：
+JP 「・・・・分かりました。
+JP 　引退は残念ですけど#PS07最後の相手、
+JP 　務めさせてもらいます！
+EN #MS:
+EN "....All right. I'm sorry you're retiring,
+EN  but I'll be your last #PS07
+EN  opponent!"
+
+@ 013
+JP #WS149：
+JP 「頼むぞ。
+EN Maeda:
+EN "I'm countin' on ya."
+
+@ 014
+JP そして遂に・・・・・
+EN And finally.....
+
+@ 015
+JP 運命の日がやって来た。
+EN The fateful day arrived.

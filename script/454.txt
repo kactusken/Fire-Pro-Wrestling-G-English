@@ -1,0 +1,237 @@
+@ 000
+JP ディンク：
+JP 「実はまた#PL01から
+JP 　ユーを貸して欲しい、と言って来た。
+EN McMahon:
+EN "#PL01 has asked to borrow you
+EN  again."
+
+@ 001
+JP #MS：
+JP 「本当ですか！
+EN #MS:
+EN "Really!"
+
+@ 002
+JP ディンク：
+JP 「何でも今度のドーム大会に
+JP 　スポット参戦してくれと。
+EN McMahon:
+EN "They want you for a one-off at their
+EN  next Dome show."
+
+@ 003
+JP #MS：
+JP 「ドームですか・・・楽しみだなぁ。
+EN #MS:
+EN "The Dome... I can't wait."
+
+@ 004
+JP ディンク：
+JP 「まだいいとは言って無かったが、
+JP 　その様子では何がなんでも行きたい、
+JP 　と言うところだな？
+EN McMahon:
+EN "I haven't said yes yet. But by the
+EN  look of you, you're going no matter
+EN  what."
+
+@ 005
+JP #MS：
+JP 「ええ！是非お願いしますよ！
+EN #MS:
+EN "Yes! Please let me go!"
+
+@ 006
+JP 「また#WS052とタッグで暴れて・・・
+EN "I'll team with Ace again and tear it
+EN  up..."
+
+@ 007
+JP ディンク：
+JP 「ノー、ノー、ノー、ノー。ユーには
+JP 　シングルマッチを用意しているそうだ。
+EN McMahon:
+EN "No, no, no, no. They've got a singles
+EN  match lined up for you."
+
+@ 008
+JP 「何でもこの間#PS00から移籍して来た、
+JP 　ンー・・・サクガニ？サクガミ？
+JP 　確かそんな名前だったと思うが・・・
+EN "Against someone who just came over
+EN  from #PS00. Hmm... Sakugani?
+EN  Sakugami? Something like that..."
+
+@ 009
+JP #MS：
+JP 「もしかして・・・坂上ですか！？
+EN #MS:
+EN "Wait... Sakagami!?"
+
+@ 010
+JP ディンク：
+JP 「オゥ、それだ。ユーは知っているのか？
+EN McMahon:
+EN "Oh, that's the one. You know him?"
+
+@ 011
+JP #MS：
+JP 「それは、もう・・・・
+EN #MS:
+EN "Do I ever..."
+
+@ 012
+JP それから俺は#PS01の現状を色々
+JP 教えてもらった。
+EN Then he filled me in on how things
+EN stood at #PS01.
+
+@ 013
+JP ドームのメインでは#WS040選手が
+JP シングル無敗の三冠王者、#WS122に
+JP 挑む事、
+EN In the Dome main event, Misawa
+EN would challenge Vader, the Triple
+EN Crown champ, unbeaten in singles.
+
+@ 014
+JP #WS042選手がケガで欠場している事、
+JP 坂上が俺と闘う為に#PS01に
+JP 電撃移籍した事・・・・
+EN Kawada was out injured. And
+EN Sakagami had made a shock jump to
+EN #PS01 just to fight me...
+
+@ 015
+JP ディンク：
+JP 「この時期にユーを行かせるのは正直言って
+JP 　苦しい。展開を予定していたからな。
+JP 　だから始めは断るつもりだった。
+EN McMahon:
+EN "Honestly, sending you now hurts. We
+EN  had storylines planned. At first I
+EN  meant to say no."
+
+@ 016
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......"
+
+@ 017
+JP ディンク：
+JP 「だがそのサカガミ・・・今時、
+JP 　ユーと試合をする為に団体を移ったと言う。
+JP 　ミーには信じられない事だ。
+EN McMahon:
+EN "But this Sakagami... switched
+EN  promotions just to wrestle you. In
+EN  this day and age! Unbelievable."
+
+@ 018
+JP 「そして#MS・・・ユーも何があっても
+JP 　行くつもりでいるだろう？
+JP 　例え#PS06を辞めてでも・・・
+EN "And you, #MS... you're going no
+EN  matter what, aren't you? Even if you
+EN  have to quit #PS06..."
+
+@ 019
+JP #MS：
+JP 「はい。でも俺は辞めません。
+JP 　オーナーは行かせてくれますよね？
+EN #MS:
+EN "Yes. But I won't quit. You'll let me
+EN  go, won't you, boss?"
+
+@ 020
+JP ディンク：
+JP 「ハッハッハ！先手を打って来たか。
+EN McMahon:
+EN "Ha ha ha! You beat me to the punch."
+
+@ 021
+JP 「ああ、そうだ。ユーを失うぐらいなら
+JP 　このくらいのワガママは聞いてやろう。
+JP 　ただし１回だけだぞ？
+EN "Yes, all right. Better that than losing
+EN  you. I'll indulge you this once. But
+EN  only once."
+
+@ 022
+JP #MS：
+JP 「ありがとうございます！
+EN #MS:
+EN "Thank you so much!"
+
+@ 023
+JP こうして俺は再び日本へと
+JP 向かう事になったのだ。
+EN And so I headed back to Japan once
+EN more.
+
+@ 024
+JP 坂上：
+JP 「・・・・・・・
+EN Sakagami:
+EN "......."
+
+@ 025
+JP #MS：
+JP 「・・・・・・・・
+EN #MS:
+EN "........"
+
+@ 026
+JP 坂上：
+JP 「全く見違えちまったな。
+EN Sakagami:
+EN "You've changed so much I hardly
+EN  know you."
+
+@ 027
+JP #MS：
+JP 「お前こそ・・・最初は誰かと思ったよ。
+EN #MS:
+EN "Look who's talking... At first I didn't
+EN  even recognize you."
+
+@ 028
+JP 坂上：
+JP 「ヘヘヘ・・・
+JP 　本当にお前とこうして合い見える事が
+JP 　出来るなんてな・・・・
+EN Sakagami:
+EN "Heh heh... I can't believe we actually
+EN  get to face off like this..."
+
+@ 029
+JP #MS：
+JP 「ああ。道場での夢が今、現実になるんだ。
+JP 　この６万人の大観衆の中で・・・・
+EN #MS:
+EN "Yeah. Our dream from the dojo is
+EN  coming true. In front of 60,000 fans..."
+
+@ 030
+JP 坂上：
+JP 「感傷になんか浸ってたら
+JP 　秒殺してやるからな。
+EN Sakagami:
+EN "Get sentimental and I'll pin you in
+EN  seconds."
+
+@ 031
+JP #MS：
+JP 「その言葉、そっくり返してやるよ。
+JP 　お前の１２０％を・・・俺にぶつけて来い！
+EN #MS:
+EN "Right back at you. Give me your
+EN  120%... hit me with everything!"
+
+@ 032
+JP 坂上：
+JP 「おう！行くぜ！
+EN Sakagami:
+EN "You got it! Here I come!"

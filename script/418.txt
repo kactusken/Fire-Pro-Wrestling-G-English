@@ -1,0 +1,164 @@
+@ 000
+JP 俺はアメリカの
+JP スーパースターとの試合を終えた。
+EN My match with the American
+EN superstar was over.
+
+@ 001
+JP だが俺には感傷に浸る暇は無かった。
+JP すぐにまた両ＦＷＯ軍が
+JP 押し寄せて来たのだ。
+EN But there was no time to get
+EN sentimental. Both nWo armies came
+EN storming in again.
+
+@ 002
+JP 俺はレッドＦＷＯ軍の方に身構えた。
+JP しかし・・・・
+EN I squared up toward the Wolfpac.
+EN But....
+
+@ 003
+JP #MS：
+JP 「ウッ！？
+EN #MS:
+EN "Ugh!?"
+
+@ 004
+JP #WS101：
+JP 「ヘイ、#MS。
+JP 　ミーはこれから新しいＦＷＯを作る事にした。
+JP 　ユーはもう要らなくなった。
+EN Hogan:
+EN "Hey, #MS. I'm starting a new
+EN  nWo. We don't need you anymore,
+EN  brother."
+
+@ 005
+JP #MS：
+JP 「な！？
+EN #MS:
+EN "Wha!?"
+
+@ 006
+JP 周りを見ると、殴られているのは俺と
+JP #WS103だけで、それ以外の両ＦＷＯ軍は
+JP 結託しているようだった・・・・
+EN Looking around, Sting and I were the
+EN only ones getting beaten. Both nWo
+EN armies had joined forces....
+
+@ 007
+JP 俺は裏切られたのだ。
+EN I'd been betrayed.
+
+@ 008
+JP #WS100：
+JP 「ウォォォォォォッ！
+EN Goldberg:
+EN "WOOOOOOOOOH!"
+
+@ 009
+JP そこへ現れたのは
+JP #WF100。
+EN Then out came Bill Goldberg.
+
+@ 010
+JP １６０戦無敗と言う、
+JP どこぞの格闘家のような
+JP 戦績を誇るレスラーだ。
+EN A wrestler who boasts a 160-0 record,
+EN like a certain martial artist we know.
+
+@ 011
+JP そして現在の
+JP #PS05世界ヘビー級の
+JP チャンピオンでもある。
+EN And the current #PS05 World
+EN Heavyweight Champion.
+
+@ 012
+JP 彼は両ＦＷＯ勢を蹴散らし、
+JP リング上から追い払った。
+EN He scattered both nWo armies and
+EN drove them from the ring.
+
+@ 013
+JP #WS100：
+JP 「ウォォォォォォッ！！
+EN Goldberg:
+EN "WOOOOOOOOOH!!"
+
+@ 014
+JP 彼は雄叫びを上げると
+JP 俺達を残してリングを去って行った。
+EN He let out a roar and left the ring,
+EN leaving us behind.
+
+@ 015
+JP #WS103：
+JP 「ソーリィ、まさかこんな事になるとは・・・
+EN Sting:
+EN "Sorry. I never dreamed it'd come to
+EN  this..."
+
+@ 016
+JP 結局俺達２人以外のＦＷＯは合体。
+JP 新ＦＷＯとして軍団を作った。
+EN In the end, every nWo member but us
+EN two merged into one new nWo.
+
+@ 017
+JP #WS103：
+JP 「知らない間にミーとユーだけが
+JP 　仲間外れだったと言う訳だな・・・
+EN Sting:
+EN "So without knowing it, you and I
+EN  were the only ones left out..."
+
+@ 018
+JP 「力を合わせて闘いたい所だが、
+JP 　ミーはこの有り様だ。
+EN "I'd like to fight this together, but
+EN  look at me."
+
+@ 019
+JP #WS103は先日の襲撃で頭と脚を負傷、
+JP 当分欠場する事になってしまった。
+EN Sting hurt his head and leg in the
+EN attack, and he'll be out for a while.
+
+@ 020
+JP #MS：
+JP 「構わないですよ。
+JP 　俺は１人でも闘って見せる。
+EN #MS:
+EN "That's fine. I'll fight even if it's
+EN  alone."
+
+@ 021
+JP #WS103：
+JP 「そうか・・・
+EN Sting:
+EN "I see..."
+
+@ 022
+JP 俺は悔しそうな様子の#WS103を見て
+JP #WS101に復讐する前に、もう１人
+JP 倒しておきたい敵がいるのを思い出した。
+EN Seeing Sting's bitter face, I knew
+EN there was one more enemy to beat
+EN before my revenge on Hogan.
+
+@ 023
+JP それは
+JP #WF109の事だ。
+EN That's Kevin Nash.
+
+@ 024
+JP レッドＦＷＯの中で#WS101と
+JP 通じていたのはあの男だ。
+JP あいつとシングルで勝負してやる！
+EN He's the one in the Wolfpac who was
+EN working with Hogan. I'll take him on
+EN in singles!

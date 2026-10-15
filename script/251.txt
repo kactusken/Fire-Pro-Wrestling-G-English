@@ -1,0 +1,138 @@
+@ 000
+JP 俺はこの間の事が気になっていた。
+JP #WS165さんと控え室で言い合っていたのは
+JP 口調から考えても#WS149さんだ。
+EN That other day still bugged me. From
+EN the tone, the one arguing with Takada
+EN was Mr. Maeda.
+
+@ 001
+JP 一体何があったのか・・・・
+EN What on earth happened....
+
+@ 002
+JP #MS：
+JP 「あっ、すいません・・・・
+EN #MS:
+EN "Oh, excuse me...."
+
+@ 003
+JP #WS149：
+JP 「何や、ボーッとして。
+EN Maeda:
+EN "What's up, spacin' out?"
+
+@ 004
+JP #MS：
+JP 「#WS149さん！？
+EN #MS:
+EN "Mr. Maeda!?"
+
+@ 005
+JP 「あ、あの、実は・・・・
+EN "Uh, well, actually...."
+
+@ 006
+JP #WS149：
+JP 「ハハハハハ！まあ、そんなに心配すんな。
+JP 　確かに俺達は時々考え方や方法論で
+JP 　ぶつかり合う事もある。
+EN Maeda:
+EN "Hahahaha! Don't worry so much.
+EN  Sure, we butt heads sometimes over
+EN  ideas and methods."
+
+@ 007
+JP 「でもだからどうこう、って事は無いやろ。
+EN "But that don't mean anything's
+EN  gonna come of it."
+
+@ 008
+JP #MS：
+JP 「そうですか・・・・・
+EN #MS:
+EN "I see....."
+
+@ 009
+JP 「俺は何かあるんじゃないかと思って
+JP 　ドキドキしてましたよ。
+JP 　いやあ、良かったですよ。
+EN "I was so nervous something was
+EN  going on. Man, that's a relief."
+
+@ 010
+JP #WS149：
+JP 「ま、そう言う事やさかい、
+JP 　あんま心配せんでええ。
+EN Maeda:
+EN "So that's how it is. Don't worry about
+EN  it."
+
+@ 011
+JP #MS：
+JP 「はい！ありがとうございました。
+EN #MS:
+EN "Right! Thank you."
+
+@ 012
+JP だが#WS149さんが振り返る瞬間、
+JP 表情が暗くなったような気がした。
+JP 気のせいか・・・？
+EN But as Mr. Maeda turned away, I
+EN thought his face darkened. Was I
+EN imagining it...?
+
+@ 013
+JP そんな中何とあの#WS150さんとの
+JP 試合が組まれた。
+EN Meanwhile, I was booked against none
+EN other than Mr. Fujiwara.
+
+@ 014
+JP #WS150：
+JP 「・・・・・・・・
+EN Fujiwara:
+EN "........"
+
+@ 015
+JP #WS150さんがまるで
+JP 値踏みをするかのように俺を見ている。
+EN Mr. Fujiwara was looking me over as
+EN if sizing me up.
+
+@ 016
+JP #MS：
+JP 「よろしくお願いします！
+EN #MS:
+EN "Looking forward to it, sir!"
+
+@ 017
+JP #WS150：
+JP 「・・・・・・・・
+EN Fujiwara:
+EN "........"
+
+@ 018
+JP 「・・・まあ、ケガしねぇようにな。
+EN "...Well, try not to get hurt."
+
+@ 019
+JP そう言うと#WS150さんはニヤッと笑った。
+JP その笑みは#WS026先生の恐ろしい笑みと
+JP 良く似ていた。
+EN With that, Mr. Fujiwara grinned. A
+EN grin just like Coach Yamamoto's
+EN terrifying one.
+
+@ 020
+JP だが怖気づく訳にもいかない。
+JP 俺は顔を両手で叩くと気合を入れ直した。
+EN But I couldn't lose my nerve. I slapped
+EN my face with both hands and got fired
+EN up again.
+
+@ 021
+JP #MS：
+JP 「行きます！
+EN #MS:
+EN "Here I come!"

@@ -1,0 +1,30 @@
+@ 000
+JP #WS151：
+JP 「さすがですね・・・やっぱり
+JP 　決勝に上がって来た。
+EN Ishikawa:
+EN "Impressive... you made the final
+EN  after all."
+
+@ 001
+JP #MS：
+JP 「お前こそ・・・社長やりながら
+JP 　良くやるぜ。
+EN #MS:
+EN "So did you... while running the
+EN  company, too."
+
+@ 002
+JP #WS151：
+JP 「俺達の試合で
+JP 　#PL09の凄さを
+JP 　お客さんに見せてやりましょう！
+EN Ishikawa:
+EN "Let's show the fans how great
+EN  #PL09 is with our match!"
+
+@ 003
+JP #MS：
+JP 「おう！
+EN #MS:
+EN "You bet!"

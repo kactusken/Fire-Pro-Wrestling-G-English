@@ -1,0 +1,106 @@
+@ 000
+JP 坂上との突然のタッグマッチは
+JP 会場のボルテージを一気に最高潮にした。
+EN The surprise tag match with
+EN Sakagami sent the crowd's energy
+EN through the roof.
+
+@ 001
+JP 坂上：
+JP 「今日は突然悪かったな。
+JP 　でも強引でもこうしないと
+JP 　道は開けないと思ってな。
+EN Sakagami:
+EN "Sorry for barging in today. But I
+EN  figured forcing it was the only way
+EN  to open a path."
+
+@ 002
+JP #PS02から#PS00への乱入は
+JP 現実的にかなり無理がある。
+EN Realistically, a #PS02 guy
+EN invading #PS00 was next to
+EN impossible.
+
+@ 003
+JP それなら#PS00にいる自分の方が
+JP 出向くしかない、と思ったのだろう。
+EN So he must have figured that, being in
+EN #PS00, he had to be the one to
+EN come.
+
+@ 004
+JP #MS：
+JP 「いや、確かに強行手段だったとは思うけど、
+JP 　感謝してるよ。それよりはお互い団体側の
+JP 　処理の方が大変そうだな。
+EN #MS:
+EN "It was a pretty wild move, but
+EN  thanks. Bet both our offices will be a
+EN  pain to deal with, though."
+
+@ 005
+JP 坂上：
+JP 「それはこれから考えるさ。
+EN Sakagami:
+EN "I'll figure that out later."
+
+@ 006
+JP 「今日はあくまでもスタートだ。
+JP 　今度はシングルで勝負だ！
+JP 　あの時の約束通りにな。
+EN "Today was just the start. Next time
+EN  it's one-on-one! Just like we
+EN  promised."
+
+@ 007
+JP #MS：
+JP 「そうだな。必ず実現させよう！
+EN #MS:
+EN "Right. We'll make it happen!"
+
+@ 008
+JP 坂上：
+JP 「その日まで・・・またな。
+EN Sakagami:
+EN "Till that day... see you."
+
+@ 009
+JP #MS：
+JP 「ああ。
+EN #MS:
+EN "Yeah."
+
+@ 010
+JP その後機構側と坂上の件で多少もめたが、
+JP 大した問題にはならなかった。マスコミの
+JP 騒ぎようを考えると坂上は大変そうだが・・・
+EN There was some fuss with the office
+EN over Sakagami, but nothing big. With
+EN the press frenzy, he had it rough...
+
+@ 011
+JP 一方こちらはいよいよ新タイトル設立が決定。
+JP 初代チャンピオン決定戦を俺と
+JP #WS068さんですることになった。
+EN Meanwhile, the new title was finally
+EN set. Hayabusa and I would fight for
+EN the first championship.
+
+@ 012
+JP #WS068：
+JP 「#MS、
+JP 　いい試合をしよう。
+JP 　新たな気持ちで・・・
+EN Hayabusa:
+EN "#MS, let's have a great match.
+EN  With a fresh start..."
+
+@ 013
+JP #MS：
+JP 「ええ、#PL02の底力、
+JP 　しっかりとお客さんに
+JP 　見せてやりましょう！
+EN #MS:
+EN "Yeah, let's show the fans what
+EN  #PL02 is really made of!"

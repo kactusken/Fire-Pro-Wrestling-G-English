@@ -1,0 +1,32 @@
+@ 000
+JP トーナメントに敗れた俺の
+JP 今日の試合の相手は#WS049。
+EN Out of the tournament, today I faced
+EN Takayama.
+
+@ 001
+JP #WS049：
+JP 「#MSさん・・・
+JP 　お互い脱落者同士ですけど、俺はあなたとの
+JP 　試合は楽しみにしてました。
+EN Takayama:
+EN "#MS... we're both dropouts, but
+EN  I was looking forward to facing you."
+
+@ 002
+JP 「今日は思いっきり来て下さい！
+EN "Come at me with everything today!"
+
+@ 003
+JP #MS：
+JP 「分かったよ。お前の気持ちに応える
+JP 　闘いをしようじゃないか！
+EN #MS:
+EN "Got it. Let's have a fight worthy of
+EN  that spirit!"
+
+@ 004
+JP #WS049：
+JP 「お願いします！
+EN Takayama:
+EN "Let's go!"

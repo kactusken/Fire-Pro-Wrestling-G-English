@@ -1,0 +1,89 @@
+@ 000
+JP 今日はトーナメント決勝戦だ。
+JP 優勝者はＩＧＰのベルトへの挑戦権を得る。
+EN Today is the tournament final. The
+EN winner earns a shot at the IWGP belt.
+
+@ 001
+JP でもその次は俺が必ず！
+EN But next time, it'll be me for sure!
+
+@ 002
+JP 記者：
+JP 「#MSさん！
+EN Reporter:
+EN "#MS!"
+
+@ 003
+JP 「ちょっとお話よろしいですか？
+EN "Got a minute?"
+
+@ 004
+JP #MS：
+JP 「今日はＶ－１の決勝だぜ？
+JP 　来るとこが違うんじゃないの？
+EN #MS:
+EN "Today's the G1 final, right? Aren't
+EN  you in the wrong place?"
+
+@ 005
+JP 記者：
+JP 「いえ、今日は同世代の
+JP 　#WS008選手とのシングルですよね？
+EN Reporter:
+EN "No, today's your singles match with
+EN  Nakanishi, from your generation,
+EN  right?"
+
+@ 006
+JP 「最近の#MSさんと
+JP 　同世代の人達の試合が熱いって事で、
+JP 　我々注目してるんですよ。
+EN "Your matches with guys your age
+EN  have been really hot lately. We're
+EN  keeping an eye on it."
+
+@ 007
+JP 知らなかったな。実際悪い気はしないけど。
+EN I didn't know that. Can't say I mind,
+EN though.
+
+@ 008
+JP #MS：
+JP 「良く聞け！同世代だか何だか知らねえけど
+JP 　あんなのと一緒にすんじゃねえ！
+EN #MS:
+EN "Listen up! Same generation or not,
+EN  don't lump me in with that guy!"
+
+@ 009
+JP 「俺はな！もっと先を見てるんだ、先を！
+JP 　あんなのただの踏み台だよ！
+EN "I'm looking further ahead, way
+EN  ahead! He's just a stepping stone!"
+
+@ 010
+JP 記者：
+JP 「おっ、気合入ってますね！
+EN Reporter:
+EN "Whoa, you're fired up!"
+
+@ 011
+JP #MS：
+JP 「当然だろ！ケガしないように
+JP 　あいつに注意しとけ！
+EN #MS:
+EN "Damn right! Tell him to watch out he
+EN  doesn't get hurt!"
+
+@ 012
+JP 記者：
+JP 「期待してます！
+EN Reporter:
+EN "Can't wait!"
+
+@ 013
+JP 確かに俺自身、気合が入ってる。
+JP 今日は行ける！
+EN I really am fired up. I've got this
+EN today!

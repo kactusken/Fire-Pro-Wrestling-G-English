@@ -1,0 +1,89 @@
+@ 000
+JP 俺は勝った。あの
+JP #WF090に・・・
+EN I won. Over Genichiro Tenryu
+EN himself...
+
+@ 001
+JP そして#PS00のリングだと言うのに
+JP この歓声・・・ファンの心にも
+JP 俺の闘いが届いたのだ。
+EN And this cheering, in the #PS00
+EN ring... My fight had reached the fans'
+EN hearts too.
+
+@ 002
+JP 俺は負けてしまった。
+EN I lost.
+
+@ 003
+JP だが#PS00のリングだと言うのに
+JP この歓声は・・・・
+EN But this cheering, in the #PS00
+EN ring....
+
+@ 004
+JP リングを降りてしまった#WS090選手への
+JP 歓声じゃない。この歓声は俺に向けて
+JP 発せられているファンの声だ！
+EN It's not for Tenryu, who's already left
+EN the ring. The fans are cheering for
+EN me!
+
+@ 005
+JP ファンの心にも
+JP 俺の闘いが届いたのだ。
+EN My fight had reached the fans' hearts
+EN too.
+
+@ 006
+JP いつの間にか#MSコールが
+JP 会場を埋め尽くしていた。
+EN Before I knew it, chants of
+EN "#MS" filled the arena.
+
+@ 007
+JP #WS076：
+JP 「#MS・・・・
+EN Onita:
+EN "#MS...."
+
+@ 008
+JP #MS：
+JP 「やりましたよ、#WS076さん！
+JP 　メジャー#PS00のリングで、
+JP 　邪道レスラーのコールを起こしましたよ！
+EN #MS:
+EN "We did it, Mr. Onita! In the
+EN  major-league #PS00 ring, they're
+EN  chanting for an outlaw!"
+
+@ 009
+JP #WS076：
+JP 「お前は・・・お前は本当に大した奴じゃ！
+JP 　お前こそ最高の邪道じゃあ！
+EN Onita:
+EN "You... you really are something!
+EN  You're the greatest outlaw of all!"
+
+@ 010
+JP その後#WF076は
+JP ２度目の引退をした。だが彼は引退式の時、
+JP 満足そうに笑っていた。
+EN Later, Atsushi Onita retired for the
+EN second time. But at his retirement
+EN ceremony, he smiled, satisfied.
+
+@ 011
+JP 彼の後継者#MSは邪道魂を受け継ぎ、
+JP 邪道の申し子として闘い続けた。
+EN His heir, #MS, inherited the
+EN outlaw spirit and fought on as the
+EN outlaw's true heir.
+
+@ 012
+JP やがてその闘いの数々は『新・邪道伝説』として
+JP 日本プロレス界の歴史に刻み込まれたのだった。
+EN In time, those battles were carved into
+EN Japanese wrestling history as "The
+EN New Outlaw Legend."

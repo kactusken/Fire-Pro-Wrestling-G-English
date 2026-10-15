@@ -1,0 +1,74 @@
+@ 000
+JP 俺達の今日の相手は
+JP #WS041・#WS044組。
+JP 『ライトニング』と言うチーム名を持っている。
+EN Today's opponents: Kobashi and
+EN Akiyama, the team known as
+EN "Burning."
+
+@ 001
+JP 早くも#WS052は#WS041さんと
+JP 激しく睨み合っている。
+JP この２人は過去に因縁があったはずだ。
+EN Ace and Kobashi were already locked
+EN in a fierce staredown. These two had
+EN history, I recalled.
+
+@ 002
+JP 俺も負けてはいられない。
+JP #WS052を押さえて前に出た。
+EN I couldn't hang back either. I held Ace
+EN back and stepped forward.
+
+@ 003
+JP するとあちらも#WS044選手が
+JP 前に出て来た。
+EN Then Akiyama stepped forward too.
+
+@ 004
+JP #WS044：
+JP 「俺達ライトニングは結果を
+JP 　出さなくちゃならない。
+EN Akiyama:
+EN "We in Burning have to get results."
+
+@ 005
+JP 「それに個人としても、俺はまだ
+JP 　#WS041さんに世話になってばかりで
+JP 　何も恩返しが出来ていない。
+EN "And personally, Kobashi's done so
+EN  much for me, and I've never paid him
+EN  back."
+
+@ 006
+JP 「このワールドワンタッグ、必ず
+JP 　優勝しなければならない！
+JP 　ここで負けてはいられないんだ！
+EN "We have to win this Real World Tag
+EN  League! I can't lose here!"
+
+@ 007
+JP #MS：
+JP 「俺も#PS01に来て、
+JP 　『来ました、はい、さようなら』って訳には
+JP 　行かないんでね！
+EN #MS:
+EN "I didn't come to #PS01 just to say
+EN  'Hi, bye' either!"
+
+@ 008
+JP 「このリーグ戦に優勝して、実績を作って帰る！
+EN "I'll win this league and go home with
+EN  something to show for it!"
+
+@ 009
+JP #WS044：
+JP 「よし、思いっきり来いよ！
+EN Akiyama:
+EN "Good. Come at me with everything!"
+
+@ 010
+JP #MS：
+JP 「おう！
+EN #MS:
+EN "You got it!"

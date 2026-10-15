@@ -1,0 +1,157 @@
+@ 000
+JP #WS101：
+JP 「ヘイ、#MS！
+JP 　今日はビッグニュースを持って来たぜ！
+EN Hogan:
+EN "Hey, #MS! I've got big news
+EN  today!"
+
+@ 001
+JP #MS：
+JP 「ビッグニュース？
+EN #MS:
+EN "Big news?"
+
+@ 002
+JP #WS101：
+JP 「今空位になってる#PS05世界タッグの
+JP 　王座決定戦が行われる。それに
+JP 　ブラックＦＷＯから出場する事になった。
+EN Hogan:
+EN "There's a match for the vacant
+EN  #PS05 World Tag titles. nWo
+EN  Hollywood is sending a team."
+
+@ 003
+JP 「しかも相手はタッグトーナメントで
+JP 　優勝して来たジャパンのチームだ。
+EN "And the opponents are a team from
+EN  Japan that won a tag tournament."
+
+@ 004
+JP #MS：
+JP 「ジャパンって・・・#PS00ですよね？
+JP 　誰だか分かります？
+EN #MS:
+EN "Japan... so #PS00, right? Do you
+EN  know who it is?"
+
+@ 005
+JP #WS101：
+JP 「ノー。
+JP 　聞いたが知らない名前だったんで
+JP 　忘れてしまった。
+EN Hogan:
+EN "Nope. I heard, but I didn't know the
+EN  names, so I forgot."
+
+@ 006
+JP #MS：
+JP 「そうですか・・・・
+EN #MS:
+EN "I see...."
+
+@ 007
+JP #WS101：
+JP 「で、出場するのはユーと
+JP 　#WS107にしようかと思ってる。
+EN Hogan:
+EN "So I'm thinking of sending you and
+EN  Norton."
+
+@ 008
+JP #MS：
+JP 「本当ですか！？
+EN #MS:
+EN "Really!?"
+
+@ 009
+JP #WS101：
+JP 「ヘイ、#WS107。
+EN Hogan:
+EN "Hey, Norton."
+
+@ 010
+JP 「頼むぞ、２人共。
+JP 　チームの為にベルトを取って来てくれよ。
+EN "I'm counting on you two. Bring those
+EN  belts home for the team."
+
+@ 011
+JP 「ブラックＦＷＯの財産にするんだからな。
+EN "They'll be nWo Hollywood property."
+
+@ 012
+JP #WS107：
+JP 「ＯＫ、ボス。
+JP 　#MS、よろしく頼むぜ。
+EN Norton:
+EN "OK, boss. #MS, let's do this."
+
+@ 013
+JP #MS：
+JP 「こちらこそ。
+JP 　よろしく、#WS107。
+EN #MS:
+EN "Same here. Let's do it, Norton."
+
+@ 014
+JP いよいよ#PS05世界タッグ王座決定戦の
+JP 試合の日がやって来た。
+EN At last, the day of the #PS05
+EN World Tag title match arrived.
+
+@ 015
+JP 相手は・・・・
+EN Our opponents....
+
+@ 016
+JP #WS002：
+JP 「わざわざアメリカまで来たんだ！
+JP 　ベルトは貰って帰るからな！
+EN Sasaki:
+EN "We came all the way to America!
+EN  We're taking those belts home!"
+
+@ 017
+JP #WS010：
+JP 「久しぶりだな。
+EN Nagata:
+EN "Long time no see."
+
+@ 018
+JP #MS：
+JP 「まさかお前がこんな形でこっちに
+JP 　帰って来るなんてね。
+EN #MS:
+EN "Never thought you'd come back here
+EN  like this."
+
+@ 019
+JP #WS010：
+JP 「お前との試合も久々だからな。
+JP 　凄く楽しみにして来たよ。
+EN Nagata:
+EN "It's been a while since we fought.
+EN  I've really been looking forward to
+EN  it."
+
+@ 020
+JP #MS：
+JP 「それは俺もだぜ。
+EN #MS:
+EN "Same here."
+
+@ 021
+JP #WS107：
+JP 「#MS、ユーとミーのチャンスだ。
+JP 　必ずベルトをゲットするぞ！
+EN Norton:
+EN "#MS, it's your chance and mine.
+EN  We're getting those belts!"
+
+@ 022
+JP #MS：
+JP 「ＯＫ！
+EN #MS:
+EN "OK!"

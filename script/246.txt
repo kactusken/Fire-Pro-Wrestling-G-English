@@ -1,0 +1,80 @@
+@ 000
+JP 坂上：
+JP 「見直したよ。
+JP 　邪道を語る割にはやるじゃねぇか。
+EN Sakagami:
+EN "I take it back. For all your outlaw
+EN  talk, you're good."
+
+@ 001
+JP #MS：
+JP 「そうか。少なからず
+JP 　分かってもらえて嬉しいよ。
+EN #MS:
+EN "Is that so. I'm glad you get it, at least
+EN  a little."
+
+@ 002
+JP 坂上：
+JP 「だがな、俺達の闘いはもっともっと
+JP 　凄いものじゃないとダメだ。
+EN Sakagami:
+EN "But our fights have to be way, way
+EN  better than this."
+
+@ 003
+JP 「俺も、お前も、まだ
+JP 　学ばなければいけない事がたくさんある。
+EN "You and I both still have a lot to
+EN  learn."
+
+@ 004
+JP #MS：
+JP 「そうだな・・・・
+EN #MS:
+EN "Yeah...."
+
+@ 005
+JP 坂上：
+JP 「２人がもっと完成された
+JP 　試合が出来るようになったら、またやろう。
+EN Sakagami:
+EN "Once we can both put on a more
+EN  complete match, let's do it again."
+
+@ 006
+JP #MS：
+JP 「おう。約束だぜ！
+EN #MS:
+EN "Yeah. That's a promise!"
+
+@ 007
+JP その後#WF076は
+JP 古傷の膝が悪化し２度目の引退をした。
+EN Later, Atsushi Onita's bad knee got
+EN worse, and he retired for the second
+EN time.
+
+@ 008
+JP #MSは邪道魂を受け継いで闘い続けたが
+JP #WS076抜きでの１人の闘いでは
+JP 長くは続かなかった。
+EN #MS inherited the outlaw spirit
+EN and fought on, but alone, without
+EN Onita, he didn't last long.
+
+@ 009
+JP 彼はライバル坂上浩一との再戦を果たす事無く
+JP #PS00に出られなくなり、他団体に闘い
+JP 場所を求めるも、どこでも長く続かなかった。
+EN With no rematch with Sakagami, he
+EN was shut out of #PS00. He tried
+EN other promotions, but nothing lasted.
+
+@ 010
+JP やがて#MFの名は
+JP プロレス界から
+JP 消え去って行ったのだった・・・
+EN In time, the name
+EN #MF faded from
+EN the wrestling world...

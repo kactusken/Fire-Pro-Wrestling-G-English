@@ -1,0 +1,253 @@
+@ 000
+JP #WS149：
+JP 「来てもらって早速で悪いが俺は
+JP 　膝の手術に踏み切ろうかと思ってるんや。
+EN Maeda:
+EN "Sorry to spring it on ya right away,
+EN  but I'm thinkin' of gettin' my knee
+EN  operated on."
+
+@ 001
+JP #MS：
+JP 「えっ！？
+EN #MS:
+EN "What!?"
+
+@ 002
+JP #WS149さんの古傷の膝・・・
+EN Mr. Maeda's bad knee...
+
+@ 003
+JP 治療するのは良い事だが、手術をするとなると
+JP プロレスラーの体力を持ってしても試合に
+JP 出れるようになるまでかなりの時間がかかる。
+EN Treating it is good, but after surgery,
+EN even a pro wrestler's body takes a
+EN long time to get back in the ring.
+
+@ 004
+JP 「長期欠場、と言う事ですか・・・・
+EN "So you'll be out a long time...."
+
+@ 005
+JP #WS149：
+JP 「そうや。その間#WS168達と
+JP 　お前に留守を任せる。
+EN Maeda:
+EN "Right. I'm leavin' things to Nagai and
+EN  you while I'm gone."
+
+@ 006
+JP #MS：
+JP 「・・・はい。
+EN #MS:
+EN "...Yes, sir."
+
+@ 007
+JP 責任重大だ。エースである#WS149さん
+JP 不在の興行で、お客さんを
+JP 満足させなければならないのだ。
+EN A heavy responsibility. We'd have to
+EN satisfy the fans at shows without our
+EN ace, Mr. Maeda.
+
+@ 008
+JP #WS149：
+JP 「それで次の大会で
+JP 　#WF171が
+JP 　来る事になってる。
+EN Maeda:
+EN "So at the next show, Maurice Smith
+EN  is comin'."
+
+@ 009
+JP 「その相手をお前にやってもらいたいと
+JP 　思ってるんや。
+EN "I want you to be the one to face
+EN  him."
+
+@ 010
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 011
+JP #WF171。
+JP キックボクサーとして数々のタイトルを獲得。
+JP 異種格闘技戦にも良く出場している。
+EN Maurice Smith. A kickboxer with a
+EN pile of titles, and a regular in
+EN mixed-style fights.
+
+@ 012
+JP 「やります！
+EN "I'll do it!"
+
+@ 013
+JP #WS149：
+JP 「そうか。お前ならそう言うと思ってたよ。
+EN Maeda:
+EN "Yeah. I figured you'd say that."
+
+@ 014
+JP 「初参戦でこのカードなら話題性もバッチリや。
+JP 　頼むぞ！
+EN "His first time here, and this match?
+EN  That'll get people talkin'. I'm countin'
+EN  on ya!"
+
+@ 015
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 016
+JP #WS149さん不在の中、日本人選手が何も
+JP 実績を残せなかったら#PS07の未来は
+JP 無いと言って良いだろう。
+EN With Mr. Maeda gone, if the Japanese
+EN fighters get no results, #PS07 has
+EN no future.
+
+@ 017
+JP 今の俺に勝てる相手かどうかは分からないが
+JP やるしかない。そしてこの状況をチャンスだと
+JP 考えて精一杯の闘いをしよう！
+EN I don't know if I can beat him right
+EN now, but I have to. I'll treat this as a
+EN chance and give it my all!
+
+@ 018
+JP 俺は#WS171戦に向けてトレーニングに
+JP 励んでいた。
+EN I was training hard for the Smith
+EN match.
+
+@ 019
+JP #WS143：
+JP 「#MS！
+EN Tamura:
+EN "#MS!"
+
+@ 020
+JP #MS：
+JP 「あっ、#WS143さん。
+EN #MS:
+EN "Oh, Mr. Tamura."
+
+@ 021
+JP #WS143：
+JP 「久しぶりだな。
+EN Tamura:
+EN "Long time no see."
+
+@ 022
+JP #MS：
+JP 「どうしたんです？
+EN #MS:
+EN "What brings you here?"
+
+@ 023
+JP #WS143：
+JP 「そうか、お前まだ聞いてないのか。
+EN Tamura:
+EN "Oh, so you haven't heard yet."
+
+@ 024
+JP #MS：
+JP 「え？
+EN #MS:
+EN "Huh?"
+
+@ 025
+JP #WS143：
+JP 「実は俺も#PS07に入団する事に
+JP 　なったんだよ。
+EN Tamura:
+EN "Actually, I'm joining #PS07 too."
+
+@ 026
+JP #MS：
+JP 「そうなんですか！
+EN #MS:
+EN "Really!"
+
+@ 027
+JP #WS143：
+JP 「まだマスコミには内緒にしてるから
+JP 　大っぴらには出来ないけどな。
+EN Tamura:
+EN "We're keeping it from the press for
+EN  now, so I can't go public yet."
+
+@ 028
+JP 「実際にはもう大分前からここの道場で
+JP 　練習させてもらってるんだ。
+EN "Truth is, I've been training at this
+EN  dojo for a good while now."
+
+@ 029
+JP #MS：
+JP 「そうだったんですか・・・
+EN #MS:
+EN "So that's how it was..."
+
+@ 030
+JP #WS143：
+JP 「まああっちでは色々あったけど・・・
+EN Tamura:
+EN "A lot happened over there, but..."
+
+@ 031
+JP 「#PS07で新たな闘いをして行く
+JP 　つもりだ。よろしくな。
+EN "I plan to start a new fight in
+EN  #PS07. Good to have you."
+
+@ 032
+JP #MS：
+JP 「はい、こちらこそ！
+JP 　でも試合では負けませんよ！
+EN #MS:
+EN "Good to have you too! But I won't
+EN  lose to you in the ring!"
+
+@ 033
+JP #WS143：
+JP 「ハハハ、まあお互い良いライバルに
+JP 　なれそうだな。
+EN Tamura:
+EN "Ha ha, looks like we'll make good
+EN  rivals."
+
+@ 034
+JP #WS171：
+JP 「せっかく#PS07のリングに上がったのに
+JP 　#WS149が欠場中とは残念だ。
+EN Smith:
+EN "Too bad, finally stepping into the
+EN  #PS07 ring, and Maeda is out."
+
+@ 035
+JP 「それにしても相手がユーのような
+JP 　ヤングボーイでは私も闘い甲斐が無いよ。
+EN "And facing a young boy like you, it
+EN  is hardly worth my time."
+
+@ 036
+JP #MS：
+JP 「そう言うセリフは俺の闘いを見てから
+JP 　言ってもらおうか！
+EN #MS:
+EN "Save that kind of talk till after
+EN  you've seen me fight!"
+
+@ 037
+JP #WS171：
+JP 「なるほど、威勢の良いボーイだ。
+JP 　では見せてもらおうか、ユーの闘いを。
+EN Smith:
+EN "I see, a feisty boy. Then show me,
+EN  how you fight."

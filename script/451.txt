@@ -1,0 +1,99 @@
+@ 000
+JP #PS01への遠征を終えた俺は
+JP 再びアメリカにやって来た。
+EN My #PS01 tour over, I came back
+EN to America.
+
+@ 001
+JP 俺のいない間に#PS06は
+JP 何があっただろうか・・・・
+EN I wondered what had happened at
+EN #PS06 while I was gone...
+
+@ 002
+JP ディンク：
+JP 「やあ、おかえり。
+JP 　どうだった？日本での試合は。
+EN McMahon:
+EN "Ah, welcome back. How were your
+EN  matches in Japan?"
+
+@ 003
+JP #MS：
+JP 「おかげさまでいい経験になりましたよ。
+EN #MS:
+EN "It was a great experience, thanks to
+EN  you."
+
+@ 004
+JP ディンク：
+JP 「そうか。それは良かった。
+EN McMahon:
+EN "I see. Good to hear."
+
+@ 005
+JP 「では早速その経験を活かしてもらおうか。
+EN "Then let's put that experience to use
+EN  right away."
+
+@ 006
+JP #MS：
+JP 「試合ですか！
+EN #MS:
+EN "A match!"
+
+@ 007
+JP ディンク：
+JP 「ああ。しかも
+JP 　そんじょそこらの相手では無いぞ。
+EN McMahon:
+EN "Yes. And no run-of-the-mill
+EN  opponent, either."
+
+@ 008
+JP 「何しろ我らがチームカンパニーが誇る
+JP 　#PS06世界ヘビー級チャンピオン、
+JP 　#WS183だからな。
+EN "It's the pride of the Corporation, the
+EN  #PS06 World Heavyweight
+EN  Champion, The Rock."
+
+@ 009
+JP #MS：
+JP 「えっ！
+EN #MS:
+EN "What!"
+
+@ 010
+JP ディンク：
+JP 「もちろんノンタイトルだがな。
+EN McMahon:
+EN "Non-title, of course."
+
+@ 011
+JP #MS：
+JP 「何だ・・・・
+EN #MS:
+EN "Oh..."
+
+@ 012
+JP ディンク：
+JP 「ハハハ、そこまで甘くは無いぞ。
+JP 　だがノンタイトルでもチャンピオンと
+JP 　シングルマッチだ。悪くはあるまい？
+EN McMahon:
+EN "Ha ha, I'm not that generous. But a
+EN  singles match with the champ is still
+EN  not bad, eh?"
+
+@ 013
+JP #MS：
+JP 「そうですね・・・頑張らせてもらいます！
+EN #MS:
+EN "True... I'll give it my all!"
+
+@ 014
+JP ディンク：
+JP 「ああ、期待してるぞ。
+EN McMahon:
+EN "Yes, I'm counting on you."

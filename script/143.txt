@@ -1,0 +1,80 @@
+@ 000
+JP 記者：
+JP 「三冠王座奪取、おめでとうございます。
+EN Reporter:
+EN "Congratulations on winning the
+EN  Triple Crown."
+
+@ 001
+JP #MS：
+JP 「ありがとうございます！
+EN #MS:
+EN "Thank you!"
+
+@ 002
+JP 記者：
+JP 「チャンピオンフェスティバル制覇に続いての
+JP 　三冠王座奪取で、事実上#PS01の
+JP 　頂点に立ったと言っていいと思います。
+EN Reporter:
+EN "The Champion Carnival, then the
+EN  Triple Crown. You're effectively at
+EN  the top of #PS01 now."
+
+@ 003
+JP #MS：
+JP 「でも今回だけじゃ意味が無いんでね。
+JP 　防衛記録を伸ばして行けるように
+JP 　頑張ります！
+EN #MS:
+EN "But one time means nothing. I'll work
+EN  hard to keep building my defense
+EN  record!"
+
+@ 004
+JP #WS059：
+JP 「良くやったな。本当に良くここまで
+JP 　成長したよ。
+EN Baba:
+EN "Well done. You've really grown to get
+EN  this far."
+
+@ 005
+JP #MS：
+JP 「ありがとうございます。
+EN #MS:
+EN "Thank you, sir."
+
+@ 006
+JP #WS059：
+JP 「これからも#PL01を
+JP 　頼むぞ。
+EN Baba:
+EN "I'm counting on you to take care of
+EN  #PL01 from here on."
+
+@ 007
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 008
+JP その後も目覚しい活躍を見せた
+JP #MSは#PL01の
+JP 不動のエースとなる。
+EN #MS kept up his remarkable run
+EN and became #PL01's unshakable
+EN ace.
+
+@ 009
+JP そして坂上とのシングルマッチを
+JP 実現させるべく、今日も闘い続ける。
+EN And to make that single with
+EN Sakagami happen, he fights on to this
+EN day.
+
+@ 010
+JP 王道という看板を背負って・・・
+EN Carrying the banner of the King's
+EN Road...

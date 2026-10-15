@@ -1,0 +1,84 @@
+@ 000
+JP #WS166：
+JP 「いよいよ明日旗揚げだな。
+JP 　さすがの俺も緊張するよ。
+EN Anjoh:
+EN "Opening show's tomorrow. Even I'm
+EN  nervous."
+
+@ 001
+JP 「まあ、その緊張した顔もまたシブくて
+JP 　男前だから、いいんだけどな！
+EN "Then again, my nervous face is cool
+EN  and manly too, so it's all good!"
+
+@ 002
+JP #MS：
+JP 「そ、そうですね・・・
+EN #MS:
+EN "R-right..."
+
+@ 003
+JP 俺が選んだ新たな戦場はキャッスル。
+JP この#WS166さんが
+JP 中心となって出来上がった団体だ。
+EN The new battlefield I chose was
+EN Kingdom, a promotion built around
+EN Anjoh himself.
+
+@ 004
+JP この人はふざけてはいるが
+JP 実力は半端じゃない。
+JP 何よりチャレンジ精神が凄い。
+EN He clowns around, but his skill is no
+EN joke. Above all, he's always up for a
+EN challenge.
+
+@ 005
+JP この人なら何かやってくれるだろうという
+JP 期待を抱かせる、不思議な人だ。
+EN He's a strange guy who makes you
+EN expect he'll pull off something big.
+
+@ 006
+JP #WS166：
+JP 「・・・・ん？
+JP 　そんなにカッコイイか、俺？
+EN Anjoh:
+EN ".... Hm? Am I that cool?"
+
+@ 007
+JP #MS：
+JP 「えっ！？あ、そ、そうですね、はい。
+EN #MS:
+EN "Huh!? Oh, y-yeah, sure."
+
+@ 008
+JP #WS166：
+JP 「#MS君！
+JP 　君は違いの分かる男だ！素晴らしい！
+EN Anjoh:
+EN "#MS, my boy! You know quality
+EN  when you see it! Wonderful!"
+
+@ 009
+JP 「でも言っておくけど、
+JP 　俺は男の趣味は無いからな。
+EN "But just so you know, I don't swing
+EN  that way."
+
+@ 010
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 011
+JP そして旗揚戦の日がやって来た。
+EN Then the day of the opening show
+EN arrived.
+
+@ 012
+JP 俺は#WF148の
+JP 相手をする事になった。
+EN My opponent was Kenichi Yamamoto.

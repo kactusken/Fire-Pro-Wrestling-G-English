@@ -1,0 +1,281 @@
+@ 000
+JP #WS134：
+JP 「いいよな、#WL119ズと
+JP 　試合が出来るなんてよ。
+EN TAKA:
+EN "Lucky you, getting to wrestle the
+EN  Road Warriors."
+
+@ 001
+JP #MS：
+JP 「さすがに最初は緊張しましたよ。
+JP 　でもやっぱり強いですね。
+JP 　凄いパワーでした。
+EN #MS:
+EN "I was nervous at first, I'll admit. But
+EN  they're really strong. Incredible
+EN  power."
+
+@ 002
+JP #WS134：
+JP 「へぇ・・・・
+EN TAKA:
+EN "Huh..."
+
+@ 003
+JP #MS：
+JP 「あっ・・・・
+EN #MS:
+EN "Oh..."
+
+@ 004
+JP #WS052：
+JP 「初めまして、
+JP 　#WF052だ。
+EN Ace:
+EN "Nice to meet you. I'm Johnny Ace."
+
+@ 005
+JP 何とそこには#PS01の
+JP #WF052がいたのだ。
+JP でもどうして・・・
+EN There stood #PS01's Johnny Ace.
+EN But why...
+
+@ 006
+JP #MS：
+JP 「#MFです。
+EN #MS:
+EN "I'm #MF."
+
+@ 007
+JP #WS052：
+JP 「先程の試合、見せてもらったが
+JP 　素晴らしい・・・ナイスファイトだった。
+EN Ace:
+EN "I watched your match just now.
+EN  Wonderful... a great fight."
+
+@ 008
+JP #MS：
+JP 「どうも・・・・
+EN #MS:
+EN "Thanks..."
+
+@ 009
+JP #WS052：
+JP 「本当はガイジンムーブメントと言う事で
+JP 　アメリカ人を探しに来たんだが、
+JP 　ユーのファイトを見たら気が変わった。
+EN Ace:
+EN "I came to find an American for our
+EN  gaijin movement, but seeing you
+EN  fight changed my mind."
+
+@ 010
+JP #MS：
+JP 「？
+EN #MS:
+EN "?"
+
+@ 011
+JP #WS052：
+JP 「#MS。ミーと一緒に
+JP 　#PL01のリングに
+JP 　上がる気は無いか？
+EN Ace:
+EN "#MS. How'd you like to step into
+EN  the #PL01 ring with me?"
+
+@ 012
+JP #MS：
+JP 「えっ！？
+EN #MS:
+EN "What!?"
+
+@ 013
+JP #WS052：
+JP 「もちろんあくまで#PS06の
+JP 　所属選手としてだ。
+JP 　引き抜きとかそういう事では無い。
+EN Ace:
+EN "Strictly as a #PS06 wrestler, of
+EN  course. I'm not trying to poach you."
+
+@ 014
+JP 「一定期間遠征をするのだと
+JP 　思ってもらえばいい。
+EN "Just think of it as touring for a
+EN  while."
+
+@ 015
+JP #MS：
+JP 「会社的に問題が無ければ是非！
+EN #MS:
+EN "If the company's okay with it, I'd
+EN  love to!"
+
+@ 016
+JP #WS052：
+JP 「ノープロブレム。
+JP 　オーナーにはミーから話しておく。
+EN Ace:
+EN "No problem. I'll talk to the owner
+EN  myself."
+
+@ 017
+JP 「では詳しくはまた連絡する。
+JP 　よろしく頼むぞ。
+EN "I'll be in touch with details. I'm
+EN  counting on you."
+
+@ 018
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 019
+JP #WS134：
+JP 「すげぇな、おい。#PS01かよ。
+EN TAKA:
+EN "Wow, man. #PS01, huh?"
+
+@ 020
+JP #MS：
+JP 「日本に逆上陸か・・・楽しみだなぁ。
+EN #MS:
+EN "Heading back to invade Japan... I
+EN  can't wait."
+
+@ 021
+JP #WS134：
+JP 「チェッ、いいよなおめぇはよ・・・
+EN TAKA:
+EN "Tch, lucky you..."
+
+@ 022
+JP その後俺は#WS052と共に日本に渡り
+JP 色々話もした。
+EN After that, I went to Japan with Ace,
+EN and we talked a lot.
+
+@ 023
+JP どうやら俺は毎年年末に行われる、
+JP ワールドワンタッグリーグの#WS052の
+JP パートナー、と言う事になるらしい。
+EN Apparently I'd be Ace's partner in the
+EN Real World Tag League, held at the
+EN end of every year.
+
+@ 024
+JP #WS052：
+JP 「準備はいいか？
+EN Ace:
+EN "Ready?"
+
+@ 025
+JP #MS：
+JP 「ＯＫです。
+EN #MS:
+EN "Ready."
+
+@ 026
+JP #WS052：
+JP 「始めはリングの感触やレスリングの
+JP 　スタイルを見て慣れる事だ。
+EN Ace:
+EN "At first, just focus on getting used to
+EN  the ring and the wrestling style."
+
+@ 027
+JP 「ユーなら出来る。期待しているぞ。
+EN "You can do it. I'm counting on you."
+
+@ 028
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 029
+JP まさかこんな形で日本の、しかも
+JP #PS01のリングに上がる事が
+JP 出来るなんて・・・・
+EN To think I'd step into a Japanese ring
+EN like this, and #PS01's at that...
+
+@ 030
+JP 俺達の最初の相手は
+JP #WS040・#WS064組。
+EN Our first opponents: Misawa and
+EN Ogawa.
+
+@ 031
+JP #WS064選手はジュニアヘビー級だが、
+JP そのインサイドワークの上手さは
+JP ズバ抜けている。
+EN Ogawa's a junior heavyweight, but his
+EN ring smarts are second to none.
+
+@ 032
+JP #WS064：
+JP 「・・・・・・・・
+EN Ogawa:
+EN "........"
+
+@ 033
+JP #WS040選手は言うまでもない、
+JP 誰もが認める#PS01のエースだ。
+EN Misawa needs no introduction. He's
+EN #PS01's ace, recognized by all.
+
+@ 034
+JP 恐るべき強さを誇るこの人に、
+JP 俺はどこまで向かって行けるのだろうか・・・
+EN He's frighteningly strong. How far
+EN can I go against a man like him...?
+
+@ 035
+JP #WS040：
+JP 「#PS01のスタイルにどこまでついて
+JP 　来れるか・・・・心配な部分もあるけど
+JP 　楽しみにしてるよ。
+EN Misawa:
+EN "Can you keep up with #PS01's
+EN  style...? I'm a bit worried, but I'm
+EN  looking forward to it."
+
+@ 036
+JP だが俺にも#PS06でやって来た
+JP 意地と言うものがある。
+EN But I have my own pride, earned in
+EN #PS06.
+
+@ 037
+JP #MS：
+JP 「このシリーズ・・・
+JP 　俺が台風の目になってみせる。
+EN #MS:
+EN "This series... I'm going to be the eye
+EN  of the storm."
+
+@ 038
+JP 「その為にはこの開幕戦で#WS040さん！
+JP 　あなたから３カウント奪って、
+JP 　最大級のインパクトを残す！
+EN "So in this opener, Misawa, I'll pin you
+EN  for three and make the biggest
+EN  impact I can!"
+
+@ 039
+JP #WS040：
+JP 「受けて立つよ。
+EN Misawa:
+EN "Bring it on."
+
+@ 040
+JP #MS：
+JP 「行くぞ！
+EN #MS:
+EN "Here I come!"

@@ -1,0 +1,67 @@
+@ 000
+JP 俺は残念ながらトーナメント１回戦で
+JP 敗れてしまった。
+EN Sadly, I lost in the first round of the
+EN tournament.
+
+@ 001
+JP #WS088：
+JP 「フゥ～～～～ッ！何暗い顔してんだよ？
+EN Fuji:
+EN "Whooooo! What's with the long face?"
+
+@ 002
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 003
+JP #WS088：
+JP 「俺も今回はお前が優勝するかもしれないと
+JP 　思ってたけどな。
+EN Fuji:
+EN "I kinda figured you might win it this
+EN  time, too."
+
+@ 004
+JP #MS：
+JP 「・・・・すみません。
+EN #MS:
+EN "....Sorry."
+
+@ 005
+JP #WS088：
+JP 「べ、別に攻めてる訳じゃねぇんだからよ。
+JP 　まあ今度コーヒーぐらいおごってやるから。
+EN Fuji:
+EN "H-Hey, I ain't blaming you. Look, I'll
+EN  buy you a coffee sometime."
+
+@ 006
+JP #MS：
+JP 「はぁ・・・・・
+EN #MS:
+EN "Huh....."
+
+@ 007
+JP #WS088：
+JP 「フゥ～～～～ッ！
+EN Fuji:
+EN "Whooooo!"
+
+@ 008
+JP 何だか訳が分からなくなって来たが
+JP #WS088さんが俺を
+JP 励まそうとしてくれたらしいのは分かった。
+EN I wasn't sure what was going on
+EN anymore, but I could tell Fuji was
+EN trying to cheer me up.
+
+@ 009
+JP いつまでもしょげていても仕方無い。
+JP 俺は諦めて#WS075との消化試合に
+JP 向かう事にした。
+EN No use moping forever. I let it go and
+EN headed out for my dead-rubber match
+EN with Kanemura.

@@ -1,0 +1,207 @@
+@ 000
+JP #WS027：
+JP 「おい！#MS！
+JP 　海外はどうだった？エー！
+EN Chono:
+EN "Hey! #MS! How was overseas?
+EN  Huh!?"
+
+@ 001
+JP #MS：
+JP 「あ、はい！いい勉強になりました。
+EN #MS:
+EN "Oh, yes! I learned a lot."
+
+@ 002
+JP #WS027：
+JP 「バカヤロー！
+JP 　そんなんじゃのし上がれねーんだよ！
+EN Chono:
+EN "You idiot! That attitude won't get
+EN  you anywhere!"
+
+@ 003
+JP 「いきなり#WS001に
+JP 　突っかかって行く位の勢いが大事なんだよ！
+JP 　分かったか、エー！
+EN "What counts is the guts to go right
+EN  after Hashimoto! You got that?
+EN  Huh!?"
+
+@ 004
+JP #MS：
+JP 「#WS001さんに・・・・
+EN #MS:
+EN "Go after Hashimoto..."
+
+@ 005
+JP #WS027：
+JP 「上の奴を潰すぐらいの気持ちじゃなきゃ
+JP 　意味無いだろうが、エー！
+EN Chono:
+EN "If you're not out to crush the guys
+EN  on top, what's the point? Huh!?"
+
+@ 006
+JP #MS：
+JP 「は、はい。
+EN #MS:
+EN "Y-Yes, sir."
+
+@ 007
+JP #WS027：
+JP 「プロレスをもっと高める為にはな！
+JP 　今のままの体制じゃダメなんだよ、エー！
+EN Chono:
+EN "If we want pro wrestling to be better,
+EN  the setup we've got now won't cut it!"
+
+@ 008
+JP 「５０歳近いジジイがプロレスして、
+JP 　一番強いようじゃダメなんだよ！
+JP 　若い奴の方が強くなきゃダメだろ、エー！
+EN "Some geezer pushing 50 still being
+EN  the strongest guy around? No way!
+EN  The young guys should be stronger!"
+
+@ 009
+JP #MS：
+JP 「・・・・・・・・・
+EN #MS:
+EN "........."
+
+@ 010
+JP #WS027：
+JP 「どうだ、お前！俺と一緒にプロレスを
+JP 　光らせようと思わねーか、エー！
+JP 　本当のプロレスを造ろうと思わねーか！
+EN Chono:
+EN "Well? Don't you want to make
+EN  wrestling shine with me? To build the
+EN  real pro wrestling? Huh!?"
+
+@ 011
+JP 「いいか、俺は一度しか誘わねえからな！
+JP 　返事はどうなんだ？エー！
+EN "Listen, I only ask once! What's your
+EN  answer? Huh!?"
+
+@ 012
+JP 俺は#WS027さんの意見に同感だった。
+JP 今の会社の体制では#PS00は徐々に
+JP 衰えて行くだろう。
+EN I agreed with Chono. The way the
+EN company is run now, #PS00 will
+EN slowly decline.
+
+@ 013
+JP そしてそれは日本マット界そのものの
+JP 衰退につながる。
+JP それ程#PS00の影響力は大きいのだ。
+EN And that would mean the decline of
+EN all Japanese wrestling. That's how big
+EN #PS00's influence is.
+
+@ 014
+JP 俺は#WS027さんの理想に賭けてみたいと
+JP 思った。どの道凱旋帰国だし、話題の１つも
+JP 欲しかったところだ。好都合じゃないか。
+EN I wanted to bet on his ideals. I'm
+EN coming home in triumph anyway, and
+EN I could use some buzz. This is perfect.
+
+@ 015
+JP #WS027：
+JP 「どうなんだエー！
+EN Chono:
+EN "Well? Huh!?"
+
+@ 016
+JP #MS：
+JP 「はい！よろしくお願いします！
+EN #MS:
+EN "Yes! I'm in!"
+
+@ 017
+JP #WS027：
+JP 「よーし！いいか！
+JP 　#PS00マットを
+JP 　思いっきり掻き回してやるぞ！
+EN Chono:
+EN "All right! Listen up! We're gonna
+EN  turn the #PS00 mat upside down!"
+
+@ 018
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 019
+JP 俺はその日、早速カマしてやった。
+EN That very day, I made my move.
+
+@ 020
+JP 帰国の挨拶の場でＦＷＯ入りを宣言、
+JP 早速正規軍の連中に喧嘩を売ったのだ。
+EN At my homecoming speech, I declared
+EN for nWo and picked a fight with the
+EN regulars.
+
+@ 021
+JP 俺のＦＷＯ入りは、予想通り話題を呼んだ。
+JP そんな中、俺の凱旋帰国マッチが決まった。
+EN As expected, my joining nWo caused a
+EN stir. Then my homecoming match was
+EN set.
+
+@ 022
+JP 相手はＦＷＯ入りを宣言した俺にいち早く
+JP 突っ掛かって来た#WS010だ。
+EN My opponent: Nagata, the first to
+EN come after me when I announced I'd
+EN joined nWo.
+
+@ 023
+JP #WS010：
+JP 「まさかＦＷＯに入るとはな！
+JP 　お前となら正統派レスリングが出来ると
+JP 　思っていたんだが、残念だよ。
+EN Nagata:
+EN "Never thought you'd join nWo! I
+EN  figured we could have real wrestling
+EN  bouts. What a shame."
+
+@ 024
+JP 「しかし正規軍を裏切った以上、
+JP 　みんなからの制裁は確実だな。
+EN "But now that you've betrayed the
+EN  regular army, everyone's coming for
+EN  payback."
+
+@ 025
+JP #MS：
+JP 「制裁？やれるもんならやってみろって！
+JP 　いいか！俺は#PS00を、
+JP 　そして日本マットを活性化させる！
+EN #MS:
+EN "Payback? Try it if you can! Listen!
+EN  I'm going to shake up #PS00, and
+EN  all of Japanese wrestling!"
+
+@ 026
+JP 「その為には手段は選ばない！
+JP 　当然おまえをここで倒して、その先にいる
+JP 　連中の首を取ってやるよ！
+EN "And I'll do whatever it takes! I'll beat
+EN  you right here, then take the heads of
+EN  everyone after you!"
+
+@ 027
+JP #WS010：
+JP 「大した自信だな！もう先を見てるってのか？
+JP 　でもまずは俺の喧嘩を買ってもらおうか！
+EN Nagata:
+EN "Pretty confident! Looking ahead
+EN  already? First you'll have to deal
+EN  with me!"

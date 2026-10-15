@@ -1,0 +1,104 @@
+@ 000
+JP 記者：
+JP 「おめでとうございます！
+JP 　あの#WS155選手を退け、
+JP 　挑戦権を獲得しました。
+EN Reporter:
+EN "Congratulations! You turned back
+EN  Suzuki and earned a title shot."
+
+@ 001
+JP #MS：
+JP 「苦しい試合でしたけど、
+JP 　何とか勝てたんで嬉しいですね。
+EN #MS:
+EN "It was a tough match, but I'm glad I
+EN  managed to win."
+
+@ 002
+JP 記者：
+JP 「現在のキング・オブ・#PS10は
+JP 　エース#WS154選手です。
+JP 　勝算はありますか？
+EN Reporter:
+EN "The King of #PS10 is the ace,
+EN  Funaki. Can you win?"
+
+@ 003
+JP #MS：
+JP 「#WS154さんも
+JP 　キング・オブ・#PS10ながら
+JP 　死ぬ思いでトレーニングしてますから。
+EN #MS:
+EN "Even as King of #PS10, Funaki's
+EN  been training like his life depends on
+EN  it."
+
+@ 004
+JP 「当然簡単には行かないでしょう。
+JP 　やっぱり最強の王者だと思います。
+EN "It won't be easy. He's the toughest
+EN  champion there is."
+
+@ 005
+JP 記者：
+JP 「最後に一言お願いします。
+EN Reporter:
+EN "Any final words?"
+
+@ 006
+JP #MS：
+JP 「必ずキング・オブ・#PS10になります！
+JP 　応援お願いします！
+EN #MS:
+EN "I'll become King of #PS10, no
+EN  doubt! Please cheer me on!"
+
+@ 007
+JP 俺は次の日から早速、
+JP トレーニングを開始した。
+EN The very next day, I started training.
+
+@ 008
+JP #WS154：
+JP 「良い表情をしているし、体も良く仕上がった
+JP 　状態のようだ。それに風格も出てきた。
+EN Funaki:
+EN "You look sharp, and you're in great
+EN  shape. You've got real presence now."
+
+@ 009
+JP #MS：
+JP 「ありがとうございます。
+JP 　でもこれもあなたに勝つ為・・・・
+EN #MS:
+EN "Thank you. But this is all to beat
+EN  you...."
+
+@ 010
+JP 「キング・オブ・#PS10だけでなく、
+JP 　エースの称号を手に入れる為です！
+EN "Not just for the King of #PS10,
+EN  but to claim the title of ace!"
+
+@ 011
+JP 「エースであるあなたから王座を奪う事に
+JP 　意味があるんです！今日は必ず勝ちます！
+EN "Taking the belt from you, the ace, is
+EN  what matters! I'm winning today!"
+
+@ 012
+JP #WS154：
+JP 「でも俺も１レスラーとして、エースとして、
+JP 　お前にこのまま王座を明け渡す訳には
+JP 　行かない。勝ちはもらうぞ！
+EN Funaki:
+EN "But as a wrestler, and as the ace, I
+EN  can't just hand you the title. The win
+EN  is mine!"
+
+@ 013
+JP #MS：
+JP 「行きますよ！
+EN #MS:
+EN "Here I come!"

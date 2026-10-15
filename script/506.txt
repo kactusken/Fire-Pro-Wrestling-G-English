@@ -1,0 +1,81 @@
+@ 000
+JP ジュニア戦士達の史上最大のイベント、
+JP 『キング・オブ・ワールドジュニア』も
+JP ３日目、準決勝戦が行われる。
+EN The biggest junior event in history,
+EN the "King of World Juniors." Day
+EN three: the semifinals.
+
+@ 001
+JP #WS113さんを破り、優勝に１歩近づいた
+JP 俺の次の相手は・・・
+EN I beat Ultimo and moved a step closer
+EN to the title. My next opponent was...
+
+@ 002
+JP #PL01の
+JP #WF064選手だ。
+EN #PL01's Yoshinari Ogawa.
+
+@ 003
+JP そのテクニックとインサイドワークは
+JP ヘビー級にも通用する程のものを
+JP 持っている。
+EN His technique and ring smarts would
+EN work even against heavyweights.
+
+@ 004
+JP 日本で１番上手いジュニアレスラーと言えば
+JP この人を思い浮かべるファンが多いはずだ。
+EN Ask fans who's the most skilled junior
+EN in Japan, and many would name him.
+
+@ 005
+JP #MS：
+JP 「この夢の大会で、早速あなたと試合が
+JP 　出来るのは光栄な事だと思ってます。
+EN #MS:
+EN "It's an honor to face you so soon at
+EN  this dream event."
+
+@ 006
+JP 「でも、俺は勝って先に進まなければならない。
+JP 　この試合、俺が貰います！
+EN "But I have to win and move on. This
+EN  match is mine!"
+
+@ 007
+JP #WS064：
+JP 「・・・・・・・・
+EN Ogawa:
+EN "........"
+
+@ 008
+JP 「俺も・・・・
+EN "I've...."
+
+@ 009
+JP 「俺も君との試合、楽しみにしてたよ。
+JP 　それに勝ちたいのは俺も一緒だ。
+EN "I've been looking forward to this
+EN  match too. And I want to win just as
+EN  much."
+
+@ 010
+JP 「#PL01としての
+JP 　メンツもあるからね。
+EN "I've got #PL01's pride to uphold."
+
+@ 011
+JP #WS064がスッ、と手を差し出して来た。
+JP 一瞬罠かと思い踏みとどまるが、
+JP 俺は結局素直に握り返した。
+EN Ogawa quietly held out his hand. For
+EN a second I froze, sensing a trap, but in
+EN the end I shook it.
+
+@ 012
+JP 俺達は握手を交わして
+JP ゴングが鳴るのを待った。
+EN We shook hands and waited for the
+EN bell.

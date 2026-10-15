@@ -1,0 +1,76 @@
+@ 000
+JP この大会は大成功と言って良いだろう。
+JP 会場のこの歓声がその証拠だ。
+EN You could call this show a huge
+EN success. The roar of the crowd proves
+EN it.
+
+@ 001
+JP そして#PL09は
+JP はっきりとプロレスファンに認知されたと
+JP 言って良いだろう。
+EN And you could say #PL09 was now
+EN truly recognized by wrestling fans.
+
+@ 002
+JP 俺達は観客に最後の挨拶を済ませて
+JP 控え室に戻ろうとしていた。
+EN We said our last thanks to the crowd
+EN and headed back to the locker room.
+
+@ 003
+JP #WS151：
+JP 「やりましたね！大成功じゃないですか！
+EN Ishikawa:
+EN "We did it! A huge success!"
+
+@ 004
+JP #MS：
+JP 「そうだな！
+EN #MS:
+EN "Sure was!"
+
+@ 005
+JP ところが、観客を掻き分けて
+JP ２人の男が飛び出して来た。
+EN But then, two men burst out of the
+EN crowd.
+
+@ 006
+JP 坂上：
+JP 「おい！#MS！
+JP 　昔の約束を果たす為
+JP 　こっちから来てやったぞ！
+EN Sakagami:
+EN "Hey! #MS! I came to you to keep
+EN  our old promise!"
+
+@ 007
+JP #MS：
+JP 「お前・・・坂上なのか！？
+EN #MS:
+EN "You... Sakagami!?"
+
+@ 008
+JP 俺の頬に衝撃が走った。
+EN A shock ran across my cheek.
+
+@ 009
+JP 坂上：
+JP 「勝負だ、この野郎！
+EN Sakagami:
+EN "Fight me, you bastard!"
+
+@ 010
+JP #WS134：
+JP 「どうだ、受けられないのか、オラ！
+EN TAKA:
+EN "Well? Too scared to take it, huh!?"
+
+@ 011
+JP 結局その場で坂上と、その仲間である
+JP #WF134の
+JP タッグマッチが始まった。
+EN And so a tag match began on the spot,
+EN against Sakagami and his partner,
+EN TAKA Michinoku.

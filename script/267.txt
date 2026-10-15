@@ -1,0 +1,67 @@
+@ 000
+JP #WS149：
+JP 「#WS171との試合、中々やったな。
+EN Maeda:
+EN "Not bad against Smith."
+
+@ 001
+JP #MS：
+JP 「ありがとうございます。
+EN #MS:
+EN "Thank you."
+
+@ 002
+JP #WS149：
+JP 「で、どうや？今度のトーナメントは。
+JP 　行けそうか？
+EN Maeda:
+EN "So, how about the next tournament?
+EN  Think you can do it?"
+
+@ 003
+JP 今度のトーナメントと言うのは
+JP 第２回ギガバトルトーナメントの事だ。
+EN The next tournament meant the 2nd
+EN Mega Battle Tournament.
+
+@ 004
+JP #MS：
+JP 「そうですね・・・２度目ですし、
+JP 　#WS149さんのいないトーナメントで
+JP 　日本人総倒れじゃみっともないですからね。
+EN #MS:
+EN "Well... it's the second one. If all the
+EN  Japanese lose with you gone, that'd
+EN  be embarrassing."
+
+@ 005
+JP #WS149：
+JP 「何や、お見舞い代わりに優勝します、
+JP 　くらい言えへんのか？
+EN Maeda:
+EN "What, can't ya say you'll win it as a
+EN  get-well present?"
+
+@ 006
+JP #MS：
+JP 「いえ、もちろん優勝は狙って行きますよ！
+EN #MS:
+EN "No, of course I'm going for the win!"
+
+@ 007
+JP #WS149：
+JP 「頼むぞ？
+EN Maeda:
+EN "I'm countin' on ya, got it?"
+
+@ 008
+JP #MS：
+JP 「はい、分かってます！
+EN #MS:
+EN "Yes, I know!"
+
+@ 009
+JP そしてトーナメントが始まった。
+JP １回戦の相手は後輩、#WS142だ。
+EN And the tournament began. First
+EN round: my junior, Kohsaka.

@@ -1,0 +1,117 @@
+@ 000
+JP #WF071に勝った。
+JP #WS068さんですら
+JP 勝てなかった相手に・・・
+EN I beat Kodo Fuyuki. A man even
+EN Hayabusa couldn't beat...
+
+@ 001
+JP #WS071：
+JP 「今日はわざと負けてやったんだよ！
+JP 　それとノーリストリクトは解散なんか
+JP 　しねぇからな！
+EN Fuyuki:
+EN "I let you win today on purpose! And
+EN  No Respect ain't disbanding!"
+
+@ 002
+JP 「俺は約束なんかしてねぇんだからよ！
+EN "I never promised nothin'!"
+
+@ 003
+JP 「でもまあ、あれだな。お前も強くなったよ。
+JP 　それは認めてやるよ！でも次やったら
+JP 　俺が勝つからな！
+EN "But, well, y'know. You got strong. I'll
+EN  give you that! But next time, I win!"
+
+@ 004
+JP 何とあの#WS071が俺を認める発言をした。
+JP 俺が同等のライバルとして目に入ったと
+JP 言う事だろう。
+EN Fuyuki, of all people, had admitted I
+EN was good. It meant he finally saw me
+EN as a rival on his level.
+
+@ 005
+JP これから・・・ここからが、
+JP 本当の闘いなのかもしれない。
+EN From now on... maybe this is where
+EN the real fight begins.
+
+@ 006
+JP #WS071：
+JP 「どうだぁ！
+JP 　俺はまだお前なんかには負けないんだよ！
+EN Fuyuki:
+EN "How about that! You still can't beat
+EN  me!"
+
+@ 007
+JP #WS071は強かった。
+JP 俺は全てを出し切ったが勝てなかった。
+EN Fuyuki was strong. I gave it
+EN everything I had, but I couldn't win.
+
+@ 008
+JP #WS071：
+JP 「それとなぁ！お前とは当分試合しねぇぞ！
+JP 　こんなキツイ試合ばっかりやってたら
+JP 　体がもたないからな！
+EN Fuyuki:
+EN "And another thing! I ain't wrestling
+EN  you for a while! Matches this tough'll
+EN  wreck my body!"
+
+@ 009
+JP それはあの人なりの
+JP 誉め言葉だったのかもしれない・・・
+EN Maybe that was his way of paying a
+EN compliment...
+
+@ 010
+JP 満員のお客さんから
+JP 『#MS』コールが
+JP 巻き起こっている。
+EN The packed house erupts in chants of
+EN "#MS!"
+
+@ 011
+JP リングの周りを
+JP いつしか熱狂的なファンが
+JP 取り囲んでいた。
+EN Before I knew it, frenzied fans had
+EN surrounded the ring.
+
+@ 012
+JP 俺は何となくマイクを握っていた。
+EN Somehow I found a mic in my hand.
+
+@ 013
+JP #MS：
+JP 「いいか、お前ら！
+JP 　#PS02の明日は！！
+JP 　俺達が創る！！！
+EN #MS:
+EN "Listen up, all of you! The future of
+EN  #PS02!! We'll make it!!!"
+
+@ 014
+JP その後の#PS02は、
+JP 全盛期を超えるファンの支持を得ていた。
+JP 今やどの会場でも超満員。
+EN After that, #PS02 won more fan
+EN support than in its heyday. Now
+EN every show is a sellout.
+
+@ 015
+JP その原動力は『新世代のカリスマ』の異名で
+JP 呼ばれている男・・・・・
+EN The driving force is the man they call
+EN "the Charisma of a New
+EN Generation"....
+
+@ 016
+JP #MF、
+JP その人である。
+EN #MF himself.

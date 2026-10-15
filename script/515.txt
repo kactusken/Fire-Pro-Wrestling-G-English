@@ -1,0 +1,98 @@
+@ 000
+JP #WS015：
+JP 「今日は負けたよ。
+JP 　でもまだ俺も終わらない。
+EN Liger:
+EN "You got me today. But I'm not done
+EN  yet."
+
+@ 001
+JP 「体が続く限り、本当の意味で俺を越える
+JP 　レスラーが出て来るまでは
+JP 　闘い続けるつもりだ。
+EN "As long as my body holds out, I'll
+EN  keep fighting until a wrestler truly
+EN  surpasses me."
+
+@ 002
+JP #MS：
+JP 「ありがとうございました。
+JP 　やっぱり#WS015さんは強かったです。
+EN #MS:
+EN "Thank you. You really are strong,
+EN  Liger."
+
+@ 003
+JP #WS015：
+JP 「じゃあまたいつか、闘ってくれ。
+EN Liger:
+EN "Fight me again someday."
+
+@ 004
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 005
+JP #WS015：
+JP 「本当に強いレスラーだよ、お前は。
+EN Liger:
+EN "You're a really strong wrestler."
+
+@ 006
+JP 「でもまだ坂上と同じだ。紙一重・・・
+JP 　ほんの紙一重の差だ。でもその差がある限り、
+JP 　まだまだ俺は負けない。
+EN "But you're still where Sakagami is.
+EN  Paper thin... a paper-thin gap. But
+EN  while it's there, I won't lose yet."
+
+@ 007
+JP #MS：
+JP 「ありがとうございました。
+JP 　やっぱり#WS015さんは強かったです。
+EN #MS:
+EN "Thank you. You really are strong,
+EN  Liger."
+
+@ 008
+JP #WS015：
+JP 「じゃあまたいつか、闘おう。
+EN Liger:
+EN "Let's fight again someday."
+
+@ 009
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 010
+JP その後俺と坂上は２人で海外を回る事にした。
+EN After that, Sakagami and I decided to
+EN tour overseas together.
+
+@ 011
+JP あのトーナメントでそれぞれに
+JP 結果を出したものの、ファン関係者の支持を
+JP さほど得られなかったのが原因だ。
+EN We each got results in that
+EN tournament, but didn't win much
+EN support from fans or insiders.
+
+@ 012
+JP 観客に見せると言う事。強さだけじゃない、
+JP プロレスラーの大事な要素の１つ。
+JP それが欠けていると気づいたのだ。
+EN Showing it to the crowd. Not just
+EN strength: a key part of being a pro
+EN wrestler. We realized we lacked it.
+
+@ 013
+JP だから俺達は今日も試合をする。
+JP どうすれば見ている者に、自分達の試合が
+JP 通じるかを模索しながら・・・・
+EN So we wrestle again today, searching
+EN for how to make our matches reach
+EN those who watch....

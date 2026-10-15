@@ -1,0 +1,206 @@
+@ 000
+JP 記者：
+JP 「#MS選手！
+EN Reporter:
+EN "#MS!"
+
+@ 001
+JP #MS：
+JP 「あ、はい。
+EN #MS:
+EN "Oh, yes?"
+
+@ 002
+JP 記者：
+JP 「デビューしてちょっと経つけど、どうですか？
+JP 　プロのリングは？
+EN Reporter:
+EN "It's been a while since your debut.
+EN  How's the pro ring treating you?"
+
+@ 003
+JP #MS：
+JP 「いや、凄いとしか言いようが無いですよ。
+JP 　毎日ついて行くので精一杯です。
+EN #MS:
+EN "All I can say is it's incredible.
+EN  Keeping up every day takes all I've
+EN  got."
+
+@ 004
+JP 記者：
+JP 「そうですか。ところで・・・・・
+EN Reporter:
+EN "I see. By the way....."
+
+@ 005
+JP #MS：
+JP 「はい？
+EN #MS:
+EN "Yes?"
+
+@ 006
+JP 記者：
+JP 「最近#WS149さんと他の人が
+JP 　仲が悪いって話ですけど・・・・
+JP 　何か聞きませんかね？
+EN Reporter:
+EN "Word is Mr. Maeda isn't getting along
+EN  with the others lately.... Heard
+EN  anything?"
+
+@ 007
+JP #MS：
+JP 「えっ！？
+EN #MS:
+EN "What!?"
+
+@ 008
+JP 俺は何でそんな事を聞かれるのか
+JP 良く分からなかった。しかし俺の脳裏を
+JP あの時の言い争いがよぎった。
+EN I didn't get why he'd ask me that. But
+EN that argument flashed through my
+EN mind.
+
+@ 009
+JP #MS：
+JP 「まさか。そんな事無いですよ。
+EN #MS:
+EN "No way. Nothing like that."
+
+@ 010
+JP 記者：
+JP 「そうですか？うーん・・・・分かりました。
+JP 　ありがとうございました。
+EN Reporter:
+EN "Really? Hmm.... All right. Thank
+EN  you."
+
+@ 011
+JP #MS：
+JP 「いえ・・・・
+EN #MS:
+EN "Sure...."
+
+@ 012
+JP 俺は何となく暗い気持ちになってしまった。
+EN Somehow I felt gloomy.
+
+@ 013
+JP まさか・・・・
+EN It can't be....
+
+@ 014
+JP だが数日後、マスコミの間で『ＵＷＨ解散か？』
+JP と次第に騒がれ始めた。何となく気まずい
+JP 雰囲気が流れる中、次の試合の日がやって来た。
+EN But days later, the press began
+EN buzzing: "UWF to fold?" Amid the
+EN awkward mood, the next show came.
+
+@ 015
+JP その日、俺はメインの試合のセコンドに
+JP ついていた。試合は#WS165さんが
+JP 外人を下して勝った。
+EN That day I was a second in the main
+EN event. Mr. Takada beat a foreign
+EN fighter.
+
+@ 016
+JP 気がつくと選手みんなが集まって来ていた。
+JP そして次第にリングに上がり始めた。
+EN Then I noticed all the wrestlers
+EN gathering, and one by one they
+EN started climbing into the ring.
+
+@ 017
+JP そこでは今日試合を休んでいた
+JP #WS149さんの他に#WS165さん、
+JP #WS150さん・・・・みんながいた。
+EN Besides Mr. Takada, there was Mr.
+EN Maeda, who sat out today, Mr.
+EN Fujiwara.... Everyone was there.
+
+@ 018
+JP そしてみんなで円陣を組んで万歳・・・・
+JP 変な噂を吹き飛ばす結束を見せた。
+JP ファンもみんな喜んでいる。
+EN They all formed a circle and cheered
+EN "Banzai!".... A show of unity to blow
+EN away the rumors. The fans loved it.
+
+@ 019
+JP 俺も気持ち良く先輩達と握手して別れた。
+JP これで変な噂はもう終わりだ。こんな素晴らしい
+JP 団体が不仲で解散なんかするものか！
+EN I shook hands with my seniors. The
+EN rumors were over. A great company
+EN like this, fold over a feud? No way!
+
+@ 020
+JP だが・・・・・
+EN But.....
+
+@ 021
+JP #MS：
+JP 「そんな・・・・・
+EN #MS:
+EN "No way....."
+
+@ 022
+JP #WS149：
+JP 「悪いがこれは事実や。ＵＷＨは解散する。
+JP 　その後は個人個人で考える事になる。
+EN Maeda:
+EN "Sorry, but it's true. The UWF is
+EN  folding. After that, everybody's on
+EN  their own."
+
+@ 023
+JP #MS：
+JP 「何で・・・・
+EN #MS:
+EN "Why...."
+
+@ 024
+JP #WS149：
+JP 「俺の考え方に、みんながついて来れんと言う。
+JP 　なら仕方無いやろ。別の道を歩くしかない。
+EN Maeda:
+EN "They say they can't follow my way
+EN  of thinkin'. Then it can't be helped.
+EN  We gotta go separate ways."
+
+@ 025
+JP 「どうも他の連中は他の連中で#WS165派と
+JP 　#WS150派に別れとるみたいやけどな。
+EN "Seems the rest of 'em are splittin'
+EN  into Takada's camp and Fujiwara's
+EN  camp."
+
+@ 026
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 027
+JP #WS149：
+JP 「お前も自分の道、考えとけや。
+EN Maeda:
+EN "You think about your own path, too."
+
+@ 028
+JP #MS：
+JP 「はい・・・・
+EN #MS:
+EN "Yes, sir...."
+
+@ 029
+JP 俺はまだ信じられなかった。でも
+JP #WS149さんの言うように、
+JP 自分の進むべき道は決めなければならない。
+EN I still couldn't believe it. But like Mr.
+EN Maeda said, I had to decide which
+EN path to take.

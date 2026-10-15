@@ -1,0 +1,79 @@
+@ 000
+JP 俺は会場入りした後、試合に備えて
+JP ウォーミングアップをしていた。
+EN After arriving at the arena, I was
+EN warming up for my match.
+
+@ 001
+JP #WS101：
+JP 「どうだ、調子は？
+EN Hogan:
+EN "How you feeling?"
+
+@ 002
+JP #MS：
+JP 「バッチリですよ！
+EN #MS:
+EN "Perfect!"
+
+@ 003
+JP #WS101：
+JP 「そうか。確かに#WS111と
+JP 　あれだけの試合をしたからな。
+JP 　俺の眼に狂いは無かったって訳だ。
+EN Hogan:
+EN "Good. You did have a great match
+EN  with Benoit. Guess my eye wasn't
+EN  wrong."
+
+@ 004
+JP #MS：
+JP 「少しでもチームの役に立てるように、
+JP 　自分のレベルをアップ出来るように、
+JP 　頑張りますよ！
+EN #MS:
+EN "I'll do my best to help the team, even
+EN  a little, and to level myself up!"
+
+@ 005
+JP #WS101：
+JP 「そうだな。頑張ってくれよ。
+EN Hogan:
+EN "Right. Keep it up."
+
+@ 006
+JP #MS：
+JP 「今日はあの
+JP 　#WS105との
+JP 　シングルですからね。
+EN #MS:
+EN "Today it's singles against Rick
+EN  Steiner."
+
+@ 007
+JP 「日本にいたら、そう出来ない試合ですよ。
+JP 　アメリカにいる利点を活かさないと。
+EN "I'd never get a match like that in
+EN  Japan. I've got to make the most of
+EN  being in America."
+
+@ 008
+JP #WS101：
+JP 「ハハハ、随分エンジョイしてるな？
+EN Hogan:
+EN "Ha ha ha, you're really enjoying this,
+EN  huh?"
+
+@ 009
+JP #MS：
+JP 「そりゃあもう！大変ながらも
+JP 　楽しくて仕方無いんですよ！
+EN #MS:
+EN "You bet! It's tough, but it's so much
+EN  fun!"
+
+@ 010
+JP #WS101：
+JP 「全く、本当に頼もしい奴だな。
+EN Hogan:
+EN "Man, you're one reliable guy."

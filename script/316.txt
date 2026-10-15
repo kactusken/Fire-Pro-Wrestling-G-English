@@ -1,0 +1,69 @@
+@ 000
+JP #WS166：
+JP 「・・・・・・・
+EN Anjoh:
+EN "......."
+
+@ 001
+JP #MS：
+JP 「・・・・・・・・
+EN #MS:
+EN "........"
+
+@ 002
+JP #WS166：
+JP 「結局俺らの決勝か。嬉しいような
+JP 　悲しいような・・・・・
+EN Anjoh:
+EN "So the final's just us. Happy or sad, I
+EN  can't tell....."
+
+@ 003
+JP #MS：
+JP 「#WS165さんがいない時点で
+JP 　企画倒れだったんじゃないですか？
+JP 　ほら、客席もあんなに・・・
+EN #MS:
+EN "Wasn't this a flop the moment
+EN  Takada didn't show? Look, the seats
+EN  are so..."
+
+@ 004
+JP #WS166：
+JP 「試合前に何言ってんだ、お前はよ！
+JP 　そんな気の抜けた奴に優勝する資格は無い！
+EN Anjoh:
+EN "What are you saying right before a
+EN  match!? Someone that half-hearted
+EN  doesn't deserve to win!"
+
+@ 005
+JP #MS：
+JP 「いえ、俺も賞金は欲しいんで
+JP 　優勝は狙いますよ。
+EN #MS:
+EN "No, I want the prize money too, so I'm
+EN  going for the win."
+
+@ 006
+JP #WS166：
+JP 「先輩に賞金を譲ろうと言う優しい気持ちが
+JP 　お前には無いのか！
+EN Anjoh:
+EN "Don't you have the heart to let your
+EN  senior take the prize money!?"
+
+@ 007
+JP #MS：
+JP 「結局それなんですね・・・・・
+EN #MS:
+EN "So that's what it comes down to....."
+
+@ 008
+JP 「でも、試合は試合だ！
+EN "But a match is a match!"
+
+@ 009
+JP 俺は脱力感を振り払い、気合を入れた。
+EN I shook off the deflated feeling and
+EN fired myself up.

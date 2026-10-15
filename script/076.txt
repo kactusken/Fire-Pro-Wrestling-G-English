@@ -1,0 +1,49 @@
+@ 000
+JP 周囲の慌ただしさも収まらぬ中、
+JP 次のシリーズでＩＧＰ王座の挑戦者決定
+JP トーナメントが行われた。
+EN Amid all the turmoil, the next series
+EN held a tournament for an IWGP title
+EN shot.
+
+@ 001
+JP 優勝したのは#WS001さんだった。
+JP ここは王者としての、俺の正念場だ。
+JP 絶対に負けられない！
+EN The winner was Hashimoto. This is
+EN my moment of truth as champion. I
+EN can't lose, no matter what!
+
+@ 002
+JP #WS001：
+JP 「お前とこうしてＩＧＰタイトルマッチの
+JP 　リングで向かい合う日が来るとはな。
+EN Hashimoto:
+EN "Never thought the day would come
+EN  when I'd face you in an IWGP title
+EN  match."
+
+@ 003
+JP 「しかも俺の方が挑戦者だ。
+EN "And with me as the challenger, no
+EN  less."
+
+@ 004
+JP #MS：
+JP 「こんな早々に最強のチャレンジャーとは
+JP 　俺もついてないですよ。
+EN #MS:
+EN "The toughest challenger right off
+EN  the bat. Just my luck."
+
+@ 005
+JP 「でも必ず勝ってみせる！あなたを倒して
+JP 　真のＩＧＰのチャンピオンになってみせる！
+EN "But I'll win! I'll beat you and become
+EN  a true IWGP champion!"
+
+@ 006
+JP #WS001：
+JP 「行くぞ！
+EN Hashimoto:
+EN "Here I come!"

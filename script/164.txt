@@ -1,0 +1,124 @@
+@ 000
+JP 記者：
+JP 「トーナメントは非常に残念でした。
+EN Reporter:
+EN "Too bad about the tournament."
+
+@ 001
+JP #MS：
+JP 「形に残る実績が欲しかったんでね、この
+JP 　トーナメントに賭けてたんですけど・・・・
+EN #MS:
+EN "I wanted something on the record, so
+EN  I bet everything on this
+EN  tournament...."
+
+@ 002
+JP 「まだ向こうの方が一枚上でしたね。
+EN "He was still a cut above me."
+
+@ 003
+JP 記者：
+JP 「敗れたとは言え今シリーズの活躍で
+JP 　注目される存在になったと
+JP 　思うんですが、今後の目標は？
+EN Reporter:
+EN "Still, this series put you on the map.
+EN  What's your goal from here?"
+
+@ 004
+JP ・やっぱりベルトだ。
+JP ・#WS076さんの後継者だ。
+JP ・一歩一歩進んで行く。
+EN ・"A belt, for sure."
+EN ・"Being Onita's successor."
+EN ・"One step at a time."
+
+@ 005
+JP #MS：
+JP 「やっぱりシングルのベルトを狙って
+JP 　行きたいですね。
+EN #MS:
+EN "I want to go after a singles belt, for
+EN  sure."
+
+@ 006
+JP #MS：
+JP 「#WS076さんの代わりにインディーを
+JP 　引っ張って行ける存在になりたいですね！
+EN #MS:
+EN "I want to fill Onita's shoes and lead
+EN  the indie scene!"
+
+@ 007
+JP #MS：
+JP 「これからも一歩一歩着実に
+JP 　実績を積み重ねて行きますよ。
+EN #MS:
+EN "I'll keep building my record, one
+EN  solid step at a time."
+
+@ 008
+JP 記者：
+JP 「なるほど！頑張って下さい。
+JP 　ところでもう一つ
+JP 　お聞きしたいんですが・・・
+EN Reporter:
+EN "I see! Good luck. Oh, there's one more
+EN  thing I'd like to ask..."
+
+@ 009
+JP 「あの#WS076選手が復帰すると言う噂が
+JP 　あるんですが、どうお考えですか？
+EN "There are rumors Onita is coming
+EN  out of retirement. What do you make
+EN  of that?"
+
+@ 010
+JP #MS：
+JP 「・・・・・・・・・
+EN #MS:
+EN "........."
+
+@ 011
+JP 俺もそう言う噂が流れているのは知っている。
+JP しかし・・・・・
+EN I knew the rumors were going around.
+EN But.....
+
+@ 012
+JP 「まあ・・・・噂ですから。
+JP 　正式な話では無いでしょう？
+JP 　何とも言えないですよ。
+EN "Well.... it's a rumor. Nothing official,
+EN  right? I really can't say."
+
+@ 013
+JP 記者：
+JP 「もし本当に復帰するような事があると
+JP 　かなり影響があると思いますが？
+EN Reporter:
+EN "If he really did come back, it would
+EN  have a big impact, wouldn't it?"
+
+@ 014
+JP #MS：
+JP 「本当なら大変でしょうね。#WS076さん
+JP 　引退後ここまで団体を支えて来た
+JP 　我々にとっても複雑なものがありますしね。
+EN #MS:
+EN "If true, it'd be huge. It's complicated
+EN  for those of us who've held this place
+EN  up since he left."
+
+@ 015
+JP 「もしその噂が本当なら
+JP 　かなりの騒動になるでしょう。
+EN "If the rumor's true, there'll be quite
+EN  an uproar."
+
+@ 016
+JP 記者：
+JP 「ありがとうございました！
+EN Reporter:
+EN "Thank you very much!"

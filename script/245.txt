@@ -1,0 +1,84 @@
+@ 000
+JP 坂上：
+JP 「へへ・・・やるじゃねぇか。
+EN Sakagami:
+EN "Heh... not bad."
+
+@ 001
+JP #MS：
+JP 「お前こそな・・・・
+EN #MS:
+EN "Same to you...."
+
+@ 002
+JP 坂上：
+JP 「お前と#WS076の邪道は
+JP 　似て異なるものだってのが良く分かったよ。
+EN Sakagami:
+EN "Now I get it. Your outlaw style looks
+EN  like Onita's, but it's different."
+
+@ 003
+JP #MS：
+JP 「ああ。俺はあの人のコピーになる気はない。
+JP 　その生き様、心意気、そう言ったものを
+JP 　『邪道』として引き継ぐつもりだ。
+EN #MS:
+EN "Yeah. I don't plan to be his copy. His
+EN  way of life, his spirit, that's the
+EN  'outlaw' I mean to carry on."
+
+@ 004
+JP 坂上：
+JP 「大した奴だな、お前もよ。
+JP 　でも俺達の闘いはこれで終わらせちゃ
+JP 　ダメだ。プロレス界を動かして行かなきゃな。
+EN Sakagami:
+EN "You're something else. But our fight
+EN  can't end here. We have to shake up
+EN  the whole wrestling world."
+
+@ 005
+JP #MS：
+JP 「おう。実績積み重ねて、
+JP 　今度はベルトを賭けて
+JP 　お前と闘えるようにするぜ。
+EN #MS:
+EN "Yeah. I'll build my record, and next
+EN  time we'll fight with a belt on the
+EN  line."
+
+@ 006
+JP 坂上：
+JP 「約束だぜ！
+EN Sakagami:
+EN "That's a promise!"
+
+@ 007
+JP その後#WF076は
+JP 古傷の膝が悪化し２度目の引退をした。
+EN Later, Atsushi Onita's bad knee got
+EN worse, and he retired for the second
+EN time.
+
+@ 008
+JP #MSは邪道魂を受け継ぎ、
+JP 邪道の申し子として闘い続けた。
+EN #MS inherited the outlaw spirit
+EN and fought on as the outlaw's true
+EN heir.
+
+@ 009
+JP 彼はライバル坂上浩一と、正道対邪道、
+JP 光と影の関係を築き、プロレス界全体を
+JP 巻き込んでの闘いに発展させて行った。
+EN With his rival Sakagami, he waged a
+EN war of light vs. shadow that swept up
+EN all of wrestling.
+
+@ 010
+JP やがてその闘いの数々は『新・邪道伝説』として
+JP 日本プロレス界の歴史に刻み込まれたのだった。
+EN In time, their battles were carved into
+EN Japanese wrestling history as "The
+EN New Outlaw Legend."

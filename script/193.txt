@@ -1,0 +1,162 @@
+@ 000
+JP 記者：
+JP 「二冠統一王座奪取、おめでとうございます！
+EN Reporter:
+EN "Congratulations on winning the
+EN  unified Double Championship!"
+
+@ 001
+JP #MS：
+JP 「だから言ったろ、俺が貰うって。
+EN #MS:
+EN "Told ya. Said I'd take it."
+
+@ 002
+JP 記者：
+JP 「内容もタイトルマッチに相応しいものでした。
+EN Reporter:
+EN "And it was a match worthy of a title
+EN  bout."
+
+@ 003
+JP #MS：
+JP 「まあ俺について来れたあいつも
+JP 　大したものだよな。誉めてやるよ。
+EN #MS:
+EN "Well, he kept up with me, so he's not
+EN  bad. I'll give him that."
+
+@ 004
+JP 俺は憎まれ口を叩きながらも#WS068さんに
+JP エールを送った。
+EN Trash talk aside, I was really saluting
+EN Hayabusa.
+
+@ 005
+JP あの人となら、あの人との闘いなら、
+JP 『新しいインディー』を作っていけそうな感触を
+JP 得たからだ。
+EN With him, fighting him, I felt we
+EN really could build a "new indie scene."
+
+@ 006
+JP 記者：
+JP 「次期シリーズでは第一回
+JP 　『トップオブ#PS02トーナメント』が
+JP 　開かれます。
+EN Reporter:
+EN "Next series is the first-ever "Top of
+EN  #PS02 Tournament.""
+
+@ 007
+JP #MS：
+JP 「チャンピオンも出なきゃいけないあれ？
+JP 　まあベルトは関係無いから適当に流そうか。
+EN #MS:
+EN "That thing even the champ has to
+EN  enter? The belt's not on the line, so
+EN  I'll just coast."
+
+@ 008
+JP 「大体それで俺が優勝しちゃったら
+JP 　敵がいなくなっちゃうからな。
+JP 　それじゃつまんないだろ、さすがに。
+EN "Besides, if I win that too, I'll run out
+EN  of enemies. That'd be boring, right?"
+
+@ 009
+JP 記者：
+JP 「ありがとうございました。
+EN Reporter:
+EN "Thank you very much."
+
+@ 010
+JP マスコミ連中が帰った後、
+JP 俺は感動を噛み締めていた。
+EN After the press left, I let it all sink in.
+
+@ 011
+JP #WS026道場入門からこれまで、
+JP 色々あった。そしてようやく、
+JP 念願のチャンピオンになったのだ・・・・
+EN So much had happened since I joined
+EN Yamamoto's dojo. And at last, I was
+EN the champion I'd dreamed of being....
+
+@ 012
+JP #WS071：
+JP 「いいのか、本当に？
+EN Fuyuki:
+EN "You sure about this?"
+
+@ 013
+JP 俺は、今回のタイトル戦で勝ったら
+JP やりたいことがあった。
+EN If I won this title match, there was
+EN something I wanted to do.
+
+@ 014
+JP それはベルト返還だ。
+EN Give back the belt.
+
+@ 015
+JP #WS076色の古い#PS02の
+JP タイトルを永久封印し、
+JP 新たな#PS02ベルトを作るのだ。
+EN Seal away the old #PS02 title,
+EN stained with Onita's colors, forever,
+EN and create a new #PS02 belt.
+
+@ 016
+JP #WS071：
+JP 「防衛戦もやらなくていいのか？
+EN Fuyuki:
+EN "You don't even want to defend it?"
+
+@ 017
+JP #WS071さんはベルトを初めて巻いて
+JP 感動している俺を気遣ってくれているようだ。
+EN Fuyuki seemed worried about me,
+EN since I was so moved to wear the belt
+EN for the first time.
+
+@ 018
+JP #MS：
+JP 「いえ、いいんです。第一負けて
+JP 　ベルト取られちゃったら
+JP 　困るじゃないですか。
+EN #MS:
+EN "No, it's fine. Besides, it'd be a
+EN  problem if I lost and they took the
+EN  belt, right?"
+
+@ 019
+JP 俺はニヤリと笑って見せる。
+EN I flashed him a grin.
+
+@ 020
+JP #WS071：
+JP 「そうか。大した奴だよ、お前は。
+EN Fuyuki:
+EN "I see. You're really somethin', you
+EN  know that?"
+
+@ 021
+JP 「よーし、みんな！
+JP 　#MSと新しいインディーの為に
+JP 　大パーティーを開くぞ！
+EN "All right, everybody! We're throwin'
+EN  a huge party for #MS and the
+EN  new indie scene!"
+
+@ 022
+JP みんな：
+JP 「おーーー！！
+EN Everyone:
+EN "Yeaaaah!!"
+
+@ 023
+JP そして俺は翌日、ベルトの封印を
+JP 統一機構に申し出た・・・・・
+EN And the next day, I asked the
+EN commission to retire the belt.....

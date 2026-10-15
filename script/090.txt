@@ -1,0 +1,97 @@
+@ 000
+JP #MS：
+JP 「ベストバウト賞ですか！
+EN #MS:
+EN "Best Bout of the Year?!"
+
+@ 001
+JP #WS013：
+JP 「ああ。あとグレートレスラー賞もだ。
+JP 　表彰式やるから来いってよ。
+EN Choshu:
+EN "Yeah. And Wrestler of the Year too.
+EN  They want you at the awards
+EN  ceremony."
+
+@ 002
+JP #MS：
+JP 「グレートレスラー賞って・・・あの！？
+EN #MS:
+EN "Wrestler of the Year... THE award!?"
+
+@ 003
+JP グレートレスラー賞は、各社マスコミと
+JP ファンの投票によって選ばれる、その年で
+JP 一番活躍したレスラーに送られる賞だ。
+EN Wrestler of the Year is voted on by
+EN the press and the fans, and goes to the
+EN year's top wrestler.
+
+@ 004
+JP #WS013：
+JP 「俺はな、お前と・・・俺自身に感謝してるよ。
+EN Choshu:
+EN "You know, I'm grateful to you... and
+EN  to myself."
+
+@ 005
+JP #MS：
+JP 「え？
+EN #MS:
+EN "What?"
+
+@ 006
+JP #WS013：
+JP 「あの時・・・#WS026道場で見た
+JP 　１人の若者を見込んだ俺自身の見る目に、な。
+EN Choshu:
+EN "Back then... for having the eye to see
+EN  something in a kid at Yamamoto's
+EN  dojo."
+
+@ 007
+JP #MS：
+JP 「#WS013さん・・・
+EN #MS:
+EN "Choshu..."
+
+@ 008
+JP #WS013：
+JP 「ちょっと年寄りくさかったな。
+EN Choshu:
+EN "Ah, that sounded like an old man
+EN  talking."
+
+@ 009
+JP #MS：
+JP 「いえ・・・俺も、感謝してます。
+JP 　自分と、坂上と、#WS013さんと、
+JP 　何より#WL026先生に・・・
+EN #MS:
+EN "No... I'm grateful too. To myself, to
+EN  Sakagami, to you, and most of all to
+EN  Coach Yamamoto..."
+
+@ 010
+JP #MSと坂上は名実共に
+JP 日本マット界のエースとして認められ、
+JP その後も第一線で活躍し続けた。
+EN #MS and Sakagami were hailed
+EN as the true aces of Japanese wrestling,
+EN and stayed on top for years.
+
+@ 011
+JP ２人の活躍は、下降気味だった
+JP 日本マット界に新たな力を吹き込んだ。
+EN Their success breathed new life into a
+EN Japanese wrestling scene that had
+EN been in decline.
+
+@ 012
+JP そして・・・・
+EN And then....
+
+@ 013
+JP 第三次プロレス黄金時代がやって来たのだった。
+EN The third golden age of pro wrestling
+EN had arrived.

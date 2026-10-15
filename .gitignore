@@ -1,0 +1,20 @@
+# Disc images: never commit these
+/rom/
+*.bin
+*.cue
+*.iso
+*.chd
+*.img
+*.xdelta
+
+# Generated
+/build/
+/release/
+/extracted/
+/review/
+/screenshots/
+__pycache__/
+/.venv/
+
+# Image work in progress (see docs/EDITING.md)
+/images/handmade/

@@ -1,0 +1,113 @@
+@ 000
+JP #MS：
+JP 「フゥ・・・・
+EN #MS:
+EN "Phew...."
+
+@ 001
+JP ？：
+JP 「ジェラシーが集まって大変だな。
+EN ???:
+EN "Rough, having all that jealousy
+EN  aimed at you."
+
+@ 002
+JP #MS：
+JP 「#WS092さん・・・・
+EN #MS:
+EN "Sasuke...."
+
+@ 003
+JP #WS092：
+JP 「分かってやってくれ、あいつらの気持ちも。
+EN Sasuke:
+EN "Try to understand how they feel."
+
+@ 004
+JP #MS：
+JP 「分かる・・・つもりです。
+JP 　俺も#PS04の事が好きですから・・・
+EN #MS:
+EN "I think... I do. I love #PS04 too..."
+
+@ 005
+JP #WS092：
+JP 「そうだな。でもこれが変な
+JP 　いがみ合いじゃなくて、ライバル心になったら
+JP 　#PS04はもっと面白くなるぞ。
+EN Sasuke:
+EN "Right. But if this turns from petty
+EN  feuding into real rivalry, #PS04
+EN  will get even more interesting."
+
+@ 006
+JP #MS：
+JP 「はい。俺ももっともっと頑張ります！
+EN #MS:
+EN "Yes. I'll work even harder!"
+
+@ 007
+JP 俺がいつものように会場設営の手伝いを
+JP している時だった。
+EN I was helping set up the venue, like
+EN always.
+
+@ 008
+JP #MS：
+JP 「若部さん、おはようございます！
+EN #MS:
+EN "Good morning, Mr. Tanabe!"
+
+@ 009
+JP バット：
+JP 「おはよう。ああ、#MS。
+EN Tanabe:
+EN "Morning. Oh, #MS."
+
+@ 010
+JP #MS：
+JP 「はい？
+EN #MS:
+EN "Yes?"
+
+@ 011
+JP バット：
+JP 「今日、#WS095さんが
+JP 　お前とシングルやりたいって言ってたぞ。
+EN Tanabe:
+EN "Gran Hamada said he wants a singles
+EN  match with you today."
+
+@ 012
+JP #MS：
+JP 「本当ですか！
+EN #MS:
+EN "Really!"
+
+@ 013
+JP バット：
+JP 「何か久々に血が騒ぐとか言って
+JP 　やる気まんまんだったぞ。
+EN Tanabe:
+EN "Said his blood's pumping for the first
+EN  time in ages. He's raring to go."
+
+@ 014
+JP #MS：
+JP 「是非お願いしたいです！
+EN #MS:
+EN "I'd love to!"
+
+@ 015
+JP バット：
+JP 「分かった。
+JP 　じゃあ#WS092社長にも言っておくよ。
+EN Tanabe:
+EN "Got it. I'll let President Sasuke know
+EN  too."
+
+@ 016
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Thank you!"

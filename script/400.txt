@@ -1,0 +1,73 @@
+@ 000
+JP 俺は結局#WS134さんの誘いを
+JP 丁重に断った。
+EN In the end, I politely turned down
+EN TAKA's offer.
+
+@ 001
+JP #WS113：
+JP 「取り敢えず残ってくれてホッとしてるよ。
+EN Ultimo:
+EN "I'm relieved you're staying, anyway."
+
+@ 002
+JP #MS：
+JP 「そうですか？
+EN #MS:
+EN "You are?"
+
+@ 003
+JP #WS113：
+JP 「俺個人はどっちでもいいけど、やっぱり
+JP 　マサさんとの関係もあるからな。
+EN Ultimo:
+EN "Personally I don't mind either way,
+EN  but I owe Masa, you know."
+
+@ 004
+JP #MS：
+JP 「そうですよね。
+JP 　俺もやっぱり恩があるし・・・
+EN #MS:
+EN "Right. I owe him too..."
+
+@ 005
+JP 「まだここにも勉強すべき事は
+JP 　たくさんありますからね！
+EN "And there's still a lot for me to learn
+EN  here!"
+
+@ 006
+JP #WS113：
+JP 「そうだな。
+EN Ultimo:
+EN "That's true."
+
+@ 007
+JP 「そう言えば今日は#WS161とだって？
+EN "Oh yeah, you've got Psychosis
+EN  today?"
+
+@ 008
+JP #MS：
+JP 「ええ。あの#WS015さんの
+JP 　偽者にしか見えない・・・
+EN #MS:
+EN "Yeah. The guy who looks like
+EN  nothing but a knockoff Liger..."
+
+@ 009
+JP #WS113：
+JP 「ハハハ、まあそう言うなよ。
+JP 　ここらクラスの試合でバチッと見せておけば
+JP 　会社側の評価も変わるぞ。
+EN Ultimo:
+EN "Ha ha ha, don't say that. Look sharp
+EN  in matches at this level and the
+EN  office will see you differently."
+
+@ 010
+JP #MS：
+JP 「そうですね・・・頑張ります！
+EN #MS:
+EN "Right... I'll give it my all!"

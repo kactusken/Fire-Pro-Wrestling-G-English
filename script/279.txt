@@ -1,0 +1,13 @@
+@ 000
+JP 今回のギガバトルトーナメントでは
+JP 結局優勝出来なかった。
+EN In the end, I couldn't win this Mega
+EN Battle Tournament.
+
+@ 001
+JP 俺は自分の力不足を痛感し、トレーニングに
+JP 打ち込むしか無かった。次のチャンスで
+JP 結果を出す為に・・・・
+EN Painfully aware I wasn't good enough,
+EN all I could do was train. To get results
+EN the next time....

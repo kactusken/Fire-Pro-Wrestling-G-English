@@ -1,0 +1,49 @@
+@ 000
+JP 記者：
+JP 「最強の王者を下しての王座奪取、
+JP 　おめでとうございます。
+EN Reporter:
+EN "Congratulations on taking the title
+EN  from the toughest champion."
+
+@ 001
+JP #MS：
+JP 「ありがとうございます。
+EN #MS:
+EN "Thank you."
+
+@ 002
+JP 記者：
+JP 「まさに敵なしといったところですが？
+EN Reporter:
+EN "Looks like no one can touch you."
+
+@ 003
+JP #MS：
+JP 「そんな事ありませんよ。
+JP 　勝敗はいつも紙一重ですから。
+EN #MS:
+EN "Not at all. Every match is decided by
+EN  a hair."
+
+@ 004
+JP 記者：
+JP 「事実上のトップ２人に勝った訳ですが
+JP 　今後どういった展開を考えていますか？
+EN Reporter:
+EN "You've beaten the top two. What do
+EN  you have in mind next?"
+
+@ 005
+JP #MS：
+JP 「これからは若い連中にもドンドン
+JP 　出て来て欲しいですね。
+EN #MS:
+EN "I'd like to see the young guys step up
+EN  and come at me."
+
+@ 006
+JP 記者：
+JP 「ありがとうございました！
+EN Reporter:
+EN "Thank you very much!"

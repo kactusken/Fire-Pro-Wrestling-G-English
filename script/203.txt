@@ -1,0 +1,245 @@
+@ 000
+JP 勝ったのは俺達だった。
+EN We were the winners.
+
+@ 001
+JP 坂上：
+JP 「クッ・・・・
+EN Sakagami:
+EN "Damn...."
+
+@ 002
+JP #MS：
+JP 「坂上！試合前の約束、覚えてるだろうな！
+EN #MS:
+EN "Sakagami! You remember our deal,
+EN  right!?"
+
+@ 003
+JP 坂上：
+JP 「負けは負けだ・・・・分かった。
+JP 　入ってやるよ、ノーリストリクトに！
+EN Sakagami:
+EN "A loss is a loss.... Fine. I'll join No
+EN  Respect!"
+
+@ 004
+JP #MS：
+JP 「よし、兄弟！
+JP 　一緒にプロレス界に旋風を巻き起こそうぜ！
+EN #MS:
+EN "All right, brother! Let's take the
+EN  wrestling world by storm!"
+
+@ 005
+JP 記者：
+JP 「#PS00から#PS02への移籍は
+JP 　我々だけでなく、ファンにとっても衝撃の
+JP 　出来事だと思うのですが？
+EN Reporter:
+EN "Your move from #PS00 to
+EN  #PS02 came as a shock, not just to
+EN  us but to the fans."
+
+@ 006
+JP 坂上：
+JP 「そうですね・・・・過程では色々
+JP 　ありましたけど、後悔はしてませんよ。
+EN Sakagami:
+EN "Well.... A lot happened along the
+EN  way, but I have no regrets."
+
+@ 007
+JP 「これからノーリストリクトとして、
+JP 　プロレス界を引っ掻き回して行きますよ！
+EN "From now on, as part of No Respect,
+EN  I'm gonna shake up the wrestling
+EN  world!"
+
+@ 008
+JP そう、坂上は本当に約束を守った。
+JP #PS00を離脱、ノーリストリクトに
+JP 参加したのだ。
+EN Yes, Sakagami really kept his word.
+EN He left #PS00 and joined No
+EN Respect.
+
+@ 009
+JP 当然マスコミは大騒ぎ。乱入試合自体もかなりの
+JP 出来事だったが、いきなりの移籍はそれを
+JP 遥かに上回る衝撃だった。
+EN The press went wild, of course. The
+EN invasion was big news, but the sudden
+EN jump was a far bigger shock.
+
+@ 010
+JP 契約問題も、たまたま坂上が契約更改の時期に
+JP 書類にサインをしていなかった為、処罰を
+JP 受けただけで移籍は可能だったのだ。
+EN His contract was up for renewal and
+EN he hadn't signed yet, so he got off
+EN with a penalty and could move.
+
+@ 011
+JP #MS：
+JP 「本当に後悔してないのか？
+EN #MS:
+EN "You really have no regrets?"
+
+@ 012
+JP 坂上：
+JP 「何だ、お前こそ後悔してそうな感じだな？
+EN Sakagami:
+EN "What, you're the one who sounds like
+EN  he has regrets."
+
+@ 013
+JP #MS：
+JP 「そう言う訳じゃ・・・・
+EN #MS:
+EN "It's not that...."
+
+@ 014
+JP 坂上：
+JP 「後悔してないってのはウソじゃないぜ。
+JP 　これからお前と、ノーリストリクトの仲間と
+JP 　プロレス界を引っ張って行かなきゃな！
+EN Sakagami:
+EN "No regrets, and that's no lie. Now
+EN  you, me and the No Respect guys
+EN  gotta lead the wrestling world!"
+
+@ 015
+JP #MS：
+JP 「そうだな・・・・よし、やるぞ坂上！
+JP 　俺達がプロレス界に新たな革命を
+JP 　起こしてやるんだ！
+EN #MS:
+EN "Yeah.... All right, let's do this,
+EN  Sakagami! We'll start a new
+EN  revolution in wrestling!"
+
+@ 016
+JP 坂上：
+JP 「おうよ！
+EN Sakagami:
+EN "You bet!"
+
+@ 017
+JP 坂上：
+JP 「ああ。あの時は参ったよ・・・・
+EN Sakagami:
+EN "Yeah. That was rough back then...."
+
+@ 018
+JP #MS：
+JP 「そうだったのか・・・・
+EN #MS:
+EN "So that's how it was...."
+
+@ 019
+JP #WS071：
+JP 「よう！
+EN Fuyuki:
+EN "Hey!"
+
+@ 020
+JP #MS：
+JP 「#WS071さん！
+EN #MS:
+EN "Mr. Fuyuki!"
+
+@ 021
+JP 坂上：
+JP 「おはようございます！
+EN Sakagami:
+EN "Good morning!"
+
+@ 022
+JP #WS071：
+JP 「今日は次のシリーズでどうしたいか、
+JP 　お前達の希望を聞きに来た。
+EN Fuyuki:
+EN "I came to hear what you two want to
+EN  do next series."
+
+@ 023
+JP #MS：
+JP 「俺達の希望、ですか？
+EN #MS:
+EN "What we want?"
+
+@ 024
+JP #WS071：
+JP 「そうだ。坂上の話題で持ちきりの今、
+JP 　お前達が次のシリーズの主役なのは
+JP 　もう決まりだ。
+EN Fuyuki:
+EN "Right. With everybody talkin' about
+EN  Sakagami, you two are the stars of
+EN  the next series for sure."
+
+@ 025
+JP 「後はお前達自身がシングルで行くのか、
+JP 　タッグで行くのかで最終戦のカードが
+JP 　変わるって訳だ。
+EN "Whether you go singles or tag
+EN  decides the card for the final show."
+
+@ 026
+JP 俺はシングル王座決定戦も気になったが、
+JP 勝負の結果とは言え本当に来てくれた坂上に
+JP 何かしてやりたかった。
+EN The singles title tempted me, but I
+EN wanted to do right by Sakagami,
+EN who'd kept his word.
+
+@ 027
+JP そして何より・・・・・俺達が台風の目に
+JP なるしかない、と強く思ったのだ。
+EN And above all.... I felt strongly that
+EN we had to be the eye of the storm.
+
+@ 028
+JP #MS：
+JP 「坂上、俺は・・・・
+EN #MS:
+EN "Sakagami, I...."
+
+@ 029
+JP 坂上：
+JP 「タッグだろ、やっぱり。
+EN Sakagami:
+EN "Tag, right? Obviously."
+
+@ 030
+JP #MS：
+JP 「へへ、分かってるじゃねぇか！
+EN #MS:
+EN "Heh, you get it!"
+
+@ 031
+JP 坂上：
+JP 「#WS071さん、タッグで行きます！
+EN Sakagami:
+EN "Mr. Fuyuki, we're going tag!"
+
+@ 032
+JP #WS071：
+JP 「分かった、言っておこう。
+EN Fuyuki:
+EN "Got it. I'll pass it on."
+
+@ 033
+JP 「頼むぜ。お前らなら明日のインディー、いや、
+JP 　プロレス界を任せられる・・・・
+JP 　そんな気がするよ。
+EN "Countin' on you. I feel like I could
+EN  trust you two with the indies of
+EN  tomorrow... no, all of wrestling."
+
+@ 034
+JP #MS＆坂上：
+JP 『はい！
+EN #MS & Sakagami:
+EN "Yes, sir!"

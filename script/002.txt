@@ -1,0 +1,670 @@
+@ 000
+JP 俺達２人のスパーリングが終わった。
+EN Our sparring match was over.
+
+@ 001
+JP 果たしてプロの目にはどう映ったのだろうか。
+EN How had it looked to the pros?
+
+@ 002
+JP #WS013：
+JP 「じゃあ#WS026さん、
+JP 　俺達はこれで。
+EN Choshu:
+EN "Well, Mr. Yamamoto, we'll be going."
+
+@ 003
+JP #MS：
+JP 「あ、あれ？
+EN #MS:
+EN "Huh? Wait..."
+
+@ 004
+JP どんどんみんな帰って行く。
+JP 動揺しまくる俺と坂上。
+EN One after another, they all left.
+EN Sakagami and I were rattled.
+
+@ 005
+JP 坂上：
+JP 「な、なあ、何でみんな帰るんだ？
+JP 　俺達そんなにダメだったのか？
+EN Sakagami:
+EN "H-Hey, why's everyone leaving?
+EN  Were we that bad?"
+
+@ 006
+JP #MS：
+JP 「俺が知るかよ・・・・
+EN #MS:
+EN "How should I know..."
+
+@ 007
+JP #WL026：
+JP 「安心しろ。
+EN Yamamoto:
+EN "Relax."
+
+@ 008
+JP 「別にみんな呆れて帰っていく訳ではない。
+JP 　必要なものを見終わったから
+JP 　帰って行くだけだ。
+EN "They're not leaving because they're
+EN  disgusted. They've seen what they
+EN  needed to see, that's all."
+
+@ 009
+JP 坂上：
+JP 「何だ・・・
+EN Sakagami:
+EN "Oh..."
+
+@ 010
+JP #WL026：
+JP 「もし彼等がお前達のスパーリングで
+JP 　何か感じるものがあれば、そのうち
+JP 　連絡が来るだろう。
+EN Yamamoto:
+EN "If your sparring stirred something in
+EN  any of them, you'll be hearing from
+EN  them soon enough."
+
+@ 011
+JP #MS：
+JP 「もし連絡が無かったら・・・
+EN #MS:
+EN "And if we don't hear anything..."
+
+@ 012
+JP #WL026：
+JP 「その時は自分で考えろ。
+EN Yamamoto:
+EN "Then figure it out yourselves."
+
+@ 013
+JP 記者：
+JP 「#WL026さん、
+JP 　彼等にインタビューいいですか？
+EN Reporter:
+EN "Mr. Yamamoto, mind if I interview
+EN  them?"
+
+@ 014
+JP #WL026：
+JP 「まだ団体にも所属していないのにか？
+EN Yamamoto:
+EN "They're not even signed yet."
+
+@ 015
+JP 記者：
+JP 「彼等がビッグになった時のための
+JP 　ネタのストックですよ。
+EN Reporter:
+EN "It's material for later, for when they
+EN  make it big."
+
+@ 016
+JP 「#WS026道場、７年ぶりの卒業生でしょ？
+JP 　将来有望じゃないですか。
+EN "The Yamamoto Dojo's first grads in
+EN  seven years, right? Promising stuff."
+
+@ 017
+JP #WL026：
+JP 「８年だ。
+EN Yamamoto:
+EN "Eight."
+
+@ 018
+JP 「ただあまりおだてるんじゃないぞ。
+JP 　己の力を過信するようになっては困る。
+EN "Just don't go flattering them. I can't
+EN  have them getting cocky."
+
+@ 019
+JP 記者：
+JP 「分かってますよ、任せて下さい。
+EN Reporter:
+EN "I know, leave it to me."
+
+@ 020
+JP #WL026：
+JP 「・・・・まあよかろう。
+JP 　わしはちょっと出掛けて来る。
+EN Yamamoto:
+EN "...Very well. I'm heading out for a
+EN  bit."
+
+@ 021
+JP 記者：
+JP 「じゃあ１人ずつでいいかな？
+EN Reporter:
+EN "So, one at a time, okay?"
+
+@ 022
+JP 坂上：
+JP 「あ、じゃあ俺後でいいですよ。
+EN Sakagami:
+EN "Oh, I'm fine going second."
+
+@ 023
+JP 記者：
+JP 「じゃあ早速だけど・・・
+EN Reporter:
+EN "Then let's get right to it..."
+
+@ 024
+JP 削除
+
+@ 025
+JP 「ええと、
+JP 　#MF君だよね？
+EN "Let's see, you're
+EN  #MF, right?"
+
+@ 026
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes."
+
+@ 027
+JP 記者：
+JP 「まあ月並みな質問だけど、何で
+JP 　プロレスラーになりたいと思ったのかな？
+EN Reporter:
+EN "This is a standard question, but why
+EN  did you want to be a pro wrestler?"
+
+@ 028
+JP #MS：
+JP 「そうですね・・・
+EN #MS:
+EN "Let me see..."
+
+@ 029
+JP ・憧れのレスラーのようになりたかったから。
+JP ・ひたすら強くなりたかったから。
+JP ・プロレスそのものが好きだったから。
+EN ・I wanted to be like my hero.
+EN ・I just wanted to be strong.
+EN ・I loved pro wrestling itself.
+
+@ 030
+JP 「やっぱり子供の頃ＴＶで見た
+JP 　憧れのレスラーのように
+JP 　なりたかったからですかね。
+EN "I guess because I wanted to be like
+EN  the wrestler I looked up to on TV
+EN  when I was a kid."
+
+@ 031
+JP 記者：
+JP 「なるほど。
+EN Reporter:
+EN "I see."
+
+@ 032
+JP 「子供の頃からの夢だった、って訳だね。
+EN "So it's been your dream since you
+EN  were a kid."
+
+@ 033
+JP 「やっぱり強い男になりたかったからですかね。
+EN "I guess because I wanted to be a
+EN  strong man."
+
+@ 034
+JP 記者：
+JP 「なるほど。
+EN Reporter:
+EN "I see."
+
+@ 035
+JP 「強さを求めてプロレスラーを目指した、
+JP 　という事だね。
+EN "So you chose pro wrestling in search
+EN  of strength."
+
+@ 036
+JP 「色々な部分を含めて、プロレスそのものが
+JP 　好きだったからですかね。
+EN "I guess because I love pro wrestling
+EN  itself, all of it."
+
+@ 037
+JP 記者：
+JP 「なるほど。
+EN Reporter:
+EN "I see."
+
+@ 038
+JP 「単純に好きだったプロレスをやってみたい、
+JP 　という事だね。
+EN "So you just want to do the pro
+EN  wrestling you've always loved."
+
+@ 039
+JP #MS：
+JP 「ええ。
+EN #MS:
+EN "That's right."
+
+@ 040
+JP 記者：
+JP 「じゃあ、プロレスって何かな？
+EN Reporter:
+EN "Then what is pro wrestling to you?"
+
+@ 041
+JP #MS：
+JP 「うーん・・・
+EN #MS:
+EN "Hmm..."
+
+@ 042
+JP ・プロスポーツ。
+JP ・総合格闘技。
+JP ・エンターテイメント。
+EN ・A pro sport.
+EN ・The ultimate fighting art.
+EN ・Entertainment.
+
+@ 043
+JP #MS：
+JP 「鍛えぬかれたアスリート達が
+JP 　全身全霊をかけてぶつかり合う、
+JP 　最高のプロスポーツだと思います。
+EN #MS:
+EN "I think it's the greatest pro sport,
+EN  where highly trained athletes clash
+EN  with everything they've got."
+
+@ 044
+JP #MS：
+JP 「あらゆる格闘技のエッセンスを含んだ、
+JP 　最強の総合格闘技だと思います。
+EN #MS:
+EN "I think it's the strongest fighting art,
+EN  with the essence of every martial art
+EN  in it."
+
+@ 045
+JP #MS：
+JP 「観客を魅せる、と言う意味で、
+JP 　最高のエンターテイメントだと思います。
+EN #MS:
+EN "I think it's the best entertainment
+EN  there is, in the way it captivates the
+EN  crowd."
+
+@ 046
+JP 記者：
+JP 「なるほど、なるほど。
+JP 　じゃあ簡単に今後の抱負を。
+EN Reporter:
+EN "I see, I see. Then just tell me your
+EN  goals going forward."
+
+@ 047
+JP ・「とにかく頑張ります！
+JP ・「頂点目指します！
+JP ・「１歩１歩着実に進んで行きます！
+EN ・"I'll just do my best!"
+EN ・"I'm aiming for the top!"
+EN ・"I'll keep going, one step at a time!"
+
+@ 048
+JP 記者：
+JP 「うん、期待してるよ。
+JP 　業界注目の選手達だからね。
+EN Reporter:
+EN "Great, I've got high hopes. The whole
+EN  business is watching you."
+
+@ 049
+JP #MS：
+JP 「え？
+EN #MS:
+EN "Huh?"
+
+@ 050
+JP 記者：
+JP 「さっきも言ったように
+JP 　#WS026道場、８年ぶりの
+JP 　卒業生でしょ？
+EN Reporter:
+EN "Like I said, you're the Yamamoto
+EN  Dojo's first graduates in eight years,
+EN  right?"
+
+@ 051
+JP 「しかもあの#WL026さんが
+JP 　割と誉めてるんだよ。
+EN "And Mr. Yamamoto was actually
+EN  praising you, of all people."
+
+@ 052
+JP 「あの人が他人の前で誉めた道場生なんて
+JP 　今までいなかったんじゃないかな？
+EN "I don't think he's ever praised one of
+EN  his students in front of others."
+
+@ 053
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 054
+JP #WL026：
+JP 「だからそういう事をペラペラと
+JP 　しゃべるんじゃないと言っただろう！
+EN Yamamoto:
+EN "I told you not to go blabbing about
+EN  things like that!"
+
+@ 055
+JP 記者：
+JP 「す、すみません・・・
+EN Reporter:
+EN "S-Sorry..."
+
+@ 056
+JP #WL026：
+JP 「全くお調子者め。今度余計な事を話したら
+JP 　出入り禁止にするぞ！
+EN Yamamoto:
+EN "You blabbermouth. One more word
+EN  and you're barred from here!"
+
+@ 057
+JP 記者：
+JP 「気をつけます・・・
+EN Reporter:
+EN "I'll be careful..."
+
+@ 058
+JP #WL026：
+JP 「ゴホン・・・・まあ、わしも期待はしとる。
+JP 　だからその期待に恥じないように、
+JP 　これからも気合を入れて行け！
+EN Yamamoto:
+EN "Ahem... Well, I do have high hopes.
+EN  So live up to them and keep giving it
+EN  your all!"
+
+@ 059
+JP #MS：
+JP 「はいっ！
+EN #MS:
+EN "Yes, sir!"
+
+@ 060
+JP 正直言って意外だった。
+EN Honestly, I was surprised.
+
+@ 061
+JP 俺達はさんざん叱られて、何とかやって来た
+JP レベルだったのに。
+EN We'd been chewed out constantly and
+EN barely scraped by.
+
+@ 062
+JP まさか誉められていたなんて・・・
+EN Who knew he'd been praising us...
+
+@ 063
+JP ・期待に応えるように頑張るぞ！
+JP ・まあ当然の事だな。
+JP ・別に隠さなくてもいいのに。
+EN ・I'll work hard to live up to it!
+EN ・Well, of course he would.
+EN ・He didn't have to hide it.
+
+@ 064
+JP よし、今からまたトレーニングだ！
+EN Right, back to training!
+
+@ 065
+JP ここまでこうして頑張って来た訳だしな。
+JP 先生が驚くぐらいビッグになってみせるさ。
+EN I've come this far, after all. I'll make
+EN it so big it shocks him.
+
+@ 066
+JP 良い所は良いで、誉めてもらった方が
+JP やる気も出ると思うけど。
+EN I think praise where it's earned would
+EN make us want it more.
+
+@ 067
+JP 公開スパーリングの日から１週間後。
+EN A week after the open sparring.
+
+@ 068
+JP #WL026：
+JP 「先週の公開スパーリングの結果の
+JP 　連絡は明日来るそうだ。
+EN Yamamoto:
+EN "I hear the results of last week's open
+EN  sparring come in tomorrow."
+
+@ 069
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 070
+JP 坂上：
+JP 「・・・・・・・
+EN Sakagami:
+EN "......."
+
+@ 071
+JP #WL026：
+JP 「まあそう緊張するな。
+JP 　お前達には１団体ずつ話が来ている。
+EN Yamamoto:
+EN "Don't be so tense. Each of you has an
+EN  offer from one."
+
+@ 072
+JP #MS＆坂上：
+JP 『本当ですか！？
+EN #MS & Sakagami:
+EN "Really!?"
+
+@ 073
+JP #WL026：
+JP 「うむ。安易に喜ばれても困るがな。
+JP 　だがわしが判断した限りでは、各々に合った
+JP 　場所になるだろうと思う。
+EN Yamamoto:
+EN "Yes. Don't get carried away, though.
+EN  But as far as I can judge, each place
+EN  should suit you well."
+
+@ 074
+JP 「そしてお前達は明日結果を聞き次第、
+JP 　この#WS026道場を卒業する事になる。
+EN "And as soon as you hear tomorrow,
+EN  you'll graduate from the Yamamoto
+EN  Dojo."
+
+@ 075
+JP #MS＆坂上：
+JP 『えっ！？
+EN #MS & Sakagami:
+EN "What!?"
+
+@ 076
+JP 坂上：
+JP 「卒業、ですか？
+EN Sakagami:
+EN "Graduate?"
+
+@ 077
+JP 俺も坂上も複雑な表情をしていたのだろう。
+JP それを見た#WL026先生が
+JP ふっ、と笑みをこぼす。
+EN We must have both looked torn.
+EN Seeing that, Coach Yamamoto let a
+EN small smile slip.
+
+@ 078
+JP #WL026：
+JP 「そんな顔をするな。お前達は良く頑張った。
+JP 　胸を張って出て行けばいい。
+EN Yamamoto:
+EN "Don't make that face. You did well.
+EN  Hold your heads high and go."
+
+@ 079
+JP #MS＆坂上：
+JP 『・・・・・・
+EN #MS & Sakagami:
+EN "......"
+
+@ 080
+JP #WL026：
+JP 「そしていつか一流のプロレスラーになり、
+JP 　頂点に立て。
+EN Yamamoto:
+EN "And one day become first-rate pro
+EN  wrestlers, and stand at the top."
+
+@ 081
+JP 「『あれが#WF026の
+JP 　育てたレスラーだ』とわしが胸を張れる
+JP 　男になれ。
+EN "Become men I can proudly point to
+EN  and say 'Kotetsu Yamamoto trained
+EN  that wrestler.'"
+
+@ 082
+JP 「そうしてもらわんと、１年間付き合ってきた
+JP 　わしの苦労も報われんからな。
+EN "Otherwise, all my trouble putting up
+EN  with you this year is wasted."
+
+@ 083
+JP #WL026先生の言葉は冷たいが、
+JP その穏やかな表情から伝わって来るものは
+JP 正反対の感情だった。
+EN His words were cold, but his calm face
+EN said exactly the opposite.
+
+@ 084
+JP 隣の坂上は感極まった、という感じで
+JP 今にも泣き出しそうだ。
+JP 俺もちょっと来てるかもしれない。
+EN Sakagami next to me looked overcome,
+EN ready to burst into tears. I might be a
+EN little choked up too.
+
+@ 085
+JP #WL026：
+JP 「ただこのまま終わりではないぞ。お前達には
+JP 　最後の試練を受けてもらう。
+EN Yamamoto:
+EN "But it doesn't end here. You have one
+EN  final trial ahead of you."
+
+@ 086
+JP そのセリフに張り詰めたものを感じた俺と坂上は
+JP 我に返り、背筋を伸ばす。
+EN Sensing the tension in his words,
+EN Sakagami and I snapped back and
+EN straightened up.
+
+@ 087
+JP #MS：
+JP 「最後の、試練。
+EN #MS:
+EN "A final trial."
+
+@ 088
+JP #WL026：
+JP 「そう、#WS026道場最後の試練、
+JP 　それはわしとの試合だ！
+EN Yamamoto:
+EN "Yes. The Yamamoto Dojo's final trial
+EN  is a match against me!"
+
+@ 089
+JP 坂上：
+JP 「#WL026先生との・・・
+EN Sakagami:
+EN "Against Coach Yamamoto..."
+
+@ 090
+JP #MS：
+JP 「試合！
+EN #MS:
+EN "A match!"
+
+@ 091
+JP #WL026：
+JP 「いいか！ここでわしを乗り越えてみろ！
+JP 　そして見事この
+JP 　#WS026道場を卒業してみせろ！
+EN Yamamoto:
+EN "Listen! Get past me here! And
+EN  graduate from the Yamamoto Dojo
+EN  with honor!"
+
+@ 092
+JP #MS＆坂上：
+JP 『はいっ！
+EN #MS & Sakagami:
+EN "Yes, sir!"
+
+@ 093
+JP #WL026：
+JP 「よし。では早速わしは準備をしてくる。
+JP 　お前達はどちらが先か、順番を決めておけ。
+EN Yamamoto:
+EN "Good. I'll go get ready. You two
+EN  decide who goes first."
+
+@ 094
+JP 失礼な話かもしれないが現役を退いている
+JP #WL026先生には、ヒヨッコとは言え
+JP 若い俺達２試合分のスタミナは無いだろう。
+EN It might be rude to say, but Coach
+EN Yamamoto is retired. Rookies or not,
+EN he can't have stamina for two of us.
+
+@ 095
+JP となればスタミナの残っている
+JP 先の試合の方がいい。
+EN That means it's better to go first,
+EN while he still has stamina left.
+
+@ 096
+JP アメリカ全土を震撼させた、ホンダブラザーズの
+JP あの『#WF026』と
+JP 闘えるからだ。
+EN Because then I'd get to face Kotetsu
+EN Yamamoto of the Yamaha Brothers,
+EN who shook all of America.
+
+@ 097
+JP それは俺達にとって、何にも代えがたい
+JP 経験になるだろう。
+EN For us, that would be an experience
+EN like no other.
+
+@ 098
+JP どうやら坂上も同じ思いだったらしく、
+JP 全く引く様子も無い。あきらめてジャンケンで
+JP 決める事にして・・・・
+EN Sakagami seemed to feel the same, and
+EN wouldn't back down. In the end we
+EN settled it with janken...
+
+@ 099
+JP 俺は勝った。
+EN I won.

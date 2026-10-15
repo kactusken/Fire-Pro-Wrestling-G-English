@@ -1,0 +1,24 @@
+@ 000
+JP 俺は#WS168さんに敗れて
+JP トーナメントから脱落した。
+JP 自分の未熟さを痛感してしまう。
+EN I lost to Nagai and dropped out of the
+EN tournament. It drove home how green
+EN I still am.
+
+@ 001
+JP 今の俺には、次のチャンスまでに自分を
+JP 磨き上げておく事しか出来ない。
+EN All I can do now is sharpen myself
+EN before my next chance.
+
+@ 002
+JP 今日の試合の相手は
+JP #WF147。
+EN Today's opponent is Hans Nyman.
+
+@ 003
+JP 最近注目を浴び始めた選手だが、
+JP このクラスには負けられない！
+EN He's been getting noticed lately, but I
+EN can't lose to a guy at this level!

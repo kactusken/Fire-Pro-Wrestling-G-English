@@ -1,0 +1,237 @@
+@ 000
+JP #WS154：
+JP 「これが届いたよ。
+EN Funaki:
+EN "This came for you."
+
+@ 001
+JP と言うと#WS154さんは
+JP １枚のファックスを差し出した。
+EN With that, Funaki held out a fax.
+
+@ 002
+JP #WS154：
+JP 「#PS08実行委員会からだよ。
+JP 　お前の参戦にＧＯサインが出た。
+EN Funaki:
+EN "It's from the #PS08 committee.
+EN  They've given you the green light."
+
+@ 003
+JP #MS：
+JP 「えっ！？
+EN #MS:
+EN "What!?"
+
+@ 004
+JP #PS08とはあらゆる立ち技格闘の
+JP 使い手の頂点を決める大会である。
+JP 毎年、年末にはトーナメントも開催される。
+EN #PS08 decides the best of all
+EN stand-up fighters. There's a
+EN tournament every year-end, too.
+
+@ 005
+JP 俺は新たなチャンスを得る為に、#PS08
+JP 参戦をアピールして来たが、両団体の
+JP 問題もあり実現は難しいとされて来た。
+EN I'd pushed to enter #PS08 for a
+EN new chance, but issues between the
+EN two sides made it seem unlikely.
+
+@ 006
+JP #WS154：
+JP 「あれこれ大変だったけど、何とかな。
+JP 　相手も無名選手じゃない。
+JP 　#WF172だ。
+EN Funaki:
+EN "It was a hassle, but we did it. And
+EN  your opponent's no nobody. It's
+EN  Masaaki Satake."
+
+@ 007
+JP #MS：
+JP 「あ、あの#WS172ですか！？
+EN #MS:
+EN "Th-THE Satake!?"
+
+@ 008
+JP #WS172は日本人の中では
+JP ダントツトップの実力を持ったファイターで、
+JP 知名度も文句無しだ。
+EN Satake is by far the top Japanese
+EN fighter there, and his name value is
+EN beyond question.
+
+@ 009
+JP #WS154：
+JP 「最初にしてはヘビーな相手かもしれないけど
+JP 　２度目があるかどうか分からないからな。
+JP 　やるだけの事はやっとかないと。
+EN Funaki:
+EN "Heavy for a first fight, but who
+EN  knows if there'll be a second. Do
+EN  everything you can."
+
+@ 010
+JP #MS：
+JP 「ありがとうございます！
+EN #MS:
+EN "Thank you!"
+
+@ 011
+JP #WS154：
+JP 「で、ルールは#PS10ルールで
+JP 　先方がＯＫした。
+EN Funaki:
+EN "And they agreed to #PS10 rules."
+
+@ 012
+JP #MS：
+JP 「本当ですか！？
+EN #MS:
+EN "Seriously!?"
+
+@ 013
+JP #WS154：
+JP 「ルールはお前に有利なんだから、
+JP 　必ず勝てよ！いいな！
+EN Funaki:
+EN "The rules favor you, so you'd better
+EN  win! Got it!?"
+
+@ 014
+JP #MS：
+JP 「分かってます。#PS08の会場で
+JP 　#PS10魂見せて来ます！
+EN #MS:
+EN "I know. I'll show the #PS08 crowd
+EN  some #PS10 spirit!"
+
+@ 015
+JP #WS154：
+JP 「良く言った！気合入れて行けよ！
+EN Funaki:
+EN "Well said! Go in fired up!"
+
+@ 016
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 017
+JP 俺は今マスコミやら#PS08関係者やらの
+JP 中で公開練習をしている。ルールの事もあり、
+JP 互いの練習を見せ合う場を作る事になったのだ。
+EN Because of the rules, we're holding
+EN open workouts for the press and
+EN #PS08 staff.
+
+@ 018
+JP 俺が一息つくと
+JP #PS08関係者がやって来た。
+EN As I took a breather, the #PS08
+EN people came over.
+
+@ 019
+JP 増田：
+JP 「お疲れ様です！
+EN Masuda:
+EN "Good work!"
+
+@ 020
+JP #WS172：
+JP 「こんちわ！
+EN Satake:
+EN "Howdy!"
+
+@ 021
+JP #MS：
+JP 「今日はどうも。
+EN #MS:
+EN "Thanks for coming."
+
+@ 022
+JP #WS172：
+JP 「#MS選手、よろしくお願いします！
+EN Satake:
+EN "#MS, nice to meet ya!"
+
+@ 023
+JP と言うと彼は手を差し出して来た。
+JP 俺も握り返しながら応える。
+EN He held out his hand. I shook it as I
+EN answered.
+
+@ 024
+JP #MS：
+JP 「いえ、こちらこそ。対戦要望
+JP 　聞き入れてもらって感謝してます。
+EN #MS:
+EN "Likewise. Thanks for accepting my
+EN  challenge."
+
+@ 025
+JP #WS172：
+JP 「お互い、正々堂々、ぶつかり合いましょうや！
+EN Satake:
+EN "Let's both go at it fair and square!"
+
+@ 026
+JP #MS：
+JP 「そうですね！日本格闘技界の１ページを飾る
+JP 　凄い闘いをしましょう！
+EN #MS:
+EN "Yeah! Let's have an amazing fight
+EN  for the Japanese combat sports
+EN  history books!"
+
+@ 027
+JP こうして俺達は変な対立意識無しに闘う事を
+JP 誓い合った。それは#WS172選手の
+JP 爽やかな人柄のお陰なのかもしれない。
+EN So we vowed to fight without any bad
+EN blood. Maybe that's thanks to Satake's
+EN easygoing nature.
+
+@ 028
+JP そして遂にその日がやって来た。
+EN And at last the day came.
+
+@ 029
+JP #WS172：
+JP 「遂にこの日が来た訳や。
+EN Satake:
+EN "So the day's finally here."
+
+@ 030
+JP #MS：
+JP 「遠慮無く行きますよ！
+EN #MS:
+EN "I won't hold back!"
+
+@ 031
+JP #WS172：
+JP 「ハハハ、遠慮なんぞしとるようなら
+JP 　秒殺でっせ！
+EN Satake:
+EN "Ha ha ha, hold back and you'll be
+EN  KO'd in seconds!"
+
+@ 032
+JP #MS：
+JP 「確かに・・・でもこちらにも関節の
+JP 　極めがある事をお忘れなく。
+EN #MS:
+EN "True... But don't forget, I've got joint
+EN  locks on my side."
+
+@ 033
+JP #WS172：
+JP 「せやったな。
+JP 　へへ、何かワクワクして来よったで。
+JP 　ほんじゃま、行きまっせ！
+EN Satake:
+EN "Right, right. Heh, I'm gettin' all
+EN  excited. Well then, here I come!"

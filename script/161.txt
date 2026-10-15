@@ -1,0 +1,46 @@
+@ 000
+JP 二回戦も何とかクリア。
+JP あと一勝すれば若手の頂点に立てる。
+EN I made it through round two too. One
+EN more win and I'd be the top young
+EN gun.
+
+@ 001
+JP #WS069：
+JP 「正直俺は#WS075が
+JP 　上がって来ると思ってたよ。
+JP 　お前が来るとはね。
+EN Tanaka:
+EN "Honestly, I figured Kanemura would
+EN  come up. Didn't think it'd be you."
+
+@ 002
+JP #MS：
+JP 「そう思ってるだろうと思ったよ。
+JP 　いや、みんながそう思っていただろう。
+JP 　でも俺は勝って来た。
+EN #MS:
+EN "Figured you'd think that. Everybody
+EN  did, I bet. But I won my way here."
+
+@ 003
+JP 「そしてここで、お前にも勝って
+JP 　優勝してやる！
+EN "And now I'm gonna beat you too and
+EN  win the whole thing!"
+
+@ 004
+JP #WS069：
+JP 「これからの#PS02を背負って立つ
+JP 　エースを決める、大事な決勝戦！
+JP 　このエルボーに全てを賭ける！
+EN Tanaka:
+EN "The final that decides the ace who'll
+EN  carry #PS02! I'm betting it all on
+EN  this elbow!"
+
+@ 005
+JP #MS：
+JP 「行くぞ！
+EN #MS:
+EN "Let's go!"

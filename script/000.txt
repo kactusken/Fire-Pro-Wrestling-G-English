@@ -1,0 +1,528 @@
+@ 000
+JP 「俺は・・・勝ったのか・・・
+JP 　手に入れたのか・・・・
+JP 　栄光のチャンピオンベルトを・・・・
+EN "I... I won...? Is this really mine... The
+EN  championship belt...?"
+
+@ 001
+JP 「大観衆の声が聞こえる・・・こんなに
+JP 　たくさんの観客が俺を祝福してくれている。
+EN "I can hear the roar of the crowd... So
+EN  many people, all of them cheering for
+EN  me."
+
+@ 002
+JP 「夢にまで見たこのシーン・・・
+EN "The moment I've dreamed of..."
+
+@ 003
+JP ？：
+JP 「おい、おいってば！
+EN ???:
+EN "Hey. Hey, come on!"
+
+@ 004
+JP 「？
+EN "Huh?"
+
+@ 005
+JP ？：
+JP 「おいおい、頼むぜ。
+JP 　#WL026先生に
+JP 　しかられるぞ。
+EN ???:
+EN "Come on, man. Coach Yamamoto's
+EN  gonna chew you out."
+
+@ 006
+JP 「#WL026先生？
+EN "Coach Yamamoto?"
+
+@ 007
+JP 「・・・・・・・・・・・
+EN "..........."
+
+@ 008
+JP ？：
+JP 「目、覚めたか？
+EN ???:
+EN "You awake now?"
+
+@ 009
+JP #MS：
+JP 「何だよ・・・夢か。
+EN #MS:
+EN "Huh... It was a dream."
+
+@ 010
+JP ？：
+JP 「『何だよ』じゃないだろ。
+JP 　早くしないとどやされるぞ。
+EN ???:
+EN "Don't 'huh' me. Hurry up or you'll get
+EN  an earful."
+
+@ 011
+JP #MS：
+JP 「分かった、今起きる。
+EN #MS:
+EN "Okay, okay, I'm getting up."
+
+@ 012
+JP ？：
+JP 「急げよ。
+EN ???:
+EN "Move it."
+
+@ 013
+JP #MS：
+JP 「そうだ・・・俺は昨日ここに・・・
+JP 　#WS026道場に入門したんだ。
+EN #MS:
+EN "Right... Yesterday I joined... the
+EN  Yamamoto Dojo."
+
+@ 014
+JP 「トップレスラーになる夢を
+JP 　実現させる為に・・・
+EN "All to make my dream of becoming a
+EN  top wrestler come true..."
+
+@ 015
+JP #WL026：
+JP 「良いだろう。面倒見てやる。
+JP 　だが果たしていつまで耐えられるか・・・
+EN Yamamoto:
+EN "Fine. I'll take you on. But how long
+EN  you'll last..."
+
+@ 016
+JP 「『根性を見てくれ』等とぬかす輩は
+JP 　いくらでもいる。だが・・・
+EN "Plenty of punks come in here saying
+EN  'just let me show you my guts.' But..."
+
+@ 017
+JP 「本当の根性を持っている奴は
+JP 　ほんの一握りしかいない。
+EN "Only a handful of them have real
+EN  guts."
+
+@ 018
+JP 「見せてみろ、お前の根性を！
+EN "So show me. Show me your guts!"
+
+@ 019
+JP #MS：
+JP 「そうだった。
+JP 　今日から俺の新しい人生の始まりだ！
+EN #MS:
+EN "That's right. Today my new life
+EN  begins!"
+
+@ 020
+JP ・「やってやるぜ！
+JP ・「強くなって先生を驚かせてやる！
+JP ・「まず顔を洗って来よう。
+EN ・"Let's do this!"
+EN ・"I'll get strong and wow the coach!"
+EN ・"First, let me go wash my face."
+
+@ 021
+JP #MS：
+JP 「痛てっ！
+EN #MS:
+EN "Ow!"
+
+@ 022
+JP #WL026：
+JP 「早く準備をせんか！
+EN Yamamoto:
+EN "Get ready, and be quick about it!"
+
+@ 023
+JP #MS：
+JP 「す、すみません！急ぎます！
+EN #MS:
+EN "S-Sorry! I'll hurry!"
+
+@ 024
+JP ？：
+JP 「言わんこっちゃ無い・・・
+EN ???:
+EN "What did I tell you..."
+
+@ 025
+JP #MS：
+JP 「いや、まあ・・・・
+EN #MS:
+EN "Well, uh..."
+
+@ 026
+JP #WL026：
+JP 「だがまずは追い出されないように
+JP 　すべきではないのか？
+EN Yamamoto:
+EN "Shouldn't you start by making sure
+EN  you don't get thrown out?"
+
+@ 027
+JP #MS：
+JP 「うわっ！！
+EN #MS:
+EN "Whoa!!"
+
+@ 028
+JP 「#WL026先生・・・
+EN "C-Coach Yamamoto..."
+
+@ 029
+JP #WL026：
+JP 「準備を急がんかっ！！
+EN Yamamoto:
+EN "Hurry up and get ready!!"
+
+@ 030
+JP #MS：
+JP 「す、すみません！急ぎます！
+EN #MS:
+EN "S-Sorry! I'll hurry!"
+
+@ 031
+JP ？：
+JP 「何やってんだ？お前・・・
+EN ???:
+EN "What are you doing, man...?"
+
+@ 032
+JP #MS：
+JP 「まあ、な。
+EN #MS:
+EN "Oh, you know."
+
+@ 033
+JP #WL026：
+JP 「ふん、賢い選択だな。
+EN Yamamoto:
+EN "Hmph. A wise choice."
+
+@ 034
+JP #MS：
+JP 「うわっ！
+JP 　#WL026先生、
+JP 　脅かさないで下さいよ。
+EN #MS:
+EN "Whoa! Coach Yamamoto, don't scare
+EN  me like that."
+
+@ 035
+JP #WL026：
+JP 「ついて来れなければ追い出すからな。
+EN Yamamoto:
+EN "If you can't keep up, you're out."
+
+@ 036
+JP 「急げよ。
+EN "Move it."
+
+@ 037
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes, sir."
+
+@ 038
+JP ？：
+JP 「おい、俺は準備ＯＫだぞ。
+EN ???:
+EN "Hey, I'm all set."
+
+@ 039
+JP #MS：
+JP 「ああ、ちょっと待ってくれ。
+EN #MS:
+EN "Yeah, hang on a sec."
+
+@ 040
+JP こいつは坂上浩一。
+EN This is Koichi Sakagami.
+
+@ 041
+JP まるで昔からの友人のような
+JP 会話ぶりだが、昨日会ったばかりだ。
+EN We talk like old friends, but we only
+EN met yesterday.
+
+@ 042
+JP 俺が来た時にちょうどこいつが入門を
+JP 申し込んでいるところだった。
+EN When I showed up, he was right in the
+EN middle of asking to join.
+
+@ 043
+JP 結局扱いは同時入門になり、今日から
+JP 一緒に頑張る事になった訳だ。
+EN So we were taken on together, and
+EN from today we train side by side.
+
+@ 044
+JP 坂上：
+JP 「何だ？
+EN Sakagami:
+EN "What?"
+
+@ 045
+JP #MS：
+JP 「いや、別に。すぐ行くから
+JP 　ちょっと待っててくれ。
+EN #MS:
+EN "Nah, nothing. I'll be right there, just
+EN  hang on a sec."
+
+@ 046
+JP 坂上：
+JP 「おかしな奴・・・
+EN Sakagami:
+EN "Weird guy..."
+
+@ 047
+JP #WL026：
+JP 「ウォーミングアップは済んだか？
+EN Yamamoto:
+EN "Are you warmed up?"
+
+@ 048
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes, sir."
+
+@ 049
+JP #WL026：
+JP 「うむ。
+JP 　では早速トレーニングの開始だ。
+EN Yamamoto:
+EN "Good. Then let's get your training
+EN  started."
+
+@ 050
+JP 「だがその前に１つお前達に聞いておこう。
+EN "But first, I have a question for you."
+
+@ 051
+JP 「体力作りは大前提として、その次に
+JP 　何が大事だと思う？
+EN "Building your body comes first. What
+EN  do you think matters next?"
+
+@ 052
+JP そうだな・・・・
+EN Let me think...
+
+@ 053
+JP ・受け身
+JP ・バックの取り合い
+JP ・ロープワーク
+EN ・Taking bumps
+EN ・Fighting for the back
+EN ・Ropework
+
+@ 054
+JP #WL026：
+JP 「まずは『受ける』か。
+EN Yamamoto:
+EN "So it's bumps first, is it?"
+
+@ 055
+JP 「『受け』なくしてプロレスは
+JP 　有り得んからな。
+EN "There's no pro wrestling without
+EN  taking bumps."
+
+@ 056
+JP #WL026：
+JP 「なるほど。
+EN Yamamoto:
+EN "I see."
+
+@ 057
+JP 「レスリングの基本だな。
+EN "The foundation of wrestling."
+
+@ 058
+JP #WL026：
+JP 「ふむ。
+EN Yamamoto:
+EN "Hmm."
+
+@ 059
+JP 「忘れられがちだが意外に重要な要素だな。
+EN "Easy to forget, but more important
+EN  than you'd think."
+
+@ 060
+JP #WL026：
+JP 「まあ良かろう。
+EN Yamamoto:
+EN "Well, that'll do."
+
+@ 061
+JP 「これからビシビシ行くからな。
+JP 　せめて１週間はもってくれよ？
+EN "I'll be coming down hard on you. Try
+EN  to last at least a week, eh?"
+
+@ 062
+JP #WL026先生が
+JP 一瞬ニヤリと笑う。
+JP 背筋が寒くなるような笑みだった。
+EN For a moment, Coach Yamamoto
+EN grinned. It was a smile that sent a
+EN chill down my spine.
+
+@ 063
+JP 昨日はそう感じなかったが、どうやら噂通りの
+JP 鬼コーチのようだ。
+JP 隣の坂上も硬直している。
+EN I didn't feel it yesterday, but he really
+EN is the demon coach everyone says.
+EN Sakagami's frozen stiff next to me.
+
+@ 064
+JP こうして俺達の道場生活が始まった。
+EN And so our life at the dojo began.
+
+@ 065
+JP あれから１１ヶ月が経った。
+EN Eleven months have passed.
+
+@ 066
+JP 俺も坂上も何度も夜逃げを考えたが、
+JP 何とかここまでへばりついて来た。
+EN Sakagami and I both thought about
+EN running off in the night more than
+EN once, but somehow we hung on.
+
+@ 067
+JP 色んな意味で互いの存在が大きかったのは
+JP 言うまでもない。
+EN It goes without saying we each owed a
+EN lot to the other.
+
+@ 068
+JP 坂上：
+JP 「来たぞ！
+EN Sakagami:
+EN "He's here!"
+
+@ 069
+JP 坂上の顔が引きつっている。もっとも、
+JP 俺も同じ顔をしているだろうが・・・
+EN Sakagami's face is twitching. Then
+EN again, mine probably is too...
+
+@ 070
+JP そう、俺達はこの１１ヶ月間、
+JP #WL026先生に
+JP しごかれまくった。
+EN That's right. For eleven months,
+EN Coach Yamamoto has drilled us into
+EN the ground.
+
+@ 071
+JP あのベンツのブレーキ音に恐怖を感じる程に。
+EN So hard that the squeal of his Benz's
+EN brakes fills us with terror.
+
+@ 072
+JP #MS＆坂上：
+JP 『おはようございますっ！
+EN #MS & Sakagami:
+EN "Good morning, sir!"
+
+@ 073
+JP #WL026：
+JP 「うむ。きちんとやってるだろうな？
+EN Yamamoto:
+EN "Mm. You two keeping at it properly?"
+
+@ 074
+JP #MS＆坂上：
+JP 『はいっ！
+EN #MS & Sakagami:
+EN "Yes, sir!"
+
+@ 075
+JP #WL026：
+JP 「ふむ、そうだな・・・
+EN Yamamoto:
+EN "Hm, let's see..."
+
+@ 076
+JP 「お前達、今日は実戦を想定したスパーリングを
+JP 　してみろ。
+EN "Today, you two can spar like it's a
+EN  real match."
+
+@ 077
+JP #MS＆坂上：
+JP 『え？
+EN #MS & Sakagami:
+EN "Huh?"
+
+@ 078
+JP #WL026：
+JP 「どうした、やりたくないのか？
+EN Yamamoto:
+EN "What's wrong? Don't you want to?"
+
+@ 079
+JP #MS：
+JP 「いえ、やらせて下さい！
+EN #MS:
+EN "No, please let us!"
+
+@ 080
+JP 坂上：
+JP 「ぜ、ぜひとも！
+EN Sakagami:
+EN "W-We'd love to!"
+
+@ 081
+JP #WL026：
+JP 「そうか。
+EN Yamamoto:
+EN "Is that so."
+
+@ 082
+JP 「ではその前に一つ言っておくが、プロとして
+JP 　やって行く以上、一戦一戦の試合内容を
+JP 　大事にしろ。
+EN "Then let me tell you one thing first.
+EN  If you're going to be pros, treat every
+EN  single match with care."
+
+@ 083
+JP 「そうでなければ他人に認められるレスラーには
+JP 　到底なれん。
+EN "Otherwise you'll never become a
+EN  wrestler people respect."
+
+@ 084
+JP 「今わしが言った
+JP 　『実戦を想定したスパーリング』とは
+JP 　そういう意味も含まれている。
+EN "When I said 'spar like it's a real
+EN  match', that's part of what I meant."
+
+@ 085
+JP 「プロへの第一歩だと思って、心してかかれよ！
+EN "Think of it as your first step to
+EN  going pro, and give it your all!"
+
+@ 086
+JP #MS＆坂上：
+JP 『はいっ！！
+EN #MS & Sakagami:
+EN "Yes, sir!!"

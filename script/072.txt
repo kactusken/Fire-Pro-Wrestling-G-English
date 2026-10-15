@@ -1,0 +1,43 @@
+@ 000
+JP 不本意ながら俺は倒幕軍と
+JP 抗争状態に入ってしまった。
+EN Against my wishes, I ended up in a
+EN feud with Heisei Ishingun.
+
+@ 001
+JP そして現時点での決着戦として組まれたのが
+JP この試合だった。
+EN And this match was booked to settle
+EN it, for now.
+
+@ 002
+JP #WS033：
+JP 「はっきり言って
+JP 　邪魔なんだよ、お前らは！
+EN Koshinaka:
+EN "Let me be blunt. You guys are in the
+EN  way!"
+
+@ 003
+JP #MS：
+JP 「#WS033！倒幕軍だか何だか
+JP 　知らないけどな、#WS090に頼らなきゃ
+JP 　やって行けないならやめちまえ！
+EN #MS:
+EN "Koshinaka! Heisei Ishingun or
+EN  whatever, if you can't get by without
+EN  leaning on Tenryu, just quit!"
+
+@ 004
+JP #WS033：
+JP 「何だと！お前なんて所詮は
+JP 　お坊ちゃまなんだよ！叩き潰してやるよ！
+EN Koshinaka:
+EN "What?! You're nothing but a spoiled
+EN  brat! I'll crush you!"
+
+@ 005
+JP #MS：
+JP 「やってみろ、この野郎！
+EN #MS:
+EN "Try it, you bastard!"

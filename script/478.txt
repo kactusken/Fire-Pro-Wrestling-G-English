@@ -1,0 +1,59 @@
+@ 000
+JP 今日は、タッグでのぶつかり合いから
+JP 流れが出来て、#WS018選手との
+JP シングルマッチが組まれた。
+EN Today, the tag clash led to a singles
+EN match with Otani.
+
+@ 001
+JP #WS018：
+JP 「・・・・・・
+EN Otani:
+EN "......"
+
+@ 002
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 003
+JP 俺達は睨み合っていた。
+JP お互い胸を突き出し相手を押し返す。
+EN We glared at each other, chests thrust
+EN out, shoving each other back.
+
+@ 004
+JP #WS018：
+JP 「#MS選手、あんたは大したもんだよ。
+JP 　良くやってる。
+EN Otani:
+EN "#MS, you're really something.
+EN  You're doing great."
+
+@ 005
+JP 「でも！
+JP 　#WF018は
+JP 　ここで負ける訳には行かないんだよ！
+EN "But! Shinjiro Otani can't afford to
+EN  lose here!"
+
+@ 006
+JP #MS：
+JP 「それは俺だって同じ事だ！
+EN #MS:
+EN "Same goes for me!"
+
+@ 007
+JP 「修行だと言っても、
+JP 　勝てないでいい時期はもう過ぎたんだ！
+JP 　俺はここであなたを倒して実績を作る！
+EN "I'm training, but the time when
+EN  losing was okay is over! I'll beat you
+EN  here and make my name!"
+
+@ 008
+JP #WS018：
+JP 「出来るもんならやってみろ！
+EN Otani:
+EN "Try it if you can!"

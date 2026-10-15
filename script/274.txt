@@ -1,0 +1,30 @@
+@ 000
+JP #WS142を下し２回戦に進んだ俺を
+JP 待っていたのは#WS144。
+JP 優勝候補の筆頭だ。
+EN After beating Kohsaka, my
+EN second-round opponent was Tariel.
+EN The top favorite to win.
+
+@ 001
+JP 元々のパワーに加えてここ最近の
+JP コンディションの良さは目を見張るものがある。
+EN On top of his natural power, he's been
+EN in amazing shape lately.
+
+@ 002
+JP #WS144：
+JP 「前回のトーナメントでは優勝出来なかったが
+JP 　今回は優勝してみせる。
+JP 　祖国グルジアの為にも！
+EN Tariel:
+EN "I could not win last tournament, but
+EN  this time I will. For my homeland,
+EN  Georgia!"
+
+@ 003
+JP #MS：
+JP 「なら俺は自分と#PS07の為に闘う！
+EN #MS:
+EN "Then I'll fight for myself and for
+EN  #PS07!"

@@ -1,0 +1,254 @@
+@ 000
+JP 俺は#PS05での初試合を終えた。
+EN My first #PS05 match was over.
+
+@ 001
+JP 記者：
+JP 「#MS選手！
+EN Reporter:
+EN "#MS!"
+
+@ 002
+JP #MS：
+JP 「あ、はい！
+EN #MS:
+EN "Oh, yes!"
+
+@ 003
+JP 記者：
+JP 「初の#PS05での試合、
+JP 　いかがでしたか？
+EN Reporter:
+EN "How was your first match in
+EN  #PS05?"
+
+@ 004
+JP #MS：
+JP 「その、やっぱり、シンドかったです。
+JP 　初めてのアメリカですし・・・
+EN #MS:
+EN "Um, well... it was tough, honestly.
+EN  It's my first time in America..."
+
+@ 005
+JP 「何よりリングの大きさが違うのが
+JP 　１番困りましたね。早く慣れないと・・・
+EN "Most of all, the different ring size
+EN  threw me. I need to adjust fast..."
+
+@ 006
+JP 記者：
+JP 「#WS115選手はいかがでしたか？
+EN Reporter:
+EN "What did you think of Rey?"
+
+@ 007
+JP #MS：
+JP 「やっぱり天才と言われるだけあって
+JP 　素晴らしい動きですよね。
+JP 　ビックリしました。
+EN #MS:
+EN "He really is a prodigy. His moves are
+EN  incredible. I was amazed."
+
+@ 008
+JP 記者：
+JP 「それでは今後の抱負を聞かせて下さい。
+EN Reporter:
+EN "Now, tell us your goals going
+EN  forward."
+
+@ 009
+JP ・とにかく頑張る。
+JP ・勝ちを意識する。
+JP ・地盤固めをしたい。
+EN ・Just keep working hard.
+EN ・Focus on winning.
+EN ・Build a solid foundation.
+
+@ 010
+JP #MS：
+JP 「今はとにかく１歩でも上に行けるように、
+JP 　日々頑張るだけです！
+EN #MS:
+EN "Right now I just work hard every
+EN  day to climb even one step higher!"
+
+@ 011
+JP #MS：
+JP 「やっぱり勝ちを意識した闘いをしたいですね。
+EN #MS:
+EN "I want to fight with winning in
+EN  mind."
+
+@ 012
+JP 「小さい団体から来たデビューしたての
+JP 　俺ですけど、来たからには結果としての
+JP 　勝利が欲しいですよ。
+EN "I'm a raw rookie from a small
+EN  promotion, but now that I'm here, I
+EN  want wins to show for it."
+
+@ 013
+JP #MS：
+JP 「目先の勝利よりも、今は何でも吸収して
+JP 　後々自分の力に出来るように・・・
+JP 　そういう意識で闘って行きたいですね。
+EN #MS:
+EN "More than wins now, I want to soak it
+EN  all up and make it my strength later.
+EN  That's my mindset."
+
+@ 014
+JP 記者：
+JP 「なるほど・・・では、期待してます！
+JP 　頑張って下さい。
+EN Reporter:
+EN "I see... Well, we'll be watching! Good
+EN  luck."
+
+@ 015
+JP #MS：
+JP 「はい！ありがとうございます！
+EN #MS:
+EN "Yes! Thank you!"
+
+@ 016
+JP 「フゥ・・・・
+EN "Phew..."
+
+@ 017
+JP ？：
+JP 「どうした、溜息なんかついて。
+EN ???:
+EN "What's with the big sigh?"
+
+@ 018
+JP #MS：
+JP 「あ、正井さん！
+EN #MS:
+EN "Oh, Mr. Asai!"
+
+@ 019
+JP 「ありがとうございます、おかげさまで
+JP 　何とか初試合、終わりました。
+EN "Thank you. Thanks to you, I
+EN  somehow got through my first
+EN  match."
+
+@ 020
+JP #WS113：
+JP 「良かったな。何か苦しそうだったけど。
+EN Ultimo:
+EN "Good. Looked like a struggle,
+EN  though."
+
+@ 021
+JP #MS：
+JP 「そうですね、やっぱりまだシンドイですよ。
+EN #MS:
+EN "Yeah, it's still pretty rough."
+
+@ 022
+JP #WS113：
+JP 「リングの大きさ、苦労してるな。
+EN Ultimo:
+EN "The ring size is giving you trouble."
+
+@ 023
+JP #MS：
+JP 「ええ。正井さんのジムで
+JP 　練習させてもらいましたけど、微妙な違いが
+JP 　まだ体に染み込んでいなくて・・・
+EN #MS:
+EN "Yeah. I practiced at your gym, but
+EN  the subtle difference isn't in my body
+EN  yet..."
+
+@ 024
+JP #WS113：
+JP 「でも一流選手になるにはそのくらい
+JP 　平気にならないとな。どこのリングでも
+JP 　自分の力を１００％発揮するのがプロだぞ。
+EN Ultimo:
+EN "But a top wrestler can't let that faze
+EN  him. A pro gives 100% in any ring."
+
+@ 025
+JP #MS：
+JP 「そうですね。
+JP 　まだまだですけど、頑張ります！
+EN #MS:
+EN "True. I've got a long way to go, but
+EN  I'll keep at it!"
+
+@ 026
+JP #WS113：
+JP 「おう。
+EN Ultimo:
+EN "Good."
+
+@ 027
+JP 今日は何と正井さんとタッグを
+JP 組んでもらえる事になった。
+EN Incredibly, today I got to team with
+EN Mr. Asai himself.
+
+@ 028
+JP 相手は
+JP #WF112・
+JP #WS161組だ。
+EN Our opponents: Eddy Guerrero and
+EN Psychosis.
+
+@ 029
+JP #WS112は#PS00でも
+JP ジュニアの選手として活躍して、
+JP 数々の実績を残している。
+EN Guerrero also made his name as a
+EN junior in #PS00, with plenty of
+EN accomplishments.
+
+@ 030
+JP #WS113：
+JP 「いいか、相手を良く見ろ。
+JP 　ルチャは特にそうだが、相手の動きを見て
+JP 　その流れに応じた動きをするんだ。
+EN Ultimo:
+EN "Listen, watch your opponent closely.
+EN  Especially in lucha, read his moves
+EN  and flow with them."
+
+@ 031
+JP 「お互いがそうやって闘う事で
+JP 　試合にリズムが出来る。
+JP 　リズムの崩れた試合はみっともないからな。
+EN "When both sides work that way, the
+EN  match finds a rhythm. A match with
+EN  no rhythm looks sloppy."
+
+@ 032
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 033
+JP #WS113：
+JP 「それと観客に見えるように、伝わるように
+JP 　注意して動け。アメリカでは特に
+JP 　そうしないと認められないぞ。
+EN Ultimo:
+EN "And move so the crowd can see it
+EN  and get it. In America, they won't
+EN  accept you otherwise."
+
+@ 034
+JP 「よし、じゃあ行って来い！
+EN "All right, get out there!"
+
+@ 035
+JP #MS：
+JP 「はい、行きます！
+EN #MS:
+EN "Yes, sir! Here I go!"

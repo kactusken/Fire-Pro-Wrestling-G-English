@@ -1,0 +1,409 @@
+@ 000
+JP 記者：
+JP 「おめでとうございます。
+JP 　まずは今の心境をお聞かせ下さい。
+EN Reporter:
+EN "Congratulations. First, how are you
+EN  feeling right now?"
+
+@ 001
+JP #MS：
+JP 「ホッとしてますよ。
+JP 　負ける訳には行かなかったんでね。
+EN #MS:
+EN "Relieved. I couldn't afford to lose."
+
+@ 002
+JP 記者：
+JP 「立ち技に対してかなり特訓
+JP 　なされたんですか？
+EN Reporter:
+EN "Did you do special training against
+EN  stand-up fighting?"
+
+@ 003
+JP #MS：
+JP 「多少はやりましたけどね。
+JP 　ただ大体いつも通りですよ。普段も
+JP 　立ち技関係のトレーニングもしてますから。
+EN #MS:
+EN "A little. But mostly the usual. I train
+EN  stand-up stuff day to day anyway."
+
+@ 004
+JP 「まあこちらはルール飲んでもらって、
+JP 　基本的に有利だったんでね。今度は
+JP 　#PS08ルールでやってみたいですね。
+EN "They accepted our rules, so I had the
+EN  edge. Next time I'd like to try it
+EN  under #PS08 rules."
+
+@ 005
+JP 記者：
+JP 「ファンに一言お願いします。
+EN Reporter:
+EN "A word for the fans?"
+
+@ 006
+JP #MS：
+JP 「今後も色んな場所で闘って行きますので、
+JP 　応援お願いします。
+EN #MS:
+EN "I'll keep fighting all over the place,
+EN  so please cheer me on."
+
+@ 007
+JP 記者：
+JP 「今日は残念でした。
+JP 　今の心境をお聞かせ下さい。
+EN Reporter:
+EN "Tough luck today. How are you
+EN  feeling right now?"
+
+@ 008
+JP #MS：
+JP 「単純に俺の方が弱かっただけですよ。
+JP 　ルール的にはこちらが有利だったんで
+JP 　負けられないと思ってたんですけどね。
+EN #MS:
+EN "I was just weaker, plain and simple.
+EN  The rules favored me, so I thought I
+EN  couldn't lose, but..."
+
+@ 009
+JP 記者：
+JP 「今後、リベンジマッチ等は考えていますか？
+EN Reporter:
+EN "Are you thinking about a rematch?"
+
+@ 010
+JP #MS：
+JP 「いつかもう一度出たいですね。ただ
+JP 　今後は#PS08だけじゃなく他の色んな
+JP 　所で闘って行きたいですね。
+EN #MS:
+EN "I'd like another shot someday. But I
+EN  want to fight in all kinds of places,
+EN  not just #PS08."
+
+@ 011
+JP #WS154：
+JP 「いよいよだな。
+JP 　#WS165さんのリベンジマッチ。
+EN Funaki:
+EN "Here it is at last. Takada's revenge
+EN  match."
+
+@ 012
+JP そう、#WS169に対する#WS165さんの
+JP リベンジマッチが遂に行われるのだ。
+EN Yes, Takada's rematch with Gracie
+EN was finally happening.
+
+@ 013
+JP 仕上がり状態、精神面、全てにおいて
+JP 充実し、誰もがリベンジを信じていた。
+EN His condition, his mindset, everything
+EN was in top form. Everyone believed
+EN he'd get his revenge.
+
+@ 014
+JP #MS：
+JP 「そうですね。でも大丈夫でしょう。
+JP 　前回とは表情が全然違いますよ。
+EN #MS:
+EN "Yeah. He'll be fine. He looks totally
+EN  different from last time."
+
+@ 015
+JP ・・・・・しかし・・・・・
+EN .....But.....
+
+@ 016
+JP 日本のプロレスファンは
+JP 絶望の瞬間を目の当たりにした。
+EN Japan's wrestling fans witnessed a
+EN moment of despair.
+
+@ 017
+JP #WS154：
+JP 「あ！
+EN Funaki:
+EN "Ah!"
+
+@ 018
+JP ９分３０秒、腕ひしぎ逆十字固めで
+JP またしても#WS165さんの完敗。
+JP しかもまた前回と同じ技で・・・
+EN 9:30, armbar. Takada lost again, and
+EN badly. With the very same hold as
+EN before...
+
+@ 019
+JP #WS154：
+JP 「・・・・・・
+EN Funaki:
+EN "......"
+
+@ 020
+JP #MS：
+JP 「あの膝蹴りで#WS169が苦しそうな
+JP 　顔したからいけると思ったのに・・・
+EN #MS:
+EN "Gracie looked hurt by that knee. I
+EN  thought he had him..."
+
+@ 021
+JP 結局また#WS169強し、で試合は終わった。
+JP #WS165さんに、もはや３度目は
+JP 有り得ないだろう・・・・
+EN In the end it was "Gracie's too strong"
+EN again. There won't be a third shot for
+EN Takada....
+
+@ 022
+JP こうして未だ打倒#WS169は果たされず。
+JP 俺は我慢出来なくなっていた。
+EN And so no one had beaten Gracie yet.
+EN I couldn't stand it anymore.
+
+@ 023
+JP 俺はいつものようにトレーニングに励んでいた。
+EN I was training hard as usual.
+
+@ 024
+JP #WS154：
+JP 「よう、お疲れ。
+EN Funaki:
+EN "Hey, good work."
+
+@ 025
+JP #MS：
+JP 「#WS154さん！
+EN #MS:
+EN "Mr. Funaki!"
+
+@ 026
+JP #WS154：
+JP 「実はお前に聞きたい事があってな。
+EN Funaki:
+EN "There's something I want to ask
+EN  you."
+
+@ 027
+JP #MS：
+JP 「聞きたい事？何です？
+EN #MS:
+EN "Ask me? What is it?"
+
+@ 028
+JP #WS154：
+JP 「お前、#WS169とやる気はあるか？
+EN Funaki:
+EN "Do you want to fight Gracie?"
+
+@ 029
+JP #MS：
+JP 「えっ！？
+EN #MS:
+EN "What!?"
+
+@ 030
+JP #WS154：
+JP 「まだ決まった訳じゃ無いけど、
+JP 　引っ張り出せそうなんだよ、１回だけなら。
+EN Funaki:
+EN "It's not set yet, but we might be able
+EN  to drag him out. Just once."
+
+@ 031
+JP #MS：
+JP 「１回だけなら・・・・
+JP 　負けられないって事ですね。
+EN #MS:
+EN "Just once.... So I can't lose."
+
+@ 032
+JP #WS154：
+JP 「そう。その上試合は３ヶ月後だ。
+EN Funaki:
+EN "Right. And the fight's in three
+EN  months."
+
+@ 033
+JP #MS：
+JP 「３ヶ月・・・・
+EN #MS:
+EN "Three months...."
+
+@ 034
+JP #WS154：
+JP 「それでお前に聞きたい。お前に行く気が
+JP 　あるのか、あいつに勝てるのか・・・・
+EN Funaki:
+EN "So I'm asking you. Do you want it?
+EN  Can you beat him...?"
+
+@ 035
+JP 「お前が行かないなら俺が行くつもりだ。
+JP 　どうする？
+EN "If you won't go, I will. What'll it be?"
+
+@ 036
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 037
+JP 「行きます！行かせて下さい！
+EN "I'll go! Let me do it!"
+
+@ 038
+JP #WS154：
+JP 「分かった・・・・それじゃあこれから
+JP 　対策と特訓だ！
+EN Funaki:
+EN "All right.... Then it's game plans and
+EN  special training from here on!"
+
+@ 039
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 040
+JP そして運命の日・・・・
+EN Then the fateful day....
+
+@ 041
+JP 俺は精神統一をしていた。
+EN I was focusing my mind.
+
+@ 042
+JP いよいよあの
+JP #WF169との
+JP 闘いなのだ・・・・
+EN At last, my fight with Rickson
+EN Gracie....
+
+@ 043
+JP #WS149：
+JP 「良い感じで仕上がってそうやな。
+EN Maeda:
+EN "Lookin' like you're in good shape."
+
+@ 044
+JP #MS：
+JP 「#WS149さん！？
+EN #MS:
+EN "Mr. Maeda!?"
+
+@ 045
+JP #WS149：
+JP 「久しぶりやな。
+EN Maeda:
+EN "Been a while."
+
+@ 046
+JP 「さすがにちょっと気になってな。
+JP 　様子見に来たんや。調子はどうや？
+EN "I was kinda worried, so I came by to
+EN  check on ya. How ya feelin'?"
+
+@ 047
+JP #MS：
+JP 「近年稀に見る仕上がりですよ！
+EN #MS:
+EN "Best shape I've been in for years!"
+
+@ 048
+JP #WS149：
+JP 「そうかそうか。あ、そう言えば・・・
+EN Maeda:
+EN "Good, good. Oh, that reminds me..."
+
+@ 049
+JP 「実はこんなもん預かって来たんや。
+EN "I was asked to bring ya this."
+
+@ 050
+JP #WS149さんは１枚の封筒を差し出した。
+EN Maeda held out an envelope.
+
+@ 051
+JP #MS：
+JP 「誰からです？
+EN #MS:
+EN "Who's it from?"
+
+@ 052
+JP 受け取った俺は早速開けてみる。
+EN I took it and opened it right away.
+
+@ 053
+JP #MS：
+JP 「これは！？
+EN #MS:
+EN "This is...!?"
+
+@ 054
+JP 何とそれはあの坂上からの手紙だった。
+JP そこにはただ一言、『絶対に勝て』とだけ
+JP 書かれていた。
+EN It was a letter from Sakagami. It said
+EN just one thing: "Win, no matter what."
+
+@ 055
+JP あいつ・・・・・
+EN That guy.....
+
+@ 056
+JP #WS149：
+JP 「益々負けられなくなったな。ん？
+EN Maeda:
+EN "Now ya really can't lose, huh?"
+
+@ 057
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 058
+JP そうだ。俺は絶対に負けられない！絶対に！
+EN That's right. I can't lose, no matter
+EN what! No matter what!
+
+@ 059
+JP #WS169：
+JP 「・・・・・・・・・
+EN Gracie:
+EN "........."
+
+@ 060
+JP #MS：
+JP 「・・・・・・・・・・
+EN #MS:
+EN ".........."
+
+@ 061
+JP 試合前の視殺戦。
+JP 一歩も引けない。
+EN The pre-fight staredown. I can't give
+EN an inch.
+
+@ 062
+JP #WS169：
+JP 「・・・・・・・・・・・
+EN Gracie:
+EN "..........."
+
+@ 063
+JP 俺は負けない・・・・必ず勝ってみせる。
+EN I won't lose.... I'll win, I swear.
+
+@ 064
+JP プロレスラーとして！！
+EN As a pro wrestler!!

@@ -1,0 +1,88 @@
+@ 000
+JP 坂上：
+JP 「#MS！
+EN Sakagami:
+EN "#MS!"
+
+@ 001
+JP #MS：
+JP 「坂上・・・・
+EN #MS:
+EN "Sakagami...."
+
+@ 002
+JP 坂上：
+JP 「あの試合の後しばらく悩んだよ。
+JP 　でもやっぱりお前の闘いには嘘偽りも
+JP 　小細工も無かった。
+EN Sakagami:
+EN "I agonized for a while after that
+EN  match. But there were no lies or
+EN  cheap tricks in how you fought."
+
+@ 003
+JP 「結論として、俺はお前を信じる事にした。
+EN "So in the end, I decided to believe in
+EN  you."
+
+@ 004
+JP #MS：
+JP 「そうか。分かってくれて嬉しいよ。
+EN #MS:
+EN "I see. I'm glad you understand."
+
+@ 005
+JP 坂上：
+JP 「それで・・・・
+EN Sakagami:
+EN "So...."
+
+@ 006
+JP 俺達２人は、#PS00のリングで
+JP #WS026道場で誓い合った夢を
+JP 実現させる事になった。
+EN The two of us would make the dream
+EN we swore at Yamamoto's dojo come
+EN true, in the #PS00 ring.
+
+@ 007
+JP 坂上：
+JP 「いよいよだな。
+JP 　道場以来のシングル戦・・・
+JP 　夢が現実になったんだな。
+EN Sakagami:
+EN "Here we go at last. Our first singles
+EN  match since the dojo... The dream's
+EN  come true."
+
+@ 008
+JP #MS：
+JP 「ああ。
+JP 　大観衆の見守る中で試合をする。
+JP 　あの時の約束通りだ。
+EN #MS:
+EN "Yeah. A match in front of a huge
+EN  crowd. Just like we promised."
+
+@ 009
+JP 坂上：
+JP 「最高な気分だよな。お前と
+JP 　こうして同じリングに立てる事が。
+EN Sakagami:
+EN "Best feeling ever. Standing in the
+EN  same ring with you like this."
+
+@ 010
+JP #MS：
+JP 「今日は全ての力を・・・俺の魂を
+JP 　お前にぶつけてやる！
+EN #MS:
+EN "Today I'm hitting you with
+EN  everything... with my soul!"
+
+@ 011
+JP 坂上：
+JP 「全力には、全力で受けて立つ！
+EN Sakagami:
+EN "Give me everything, and I'll meet it
+EN  with everything!"

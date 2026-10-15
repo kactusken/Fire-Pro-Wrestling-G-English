@@ -1,0 +1,47 @@
+@ 000
+JP 俺は#PS05に来て最大の大物レスラーと
+JP 当たる事になった。その大物とは・・・
+EN Since coming to #PS05, I'd never
+EN faced a star this big. And that star
+EN was...
+
+@ 001
+JP そう、
+JP #WF111だ。
+EN Yes, Chris Benoit.
+
+@ 002
+JP 日本のジュニアにおいて多くの実績を残し、
+JP そのパワーはヘビー級に匹敵する、
+JP もの凄いレスラーだ。
+EN He made his name in Japan's junior
+EN division, with power to match any
+EN heavyweight. An incredible wrestler.
+
+@ 003
+JP #WS111：
+JP 「ジャパニーズとの試合は
+JP 　もう随分と久しぶりだよ。
+EN Benoit:
+EN "It's been a long time since I wrestled
+EN  a Japanese guy."
+
+@ 004
+JP 「ユーがどれ程の選手か知らないが、
+JP 　ナイスファイトを期待している。
+EN "I don't know how good you are, but
+EN  I'm expecting a nice fight."
+
+@ 005
+JP #MS：
+JP 「あなた程のレスラーと
+JP 　今試合が出来るのは光栄な事だ。
+EN #MS:
+EN "It's an honor to get in the ring with a
+EN  wrestler like you."
+
+@ 006
+JP 「でもだからこそ・・・
+JP 　未熟でも、今の自分の全てをぶつけて行く！
+EN "And that's exactly why... green or
+EN  not, I'm hitting you with all I've got!"

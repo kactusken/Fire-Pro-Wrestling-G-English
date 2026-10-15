@@ -1,0 +1,248 @@
+@ 000
+JP ディンク：
+JP 「まあ・・・正直な所、
+JP 　合格点とは言い難いが興味はある。
+JP 　だが西連隊ＥＸに入れるのは反対だ。
+EN McMahon:
+EN "Well... honestly, that's not quite a
+EN  pass, but I'm interested. Still, no
+EN  Kaientai for you."
+
+@ 001
+JP #WS134：
+JP 「何でですか？
+EN TAKA:
+EN "Why not?"
+
+@ 002
+JP ディンク：
+JP 「西連隊ＥＸのイメージには合わない。
+JP 　#MSはヘビー級の体格だからな。
+EN McMahon:
+EN "He doesn't fit Kaientai's image.
+EN  #MS has a heavyweight's build."
+
+@ 003
+JP 「だから#MSには
+JP 　別にキャラクターを用意する。
+EN "So I'll come up with another
+EN  character for #MS."
+
+@ 004
+JP #WS134：
+JP 「チェッ・・・
+EN TAKA:
+EN "Tch..."
+
+@ 005
+JP ディンク：
+JP 「企画部で検討して、２週間後には
+JP 　試合に出れるように結果を知らせる。
+EN McMahon:
+EN "Creative will work on it. You'll hear
+EN  in two weeks, in time to start
+EN  wrestling."
+
+@ 006
+JP #MS：
+JP 「分かりました。
+EN #MS:
+EN "Understood."
+
+@ 007
+JP #WS134：
+JP 「結局のところお前のキャラクターって
+JP 　何になるんだろうな？
+EN TAKA:
+EN "So what kind of character are they
+EN  gonna give you?"
+
+@ 008
+JP #MS：
+JP 「あんまり変なのは勘弁して欲しいですよね。
+EN #MS:
+EN "I just hope it's nothing too weird."
+
+@ 009
+JP #MS＆#WS134：
+JP 「おはようございます！
+EN #MS & TAKA:
+EN "Good morning!"
+
+@ 010
+JP ディンク：
+JP 「待たせたな。#MS、ユーの
+JP 　キャラクターが決まった。
+EN McMahon:
+EN "Sorry to keep you waiting. #MS,
+EN  your character is decided."
+
+@ 011
+JP #MS：
+JP 「は、はい！
+EN #MS:
+EN "Y-yes, sir!"
+
+@ 012
+JP ディンク：
+JP 「ユーはジャパンから来た
+JP 　グルーサムファイターで・・・
+EN McMahon:
+EN "You're a gruesome fighter from
+EN  Japan..."
+
+@ 013
+JP 思ったよりはまともそうだ。
+EN More normal than I expected.
+
+@ 014
+JP ディンク：
+JP 「#WF123に憧れて
+JP 　#PS06に来たのだ。
+EN McMahon:
+EN "...who came to #PS06 because he
+EN  idolizes Ken Shamrock."
+
+@ 015
+JP #MS：
+JP 「はぁ。
+EN #MS:
+EN "Uh-huh."
+
+@ 016
+JP ディンク：
+JP 「だからそれらしい闘いをするように
+JP 　心がけてくれ。
+EN McMahon:
+EN "So fight in a way that fits."
+
+@ 017
+JP 「ただし！ここはあくまで#PS06だ。
+JP 　観客の存在を忘れた試合は許されないぞ。
+EN "But! This is #PS06. A match that
+EN  forgets the audience will not be
+EN  tolerated."
+
+@ 018
+JP #MS：
+JP 「つまりグルーサム系の技を取り入れた上で
+JP 　普通の、分かり易いプロレスをせよ、と？
+EN #MS:
+EN "So, mix in gruesome-style moves,
+EN  but wrestle a normal, easy-to-follow
+EN  style?"
+
+@ 019
+JP ディンク：
+JP 「まあそう言う事だ。#PS06では
+JP 　１番大事なのは観客に対する見せ方だ。
+JP 　それは試合でもキャラクターでもそうだ。
+EN McMahon:
+EN "Yes. At #PS06, how you present
+EN  to the crowd is everything. In
+EN  matches and characters."
+
+@ 020
+JP 「観客に伝わらないものは使い物にならない。
+JP 　伝わった上で何がウケるのかを
+JP 　模索しなければならないのだからな。
+EN "If it doesn't reach the crowd, it's
+EN  useless. Once it does, you find out
+EN  what gets over."
+
+@ 021
+JP #MS：
+JP 「なるほど・・・・
+EN #MS:
+EN "I see..."
+
+@ 022
+JP ディンク：
+JP 「それと会場のカメラの位置を
+JP 　必ず把握しておけ。
+EN McMahon:
+EN "And always know where the cameras
+EN  are in the arena."
+
+@ 023
+JP 「会場の観客だけじゃない、我々は
+JP 　テレビの向こうの視聴者にも
+JP 　注意を払わなければならないのだからな。
+EN "It's not only the live crowd. We have
+EN  to think about the viewers at home,
+EN  too."
+
+@ 024
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 025
+JP 俺は唖然としてしまった。
+JP そんな事まで気にしてやっているとは
+JP 思わなかったのだ。
+EN I was floored. I never imagined they
+EN paid attention to things like that.
+
+@ 026
+JP ディンク：
+JP 「それと、ユーの今日の相手は
+JP 　#WF125だ。
+EN McMahon:
+EN "Also, your opponent today is
+EN  Goldust."
+
+@ 027
+JP 「頑張ってくれよ。
+EN "Do your best."
+
+@ 028
+JP #WS134：
+JP 「おいおい、大丈夫か？
+JP 　すっかり圧倒されてるじゃないか。
+EN TAKA:
+EN "Hey, hey, you okay? He totally
+EN  steamrolled you."
+
+@ 029
+JP #MS：
+JP 「まさかカメラの位置がどうこう、なんて
+JP 　考えた事なかったんで・・・・
+EN #MS:
+EN "I never once thought about where
+EN  the cameras were..."
+
+@ 030
+JP #WS134：
+JP 「アメリカは日本より『見せる』事に重点を
+JP 　置いてるからな。まあ始めから出来る訳無い
+JP 　だろうけど、気にしてれば身につくさ。
+EN TAKA:
+EN "America cares more about the 'show'
+EN  than Japan. Nobody gets it on day
+EN  one, but keep at it and it'll come."
+
+@ 031
+JP #MS：
+JP 「そう、ですか・・・
+EN #MS:
+EN "I... see..."
+
+@ 032
+JP #WS134：
+JP 「それより、今日の相手が
+JP 　#WF125だって？
+EN TAKA:
+EN "More important, your opponent today
+EN  is Goldust?"
+
+@ 033
+JP 「タマ潰されないように気をつけろよ。
+EN "Watch out for your family jewels."
+
+@ 034
+JP #MS：
+JP 「タ、タマ！？
+EN #MS:
+EN "F-family jewels!?"

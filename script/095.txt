@@ -1,0 +1,210 @@
+@ 000
+JP 日本マット界の２大メジャー団体の一つ
+JP #PL01。
+EN #PL01, one of Japan's two major
+EN promotions.
+
+@ 001
+JP #WF059が
+JP 昭和４７年１０月に旗揚げ。
+EN Founded by Giant Baba in October
+EN 1972.
+
+@ 002
+JP ＜明るく、楽しく、激しいプロレス＞
+JP をスローガンに＜王道＞プロレスを貫き
+JP 数多くのファンを魅了し続けている。
+EN Under the slogan "Bright, Fun, and
+EN Fierce," its King's Road style has won
+EN over countless fans.
+
+@ 003
+JP #MS：
+JP 「失礼します！
+EN #MS:
+EN "Excuse me!"
+
+@ 004
+JP 入団して間も無いある日、
+JP 俺は#WS059社長に
+JP 呼び出された。
+EN Not long after I joined, the boss, Mr.
+EN Baba, called me in.
+
+@ 005
+JP #WS059：
+JP 「どうだ、調子は？
+EN Baba:
+EN "How are you holding up?"
+
+@ 006
+JP #MS：
+JP 「はい、練習にも慣れて来ましたし、
+JP 　体調も良いです。
+EN #MS:
+EN "I'm used to the training now, sir, and
+EN  I feel great."
+
+@ 007
+JP #WS059：
+JP 「そうか。じゃあちょいと早いが
+JP 　デビュー戦、やってみるか？
+EN Baba:
+EN "I see. It's a bit early, but how about
+EN  your debut match?"
+
+@ 008
+JP #MS：
+JP 「ほ、本当ですか！？
+JP 　是非お願いします！
+EN #MS:
+EN "R-Really!? Yes, please!"
+
+@ 009
+JP #WS059：
+JP 「よし、近々組むから準備をしておけよ。
+EN Baba:
+EN "Good. I'll set it up soon, so get
+EN  ready."
+
+@ 010
+JP #MS：
+JP 「はい！全力で頑張ります！
+EN #MS:
+EN "Yes, sir! I'll give it everything!"
+
+@ 011
+JP そしてデビュー戦当日・・・
+EN Then came the day of my debut...
+
+@ 012
+JP 試合開始までもうすぐだ・・・
+JP 高まる緊張と不安で自分でも判るくらい
+JP ガチガチに固くなっていた。
+EN The match was almost here... I could
+EN feel myself going stiff with nerves.
+
+@ 013
+JP #WS060：
+JP 「今日、デビュー戦なんだって？
+EN Tsuruta:
+EN "I hear today's your debut?"
+
+@ 014
+JP #WF060さんだった。
+EN It was Jumbo Tsuruta.
+
+@ 015
+JP #MS：
+JP 「は、はい！
+EN #MS:
+EN "Y-Yes, sir!"
+
+@ 016
+JP #WS060：
+JP 「それにしてもだいぶ緊張してるなあ。
+JP 　あのスパーリングの時みたいに堂々と
+JP 　していればいいじゃないか。
+EN Tsuruta:
+EN "You're wound up tight. Just be as
+EN  bold as you were in sparring."
+
+@ 017
+JP #MS：
+JP 「それが、本当にデビューなんだと思ったら
+JP 　ちょっと・・・
+EN #MS:
+EN "It's just, now that it's really my
+EN  debut..."
+
+@ 018
+JP #WS060
+JP 「ハハハ、まあ俺だってデビュー戦は
+JP 　緊張してたから、あまり他人の事も
+JP 　言えないけどな。
+EN "Hahaha, well, I was nervous at my
+EN  debut too, so I can't talk."
+
+@ 019
+JP #MS：
+JP 「#WS060さんも・・・・
+EN #MS:
+EN "Even you, Mr. Tsuruta..."
+
+@ 020
+JP #WS060：
+JP 「ああ、俺も心臓が口から飛び出そうだったよ。
+EN Tsuruta:
+EN "Yeah, my heart was in my throat."
+
+@ 021
+JP #MS：
+JP 「そうなんですか？
+EN #MS:
+EN "Really?"
+
+@ 022
+JP #WS060：
+JP 「でも最終的には自分との闘いだ。
+JP 　その闘いを何度も何度もクリアして
+JP 　やっと一人前のレスラーになれるんだ。
+EN Tsuruta:
+EN "But in the end, the fight is with
+EN  yourself. Win it again and again and
+EN  you'll be a real wrestler."
+
+@ 023
+JP 「#WS059さんも君には期待してる。
+JP 　その期待を重荷ではなく、バネにして
+JP 　頑張るんだ。な？
+EN "Mr. Baba expects a lot of you. Don't
+EN  let it weigh you down. Use it as a
+EN  springboard. Okay?"
+
+@ 024
+JP #MS：
+JP 「はい！今の自分を全て出しきれるように
+JP 　頑張ります！
+EN #MS:
+EN "Yes, sir! I'll show everything I've
+EN  got!"
+
+@ 025
+JP #WS060：
+JP 「よし、その意気だ。俺も見てるからな。
+EN Tsuruta:
+EN "Good, that's the spirit. I'll be
+EN  watching."
+
+@ 026
+JP #MS：
+JP 「ありがとうございました！
+EN #MS:
+EN "Thank you very much!"
+
+@ 027
+JP #WS060さんのおかげで、
+JP 大分緊張がほぐれた。
+EN Thanks to Mr. Tsuruta, my nerves had
+EN eased a lot.
+
+@ 028
+JP #WS066：
+JP 「デビューしたての新人に必要なのは
+JP 　自分の気合を表に出す事だ。
+EN Kikuchi:
+EN "What a rookie needs most is to show
+EN  his fighting spirit."
+
+@ 029
+JP 「何でも受け止めてやるから、
+JP 　遠慮せずに思いっきり来い！
+JP 　２人でバクハツだ！！
+EN "I'll take anything you've got, so come
+EN  at me full force! Let's both explode!!"
+
+@ 030
+JP #MS：
+JP 「よろしくお願いします！
+EN #MS:
+EN "Let's have a good match!"

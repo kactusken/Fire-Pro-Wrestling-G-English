@@ -1,0 +1,347 @@
+@ 000
+JP 俺はまたいつものように道場で
+JP トレーニングに励んでいた。
+EN As usual, I was hard at training in the
+EN dojo.
+
+@ 001
+JP #WS166：
+JP 「・・・・・・・・
+EN Anjoh:
+EN "........"
+
+@ 002
+JP #MS：
+JP 「うわっ、#WS166さん！
+JP 　びっくりしたじゃないですか！
+EN #MS:
+EN "Whoa, Mr. Anjoh! You scared me!"
+
+@ 003
+JP #WS166：
+JP 「・・・・・・・・
+EN Anjoh:
+EN "........"
+
+@ 004
+JP #MS：
+JP 「どうしたんですか？
+EN #MS:
+EN "What's wrong?"
+
+@ 005
+JP #WS166：
+JP 「また・・・・・
+EN Anjoh:
+EN "Again....."
+
+@ 006
+JP #MS：
+JP 「また？
+EN #MS:
+EN "Again?"
+
+@ 007
+JP #WS166：
+JP 「潰れちゃった。
+EN Anjoh:
+EN "It went under."
+
+@ 008
+JP #MS：
+JP 「は？
+EN #MS:
+EN "Huh?"
+
+@ 009
+JP #WS166：
+JP 「だから潰れちゃった。
+EN Anjoh:
+EN "I said it went under."
+
+@ 010
+JP #MS：
+JP 「もしかして・・・・
+EN #MS:
+EN "You don't mean...."
+
+@ 011
+JP #WS166：
+JP 「そう、キャッスルが潰れちゃったんだよ。
+EN Anjoh:
+EN "Yep. Kingdom went under."
+
+@ 012
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 013
+JP 良く見ると#WS166さんの眼が
+JP 遠くを見ている。
+EN Looking closer, I saw Anjoh's eyes
+EN staring off into the distance.
+
+@ 014
+JP #MS：
+JP 「あの、大丈夫ですか？
+EN #MS:
+EN "Um, are you okay?"
+
+@ 015
+JP #WS166：
+JP 「フゥ・・・・
+EN Anjoh:
+EN "Phew...."
+
+@ 016
+JP 「・・・・・・・
+EN "......."
+
+@ 017
+JP 「良し、決めた！
+EN "Right, I've decided!"
+
+@ 018
+JP #MS：
+JP 「な、何をですか？
+EN #MS:
+EN "D-decided what?"
+
+@ 019
+JP #WS166：
+JP 「お前、俺と一緒に#PS08に出よう！
+EN Anjoh:
+EN "You and me are entering #PS08!"
+
+@ 020
+JP #MS：
+JP 「はぁ！？
+EN #MS:
+EN "Huh!?"
+
+@ 021
+JP #PS08とは、あらゆる立ち技格闘技者の
+JP 頂点を決める大会である。最近は一般に対し広く
+JP 浸透し、知らない者はいないと言って良い。
+EN #PS08 crowns the best of every
+EN stand-up fighting style. It's so
+EN popular now that everyone knows it.
+
+@ 022
+JP #WS166：
+JP 「まあ聞け。
+EN Anjoh:
+EN "Just hear me out."
+
+@ 023
+JP 結局錯乱して出たセリフかと思ったが実際は
+JP そうではなく、前々から考えていた
+JP 事だったらしい。しかし・・・・
+EN I figured he'd said it in a daze, but
+EN apparently he'd been thinking about
+EN it for a while. However....
+
+@ 024
+JP #WS166：
+JP 「だってお前、プロレスラーって言うより
+JP 　#PS08ファイターって言った方が
+JP 　ナンパし易いじゃねぇか！
+EN Anjoh:
+EN "'Cause '#PS08 fighter' picks up
+EN  way more girls than 'pro wrestler'!"
+
+@ 025
+JP #MS：
+JP 「・・・・・・・・
+EN #MS:
+EN "........"
+
+@ 026
+JP どうやらキャッスル崩壊ショックは
+JP もうすっかり無いようだ・・・・
+EN Looks like he's completely over the
+EN shock of Kingdom's collapse....
+
+@ 027
+JP 結局先に#WS166さんが#PS08
+JP 参戦を果たし、日本人最強の空手家、
+JP #WS172選手と対戦。
+EN Anjoh entered #PS08 first, facing
+EN Satake, Japan's strongest karateka.
+
+@ 028
+JP 豪快なハイキックでＫＯ負けを喫した。
+EN He was knocked out by a thunderous
+EN high kick.
+
+@ 029
+JP #WS166：
+JP 「派手にやられたよ。
+EN Anjoh:
+EN "Got wrecked big time."
+
+@ 030
+JP #MS：
+JP 「そりゃそうですよ。#PS08ルールじゃ
+JP 　俺らがして来た事が十分に活かせないじゃ
+JP 　ないですか。
+EN #MS:
+EN "Of course you did. Under #PS08
+EN  rules, we can't use what we've
+EN  trained for."
+
+@ 031
+JP 「俺はやるならバーリトゥードかせめて
+JP 　異種格闘技戦ですよ。
+EN "If I do it, it's vale tudo, or at least a
+EN  mixed-style fight."
+
+@ 032
+JP #WS166：
+JP 「ま、そう言うと思ったよ。
+EN Anjoh:
+EN "Figured you'd say that."
+
+@ 033
+JP 「だからもうあっちにも言ってあるからな。
+EN "So I already told them."
+
+@ 034
+JP #MS：
+JP 「何がですか？
+EN #MS:
+EN "Told them what?"
+
+@ 035
+JP #WS166：
+JP 「#WS172・#MS戦のルールだよ。
+JP 　異種格闘技戦で頼む、ってな。
+EN Anjoh:
+EN "The rules for Satake vs. #MS. I
+EN  asked for a mixed-style fight."
+
+@ 036
+JP #MS：
+JP 「そんな勝手に・・・・
+EN #MS:
+EN "You did that without asking...."
+
+@ 037
+JP 増田：
+JP 「お疲れ様です！
+EN Masuda:
+EN "Hello there!"
+
+@ 038
+JP #WS172：
+JP 「こんちわ！
+EN Satake:
+EN "Howdy!"
+
+@ 039
+JP #MS：
+JP 「ええっ！？
+EN #MS:
+EN "Whaaat!?"
+
+@ 040
+JP #WS172：
+JP 「#MS選手、よろしくお願いします！
+EN Satake:
+EN "#MS, nice to meet ya!"
+
+@ 041
+JP と言うと彼は手を差し出して来た。
+JP 俺は状況が掴めないまま手を握り返す。
+EN He held out his hand. Still lost, I
+EN shook it.
+
+@ 042
+JP #MS：
+JP 「あ、あの・・・・
+EN #MS:
+EN "Um, er...."
+
+@ 043
+JP 増田：
+JP 「ルールはこの#WS172がいいって言うんで
+JP 　そちらの提示して来たものでＯＫです。
+EN Masuda:
+EN "Satake says he's fine with it, so the
+EN  rules you proposed are OK."
+
+@ 044
+JP #WS172：
+JP 「お互い、正々堂々、ぶつかり合いましょうや！
+EN Satake:
+EN "Let's go at it fair and square!"
+
+@ 045
+JP #WS166：
+JP 「良かったな！
+EN Anjoh:
+EN "Great, huh!"
+
+@ 046
+JP 俺は失礼だと思ったので取りあえず
+JP 返事をした。
+EN It'd be rude not to, so I answered
+EN anyway.
+
+@ 047
+JP #MS：
+JP 「そうですね！日本格闘技界の１ページを飾る
+JP 　凄い闘いをしましょう！
+EN #MS:
+EN "Right! Let's have an amazing fight
+EN  for the history books of Japanese
+EN  combat!"
+
+@ 048
+JP こうして俺自身は良く分からないうちに
+JP 色々と決まって行ったのだった。
+EN And so all kinds of things got decided
+EN before I knew what was happening.
+
+@ 049
+JP そして遂にその日がやって来た。
+EN At last, the day came.
+
+@ 050
+JP #WS172：
+JP 「遂にこの日が来た訳や。
+EN Satake:
+EN "So the day's finally here."
+
+@ 051
+JP #MS：
+JP 「遠慮無く行きますよ！
+EN #MS:
+EN "I won't hold back!"
+
+@ 052
+JP #WS172：
+JP 「ハハハ、遠慮なんぞしとるようなら
+JP 　秒殺でっせ！
+EN Satake:
+EN "Ha ha! Hold back and you'll be done
+EN  in seconds!"
+
+@ 053
+JP #MS：
+JP 「確かに・・・でもこちらにも関節の
+JP 　極めがある事をお忘れなく。
+EN #MS:
+EN "True... but don't forget I've got
+EN  submissions."
+
+@ 054
+JP #WS172：
+JP 「せやったな。
+JP 　へへ、何かワクワクして来よったで。
+JP 　ほんじゃま、行きまっせ！
+EN Satake:
+EN "Right ya are. Heh, I'm gettin' excited.
+EN  Well then, here I come!"

@@ -1,0 +1,181 @@
+@ 000
+JP #MS：
+JP 「次だな、#WS153の試合。
+JP 　セコンドの俺まで緊張するよ。
+EN #MS:
+EN "Otsuka's match is next. Even I'm
+EN  nervous, and I'm just his second."
+
+@ 001
+JP #WS151：
+JP 「大丈夫ですよ。あいつなら勝ちますよ！
+EN Ishikawa:
+EN "Don't worry. He'll win!"
+
+@ 002
+JP #WL153は
+JP ウチのリング組み立て部長兼レスラー。
+EN Otsuka is our ring-crew chief and a
+EN wrestler.
+
+@ 003
+JP その男が今日、今から
+JP バーリトゥード戦を行うのだ。
+EN And today, right now, he's fighting a
+EN vale tudo bout.
+
+@ 004
+JP 相手は喧嘩マッチ無敗のバルト・マス。
+EN His opponent: Marco Ruas, unbeaten
+EN in no-holds fights.
+
+@ 005
+JP あの４５０戦無敗男
+JP #WF169ですら
+JP 対戦を拒んでいると言われる格闘家だ。
+EN A fighter even Rickson Gracie, 450-0,
+EN is said to avoid.
+
+@ 006
+JP #WS151：
+JP 「俺達のバチバチファイトは必ず
+JP 　バーリトゥードでも通用しますよ。
+EN Ishikawa:
+EN "Our hard-hitting style will work in
+EN  vale tudo too, for sure."
+
+@ 007
+JP #MS：
+JP 「フフ、そうだな。
+EN #MS:
+EN "Heh, you're right."
+
+@ 008
+JP 弱小団体の、名も知れないプロレスラーが
+JP その道のプロに勝てる訳が無い。
+EN An unknown pro wrestler from a tiny
+EN promotion couldn't beat a pro of that
+EN world.
+
+@ 009
+JP 関係者の戦前の下馬評は
+JP １００パーセント、
+JP 『バルト・マス勝利』だった。
+EN Before the fight, insiders favored
+EN Marco Ruas 100 percent.
+
+@ 010
+JP しかし・・・勝ったのは、
+JP #WF153だった。
+EN But... the winner was Alexander
+EN Otsuka.
+
+@ 011
+JP 大観衆は度肝を抜かれて呆然とし、
+JP プロレスファンは大声援を送った。
+EN The huge crowd sat stunned, and the
+EN wrestling fans roared.
+
+@ 012
+JP #WS151：
+JP 「やりましたね！
+EN Ishikawa:
+EN "He did it!"
+
+@ 013
+JP #MS：
+JP 「ああ、やったな！
+EN #MS:
+EN "Yeah, he did!"
+
+@ 014
+JP これを機に
+JP #PL09は大ブレイク。
+JP 各会場を満員にするようになって行った。
+EN With that, #PL09 hit it big, and
+EN started packing every venue.
+
+@ 015
+JP #WS151：
+JP 「で、次ですよ、次！
+EN Ishikawa:
+EN "So, what's next, what's next!"
+
+@ 016
+JP #MS：
+JP 「しかしいつの間に
+JP 　ロードブラスターズと交渉してたんだ？
+EN #MS:
+EN "But when did you negotiate with the
+EN  Road Warriors?"
+
+@ 017
+JP #WS151：
+JP 「いや、#WS153がね、
+JP 　今回勝ったら褒美にやらせてくれって
+JP 　言うから、早めに交渉してたんですよ。
+EN Ishikawa:
+EN "Well, Otsuka asked for it as his
+EN  reward if he won, so I got talks going
+EN  early."
+
+@ 018
+JP #MS：
+JP 「・・・・結果が出る前から？
+EN #MS:
+EN ".... Before the result was in?"
+
+@ 019
+JP #WS151：
+JP 「そうですよ！その方があいつも
+JP 　やる気になるし、勝った後すぐに発表出来れば
+JP 　話題がうまくつなげられるじゃないですか！
+EN Ishikawa:
+EN "Yep! It fires him up, and if we
+EN  announce it right after he wins, the
+EN  buzz keeps rolling!"
+
+@ 020
+JP #MS：
+JP 「無鉄砲と言うか、さすがと言うか・・・・
+EN #MS:
+EN "Reckless, or brilliant, I can't tell...."
+
+@ 021
+JP #WS151：
+JP 「頑張って下さい！#WS153も
+JP 　#MSさんに期待してますからね！
+EN Ishikawa:
+EN "Good luck! Otsuka's counting on you
+EN  too, #MS!"
+
+@ 022
+JP #MS：
+JP 「は？俺！？
+EN #MS:
+EN "Huh? Me!?"
+
+@ 023
+JP #WS151：
+JP 「頑張って下さい！
+EN Ishikawa:
+EN "Good luck!"
+
+@ 024
+JP #MS：
+JP 「おう！こうなった以上やってやるよ！
+EN #MS:
+EN "Fine! Now that it's come to this, I'll
+EN  do it!"
+
+@ 025
+JP #WS151：
+JP 「秒殺されないように頑張って下さい！
+EN Ishikawa:
+EN "Try not to get squashed in seconds!"
+
+@ 026
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."

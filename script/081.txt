@@ -1,0 +1,118 @@
+@ 000
+JP 記者：
+JP 「素晴らしい試合でした。そして
+JP 　初防衛おめでとうございます！
+EN Reporter:
+EN "A fantastic match. And
+EN  congratulations on your first
+EN  defense!"
+
+@ 001
+JP #MS：
+JP 「ありがとうございます。
+EN #MS:
+EN "Thank you."
+
+@ 002
+JP 記者：
+JP 「これで#WS001戦は
+JP 　シングル２連勝ですね！
+EN Reporter:
+EN "That's two straight singles wins over
+EN  Hashimoto!"
+
+@ 003
+JP #MS：
+JP 「自分を誉めてやりたいですよ。
+EN #MS:
+EN "I'd like to give myself a pat on the
+EN  back."
+
+@ 004
+JP 記者：
+JP 「今後は誰を相手に防衛戦を？
+EN Reporter:
+EN "Who will you defend against next?"
+
+@ 005
+JP #MS：
+JP 「誰でもいいですよ！俺を燃えさせてくれる人、
+JP 　待ってます！
+EN #MS:
+EN "Anyone's fine! I'm waiting for
+EN  someone who can fire me up!"
+
+@ 006
+JP #WS001：
+JP 「#MS！やったな！おめでとう！
+EN Hashimoto:
+EN "#MS! You did it!
+EN  Congratulations!"
+
+@ 007
+JP #MS：
+JP 「やりました！
+EN #MS:
+EN "I did it!"
+
+@ 008
+JP #WS001：
+JP 「本当に強くなったな！
+JP 　今#PS00の頂点に立ってるのは
+JP 　お前なんだからな！
+EN Hashimoto:
+EN "You've really gotten strong! You're
+EN  the one at the top of #PS00 now!"
+
+@ 009
+JP #MS：
+JP 「ありがとうございます！
+JP 　最高の気分です！
+EN #MS:
+EN "Thank you! I feel amazing!"
+
+@ 010
+JP #WS001：
+JP 「でもこれからが大変だぞ。これから
+JP 　闘わなくちゃならんのは敵だけじゃない。
+EN Hashimoto:
+EN "But the hard part starts now. From
+EN  here on, it's not just opponents you'll
+EN  be fighting."
+
+@ 011
+JP 「追われる側ってのは想像を絶する
+JP 　プレッシャーとも闘って行かなきゃならない。
+JP 　覚悟しておけよ。
+EN "When you're the one being chased,
+EN  you fight pressure you can't imagine.
+EN  Be ready for it."
+
+@ 012
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes, sir."
+
+@ 013
+JP #WS001：
+JP 「それともう一つ！俺が次に挑戦するまで、
+JP 　そのベルトを手放すんじゃないぞ！
+EN Hashimoto:
+EN "And one more thing! Don't you let go
+EN  of that belt until I challenge you
+EN  again!"
+
+@ 014
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 015
+JP 最強の挑戦者を退けた俺は、
+JP 単なる勢いだけではない本当のチャンピオンに
+JP なったと言っていいだろう。
+EN Having turned back the toughest
+EN challenger, I could finally call myself
+EN a true champion, not just a hot streak.

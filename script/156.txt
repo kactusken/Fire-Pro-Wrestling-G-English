@@ -1,0 +1,30 @@
+@ 000
+JP 静かな控え室で俺は一人考えていた。
+JP これからどうするべきなのか。
+EN Alone in the quiet locker room, I
+EN thought about what I should do now.
+
+@ 001
+JP このまま終わりたくはない。
+JP 必ず這い上がって見せる。
+EN I didn't want it to end like this. I'd
+EN claw my way back up, no matter
+EN what.
+
+@ 002
+JP その後も#MSは必死に努力したが
+JP 現実は厳しかった。さらに追い討ちを
+JP かけるように腰を故障させてしまう。
+EN #MS kept working desperately,
+EN but reality was harsh. Then, to make
+EN it worse, he hurt his back.
+
+@ 003
+JP そしてある日の新聞記事に
+JP こんな文字が・・・・・
+EN And one day, a newspaper ran these
+EN words.....
+
+@ 004
+JP 『#MS、レスラー生命危うし・・・』
+EN "#MS's Career in Jeopardy..."

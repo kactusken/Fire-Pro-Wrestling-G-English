@@ -1,0 +1,133 @@
+@ 000
+JP #WS113：
+JP 「今日からこっちで
+JP 　しばらく修行する事になった・・・
+EN Ultimo:
+EN "He'll be training over here for a
+EN  while, starting today..."
+
+@ 001
+JP #WS010：
+JP 「#PL00の
+JP 　#WF010です。
+JP 　よろしく。
+EN Nagata:
+EN "I'm Yuji Nagata, from #PL00. Nice
+EN  to meet you."
+
+@ 002
+JP #MS：
+JP 「どうも、
+JP 　#MF00です。
+EN #MS:
+EN "Hi, I'm #MF."
+
+@ 003
+JP 何か見慣れない人物がトレーニングを
+JP していると思ったら、#PS00の
+JP #WS010選手だったのだ。
+EN I'd wondered who the unfamiliar guy
+EN training was. It was Nagata, from
+EN #PS00.
+
+@ 004
+JP #WS010：
+JP 「坂上から噂は聞いてます。
+EN Nagata:
+EN "I've heard about you from
+EN  Sakagami."
+
+@ 005
+JP #MS：
+JP 「坂上・・・元気にやってますか？
+EN #MS:
+EN "Sakagami... How's he doing?"
+
+@ 006
+JP #WS010：
+JP 「それはもう。俺ら同世代で毎日
+JP 　シバキ合いの試合してましたから。
+EN Nagata:
+EN "Great. Guys our age were beating the
+EN  tar out of each other every day."
+
+@ 007
+JP #MS：
+JP 「そうですか・・・・
+EN #MS:
+EN "I see...."
+
+@ 008
+JP 俺は少々不安な気持ちになった。
+JP 同期のレスラーは日本でそうやって
+JP ぶつかり合って凌ぎ合いをしている。
+EN I got a little uneasy. The guys from
+EN my class are back in Japan, colliding
+EN and pushing each other like that.
+
+@ 009
+JP 俺は・・・・俺は彼らと同じように
+JP 力がついているのか？
+JP おいて行かれていないか？
+EN Am I... am I getting as strong as
+EN them? Am I being left behind?
+
+@ 010
+JP #WS113：
+JP 「まあ、若い者同士、情報や技術の
+JP 　交換をするのも面白いんじゃないのか？
+EN Ultimo:
+EN "Well, why not trade info and moves?
+EN  You young guys might enjoy it."
+
+@ 011
+JP #WS010：
+JP 「そうですね。お互い、頑張りましょう！
+EN Nagata:
+EN "Sounds good. Let's both do our best!"
+
+@ 012
+JP #MS：
+JP 「よろしく。
+EN #MS:
+EN "Good to have you."
+
+@ 013
+JP その後俺達は色々な話をしながら
+JP トレーニング、スパーリングをした。
+EN After that we trained and sparred,
+EN talking about all kinds of things.
+
+@ 014
+JP そして年代が近い事もあって２人は
+JP すぐに打ち解けた。
+EN Being about the same age, we hit it off
+EN right away.
+
+@ 015
+JP #WS010：
+JP 「こっちでのデビュー戦が
+JP 　お前になるとは思わなかったな。
+EN Nagata:
+EN "Never thought my debut over here
+EN  would be against you."
+
+@ 016
+JP #MS：
+JP 「それはこっちも同じ事だよ。
+JP 　でも同世代との初めての試合・・・
+JP 　俺は楽しみで仕方無いよ。
+EN #MS:
+EN "Same here. But my first match
+EN  against a guy my age... I can't wait."
+
+@ 017
+JP 「思いっきり来い！
+EN "Come at me with everything!"
+
+@ 018
+JP #WS010：
+JP 「言われるまでも無い！行くぞ！
+EN Nagata:
+EN "You don't have to tell me! Here I
+EN  come!"

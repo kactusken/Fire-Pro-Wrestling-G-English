@@ -1,0 +1,141 @@
+@ 000
+JP #WS149：
+JP 「#WS171との試合、中々やったな。
+EN Maeda:
+EN "Not bad against Smith."
+
+@ 001
+JP #MS：
+JP 「ありがとうございます。
+EN #MS:
+EN "Thank you."
+
+@ 002
+JP #WS149：
+JP 「それでな・・・・
+EN Maeda:
+EN "So, anyway...."
+
+@ 003
+JP #WS149さんの話は日本で
+JP グルーサムトーナメントが行われる、
+JP と言うものだった。
+EN Mr. Maeda told me a Gruesome
+EN tournament was going to be held in
+EN Japan.
+
+@ 004
+JP #MS：
+JP 「グルーサムファイティングですか。
+EN #MS:
+EN "Gruesome Fighting?"
+
+@ 005
+JP グルーサムファイティングとは
+JP バーリトゥードと呼ばれる、何でもありで
+JP 行われる危険な試合の大会だ。
+EN Gruesome Fighting is a series of
+EN dangerous, anything-goes fights
+EN known as vale tudo.
+
+@ 006
+JP 日本でも最近盛り上がって来ている。
+JP #WL169柔術の不敗伝説が
+JP メジャー化に拍車をかけたのは言うまでも無い。
+EN It's been taking off in Japan lately.
+EN Gracie Jiu-Jitsu's unbeaten legend
+EN helped make it big, of course.
+
+@ 007
+JP #WS149：
+JP 「どう、思う？
+EN Maeda:
+EN "What d'ya think?"
+
+@ 008
+JP #MS：
+JP 「面白そうですね！
+EN #MS:
+EN "Sounds interesting!"
+
+@ 009
+JP 俺は思わずニヤッとしてしまう。
+JP #WS149さんは俺に出て欲しいのに
+JP わざともったいつけた言い回しをしている。
+EN I couldn't help grinning. Mr. Maeda
+EN wants me in it, but he's deliberately
+EN beating around the bush.
+
+@ 010
+JP #WS149：
+JP 「出てくれるか？
+EN Maeda:
+EN "Will ya do it?"
+
+@ 011
+JP #MS：
+JP 「ええ、俺で良ければ。
+EN #MS:
+EN "Sure, if you'll have me."
+
+@ 012
+JP #WS149：
+JP 「よし！#PS07代表はお前で決まりだ！
+EN Maeda:
+EN "All right! You're #PS07's man!"
+
+@ 013
+JP そして試合の日がやって来た。
+EN And fight day came.
+
+@ 014
+JP #WS166：
+JP 「よっ、久しぶりだな。
+EN Anjoh:
+EN "Yo, long time no see."
+
+@ 015
+JP #MS：
+JP 「ご無沙汰してます。
+EN #MS:
+EN "It's been a while."
+
+@ 016
+JP #WS166さんはＵＷＨでの先輩だ。
+JP 直接の親交はそれ程でも無いので
+JP 久々の再会となる。
+EN Mr. Anjoh was my senior in the UWF.
+EN We were never that close, so this is
+EN our first meeting in ages.
+
+@ 017
+JP #WS166：
+JP 「まさかお前とこんな所で会うとは
+JP 　思わなかったよ。
+EN Anjoh:
+EN "Never thought I'd run into you in a
+EN  place like this."
+
+@ 018
+JP #MS：
+JP 「それは俺も同じですよ。
+EN #MS:
+EN "Same here."
+
+@ 019
+JP #WS166：
+JP 「しかし何だな。俺とお前が１回戦で
+JP 　当たっちまったら後のお楽しみが
+JP 　無くなっちまうじゃねぇか、なぁ？
+EN Anjoh:
+EN "Say, though. If you and me meet in
+EN  the first round, there goes the fun
+EN  for later, right?"
+
+@ 020
+JP #MS：
+JP 「そうですね。第１試合で組んだ事を
+JP 　後悔するような試合にしましょう！
+EN #MS:
+EN "True. Let's make them regret booking
+EN  us in the first match!"

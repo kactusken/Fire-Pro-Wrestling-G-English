@@ -1,0 +1,192 @@
+@ 000
+JP 俺がいつものように道場で
+JP トレーニングしていた時だった。
+EN I was training in the dojo as usual
+EN when it happened.
+
+@ 001
+JP #WS049：
+JP 「#MSさん！
+EN Takayama:
+EN "#MS!"
+
+@ 002
+JP #MS：
+JP 「あれ、#WS049じゃないか。
+JP 　どうかしたのか？
+EN #MS:
+EN "Oh, Takayama. What's up?"
+
+@ 003
+JP #WS049：
+JP 「#MSさんはこのままここにいて
+JP 　いいと思いますか？
+EN Takayama:
+EN "#MS, do you think it's okay to
+EN  stay here like this?"
+
+@ 004
+JP #MS：
+JP 「・・・・どうしたんだ？急に。
+EN #MS:
+EN ".... What's this all of a sudden?"
+
+@ 005
+JP #WS049：
+JP 「このままここにいても落ち着いて
+JP 　試合出来ないじゃないですか！
+EN Takayama:
+EN "If we stay here, we'll never get to
+EN  wrestle in peace!"
+
+@ 006
+JP 「だから俺は#WS042選手と闘う為に
+JP 　#PS01に行きます！
+EN "So I'm going to #PS01 to fight
+EN  Kawada!"
+
+@ 007
+JP #MS：
+JP 「えっ！？
+EN #MS:
+EN "What!?"
+
+@ 008
+JP #WS049：
+JP 「#MSさん、あなたなら・・・・
+JP 　あなたとならやって行けると思うんです！
+JP 　俺と一緒に行きましょう！
+EN Takayama:
+EN "#MS, with you.... I think we
+EN  could make it! Come with me!"
+
+@ 009
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 010
+JP 唐突な誘いであった。俺は・・・・・
+EN It was a sudden offer. I.....
+
+@ 011
+JP #WS059：
+JP 「まあ、素質はあるんじゃないか？後は
+JP 　いかに受け身を覚えたりと言う・・・基礎的な
+JP 　部分を身につけて行くか、だろうな。
+EN Baba:
+EN "Well, you've got talent. Now it's
+EN  about learning the basics... like how
+EN  to take a bump."
+
+@ 012
+JP 俺は#WS059さんに道場で動きを
+JP 見てもらった後、事務所で話をしていた。
+EN After Baba watched me move in the
+EN dojo, we talked in the office.
+
+@ 013
+JP #MS：
+JP 「じゃあ、試合を組んでいただけるんですか？
+EN #MS:
+EN "So you'll book me in matches?"
+
+@ 014
+JP #WS059：
+JP 「そうだな。ちょうど#WS049がいる事だし
+JP 　マッチメイクにも差し支えないだろう。
+JP 　頑張ってくれよ。
+EN Baba:
+EN "Let's see. Takayama's here, so
+EN  matchmaking shouldn't be a problem.
+EN  Do your best."
+
+@ 015
+JP #MS：
+JP 「ありがとうございます！
+EN #MS:
+EN "Thank you very much!"
+
+@ 016
+JP #WS049：
+JP 「良かったですね！
+EN Takayama:
+EN "Great news!"
+
+@ 017
+JP #MS：
+JP 「ああ。これから一緒に頑張ろう！
+EN #MS:
+EN "Yeah. Let's work hard together!"
+
+@ 018
+JP そして俺の、
+JP #PS01デビュー戦の日がやって来た。
+EN And then came the day of my
+EN #PS01 debut.
+
+@ 019
+JP #WS049：
+JP 「いよいよですね。
+EN Takayama:
+EN "This is it."
+
+@ 020
+JP #MS：
+JP 「そうだな・・・・
+JP 　お前が初めて上がった時はどうだった？
+EN #MS:
+EN "Yeah.... How was it your first time up
+EN  there?"
+
+@ 021
+JP #WS049：
+JP 「もう全然・・・右も左も
+JP 　分かりませんでしたよ。
+EN Takayama:
+EN "I was totally lost... didn't know left
+EN  from right."
+
+@ 022
+JP 「でも#MSさんは#WS166さんと
+JP 　似て環境適応力がありそうじゃないですか。
+EN "But you're like Anjoh, #MS.
+EN  Seems you adapt to anything."
+
+@ 023
+JP #MS：
+JP 「何故かあまり誉められてる気がしない・・・・
+EN #MS:
+EN "Somehow that doesn't feel like a
+EN  compliment...."
+
+@ 024
+JP #WS049：
+JP 「？？
+EN Takayama:
+EN "??"
+
+@ 025
+JP 「ま、まあガツン、と行きましょう！
+EN "W-well, let's go hit 'em hard!"
+
+@ 026
+JP #MS：
+JP 「そうだな・・・・
+EN #MS:
+EN "Yeah...."
+
+@ 027
+JP 相手は#WS047・#WS048組。
+JP 俺の闘いがどこまで通じるか試すには
+JP もってこいの相手かもしれない。
+EN Our opponents: Honda and Izumida.
+EN The perfect test of how far my
+EN fighting can take me.
+
+@ 028
+JP #MS：
+JP 「良し、やるぞ！
+EN #MS:
+EN "All right, let's do this!"

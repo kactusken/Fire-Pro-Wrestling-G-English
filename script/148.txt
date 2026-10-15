@@ -1,0 +1,39 @@
+@ 000
+JP #MS：
+JP 「ベストバウト賞ですか！
+EN #MS:
+EN "The Best Bout award!?"
+
+@ 001
+JP #WS059：
+JP 「ああ。表彰式やるから
+JP 　来てくれと言ってたよ。
+EN Baba:
+EN "Yes. They want you at the
+EN  ceremony."
+
+@ 002
+JP #MS：
+JP 「そうですか。ありがとうございます！
+EN #MS:
+EN "I see. Thank you, sir!"
+
+@ 003
+JP しかしその後#MSは低迷期を迎える。
+EN But after that, #MS fell into a
+EN slump.
+
+@ 004
+JP 坂上戦でレスラーとしてのエネルギーを
+JP 全て使い果たしてしまったかのような
+JP 落ち込み様だった。
+EN It was as if he'd used up all his energy
+EN as a wrestler in the Sakagami match.
+
+@ 005
+JP やがて#MSは引退。
+JP どこかの道場を引き継いだと言う噂を最後に、
+JP 彼の名はプロレス界から消えたのだった・・・
+EN #MS retired. Last anyone heard,
+EN he took over a dojo somewhere. Then
+EN his name faded away...

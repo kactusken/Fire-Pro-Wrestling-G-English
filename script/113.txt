@@ -1,0 +1,60 @@
+@ 000
+JP ハードな試合だった。さすがに四天王と
+JP 互角の闘いをする男だ。
+JP 俺はヘトヘトになっていた。しかし・・・
+EN That was a hard match. No wonder he
+EN can go toe to toe with the Four
+EN Pillars. I was spent. But...
+
+@ 001
+JP どこか爽やかな、気持ちの良い部分が
+JP あるのも確かだ。
+EN There's no denying it felt good, too.
+EN Refreshing, somehow.
+
+@ 002
+JP #WS044：
+JP 「良い試合だった。正直言って
+JP 　お前とここまでの試合が出来るとは
+JP 　思わなかったよ。
+EN Akiyama:
+EN "Good match. Honestly, I never
+EN  thought you could give me a match
+EN  like that."
+
+@ 003
+JP 「改めてライバルとして、これからも
+JP 　よろしくな！
+EN "From here on out, let's be rivals for
+EN  real!"
+
+@ 004
+JP #MS：
+JP 「こっちこそな！
+EN #MS:
+EN "Likewise!"
+
+@ 005
+JP #WS044：
+JP 「お前と俺で三冠戦、が目標だな。
+EN Akiyama:
+EN "Our goal: you and me in a Triple
+EN  Crown match."
+
+@ 006
+JP #MS：
+JP 「必ずやろうぜ！四天王が元気なうちにな！
+EN #MS:
+EN "We'll make it happen! While the Four
+EN  Pillars are still going strong!"
+
+@ 007
+JP #WS044：
+JP 「おう！
+EN Akiyama:
+EN "You bet!"
+
+@ 008
+JP 俺達は最後に握手をして別れた。
+EN We shook hands and went our
+EN separate ways.

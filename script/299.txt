@@ -1,0 +1,39 @@
+@ 000
+JP 挑戦者決定戦を制した俺はいよいよ
+JP #WS165さんに挑む事になった。
+EN Having won the contenders' match, I
+EN was finally set to face Takada.
+
+@ 001
+JP #WS165：
+JP 「#MS・・・お前が来たか。
+EN Takada:
+EN "#MS... so it's you."
+
+@ 002
+JP #MS：
+JP 「#WS165さん・・・・
+EN #MS:
+EN "Mr. Takada..."
+
+@ 003
+JP 「俺はあなたに勝ちます！
+JP 　あなたを越える事で、最高の恩返しを
+JP 　してみせますよ！
+EN "I'm going to beat you! Surpassing
+EN  you is the best way I can repay you!"
+
+@ 004
+JP #WS165：
+JP 「フフフ・・・頼もしいな。
+JP 　俺も久々にゾクゾクするような
+JP 　試合が出来そうだよ。
+EN Takada:
+EN "Heh heh... how reassuring. Feels like
+EN  I'll get a thrilling match for once."
+
+@ 005
+JP #MS：
+JP 「行きますよ！
+EN #MS:
+EN "Here I come!"

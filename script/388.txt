@@ -1,0 +1,27 @@
+@ 000
+JP #WS171：
+JP 「ユーは期待通りの素晴らしい
+JP 　ファイターだった。またいつか
+JP 　ファイトして欲しい。
+EN Smith:
+EN "You were as great as I expected. I
+EN  hope we fight again someday."
+
+@ 001
+JP #MS：
+JP 「こちらこそ・・・色々勉強になりました。
+EN #MS:
+EN "Same here... I learned a lot."
+
+@ 002
+JP 考え抜かれた無駄のない攻撃と
+JP 計算された動き・・・本当に勉強になった。
+EN Well-thought-out, efficient attacks,
+EN calculated movement... I really
+EN learned a lot.
+
+@ 003
+JP #WS171：
+JP 「ユーのこれからの活躍を楽しみにしているよ。
+EN Smith:
+EN "I look forward to your future."

@@ -1,0 +1,36 @@
+# Overlay 002's built-in story scene (block at 0x80064b98): save prompt and the
+# pre-match choice. Same format as script/NNN.txt. #S00..#S02 are the save slots.
+@ 000
+JP ここまでの進行状況をセーブしますか？
+EN Save your progress so far?
+
+@ 001
+JP 　・セーブしない。
+JP 　・セーブする。
+JP 　・セーブして終了する。
+EN 　・Don't save.
+EN 　・Save.
+EN 　・Save and quit.
+
+@ 002
+JP どこにセーブしますか？
+EN Save to which slot?
+
+@ 003
+JP 　#S00
+JP 　#S01
+JP 　#S02
+
+@ 004
+JP セーブしました。
+EN Saved.
+
+@ 005
+JP 試合の準備はＯＫ？
+EN Ready for the match?
+
+@ 006
+JP 　・いつでもＯＫだ！
+JP 　・エディットする。
+EN 　・Ready when you are!
+EN 　・Edit my wrestler.

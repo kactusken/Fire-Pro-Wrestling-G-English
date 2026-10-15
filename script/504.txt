@@ -1,0 +1,96 @@
+@ 000
+JP ジュニア戦士達の史上最大のイベント、
+JP 『キング・オブ・ワールドジュニア』も
+JP ２日目、２回戦が行われる。
+EN The biggest junior event in history,
+EN the "King of World Juniors." Day two:
+EN the second round.
+
+@ 001
+JP #WS092さんを破り、優勝への責任が
+JP いよいよ重くなった俺の次の相手は・・・
+EN I beat Sasuke, and the weight of
+EN winning it all grew heavier. My next
+EN opponent was...
+
+@ 002
+JP #WS113：
+JP 「あの時の若者とこうして合い見える日が
+JP 　来るとは・・・・
+EN Ultimo:
+EN "To think the day would come when
+EN  I'd face that young kid like this...."
+
+@ 003
+JP #MS：
+JP 「正井さん・・・・
+EN #MS:
+EN "Asai...."
+
+@ 004
+JP #WS113：
+JP 「だけど今俺の前にいるのはトーナメントを
+JP 　争うライバルだ。全ての感傷を捨てて、
+JP 　全力で闘い、倒すのみ！
+EN Ultimo:
+EN "But now, before me stands a rival in
+EN  this tournament. I'll cast aside all
+EN  sentiment and beat you!"
+
+@ 005
+JP 「そして俺がジュニア世界一になる！
+EN "And I'll be the world's No. 1 junior!"
+
+@ 006
+JP #MS：
+JP 「あの時お世話になった恩返し・・・
+JP 　そして#PS04代表としての使命・・・
+JP 　俺は自分の気持ちを・・・
+EN #MS:
+EN "Paying you back for helping me
+EN  then... my duty to #PS04... I'll hit
+EN  you with how I feel..."
+
+@ 007
+JP 「心をあなたにぶつけます！
+EN "With all my heart!"
+
+@ 008
+JP #WS113：
+JP 「来い！
+EN Ultimo:
+EN "Come on!"
+
+@ 009
+JP #WS113：
+JP 「まさか君の方が勝ち上がって来るとはね。
+JP 　#PS04の未来の芽は着実に
+JP 　育っている、と言う事なのか・・・
+EN Ultimo:
+EN "I never thought you'd be the one to
+EN  make it through. #PS04's future is
+EN  really growing, isn't it..."
+
+@ 010
+JP #MS：
+JP 「例え相手があの偉大なる日本人ルチャドール、
+JP 　#WF113でも・・・
+JP 　俺は負けられない！
+EN #MS:
+EN "Even against the great Japanese
+EN  luchador Ultimo Dragon... I can't
+EN  lose!"
+
+@ 011
+JP 「#PS04代表になった使命・・・
+JP 　そして偉大なる先人を越えようという
+JP 　俺自身の気持ちの為に！
+EN "For my duty to #PS04... and for
+EN  my own will to surpass a great
+EN  forerunner!"
+
+@ 012
+JP #WS113：
+JP 「来い！
+EN Ultimo:
+EN "Come on!"

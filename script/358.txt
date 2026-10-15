@@ -1,0 +1,58 @@
+@ 000
+JP 記者：
+JP 「素晴らしいファイトでした。
+EN Reporter:
+EN "That was a wonderful fight."
+
+@ 001
+JP 「これでバーリトゥードでは
+JP 　#PL09強し、との印象を
+JP 　世間に与えたんじゃないですか？
+EN "Haven't you shown the world that
+EN  #PL09 is strong in vale tudo?"
+
+@ 002
+JP #MS：
+JP 「そうですね。実績残せたと思います。
+EN #MS:
+EN "Yes. I think I left my mark."
+
+@ 003
+JP 記者：
+JP 「残念ながら敗れましたが
+JP 　#WS170選手はいかがでしたか？
+EN Reporter:
+EN "Sadly you lost, but how was
+EN  Gordeau?"
+
+@ 004
+JP #MS：
+JP 「さすがに強かったですね。
+JP 　でも勝てない程じゃないとは思いました。
+JP 　次にチャンスがあれば勝ちたいですね。
+EN #MS:
+EN "Strong, as expected. But not
+EN  unbeatable. Next chance I get, I want
+EN  to win."
+
+@ 005
+JP 記者：
+JP 「次の目標は何かありますか？
+EN Reporter:
+EN "Any goals for what's next?"
+
+@ 006
+JP #MS：
+JP 「目標や野望はウチの社長に任せてますんで。
+JP 　ただ何でも・・・何でも、どこでも
+JP 　やって行きますよ！
+EN #MS:
+EN "I leave goals and ambitions to our
+EN  president. But anything... anything,
+EN  anywhere, I'll do it!"
+
+@ 007
+JP 記者：
+JP 「ありがとうございました！
+EN Reporter:
+EN "Thank you very much!"

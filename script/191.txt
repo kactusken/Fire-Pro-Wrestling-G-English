@@ -1,0 +1,59 @@
+@ 000
+JP 記者：
+JP 「３軍抗争も随分激化して来ました。
+JP 　特にチームノーリストリクトからは
+JP 　重点的に狙われていますね？
+EN Reporter:
+EN "The three-way war is heating up.
+EN  Team No Respect is really zeroing in
+EN  on you."
+
+@ 001
+JP ・逆に潰してやる！
+JP ・相手にする価値は無い。
+EN ・"I'll crush them instead!"
+EN ・"Not worth my time."
+
+@ 002
+JP #MS：
+JP 「何か付け狙って来てるんでね、
+JP 　逆に潰してやりますよ。
+JP 　返り討ちにしてやります！
+EN #MS:
+EN "They keep coming after me, so I'll
+EN  crush them instead. Turn the tables!"
+
+@ 003
+JP #MS：
+JP 「とにかくあんなおふざけ軍団は相手にする価値
+JP 　無いんで。出来るだけ早く切り上げて
+JP 　俺達本来の闘いをして行きたいですよ。
+EN #MS:
+EN "Clowns like that aren't worth our
+EN  time. I want to wrap it up fast and
+EN  fight our real fight."
+
+@ 004
+JP 記者：
+JP 「最近の活躍ぶりから、次第に標的が
+JP 　#WS076選手から#MS選手に
+JP 　なって来てると思うんですが？
+EN Reporter:
+EN "With your recent run, their target
+EN  seems to be shifting from Onita to
+EN  you."
+
+@ 005
+JP #MS：
+JP 「まあいいんじゃないですか？
+JP 　#WS076さんにゴチャゴチャ言う前に
+JP 　俺を倒してみろって。
+EN #MS:
+EN "Fine by me. Before they gripe at
+EN  Onita, let them try beating me."
+
+@ 006
+JP プロレスをなめ腐ったあいつらを
+JP 俺が成敗してやる！
+EN Those punks make a mockery of
+EN wrestling. I'll make them pay!

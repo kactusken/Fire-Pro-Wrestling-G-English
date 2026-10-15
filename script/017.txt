@@ -1,0 +1,51 @@
+@ 000
+JP 記者：
+JP 「#MSさん！
+EN Reporter:
+EN "#MS!"
+
+@ 001
+JP 「まずは１回戦突破、おめでとうございます！
+EN "Congratulations on getting through
+EN  the first round!"
+
+@ 002
+JP #MS：
+JP 「あんなのが相手なら当然だろうが！
+JP 　俺が狙ってんのは優勝だ、優勝！
+EN #MS:
+EN "Against a guy like that, duh! I'm
+EN  going for the win, the win!"
+
+@ 003
+JP #MS：
+JP 「まず１つ！
+EN #MS:
+EN "That's one!"
+
+@ 004
+JP #WS030：
+JP 「次は#WS004さんだな。
+EN Hiro:
+EN "Next up is Hirata."
+
+@ 005
+JP #MS：
+JP 「ええ。
+EN #MS:
+EN "Yeah."
+
+@ 006
+JP 最近少々衰えが感じられるとは言え、
+JP #WS004さんはれっきとした
+JP トップレスラーの１人だ。
+EN He may have slipped a bit lately, but
+EN Hirata is still a genuine top wrestler.
+
+@ 007
+JP #MS：
+JP 「でも負けてられませんから。
+JP 　俺は一気に行きますよ！
+EN #MS:
+EN "But I can't lose. I'm going all the
+EN  way!"

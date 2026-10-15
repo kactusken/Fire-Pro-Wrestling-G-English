@@ -1,0 +1,180 @@
+@ 000
+JP 俺は久々の#PS04の
+JP リングの感触を味わった。
+EN I savored the feel of the #PS04
+EN ring for the first time in ages.
+
+@ 001
+JP バット：
+JP 「随分成長したな、#MS。
+EN Tanabe:
+EN "You've really grown, #MS."
+
+@ 002
+JP #MS：
+JP 「あ、若部さん。
+EN #MS:
+EN "Oh, Mr. Tanabe."
+
+@ 003
+JP バット：
+JP 「今#PS04は大変な時期だけど、
+JP 　みんなで力を合わせて頑張ろう。
+EN Tanabe:
+EN "#PS04 is in a rough spot now, but
+EN  let's all pull together."
+
+@ 004
+JP #MS：
+JP 「はい。これからまた、
+JP 　よろしくお願いします！
+EN #MS:
+EN "Yes. I look forward to working with
+EN  you again!"
+
+@ 005
+JP バット：
+JP 「こちらこそな。
+EN Tanabe:
+EN "Likewise."
+
+@ 006
+JP ？：
+JP 「おーい、#MS！
+EN ???:
+EN "Hey, #MS!"
+
+@ 007
+JP #MS：
+JP 「#WS093さん！
+EN #MS:
+EN "Delfin!"
+
+@ 008
+JP #WS093：
+JP 「お前本当にビッグになりよったなぁ。
+JP 　さっきの試合見てビックリしたわ！
+EN Delfin:
+EN "You really hit the big time,
+EN  didn'tcha. That match just now
+EN  floored me!"
+
+@ 009
+JP 「相手した#WS096の方が
+JP 　ヒィヒィ言っとったで。
+EN "Naniwa was the one huffin' and
+EN  puffin' out there."
+
+@ 010
+JP #MS：
+JP 「ありがとうございます。
+EN #MS:
+EN "Thank you."
+
+@ 011
+JP #WS093：
+JP 「#MSも知っての通り、
+JP 　今#PS04は大変なんや。
+EN Delfin:
+EN "As ya know, #MS, #PS04's in
+EN  a tough spot right now."
+
+@ 012
+JP 「経営悪化、#WS092の欠場。
+JP 　悪い事ばっかりや。
+EN "Money troubles, Sasuke out hurt.
+EN  Nothin' but bad news."
+
+@ 013
+JP 「でもな。そんな時期だからこそ、
+JP 　選手１人１人が頑張って、#PS04を
+JP 　盛り上げて行かなぁあかんのや。
+EN "But that's exactly why every one of
+EN  us has gotta step up and get
+EN  #PS04 fired up."
+
+@ 014
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes."
+
+@ 015
+JP #WS093：
+JP 「だからお前達のような、若い力に
+JP 　特に頑張って欲しい。頼むぞ。
+EN Delfin:
+EN "So we really need young blood like
+EN  you to give it your all. Count on ya."
+
+@ 016
+JP #MS：
+JP 「はい！精一杯、頑張ります！
+EN #MS:
+EN "Yes! I'll give it everything I've got!"
+
+@ 017
+JP #WS098：
+JP 「#MS。
+JP 　今#PS04が大変なのはお前も
+JP 　知っていると思う。
+EN Hoshikawa:
+EN "#MS. I'm sure you know
+EN  #PS04 is in a tough spot right
+EN  now."
+
+@ 018
+JP 「みんなで頑張って盛り立てて行かなければ
+JP 　ならないのも知っているだろう。
+EN "And you know we all need to pull
+EN  together and lift it up."
+
+@ 019
+JP 「でもな！個人として見れば話は別だ！
+EN "But! Man to man, it's a different
+EN  story!"
+
+@ 020
+JP 「お前が修行で渡り歩いている間、俺達が
+JP 　どんなに苦しい思いをして#PS04を
+JP 　支えて来たか・・・・
+EN "While you were off training, how
+EN  hard we fought to hold up
+EN  #PS04...."
+
+@ 021
+JP 「お前には分かるまい！
+EN "You'll never understand!"
+
+@ 022
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 023
+JP #WS098：
+JP 「お前に、今の俺の全てをぶつけてやる！
+JP 　西連隊との闘いで何度も何度も
+JP 　叩き潰されて育った、俺の全てをな！
+EN Hoshikawa:
+EN "I'll hit you with everything I am!
+EN  Everything I built by getting crushed
+EN  by Kaientai over and over!"
+
+@ 024
+JP #MS：
+JP 「あなた達の苦労も分かるつもりです。
+JP 　でも俺だって苦労はして来たんだ。
+JP 　自分の為、#PS04の為に・・・・
+EN #MS:
+EN "I think I understand what you went
+EN  through. But I struggled too. For me,
+EN  for #PS04...."
+
+@ 025
+JP 「だからあなたの全て、受けて立ちます！
+JP 　その上で俺の全てをぶつけて・・・勝つ！
+EN "So I'll take everything you've got!
+EN  Then hit you with all I've got... and
+EN  win!"

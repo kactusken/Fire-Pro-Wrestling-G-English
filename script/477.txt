@@ -1,0 +1,32 @@
+@ 000
+JP 今日はこの間試合をした
+JP #WS016さんとタッグを組んで
+JP #WS017・#WS018組と試合だ。
+EN Today I team with El Samurai, who I
+EN faced the other day, against
+EN Kanemoto and Otani.
+
+@ 001
+JP #WS017：
+JP 「今日も俺は俺の試合をするだけや。
+JP 　耐えられなければその場でぶっ潰す。
+EN Kanemoto:
+EN "I'm just gonna wrestle my match,
+EN  same as always. Can't take it? I'll
+EN  crush ya."
+
+@ 002
+JP #WS018：
+JP 「#MS選手、闘うのは初めてだね。
+JP 　お手並み拝見と行こうか！
+EN Otani:
+EN "#MS, this is our first fight.
+EN  Let's see what you've got!"
+
+@ 003
+JP #MS：
+JP 「#WS018選手！
+JP 　俺の魂の闘い、見せてあげますよ！
+EN #MS:
+EN "Otani! I'll show you how I fight with
+EN  all my soul!"

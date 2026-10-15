@@ -1,0 +1,93 @@
+@ 000
+JP #WS076：
+JP 「#MS・・・
+EN Onita:
+EN "#MS..."
+
+@ 001
+JP とんでもない事件が起きてしまった。
+EN Something terrible had happened.
+
+@ 002
+JP #WS076さんが#WS090選手との
+JP シングルマッチで左足を攻められ、
+JP 古傷の膝が遂にパンクしてしまったのだ。
+EN In a singles match with Tenryu, Mr.
+EN Onita's left leg was targeted, and his
+EN bad knee finally gave out.
+
+@ 003
+JP #WS076：
+JP 「ワシは・・・ワシは・・・
+JP 　このままでは・・・・終わらん・・・
+EN Onita:
+EN "I... I... won't end.... like this..."
+
+@ 004
+JP #WS076さんは
+JP 救急車で病院に運ばれて行った。
+EN Mr. Onita was rushed to the hospital
+EN by ambulance.
+
+@ 005
+JP だが#WS076さんの脚は予想以上に
+JP 悪かった。医者の話では、プロレスが出来ない
+JP どころか日常生活にも支障をきたす状態らしい。
+EN His leg was worse than expected. The
+EN doctor said he couldn't wrestle, and
+EN even daily life would be a struggle.
+
+@ 006
+JP 俺は決意した。#WS076さんを２度に渡って
+JP 引退に追い込んだ#WS090を、邪道の
+JP 後継者である俺が倒すしかない！
+EN I made up my mind. Tenryu drove Mr.
+EN Onita into retirement twice. As his
+EN outlaw heir, I have to beat him!
+
+@ 007
+JP 因縁を訴えた俺のアピールに応える形で
+JP #PS00がカードを組んでくれたのだ。
+EN Answering my call to settle the feud,
+EN #PS00 made the match.
+
+@ 008
+JP #WS090：
+JP 「#WS076の復讐か？
+JP 　俺に言わせりゃ、あんな体で
+JP 　リングに上がる方が間違ってるんだよ。
+EN Tenryu:
+EN "Revenge for Onita? If you ask me,
+EN  getting in the ring in that shape was
+EN  his mistake."
+
+@ 009
+JP #MS：
+JP 「分かってるさ。俺は別に復讐なんて
+JP 　チンケな事を考えてる訳じゃない。
+EN #MS:
+EN "I know. I'm not thinking about
+EN  anything as petty as revenge."
+
+@ 010
+JP 「俺は邪道の後継者として、
+JP 　あの人が越えられなかったものを
+JP 　越えたいだけだ！
+EN "As the outlaw heir, I just want to get
+EN  past what he couldn't!"
+
+@ 011
+JP 「そしてあんたを越えなければ、
+JP 　俺の邪道プロレスはここから先に進めない！
+JP 　だからあんたを倒すんだ！
+EN "And unless I get past you, my outlaw
+EN  wrestling can't go any further! So I'm
+EN  taking you down!"
+
+@ 012
+JP #WS090：
+JP 「なるほど。思ったより骨がありそうだな。
+JP 　お前の挑戦、受けてやるよ！
+EN Tenryu:
+EN "I see. You've got more backbone than
+EN  I thought. I accept your challenge!"

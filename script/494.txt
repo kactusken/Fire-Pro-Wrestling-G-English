@@ -1,0 +1,36 @@
+@ 000
+JP 俺の今日の相手は何と#WS093さんだ。
+EN My opponent today was none other
+EN than Delfin.
+
+@ 001
+JP #WS093：
+JP 「#MS。今までお前の成長ぶりを
+JP 　横から見ているだけやったが、
+JP 　今日は俺自身の体で感じるつもりや。
+EN Delfin:
+EN "#MS. Till now I just watched
+EN  you grow from the side. Today I'm
+EN  gonna feel it with my own body."
+
+@ 002
+JP #MS：
+JP 「それなら感じて下さい、
+JP 　今の俺の力を・・・俺の全てを！
+EN #MS:
+EN "Then feel it. My power right now...
+EN  everything I've got!"
+
+@ 003
+JP 「そして俺はあなたを越えてみせる！
+EN "And I'll get past you!"
+
+@ 004
+JP #WS093：
+JP 「そう簡単に越えさせはせん！
+JP 　これはワイの意地や！お前の力とワイの意地、
+JP 　どっちが勝つか勝負や！
+EN Delfin:
+EN "I ain't lettin' ya past that easy! This
+EN  is my pride! Your power or my pride...
+EN  let's see which wins!"

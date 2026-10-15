@@ -1,0 +1,30 @@
+@ 000
+JP 昨日#WS070さんを撃破した俺は
+JP チームメイトの#WS075と闘う事になった。
+EN After beating Ohya yesterday, I had
+EN to face my teammate Kanemura.
+
+@ 001
+JP #WS075：
+JP 「#MS・・・
+JP 　ワイは手加減せぇへんで！
+JP 　試合は試合じゃ！
+EN Kanemura:
+EN "#MS... I ain't holdin' back! A
+EN  match is a match!"
+
+@ 002
+JP #MS：
+JP 「当たりめぇだ！チーム『ノーリストリクト』の
+JP 　試合がどれだけ高レベルか、
+JP 　見せてやろうぜ！
+EN #MS:
+EN "Damn right! Let's show 'em how
+EN  high-level a Team No Respect match
+EN  can be!"
+
+@ 003
+JP #WS075：
+JP 「行くでぇ！
+EN Kanemura:
+EN "Here I come!"

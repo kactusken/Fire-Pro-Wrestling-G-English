@@ -1,0 +1,220 @@
+@ 000
+JP 俺達は試合に勝利し、
+JP #PS05世界タッグ王座についた。
+EN We won the match and became
+EN #PS05 World Tag Team
+EN Champions.
+
+@ 001
+JP #WS103：
+JP 「ナイスファイトだったよ、#MS！
+EN Sting:
+EN "Nice fight, #MS!"
+
+@ 002
+JP #MS：
+JP 「ありがとう、#WS103！
+JP 　あなたのおかげですよ。
+EN #MS:
+EN "Thanks, Sting! It's all thanks to you."
+
+@ 003
+JP リング上で観客に勝利のアピールをしていた
+JP その時だった。
+EN We were celebrating with the crowd
+EN in the ring when it happened.
+
+@ 004
+JP #MS：
+JP 「あっ！
+EN #MS:
+EN "Ah!"
+
+@ 005
+JP #WS107：
+JP 「ウガァァァァァァッ！
+EN Norton:
+EN "UGAAAAAAAAH!"
+
+@ 006
+JP #WS101：
+JP 「残念だったなぁ！
+JP 　ユー達にベルトは渡さないぜ。
+EN Hogan:
+EN "Too bad! You're not getting these
+EN  belts, brother."
+
+@ 007
+JP 「ベルトは
+JP 　この#WS101様の腰にこそ似合う。
+EN "These belts only look good around
+EN  the waist of the great Hogan."
+
+@ 008
+JP #WS101は悦に入ったように俺達の
+JP タッグベルトを腰に巻いている・・・
+EN Hogan gleefully wrapped our tag belt
+EN around his waist...
+
+@ 009
+JP 俺はと言えば後ろから頭を殴られたせいで
+JP クラクラ来ている。
+JP #WS103もダウンしたままだ。
+EN Meanwhile I was reeling from a shot
+EN to the back of the head. Sting was
+EN still down too.
+
+@ 010
+JP #MS：
+JP 「クッ・・・
+EN #MS:
+EN "Ngh..."
+
+@ 011
+JP #WS101：
+JP 「ハッハッハァ！
+EN Hogan:
+EN "HA HA HAAA!"
+
+@ 012
+JP ブラックＦＷＯ軍は
+JP ベルトを奪って去って行った・・・・
+EN The nWo Hollywood army took the
+EN belts and left....
+
+@ 013
+JP #WS029：
+JP 「だから言ったろ、のしてやるって！オェッ！
+JP 　てめぇなんか坂上にも勝てねぇぞ、オラ！
+EN Tenzan:
+EN "Told you I'd flatten you! Oeh! You
+EN  couldn't even beat Sakagami, ora!"
+
+@ 014
+JP #MS：
+JP 「クッ・・・・
+EN #MS:
+EN "Ngh...."
+
+@ 015
+JP #WS107：
+JP 「ウガァァァァァァッ！
+EN Norton:
+EN "UGAAAAAAAAH!"
+
+@ 016
+JP #WS101：
+JP 「ユー達にベルトは渡さない。
+JP 　このベルトはブラックＦＷＯのものだ。
+EN Hogan:
+EN "You're not getting these belts. They
+EN  belong to nWo Hollywood."
+
+@ 017
+JP 何と#WS027さんと#WS029は
+JP ベルトを#WS101に渡している！
+EN Chono and Tenzan were handing the
+EN belts to Hogan!
+
+@ 018
+JP #WS101は悦に入ったように
+JP タッグベルトを腰に巻いている・・・
+EN Hogan gleefully wrapped the tag belt
+EN around his waist...
+
+@ 019
+JP 俺はと言えば後ろから頭を殴られたせいで
+JP クラクラ来ている。
+JP #WS103もダウンしたままだ。
+EN Meanwhile I was reeling from a shot
+EN to the back of the head. Sting was
+EN still down too.
+
+@ 020
+JP #WS101：
+JP 「ハッハッハァ！
+EN Hogan:
+EN "HA HA HAAA!"
+
+@ 021
+JP レッドＦＷＯ軍の仲間が俺達を
+JP 救出に来るのを見てブラックＦＷＯ軍は
+JP 去って行った・・・・
+EN Seeing our Wolfpac buddies coming to
+EN rescue us, nWo Hollywood left....
+
+@ 022
+JP この間のタッグベルトの一件がレッドＦＷＯと
+JP ブラックＦＷＯの抗争に拍車をかけた。
+EN The tag belt incident poured fuel on
+EN the Wolfpac-Hollywood war.
+
+@ 023
+JP そして俺は軍団抗争もさる事ながら、
+JP 個人として借りを返しておきたい男がいた。
+EN And on top of the faction war, there
+EN was one man I personally wanted to
+EN pay back.
+
+@ 024
+JP 俺はリング上でマイクを握っていた。
+EN I had the mic in the ring.
+
+@ 025
+JP #MS：
+JP 『みんな聞いてくれ！俺にはどうしても
+JP 　ぶん殴っておきたい奴がいる！
+EN #MS:
+EN "Listen up, everybody! There's a guy
+EN  I've just GOT to beat down!"
+
+@ 026
+JP 俺はまず観客にアピールする。
+EN First I fired up the crowd.
+
+@ 027
+JP 『力ばっかりでオツムの足りない野郎だ！
+JP 　#WS107！お前の事だ！
+EN "A guy who's all muscle and no
+EN  brains! Norton! I'm talking about
+EN  you!"
+
+@ 028
+JP 大観衆の前でこれだけバカにされれば
+JP 出て来て俺と試合をせざるを得ないだろう。
+JP 案の定#WS107が出て来た。
+EN Mocked like that in front of a huge
+EN crowd, he'd have to come out and
+EN fight. Sure enough, Norton came out.
+
+@ 029
+JP #WS107：
+JP 「ヘイ、#MS！
+JP 　誰がオツムが足りない野郎だと！？
+EN Norton:
+EN "Hey, #MS! Who's all muscle and
+EN  no brains!?"
+
+@ 030
+JP #MS：
+JP 『この間はよくも俺の頭を
+JP 　イスで殴ってくれたな！
+JP 　今日ここで借りを返してやる！
+EN #MS:
+EN "You hit me in the head with a chair
+EN  the other day! Today, right here, I'm
+EN  paying you back!"
+
+@ 031
+JP #WS107：
+JP 「いいだろう、お前に出来るならやってみろ！
+EN Norton:
+EN "Fine, try it if you can!"
+
+@ 032
+JP 今の俺がどこまで通じるかは分からない。
+JP でもこういう本当に強い奴とは試合をして
+JP 自分を鍛えておきたい・・・・
+EN I don't know how far I can get now.
+EN But I want to toughen up against guys
+EN who are this strong....

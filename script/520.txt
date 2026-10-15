@@ -1,0 +1,173 @@
+@ 000
+JP #WL026：
+JP 「良いだろう。面倒見てやる。
+JP 　だが果たしていつまで耐えられるか・・・
+EN Yamamoto:
+EN "Fine. I'll take you on. But how long
+EN  you'll last..."
+
+@ 001
+JP 「『根性を見てくれ』等とぬかす輩は
+JP 　いくらでもいる。だが・・・
+EN "Plenty of punks come in here saying
+EN  'just let me show you my guts.' But..."
+
+@ 002
+JP 「本当の根性を持っている奴は
+JP 　ほんの一握りしかいない。
+EN "Only a handful of them have real
+EN  guts."
+
+@ 003
+JP 「見せてみろ、お前の根性を！
+EN "So show me. Show me your guts!"
+
+@ 004
+JP 坂上：
+JP 「なあ。
+EN Sakagami:
+EN "Hey."
+
+@ 005
+JP 「良く考えたら、お前とも
+JP 　ここで一旦お別れだな。
+EN "Come to think of it, this is goodbye
+EN  for us too, for now."
+
+@ 006
+JP 「いつか・・・・
+EN "Someday..."
+
+@ 007
+JP 「いつか俺達２人がビッグになって、
+JP 　どこかの大会場のメインイベントで
+JP 　ぶつかりあえたら・・・・
+JP 　最高だよな。
+EN "Someday, if we both make it big and
+EN  clash in a main event at some huge
+EN  arena.... That'd be the best."
+
+@ 008
+JP 「へっ、それまでにちゃんと
+JP 　ビッグになっとけよ！
+EN "Heh, make sure you've made it big by
+EN  then!"
+
+@ 009
+JP 「へへへ・・・じゃあな。
+EN "Heh heh... See ya."
+
+@ 010
+JP #WS027：
+JP 「バカヤロー！
+JP 　そんなんじゃのし上がれねーんだよ！
+EN Chono:
+EN "You idiot! You'll never climb the
+EN  ladder like that!"
+
+@ 011
+JP 「いきなり#WS001に
+JP 　突っかかって行く位の勢いが大事なんだよ！
+JP 　分かったか、エー！
+EN "What counts is the guts to go right at
+EN  Hashimoto! Got it, huh!?"
+
+@ 012
+JP 「上の奴を潰すぐらいの気持ちじゃなきゃ
+JP 　意味無いだろうが、エー！
+EN "If you ain't out to crush the guys on
+EN  top, what's the point, huh!?"
+
+@ 013
+JP #WS040：
+JP 「まあ、単刀直入に言うと、俺とタッグ組んで
+JP 　ワールドタッグの挑戦者チーム決定戦に
+JP 　出ないかって事なんだよ。
+EN Misawa:
+EN "Well, to put it bluntly, want to team
+EN  with me in the match to decide the
+EN  World Tag challengers?"
+
+@ 014
+JP 「当然、流れとして今後もチームとして
+JP 　やって行こうって事だけどさ。
+EN "Naturally, the idea is we'd keep going
+EN  as a team after that."
+
+@ 015
+JP 「どう？
+EN "What do you say?"
+
+@ 016
+JP #WS068：
+JP 「もしかしたら俺達が不甲斐無い部分が
+JP 　あったのかもしれない。でも・・・
+EN Hayabusa:
+EN "Maybe we weren't good enough in
+EN  some ways. But..."
+
+@ 017
+JP 「今更あの人が復帰したらまた昔に逆戻りだ。
+JP 　今まで育てて来た新しい#PS02が
+JP 　昔に戻ってしまう。
+EN "If he comes back now, it's back to the
+EN  old days. The new #PS02 we built
+EN  will slide back into the past."
+
+@ 018
+JP 「俺達の『今』を守る為に今まで以上に
+JP 　結束して闘って行こう！
+EN "To protect our 'now,' let's stand
+EN  together and fight harder than ever!"
+
+@ 019
+JP #WS092：
+JP 「確かにそれはあるけどな。ただお前には
+JP 　色んな経験を積んで来て欲しい。それが
+JP 　後々お前の財産になるはずだ。
+EN Sasuke:
+EN "You've got a point. But I want you to
+EN  get all kinds of experience. It'll be
+EN  your treasure down the road."
+
+@ 020
+JP 「そしてそれは#PS04にとっての
+JP 　利益にもなる。
+JP 　これは先行投資なんだよ。
+EN "And it'll pay off for #PS04 too.
+EN  Think of it as an investment."
+
+@ 021
+JP 「安心しろ。お前が帰って来るまで、
+JP 　正規軍も、#PS04も、
+JP 　俺達が守ってみせる。
+EN "Relax. Till you get back, we'll
+EN  protect the regulars and #PS04."
+
+@ 022
+JP 「安心して行って来い！
+EN "Go on, and don't worry!"
+
+@ 023
+JP #WS113：
+JP 「あの時の若者とこうして合い見える日が
+JP 　来るとは・・・・
+EN Ultimo:
+EN "To think the day would come when
+EN  I'd face that young kid like this...."
+
+@ 024
+JP 「だけど今俺の前にいるのはトーナメントを
+JP 　争うライバルだ。全ての感傷を捨てて、
+JP 　全力で闘い、倒すのみ！
+EN "But now, before me stands a rival in
+EN  this tournament. I'll cast aside all
+EN  sentiment and beat you!"
+
+@ 025
+JP 「そして俺がジュニア世界一になる！
+EN "And I'll be the world's No. 1 junior!"
+
+@ 026
+JP 「来い！
+EN "Come on!"

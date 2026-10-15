@@ -1,0 +1,81 @@
+@ 000
+JP 記者：
+JP 「『すばる杯』優勝、おめでとうございます！
+EN Reporter:
+EN "Congratulations on winning the
+EN  Asunaro Cup!"
+
+@ 001
+JP #MS：
+JP 「ハァ、ハァ、やっとね、形を出せたって
+JP 　感じですね。
+EN #MS:
+EN "Hah, hah... I finally have something
+EN  to show for it."
+
+@ 002
+JP 記者：
+JP 「これからは四天王、#WS044選手も
+JP 　意識しての試合になって行くと思いますが？
+EN Reporter:
+EN "From now on, you'll have the Four
+EN  Pillars and Akiyama in your sights?"
+
+@ 003
+JP #MS：
+JP ・「そうですね。
+JP ・「いや、まだまだこれからですよ！
+JP ・「いつでもマイペースですよ。
+EN #MS:
+EN ・"That's right."
+EN ・"No, I'm only getting started!"
+EN ・"I go at my own pace."
+
+@ 004
+JP 「どんどん上とやっていきたいです。
+JP 　いつまでも四天王じゃない、って
+JP 　皆さんに思われるようにしないと。
+EN "I want to keep taking on the top
+EN  guys. I have to make people see it
+EN  won't always be the Four Pillars."
+
+@ 005
+JP 「行く行くはやっぱり
+JP 　ワールド三冠挑戦を狙いますよ！
+EN "Down the line, I'm going after the
+EN  Triple Crown!"
+
+@ 006
+JP 「これでやっとスタートラインですよ。
+JP 　ここからが俺にとっての
+JP 　本当の勝負じゃないですか？
+EN "This just gets me to the starting line.
+EN  My real fight starts here, doesn't it?"
+
+@ 007
+JP 「これからも突っ走りますよ！
+EN "I'll keep charging ahead!"
+
+@ 008
+JP 「１歩１歩着実にここまで来たんでね。
+JP 　これからも１歩１歩、結果出して、
+JP 　実績積みますよ。
+EN "I got here one step at a time. I'll keep
+EN  at it, step by step, getting results and
+EN  a track record."
+
+@ 009
+JP 「そうして行けばベルトに行き着くでしょう。
+EN "Do that, and the belt will come."
+
+@ 010
+JP 記者：
+JP 「ではファンの皆さんに一言。
+EN Reporter:
+EN "Any words for the fans?"
+
+@ 011
+JP #MS：
+JP 「これからも応援よろしくお願いします！
+EN #MS:
+EN "Please keep supporting me!"

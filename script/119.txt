@@ -1,0 +1,115 @@
+@ 000
+JP 記者：
+JP 「明日はいよいよ#WS042戦です。
+EN Reporter:
+EN "Tomorrow, at last, you face Kawada."
+
+@ 001
+JP そう、五番勝負最後の相手は、
+JP #WS042さんに決まったのだ。
+EN That's right. The last opponent in my
+EN series turned out to be Kawada.
+
+@ 002
+JP 記者：
+JP 「四天王とのシングル初対決となる訳ですが？
+EN Reporter:
+EN "It's your first singles match against
+EN  one of the Four Pillars."
+
+@ 003
+JP ・今回はとにかく結果が全てだ。
+JP ・勝ち負けよりも大事なものがある。
+EN ・This time, results are everything.
+EN ・Some things matter more than wins.
+
+@ 004
+JP #MS：
+JP 「今回はね、負けちゃいけない闘いだと
+JP 　思ってます。ここで負けたらまた元通り。
+EN #MS:
+EN "This time, I think it's a fight I can't
+EN  lose. If I lose, it's back to square one."
+
+@ 005
+JP 「やっぱり#MSじゃ
+JP 　四天王にはかなわないんだ、で
+JP 　終わりですから。
+EN "People will just say, 'See, #MS
+EN  can't hang with the Four Pillars,' and
+EN  that's it."
+
+@ 006
+JP 「このチャンス、
+JP 　必ず活かすつもりで行きますよ！
+EN "I'm going in to make the most of this
+EN  chance!"
+
+@ 007
+JP #MS：
+JP 「もちろん勝ち負けもありますけどね。
+JP 　四天王相手に、いかに内容の伴った闘いが
+JP 　出来るのかが重要だと思ってます。
+EN #MS:
+EN "Winning matters, of course. But
+EN  against a Four Pillar, what counts is
+EN  how good a fight I can put up."
+
+@ 008
+JP 「勝った時に、今回１回のまぐれ勝ちじゃ
+JP 　意味が無いんですよ。
+EN "If I win, a one-time fluke win means
+EN  nothing."
+
+@ 009
+JP 「そしてお客さんがうなるような、熱い闘いを
+JP 　したいですね！
+EN "And I want a hot fight that makes
+EN  the crowd roar!"
+
+@ 010
+JP 記者：
+JP 「では明日、好試合期待しています。
+JP 　頑張って下さい！
+EN Reporter:
+EN "We're expecting a great match
+EN  tomorrow. Good luck!"
+
+@ 011
+JP #MS：
+JP 「ありがとうございました！
+EN #MS:
+EN "Thank you!"
+
+@ 012
+JP 遂に五番勝負最終戦、
+JP #WS042さんとの
+JP シングルマッチの時が来た。
+EN At last it was time for the series
+EN finale: my singles match with
+EN Kawada.
+
+@ 013
+JP #WS042：
+JP 「・・・・・・・・・・・
+EN Kawada:
+EN "..........."
+
+@ 014
+JP 凄い集中力だ。向かい合っていても
+JP ヒシヒシと気迫が伝わって来る。
+EN Incredible focus. Just facing him, I
+EN could feel his intensity bearing down
+EN on me.
+
+@ 015
+JP だが俺も負けている訳にはいかない。
+JP グッ、と#WS042さんを睨み付ける。
+EN But I can't let him outdo me. I glared
+EN hard at Kawada.
+
+@ 016
+JP #MS：
+JP 「行くぞ！
+EN #MS:
+EN "Let's go!"

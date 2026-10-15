@@ -1,0 +1,243 @@
+@ 000
+JP #WS076：
+JP 「良くここまで成長したな。
+JP 　#WS068達と一緒に、後を頼むぞ！
+EN Onita:
+EN "Look how far you've come. You and
+EN  Hayabusa, I'm leaving it to you!"
+
+@ 001
+JP #MS：
+JP 「・・・・・・お断りします！
+EN #MS:
+EN "......I refuse!"
+
+@ 002
+JP #WS076：
+JP 「何！？
+EN Onita:
+EN "What!?"
+
+@ 003
+JP 「どういう事だ？
+EN "What do you mean?"
+
+@ 004
+JP #MS：
+JP 「俺は言ったはずです、
+JP 　#WS076さんについて行くって！
+JP 　その気持ちは今も変わりません！
+EN #MS:
+EN "I told you, I'm following you, Mr.
+EN  Onita! That hasn't changed!"
+
+@ 005
+JP #WS076：
+JP 「何を言ってるんじゃ！
+JP 　お前がついて来てどうする！
+EN Onita:
+EN "What're you talking about! What
+EN  good is you following me!"
+
+@ 006
+JP 「ワシは・・・ワシはなぁ！
+JP 　死に場所を求めて出て行くんじゃ！
+JP 　若いお前を道連れにする訳には行かん！
+EN "I... I'm leaving to find a place to die! I
+EN  can't drag a young guy like you down
+EN  with me!"
+
+@ 007
+JP #MS：
+JP 「だったら！だったら俺が
+JP 　#WS076さんの骨、拾います！
+JP 　その後の事なんてどうとでもしますよ！
+EN #MS:
+EN "Then! Then I'll be the one to bury
+EN  you! Whatever comes after, I'll handle
+EN  it!"
+
+@ 008
+JP #WS076：
+JP 「本気か！お前は本気なのか！？
+JP 　それでいいのか！？
+EN Onita:
+EN "You serious!? Are you serious!?
+EN  You're fine with this!?"
+
+@ 009
+JP #MS：
+JP 「構いません！俺は生半可な気持ちで
+JP 　言ってるんじゃない！覚悟は決めてます！
+EN #MS:
+EN "I am! I'm not saying this lightly! My
+EN  mind's made up!"
+
+@ 010
+JP #WS076：
+JP 「オイ#MS！#MS！お前は、
+JP 　お前はバカじゃ！本物のバカじゃ！
+EN Onita:
+EN "Hey, #MS! #MS! You're...
+EN  you're an idiot! A real idiot!"
+
+@ 011
+JP 「いいのか！？本当にいいのか！？
+JP 　こんなワシに、未来を委ねていいのか！？
+EN "You sure!? You really sure!? You'd
+EN  trust your future to a guy like me!?"
+
+@ 012
+JP #MS：
+JP 「もう決めたんです！
+JP 　バカは生まれつき、治りませんよ！
+EN #MS:
+EN "I've decided! And I was born an idiot.
+EN  There's no cure!"
+
+@ 013
+JP #WS076：
+JP 「そうか・・・そうか・・・
+JP 　こんな俺に、本気でついてくるのか・・・
+EN Onita:
+EN "I see... I see... You really want to
+EN  follow a guy like me..."
+
+@ 014
+JP #WS076さんの声が震えている。
+EN Mr. Onita's voice was trembling.
+
+@ 015
+JP #WS076：
+JP 「俺は・・・俺は幸せ者だよ・・・・
+JP 　お前みたいな奴がいてくれるんだから・・・
+EN Onita:
+EN "I'm... I'm a lucky man.... To have a
+EN  guy like you..."
+
+@ 016
+JP #MS：
+JP 「#WS076さん・・・・
+EN #MS:
+EN "Mr. Onita...."
+
+@ 017
+JP #WS076：
+JP 「分かった。分かったよ。ついて来い。
+JP 　道は・・・道は険しいよ。でも、でもな！
+JP 　それでも行くしかないんだよ・・・・
+EN Onita:
+EN "All right. Follow me. The road... it's a
+EN  hard one. But, but you know! We have
+EN  to go anyway...."
+
+@ 018
+JP #MS：
+JP 「行きましょう！一緒に！
+EN #MS:
+EN "Let's go! Together!"
+
+@ 019
+JP #WS076：
+JP 「よし！そうと決まればやるぞ！やるぞオイ！
+JP 　ワシと、お前の、新しい船出じゃ！
+EN Onita:
+EN "All right! Then let's do it! Let's do it!
+EN  A new voyage, for me and you!"
+
+@ 020
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes!"
+
+@ 021
+JP #WS076：
+JP 「俺が#WS076じゃ！
+EN Onita:
+EN "I'm Atsushi Onita!"
+
+@ 022
+JP 「#WS013！#WS013！#WS013！
+JP 　出て来い！
+EN "Choshu! Choshu! Choshu! Get out
+EN  here!"
+
+@ 023
+JP そう、#WS076さんと俺は今、
+JP #PS00のリングに立っている。
+JP 無論許可など得ていない。
+EN That's right, Mr. Onita and I are
+EN standing in the #PS00 ring right
+EN now. Without permission, of course.
+
+@ 024
+JP 他団体の、しかもインディーの選手が
+JP リングに上がった事で、
+JP #PS00の選手がみんな集まって来た。
+EN An indie guy from another company
+EN in their ring brought every #PS00
+EN wrestler running.
+
+@ 025
+JP そして#WS076さんの目的は先日
+JP 引退したばかりの
+JP #WF013だった。
+EN And Mr. Onita's target was the
+EN recently retired Riki Choshu.
+
+@ 026
+JP そして引退したはずの
+JP #WS013が遂にリングに上がった。
+JP 狙いは成功したと言っていいだろう。
+EN And at last, the supposedly retired
+EN Choshu stepped into the ring. The
+EN plan had worked.
+
+@ 027
+JP #WS076：
+JP 「メジャーのあんたらが、
+JP 　ワシのような邪道者を、
+JP 　リングに上げられるのか？
+EN Onita:
+EN "You major-league guys, can you let
+EN  an outlaw like me into your ring?"
+
+@ 028
+JP 「メジャーの器量を、
+JP 　メジャーの器量を
+JP 　見せてみろ！
+EN "Show me what a major's made of!
+EN  Show me what you're made of!"
+
+@ 029
+JP その後リング上で袋叩きにされながらも
+JP 対戦要求をし続け、遂には試合が
+JP 組まれる事になった。
+EN He got beaten down in the ring but
+EN kept demanding the match, and in the
+EN end it was made.
+
+@ 030
+JP 俺の試合はこの、
+JP #WS006選手とのシングルマッチだ。
+EN My match here was a singles bout
+EN with Iizuka.
+
+@ 031
+JP #WS006：
+JP 「#PS00のリングを土足で踏みにじった
+JP 　お前達は許してはおけない！
+EN Iizuka:
+EN "We can't let you get away with
+EN  trampling all over the #PS00
+EN  ring!"
+
+@ 032
+JP #MS：
+JP 「俺はここで立ち止まってはいられない！
+JP 　次の闘いの為にも・・・・・
+JP 　あなたに勝ってみせる！！
+EN #MS:
+EN "I can't stop here! For the next
+EN  battle..... I'm going to beat you!!"

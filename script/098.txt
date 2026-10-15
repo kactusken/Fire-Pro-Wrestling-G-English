@@ -1,0 +1,347 @@
+@ 000
+JP #WS065さんに注意を受けたものの、
+JP やっぱり俺は『すばる杯』の事ばかり
+JP 考えていた。
+EN Despite Fuchi's warning, the Asunaro
+EN Cup was still all I could think about.
+
+@ 001
+JP 仕方ないよな、実際・・・
+EN Can you blame me, really...
+
+@ 002
+JP #MS：
+JP 「す、すみませんっ！ちょっと考え事を・・・
+JP 　何だ、#WS044か。
+EN #MS:
+EN "S-Sorry! I was lost in thought... Oh,
+EN  it's just Akiyama."
+
+@ 003
+JP #WS044：
+JP 「『何だ』はないだろ、『何だ』は。
+EN Akiyama:
+EN "What do you mean, 'just'?"
+
+@ 004
+JP #MS：
+JP 「悪かったよ。
+EN #MS:
+EN "My bad."
+
+@ 005
+JP #WS044：
+JP 「で、何だ？考え事って。
+EN Akiyama:
+EN "So? What were you thinking about?"
+
+@ 006
+JP #MS：
+JP 「お前には関係無いだろ。
+EN #MS:
+EN "None of your business."
+
+@ 007
+JP #WS044：
+JP 「何怒ってんだ？
+EN Akiyama:
+EN "What are you mad about?"
+
+@ 008
+JP #MS：
+JP 「絶対優勝して、お前を追い越してやる！
+EN #MS:
+EN "I'm winning that Cup, and then I'm
+EN  passing you!"
+
+@ 009
+JP #WS044：
+JP 「・・・・・・なぁ。
+EN Akiyama:
+EN "......Hey."
+
+@ 010
+JP #MS：
+JP 「あ？
+EN #MS:
+EN "What?"
+
+@ 011
+JP #WS044：
+JP 「流行ってんのか、それ？
+JP 　何かさっき#WS046にも
+JP 　同じような事言われたぞ。
+EN Akiyama:
+EN "Is that a fad or something? Omori
+EN  just said pretty much the same thing
+EN  to me."
+
+@ 012
+JP #MS：
+JP 「・・・・・・・・・
+EN #MS:
+EN "........."
+
+@ 013
+JP 俺はガクッと来て、#WS044に話をした。
+EN Deflated, I told Akiyama the story.
+
+@ 014
+JP #WS044：
+JP 「なるほど、それでか。しかし何も２人して
+JP 　同じアクション起こさなくてもなぁ。
+EN Akiyama:
+EN "I see, so that's it. But you two didn't
+EN  have to pull the exact same move."
+
+@ 015
+JP #MS：
+JP 「いいだろ、別に。
+EN #MS:
+EN "So what? Who cares."
+
+@ 016
+JP #WS044：
+JP 「ま、望むところだよ。俺だけじゃない、
+JP 　みんなが上に向かって行って、四天王時代を
+JP 　終わりにさせないといけないからな。
+EN Akiyama:
+EN "Well, bring it on. Not just me, all of
+EN  us have to climb up and end the Four
+EN  Pillars era."
+
+@ 017
+JP #MS：
+JP 「・・・・まぁな。
+EN #MS:
+EN "....Yeah, I guess."
+
+@ 018
+JP #WS044：
+JP 「お前と#WS046の試合、
+JP 　楽しみにしてるよ。
+EN Akiyama:
+EN "I'm looking forward to your match
+EN  with Omori."
+
+@ 019
+JP #MS：
+JP 「ちぇっ、余裕だな・・・・
+EN #MS:
+EN "Tch, so cool about it..."
+
+@ 020
+JP しかし#WS046か。
+EN But Omori, huh.
+
+@ 021
+JP どうもあいつも俺と同じように
+JP 気合が入りまくりのようだ。
+JP 要注意だな。
+EN Sounds like he's just as fired up as I
+EN am. I'll have to watch out.
+
+@ 022
+JP #WS060：
+JP 「いよいよ開幕、だな。
+EN Tsuruta:
+EN "So it finally starts, eh?"
+
+@ 023
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes, sir."
+
+@ 024
+JP #WS060：
+JP 「頑張れよ！
+EN Tsuruta:
+EN "Give it your all!"
+
+@ 025
+JP #MS：
+JP 「いってぇーっ！！
+EN #MS:
+EN "OWWWW!!"
+
+@ 026
+JP 俺は背中を押さえて床をのたうちまわった。
+EN I rolled on the floor, clutching my
+EN back.
+
+@ 027
+JP 何が痛いって#WS060さんの張り手だ。
+JP 本人は激励のつもりだったんだろうが・・・
+EN The pain? Mr. Tsuruta's open-hand
+EN slap. I'm sure he meant it as
+EN encouragement, but...
+
+@ 028
+JP #MS：
+JP 「い、痛いですよ、#WS060さん・・・
+EN #MS:
+EN "Th-That hurts, Mr. Tsuruta..."
+
+@ 029
+JP #WS060：
+JP 「ハハハ、悪い、悪い。
+EN Tsuruta:
+EN "Hahaha, sorry, sorry."
+
+@ 030
+JP 笑ってる。絶対わざとやってる。
+EN He's laughing. He did that on purpose.
+
+@ 031
+JP この笑ったまま繰り出す背中ビンタで、芸人の
+JP 「ゆっちゃんまんちゃん」のまんちゃんを
+JP 本気で泣かせた事もある。
+EN That smiling back slap once made
+EN Nanchan, of the comedy duo Ucchan
+EN Nanchan, cry for real.
+
+@ 032
+JP #MS：
+JP 「ひ、ひどい・・・
+EN #MS:
+EN "Th-That's cruel..."
+
+@ 033
+JP #WS060：
+JP 「ハッハッハ・・・・
+EN Tsuruta:
+EN "Hahaha...."
+
+@ 034
+JP #WS060さんは笑いながら行ってしまった。
+JP 全く・・・
+EN Mr. Tsuruta walked off laughing.
+EN Honestly...
+
+@ 035
+JP そして残ったのは背中のもみじマーク。
+JP これじゃお客さんに笑われちゃうよ・・・・
+EN All he left was a red handprint on my
+EN back. The fans will laugh at me...
+
+@ 036
+JP #WS065：
+JP 「おい、出番だぞ。
+EN Fuchi:
+EN "Hey, you're up."
+
+@ 037
+JP #MS：
+JP 「は、はい・・・
+EN #MS:
+EN "Y-Yes, sir..."
+
+@ 038
+JP #WS065：
+JP 「どうした、背中押さえて。
+EN Fuchi:
+EN "What's wrong? Why are you holding
+EN  your back?"
+
+@ 039
+JP #MS：
+JP 「いえ、その・・・
+EN #MS:
+EN "Well, um..."
+
+@ 040
+JP #WS065：
+JP 「なるほど、#WS060さんか。
+EN Fuchi:
+EN "I see. Tsuruta, huh."
+
+@ 041
+JP #MS：
+JP 「はい。でも何で分かったんです？
+EN #MS:
+EN "Yes. But how did you know?"
+
+@ 042
+JP #WS065：
+JP 「よし、ファイティングポーズを取れ。
+EN Fuchi:
+EN "All right, take a fighting stance."
+
+@ 043
+JP #MS：
+JP 「え？
+EN #MS:
+EN "Huh?"
+
+@ 044
+JP #WS065：
+JP 「いいからやれ。
+EN Fuchi:
+EN "Just do it."
+
+@ 045
+JP 俺は軽く構える。
+EN I put my guard up lightly.
+
+@ 046
+JP #WS065：
+JP 「やっぱりそうだな。
+EN Fuchi:
+EN "Just as I thought."
+
+@ 047
+JP #MS：
+JP 「何なんです？
+EN #MS:
+EN "What is it?"
+
+@ 048
+JP #WS065：
+JP 「気合入れるのはいいが
+JP 　体に力が入り過ぎてはいかん、と言う事さ。
+EN Fuchi:
+EN "Getting fired up is fine, but your
+EN  body can't be too tense. That's all."
+
+@ 049
+JP #MS：
+JP 「あ・・・・
+EN #MS:
+EN "Oh...."
+
+@ 050
+JP 言われてみると確かにちょっと
+JP 力が入り過ぎだったかもしれない。
+EN Now that he mentioned it, I may have
+EN been a little too tense.
+
+@ 051
+JP 今は精神は緊張してるけど
+JP 体はリラックスしている。
+JP ある意味理想の状態だ。
+EN Now my mind is keyed up, but my
+EN body is relaxed. In a way, it's the ideal
+EN state.
+
+@ 052
+JP #WS060さんはその為に・・・・
+EN So that's why Mr. Tsuruta....
+
+@ 053
+JP #WS065：
+JP 「行って来い。
+EN Fuchi:
+EN "Get out there."
+
+@ 054
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 055
+JP 俺は最初の相手、#WS048の待つ
+JP リングへと向かった。
+EN I headed for the ring, where my first
+EN opponent, Izumida, was waiting.

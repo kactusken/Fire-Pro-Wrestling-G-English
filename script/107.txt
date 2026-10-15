@@ -1,0 +1,6 @@
+@ 000
+JP 激闘覚めやらぬ中、俺にはまた新しい闘いが
+JP 待っていたのだった。
+EN The heat of that war hadn't even
+EN cooled, and another new fight was
+EN waiting for me.

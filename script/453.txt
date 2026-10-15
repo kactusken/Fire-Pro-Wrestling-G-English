@@ -1,0 +1,142 @@
+@ 000
+JP 俺は#WF118に
+JP 勝ったのだ。
+EN I beat The Undertaker.
+
+@ 001
+JP もう何も手出しはさせない・・・・
+EN Now they'd never lay a hand on me
+EN again...
+
+@ 002
+JP 筈だったのだが。
+EN ...or so I thought.
+
+@ 003
+JP 結局俺は魔界同盟にボコボコにされてしまった。
+JP そして俺は彼らにさらわれた形となった。
+EN In the end, the Ministry beat me to a
+EN pulp and more or less abducted me.
+
+@ 004
+JP 俺は#WF118に
+JP 負けてしまった。
+EN I lost to The Undertaker.
+
+@ 005
+JP 仕方無く約束通り仲間になろうとすると・・・
+EN I had no choice but to join them as
+EN promised. And then...
+
+@ 006
+JP 結局俺は魔界同盟にボコボコにされてしまった。
+JP そして俺は彼らにさらわれた形となった。
+EN In the end, the Ministry beat me to a
+EN pulp and more or less abducted me.
+
+@ 007
+JP 仲間になるんだから、殴らなくても
+JP いいじゃないかと嘆きつつ・・・・
+EN I'm joining you, so why the beating? I
+EN kept grumbling...
+
+@ 008
+JP その後は大変だった。
+EN Things got crazy after that.
+
+@ 009
+JP ディンク：
+JP 「いいか？ユーは魔界同盟に洗脳され、
+JP 　彼らの仲間になってしまうのだ。
+EN McMahon:
+EN "Listen. The Ministry brainwashes
+EN  you, and you become one of them."
+
+@ 010
+JP #MS：
+JP 「洗脳って・・・・・
+EN #MS:
+EN "Brainwashes..."
+
+@ 011
+JP 彼らのやっている洗脳とは、何か悪魔系の
+JP 儀式のようなものを行ってするものだった
+JP ような気が・・・・
+EN If I remembered right, their
+EN brainwashing involved some kind of
+EN satanic ritual...
+
+@ 012
+JP そんな俺の心を見透かしたかのように
+JP ディンクが言った。
+EN As if he'd read my mind, McMahon
+EN spoke up.
+
+@ 013
+JP ディンク：
+JP 「だからこれから儀式の撮影を行うからな。
+JP 　撮影スタジオに行くぞ。
+EN McMahon:
+EN "So now we film the ritual. Off to the
+EN  studio."
+
+@ 014
+JP #MS：
+JP 「やっぱり・・・・・
+EN #MS:
+EN "I knew it..."
+
+@ 015
+JP 俺は儀式とやらに
+JP 参加しなければならなくなった。
+EN Now I'd have to take part in this
+EN so-called ritual.
+
+@ 016
+JP ディンク：
+JP 「悪い事ばかりではないぞ。洗脳されたユーは
+JP 　#WF118の命令で
+JP 　#WS117と闘うのだからな。
+EN McMahon:
+EN "It's not all bad. Brainwashed, you'll
+EN  fight Austin on The Undertaker's
+EN  orders."
+
+@ 017
+JP #MS：
+JP 「えっ！？シングルですか？
+EN #MS:
+EN "Huh!? One on one?"
+
+@ 018
+JP ディンク：
+JP 「そうだ。ユーにとっても損は無いだろう？
+EN McMahon:
+EN "Yes. Not a bad deal for you, is it?"
+
+@ 019
+JP #MS：
+JP 「うーん・・・そう、なのかな？
+EN #MS:
+EN "Hmm... I guess not...?"
+
+@ 020
+JP #MS：
+JP 『#WS117・・・お前を・・・・
+JP 　#WF118様に・・・
+JP 　生け贄としてお渡しする・・・・
+EN #MS:
+EN "Austin... I shall offer you... to Lord
+EN  Undertaker... as a sacrifice..."
+
+@ 021
+JP #WS117：
+JP 『残念だがお前の言う通りにはならない。
+JP 　何故なら・・・・
+EN Austin:
+EN "Sorry, but that ain't happenin'. And
+EN  why not?"
+
+@ 022
+JP 『この俺がそう決めたのだからな！
+EN "'Cause I said so!"

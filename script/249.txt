@@ -1,0 +1,98 @@
+@ 000
+JP 旧ＵＷＨ崩壊後、
+JP 格闘技思考の強いレスラー達が
+JP その夢をもう一度叶える為
+EN After the original UWF collapsed,
+EN wrestlers devoted to real fighting set
+EN out to chase that dream again.
+
+@ 001
+JP １９８８年５月
+JP #WS149、#WS150、#WS165
+JP が中心になり
+EN In May 1988, led by Maeda, Fujiwara
+EN and Takada,
+
+@ 002
+JP 新生ＵＷＨを旗揚げ。
+JP 妥協を許さない格闘技団体として
+JP 多くのファンを獲得していた。
+EN they launched the Newborn UWF. A
+EN no-compromise fighting promotion, it
+EN won over a huge fanbase.
+
+@ 003
+JP #WS149：
+JP 「いよいよデビュー戦やな。
+JP 　どうや、調子は？
+EN Maeda:
+EN "Debut match at last, huh. How ya
+EN  feelin'?"
+
+@ 004
+JP #MS：
+JP 「さすがに緊張してます・・・・
+EN #MS:
+EN "I'm pretty nervous...."
+
+@ 005
+JP #WS149：
+JP 「まぁ気合入れて、やれるだけやって来いや。
+EN Maeda:
+EN "Well, get fired up and give it all ya
+EN  got."
+
+@ 006
+JP #MS：
+JP 「は、はい！
+EN #MS:
+EN "Y-Yes, sir!"
+
+@ 007
+JP #WS149：
+JP 「何や、ホンマにガチガチやなぁ。
+JP 　そんなんじゃ勝てる勝負も
+JP 　落とすハメになるで！
+EN Maeda:
+EN "Man, you're stiff as a board. Like
+EN  that, you'll blow a fight you could
+EN  win!"
+
+@ 008
+JP 「相手を潰す気持ちで行かにゃ。
+JP 　分かっとんのか？
+EN "Ya gotta go in lookin' to crush the
+EN  guy. Got it?"
+
+@ 009
+JP #MS：
+JP 「気合入れて、頑張ります！
+EN #MS:
+EN "I'll get fired up and do my best!"
+
+@ 010
+JP #WS149：
+JP 「そうや、そうでなくちゃいかん。
+JP 　思う存分暴れて来いや！
+EN Maeda:
+EN "That's it, that's how it's gotta be. Go
+EN  raise some hell!"
+
+@ 011
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 012
+JP #WS149さんの
+JP おかげで気合いが入った。
+EN Mr. Maeda got me fired up.
+
+@ 013
+JP 相手は先輩の#WS050さん。
+JP 先輩と言えどもただ負ける訳には行かない！
+JP 俺の意地を見せる！
+EN My opponent was my senior,
+EN Kakihara. Senior or not, I won't just
+EN lose! I'll show my guts!

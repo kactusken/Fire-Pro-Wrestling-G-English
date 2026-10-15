@@ -1,0 +1,298 @@
+@ 000
+JP #WS134：
+JP 「まずまずの出だしじゃないか？
+EN TAKA:
+EN "Not a bad start, huh?"
+
+@ 001
+JP #MS：
+JP 「そうですか？頑張ってはいますけど
+JP 　ファンのニーズってのが分からないですよね。
+EN #MS:
+EN "You think? I'm trying, but I can't
+EN  figure out what the fans want."
+
+@ 002
+JP #WS134：
+JP 「そうだな・・・
+EN TAKA:
+EN "Yeah..."
+
+@ 003
+JP ？：
+JP 「どうも久しぶり！
+EN ???:
+EN "Hey, long time no see!"
+
+@ 004
+JP #MS：
+JP 「え？
+EN #MS:
+EN "Huh?"
+
+@ 005
+JP 中岡記者：
+JP 「あ、#WS134選手も！
+EN Nakaoka:
+EN "Oh, TAKA too!"
+
+@ 006
+JP #WS134：
+JP 「あ、中岡さんじゃないっスか。
+JP 　ご無沙汰してます．
+EN TAKA:
+EN "Oh, Mr. Nakaoka. Been a while."
+
+@ 007
+JP #MS：
+JP 「お久しぶりです。
+EN #MS:
+EN "Long time no see."
+
+@ 008
+JP 中岡記者：
+JP 「びっくりしたよ！
+JP 　#PS06に移籍するなんて
+JP 　思わなかったなぁ。
+EN Nakaoka:
+EN "What a surprise! I never thought
+EN  you'd jump to #PS06."
+
+@ 009
+JP #WS134：
+JP 「俺が誘ったんですよ。
+JP 　行けるかな、と思って。
+EN TAKA:
+EN "I brought him in. Figured he could
+EN  make it."
+
+@ 010
+JP 中岡記者：
+JP 「で、どう？#PS06は？
+EN Nakaoka:
+EN "So, how's #PS06?"
+
+@ 011
+JP #MS：
+JP 「いやぁ、驚きの連続で。
+JP 　『お客に見せる』と言う事に凄く気を
+JP 　使ってますよね。世界一じゃないですか？
+EN #MS:
+EN "Surprise after surprise. They're
+EN  obsessed with putting on a show. Best
+EN  in the world, isn't it?"
+
+@ 012
+JP 中岡記者：
+JP 「うんうん。
+EN Nakaoka:
+EN "Uh-huh."
+
+@ 013
+JP #MS：
+JP 「月曜夜の視聴率戦争、勝ち続けてるのが
+JP 　分かりますよ、何となく。
+EN #MS:
+EN "I kind of see why they keep winning
+EN  the Monday night ratings war."
+
+@ 014
+JP 中岡記者：
+JP 「そうだね。#PS06の良さが
+JP 　分かって来たみたいだね？
+EN Nakaoka:
+EN "Right. Sounds like you're seeing
+EN  what's great about #PS06."
+
+@ 015
+JP #MS：
+JP 「そうですね。俺もここでビッグになって、
+JP 　スーパースターと呼ばれるように
+JP 　なりたいですよ。
+EN #MS:
+EN "Yeah. I want to make it big here, too.
+EN  I want to be a real superstar."
+
+@ 016
+JP 中岡記者：
+JP 「そうか・・・
+EN Nakaoka:
+EN "I see..."
+
+@ 017
+JP ？：
+JP 「ヘイ、ユーが今度来たジャパニーズだな？
+EN ???:
+EN "Hey, you're the new Japanese guy?"
+
+@ 018
+JP #MS：
+JP 「あっ！
+JP 　#WN117
+JP 　#WF117！
+EN #MS:
+EN "Ah! Stone Cold Steve Austin!"
+
+@ 019
+JP 彼は#PS06最大のスーパースターだ。
+JP オーナーであるディンク・カクラコンＪｒ．と
+JP 抗争を続けている。
+EN He's #PS06's biggest superstar,
+EN locked in a feud with owner Vince
+EN McMahon Jr.
+
+@ 020
+JP 気に入らない上役（オーナー）を容赦無く
+JP 叩きのめすので、サラリーマンにまで
+JP 人気があるのが凄い所だ。
+EN He beats up his boss without mercy,
+EN so even office workers love him.
+EN Amazing.
+
+@ 021
+JP #WS117：
+JP 「ユーの試合、見させてもらったよ。
+JP 　グッドファイトをするじゃないか。
+EN Austin:
+EN "I caught your match. You put up a
+EN  good fight."
+
+@ 022
+JP #MS：
+JP 「ありがとうございます！
+EN #MS:
+EN "Thank you!"
+
+@ 023
+JP #WS117：
+JP 「じゃあな。
+JP 　期待してるから頑張ってくれよ。
+EN Austin:
+EN "See ya. I'm expecting big things, so
+EN  work hard."
+
+@ 024
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 025
+JP 彼はニヤッと笑うと・・・・
+EN He grinned, and then...
+
+@ 026
+JP #WS117：
+JP 「シュッ、シュッ！
+EN Austin:
+EN "Hyah! Hyah!"
+
+@ 027
+JP と言って#WS063ばりの
+JP 空手ポーズを決めて去って行った。
+EN ...struck an Abdullah-style karate
+EN pose and walked off.
+
+@ 028
+JP #MS：
+JP 「何故空手ポーズ・・・・
+EN #MS:
+EN "Why the karate pose..."
+
+@ 029
+JP #WS134：
+JP 「#WN117は相手が日本人だと
+JP 　必ずあれをやるのさ。
+EN TAKA:
+EN "He always does that when the guy's
+EN  Japanese."
+
+@ 030
+JP #MS：
+JP 「そうなんですか？
+EN #MS:
+EN "Really?"
+
+@ 031
+JP #WS134：
+JP 「俺も何度も見てるよ。
+EN TAKA:
+EN "I've seen it plenty."
+
+@ 032
+JP #MS：
+JP 「日本人＝空手家と言うイメージが
+JP 　あるって事ですかね？
+EN #MS:
+EN "So they think Japanese means karate
+EN  master?"
+
+@ 033
+JP #WS134：
+JP 「そうだろ。
+EN TAKA:
+EN "Guess so."
+
+@ 034
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 035
+JP 中岡記者：
+JP 「あ、そうそう、忘れる所だった。
+JP 　#MS選手、今日は相手が
+JP 　#WF184だって？
+EN Nakaoka:
+EN "Oh, right, I almost forgot. #MS,
+EN  I hear you're facing Mike Burton
+EN  today?"
+
+@ 036
+JP #MS：
+JP 「あ、そうみたいです。
+EN #MS:
+EN "Yeah, looks like it."
+
+@ 037
+JP 中岡記者：
+JP 「グローブマッチであの#WS126を
+JP 　ＫＯした男だよ。どうする？
+EN Nakaoka:
+EN "The man who KO'd Williams in a
+EN  glove match. What'll you do?"
+
+@ 038
+JP #MS：
+JP 「逆に面白いじゃないですか！
+JP 　そんな奴と試合出来るなんて。
+EN #MS:
+EN "That just makes it more fun! I get to
+EN  fight a guy like that."
+
+@ 039
+JP 中岡記者：
+JP 「ハハハ・・・相変わらず
+JP 　大したもんだね、君と言う男は。
+EN Nakaoka:
+EN "Ha ha... Same as ever. You really are
+EN  something."
+
+@ 040
+JP #WS134：
+JP 「変な奴。
+EN TAKA:
+EN "Weirdo."
+
+@ 041
+JP 中岡記者：
+JP 「じゃあ頑張って！期待してるよ！
+EN Nakaoka:
+EN "Well, good luck! I'm rooting for you!"
+
+@ 042
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Thanks!"

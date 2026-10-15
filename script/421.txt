@@ -1,0 +1,68 @@
+@ 000
+JP #WS103：
+JP 「残念だったな。
+EN Sting:
+EN "Tough break."
+
+@ 001
+JP #MS：
+JP 「負けた以上は何も言えないですよ・・・・
+EN #MS:
+EN "I lost, so I've got nothing to say...."
+
+@ 002
+JP しかし事態は意外な展開を見せた。
+EN But then things took an unexpected
+EN turn.
+
+@ 003
+JP #WS103：
+JP 「#WF132が
+JP 　#WS101を襲うとはな。
+JP 　しばらく欠場だって？
+EN Sting:
+EN "Bam Bam Bigelow attacked Hogan,
+EN  huh. He's out for a while?"
+
+@ 004
+JP #MS：
+JP 「まあこっちはそのおかげで
+JP 　繰り上げで挑戦出来る事になりましたけどね。
+EN #MS:
+EN "Well, thanks to that, I get moved up
+EN  to the title shot."
+
+@ 005
+JP #WS103：
+JP 「ラッキーとばかりも言いきれないだろう？
+JP 　#WS132が今日のシングルで
+JP 　何を仕掛けて来るか分からないぞ？
+EN Sting:
+EN "Can't call it pure luck, though. Who
+EN  knows what Bigelow will try in your
+EN  singles match today?"
+
+@ 006
+JP #MS：
+JP 「先に叩きのめして、
+JP 　余計な手出し出来ないように
+JP 　してやりますよ！
+EN #MS:
+EN "I'll beat him down first so he can't
+EN  interfere!"
+
+@ 007
+JP #WS103：
+JP 「ハハハハ・・・頼もしいな。
+EN Sting:
+EN "Ha ha ha ha... Confident, huh."
+
+@ 008
+JP 「頑張って来いよ！
+EN "Go get 'em!"
+
+@ 009
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Right!"

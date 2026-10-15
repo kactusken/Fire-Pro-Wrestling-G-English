@@ -1,0 +1,166 @@
+@ 000
+JP 俺はいつものようにトレーニングに励んでいた。
+EN I was training hard as usual.
+
+@ 001
+JP #WS149：
+JP 「おう！やってるか？
+EN Maeda:
+EN "Hey! Hard at it?"
+
+@ 002
+JP #MS：
+JP 「#WS149さん！
+EN #MS:
+EN "Mr. Maeda!"
+
+@ 003
+JP #WS149：
+JP 「待たせたな。決まったよ。
+EN Maeda:
+EN "Sorry for the wait. It's set."
+
+@ 004
+JP #MS：
+JP 「き、決まったって・・・・
+EN #MS:
+EN "S-Set? You mean...."
+
+@ 005
+JP #WS149：
+JP 「ああ。お前の#WS169戦だよ！
+EN Maeda:
+EN "Yeah. Your fight with Gracie!"
+
+@ 006
+JP #MS：
+JP 「本当ですか！？
+EN #MS:
+EN "Really!?"
+
+@ 007
+JP #WS149：
+JP 「嘘つく訳無いだろ。これから特訓だぞ！
+EN Maeda:
+EN "Why would I lie? Special training
+EN  starts now!"
+
+@ 008
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 009
+JP そして運命の日・・・・
+EN And then the fateful day....
+
+@ 010
+JP 俺は精神統一をしていた。
+EN I was focusing my mind.
+
+@ 011
+JP いよいよあの
+JP #WF169との
+JP 闘いなのだ・・・・
+EN At last, my fight with Rickson
+EN Gracie....
+
+@ 012
+JP #WS149：
+JP 「良い感じで仕上がってそうやな。
+EN Maeda:
+EN "Looks like you're in good shape."
+
+@ 013
+JP #MS：
+JP 「#WS149さん・・・・
+EN #MS:
+EN "Mr. Maeda...."
+
+@ 014
+JP #WS149：
+JP 「実はこんなもん預かって来たんや。
+EN Maeda:
+EN "Truth is, I was asked to give ya this."
+
+@ 015
+JP #WS149さんは１枚の封筒を差し出した。
+EN Mr. Maeda held out an envelope.
+
+@ 016
+JP #MS：
+JP 「誰からです？
+EN #MS:
+EN "Who's it from?"
+
+@ 017
+JP 受け取った俺は早速開けてみる。
+EN I took it and opened it right away.
+
+@ 018
+JP #MS：
+JP 「これは！？
+EN #MS:
+EN "This is...!?"
+
+@ 019
+JP 何とそれはあの坂上からの手紙だった。
+JP そこにはただ一言、『絶対に勝て』とだけ
+JP 書かれていた。
+EN It was a letter from Sakagami, of all
+EN people. It said just one thing: "Win, no
+EN matter what."
+
+@ 020
+JP あいつ・・・・・
+EN That guy.....
+
+@ 021
+JP #WS149：
+JP 「益々負けられなくなったな。ん？
+EN Maeda:
+EN "Now ya really can't lose, huh?"
+
+@ 022
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 023
+JP そうだ。俺は絶対に負けられない！絶対に！
+EN That's right. I can't lose, no matter
+EN what! No matter what!
+
+@ 024
+JP #WS169：
+JP 「・・・・・・・・・
+EN Gracie:
+EN "........."
+
+@ 025
+JP #MS：
+JP 「・・・・・・・・・・
+EN #MS:
+EN ".........."
+
+@ 026
+JP 試合前の視殺戦。
+JP 一歩も引けない。
+EN The pre-fight stare-down. I can't
+EN give an inch.
+
+@ 027
+JP #WS169：
+JP 「・・・・・・・・・・・
+EN Gracie:
+EN "..........."
+
+@ 028
+JP 俺は負けない・・・・必ず勝ってみせる。
+EN I won't lose.... I'll win, for sure.
+
+@ 029
+JP プロレスラーとして！！
+EN As a pro wrestler!!

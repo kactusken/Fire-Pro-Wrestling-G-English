@@ -1,0 +1,117 @@
+@ 000
+JP ジュニア戦士達の史上最大のイベント、
+JP 『キング・オブ・ワールドジュニア』も
+JP 遂に決勝戦が行われる。
+EN The biggest junior event in history,
+EN the "King of World Juniors." At last,
+EN the final.
+
+@ 001
+JP トーナメントに敗れた俺は、セミファイナルで
+JP ある男とのシングルマッチを組まれた。
+EN Out of the tournament, I was booked
+EN in the semi-main for a singles match
+EN against a certain man.
+
+@ 002
+JP その名は・・・・
+EN His name....
+
+@ 003
+JP 坂上浩一！！
+EN Koichi Sakagami!!
+
+@ 004
+JP #MS：
+JP 「今日と言う日が来るのを信じて、敢えて
+JP 　接触をしなかったが・・・・
+EN #MS:
+EN "I stayed away on purpose, believing
+EN  this day would come, but...."
+
+@ 005
+JP 「お前、本当にあの坂上なのか？
+JP 　まるで別人みたいだぜ。
+EN "Are you really the same Sakagami?
+EN  You're like a different person."
+
+@ 006
+JP 坂上：
+JP 「お前だって・・・最初遠目で見た時には
+JP 　全然気付かなかったぜ。
+EN Sakagami:
+EN "Same goes for you... I didn't even
+EN  recognize you at first from afar."
+
+@ 007
+JP #MS：
+JP 「それに、お互いよくここまで来れたよな。
+EN #MS:
+EN "And we both made it this far, huh."
+
+@ 008
+JP 坂上：
+JP 「そうだな・・・・・
+EN Sakagami:
+EN "Yeah....."
+
+@ 009
+JP #MS：
+JP 「・・・・・・・・
+EN #MS:
+EN "........"
+
+@ 010
+JP 坂上：
+JP 「・・・・・・
+EN Sakagami:
+EN "......"
+
+@ 011
+JP 「聞こえるか、この大歓声が。
+EN "Hear that? This roar?"
+
+@ 012
+JP 「見えるか、この大観衆が。
+EN "See them? This huge crowd?"
+
+@ 013
+JP 「これだけの大舞台、俺達２人が
+JP 　#WL026道場で共に見た夢・・・
+EN "A stage this big... the dream we
+EN  shared at the Yamamoto dojo..."
+
+@ 014
+JP 「トーナメントの決勝ではない・・・
+JP 　少し形は違っても、
+JP 　それがこうして現実になったんだ。
+EN "It's not the tournament final... A bit
+EN  different, but it's become real, right
+EN  here."
+
+@ 015
+JP #MS：
+JP 「聞こえるさ、見えるさ。
+EN #MS:
+EN "I hear it. I see it."
+
+@ 016
+JP 「俺達の夢の瞬間が、今ここにあるんだ。
+EN "Our dream moment is right here,
+EN  now."
+
+@ 017
+JP 「そして見せてやろう、俺達の試合を！
+EN "So let's show them our match!"
+
+@ 018
+JP 「もっともっと沸かせてやろう、この大観衆を！
+JP 　メインの試合を食う程に！
+EN "Let's whip this crowd into a frenzy!
+EN  Enough to steal the main event!"
+
+@ 019
+JP 俺達は熱く、固く、手を握り合った。
+JP ゴングが鳴る、その瞬間まで。
+EN We clasped hands, hot and firm, until
+EN the instant the bell rang.

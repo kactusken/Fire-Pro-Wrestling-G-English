@@ -1,0 +1,48 @@
+@ 000
+JP そして迎えた次のシリーズで
+JP ＩＧＰタッグ王座の
+JP 挑戦者決定トーナメントが行われた。
+EN Then came the next series, with a
+EN tournament to decide the IWGP Tag
+EN title challengers.
+
+@ 001
+JP 優勝したのは
+JP #WS001・#WS002組だった。
+JP ここは王者としての、俺達の正念場だ。
+EN The winners were Hashimoto and
+EN Sasaki. This is our moment of truth as
+EN champions.
+
+@ 002
+JP #WS001：
+JP 「お前達の世代にはまだまだトップを渡さない！
+EN Hashimoto:
+EN "We're not handing the top spot to
+EN  your generation yet!"
+
+@ 003
+JP #WS002：
+JP 「俺と#WS001！この２人が組んだら
+JP 　最強のタッグだろ！俺達の前に
+JP 　５分立っていられるか、おい！
+EN Sasaki:
+EN "Me and Hashimoto! Together we're
+EN  the strongest team there is! Think
+EN  you can last five minutes?!"
+
+@ 004
+JP #MS：
+JP 「こっちも俺と#WS008、若い世代でも
+JP 　活きの良いタッグです！あなた達を倒して、
+JP 　最強のタッグチームを目指しますよ！
+EN #MS:
+EN "Me and Nakanishi are young and
+EN  hungry too! We'll beat you and be the
+EN  best team around!"
+
+@ 005
+JP #WS002：
+JP 「やってやるよ、この野郎！
+EN Sasaki:
+EN "Bring it, you bastard!"

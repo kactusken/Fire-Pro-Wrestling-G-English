@@ -1,0 +1,205 @@
+@ 000
+JP 坂上：
+JP 「#MS・・・
+JP 　今日は最高の試合だったぜ。
+EN Sakagami:
+EN "#MS... That was one hell of a
+EN  match today."
+
+@ 001
+JP #MS：
+JP 「そうだな。
+EN #MS:
+EN "Yeah."
+
+@ 002
+JP 坂上：
+JP 「ただ、これで終わらせちゃダメだ。
+JP 　ここから始めるんだ、俺達の闘いを！
+JP 　実現させよう、シングルを！
+EN Sakagami:
+EN "But we can't let it end here. Our
+EN  fight starts now! Let's make the
+EN  single happen!"
+
+@ 003
+JP #MS：
+JP 「ああ、必ずな！
+EN #MS:
+EN "Yeah, no matter what!"
+
+@ 004
+JP この大会は記録的な盛り上がりの中幕を閉じ、
+JP 話題性も高い上に白熱した俺達の試合は
+JP 高い評価を受けた。
+EN The show closed amid record
+EN excitement, and our hyped-up,
+EN red-hot match drew rave reviews.
+
+@ 005
+JP #WS059：
+JP 「この間は良くやってくれたな。
+EN Baba:
+EN "You did well the other day."
+
+@ 006
+JP #MS：
+JP 「いえ、#WS059社長が
+JP 　実現させてくれたからこそ、
+JP 　出来た試合ですから。
+EN #MS:
+EN "No, sir. That match only happened
+EN  because you made it happen."
+
+@ 007
+JP #WS059：
+JP 「フフ、そう言ってくれると俺も
+JP 　やった甲斐があると思えるよ。
+EN Baba:
+EN "Heh, hearing that makes it feel worth
+EN  it."
+
+@ 008
+JP 「で、本題だが、次期シリーズの最終戦で
+JP 　ワールドタッグ戦をやるんだが、
+JP 　挑戦者チームがまだ決まってない。
+EN "Now, to business. Next series closes
+EN  with a World Tag title match, and
+EN  there's no challenging team yet."
+
+@ 009
+JP 「状況的には#WS041と#WS044か
+JP 　#WS040のチームなんだが・・・・
+EN "As things stand, it'd be Kobashi and
+EN  Akiyama, or a team with Misawa..."
+
+@ 010
+JP #WS040：
+JP 「失礼します。
+EN Misawa:
+EN "Excuse me."
+
+@ 011
+JP #WS059：
+JP 「来たか。ちょうどいい、お前から
+JP 　言ったらどうだ？
+EN Baba:
+EN "There you are. Good timing. Why
+EN  don't you tell him?"
+
+@ 012
+JP #WS040：
+JP 「はい。
+EN Misawa:
+EN "Yes, sir."
+
+@ 013
+JP 「まあ、単刀直入に言うと、俺とタッグ組んで
+JP 　ワールドタッグの挑戦者チーム決定戦に
+JP 　出ないかって事なんだよ。
+EN "To put it bluntly, how about teaming
+EN  with me in the match to decide the
+EN  World Tag challengers?"
+
+@ 014
+JP 「当然、流れとして今後もチームとして
+JP 　やって行こうって事だけどさ。
+EN "Of course, the idea is that we keep
+EN  going as a team after that."
+
+@ 015
+JP 「どう？
+EN "What do you say?"
+
+@ 016
+JP 大チャンス到来、だ。
+EN The chance of a lifetime.
+
+@ 017
+JP #MS
+JP 「喜んで！お願いします！
+EN "Gladly! Count me in!"
+
+@ 018
+JP #WS059：
+JP 「そうだ。若いうちってのはそうでなきゃ
+JP 　ダメだよ。あれこれ考え過ぎないで
+JP 　チャンスを手にしたら思いっきりやればいい。
+EN Baba:
+EN "That's it. That's how the young
+EN  should be. Don't overthink it. Grab
+EN  the chance and go all out."
+
+@ 019
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 020
+JP #WS040：
+JP 「じゃあ細かい打ち合わせをしようか。
+EN Misawa:
+EN "Then let's work out the details."
+
+@ 021
+JP その日から早速タッグとしての
+JP コンビネーション等を相談しながら
+JP 練習を始めた。
+EN From that day on, we started training
+EN as a team, working out our
+EN combinations.
+
+@ 022
+JP #WS044：
+JP 「同世代のお前の最近の活躍ぶりは
+JP 　素直にうれしいよ。しかしだからと言って
+JP 　道を譲るつもりは毛頭無い！
+EN Akiyama:
+EN "I'm honestly glad to see a guy my age
+EN  doing so well. But that doesn't mean
+EN  I'm stepping aside!"
+
+@ 023
+JP #MS：
+JP 「そう来なくちゃな。俺にしても
+JP 　『勝ったのは#WS040のおかげ』
+JP 　とか言われたら困るんでね。
+EN #MS:
+EN "That's more like it. I don't want
+EN  people saying 'He only won thanks to
+EN  Misawa' either."
+
+@ 024
+JP 「今日は必ず俺がピン取ってやる！
+EN "Today I'm getting the pin, no matter
+EN  what!"
+
+@ 025
+JP #WS041：
+JP 「俺達『ライトニング』は負けられない。
+JP 　結果が必要なんだよ、
+JP 　組んだ意味を表す上でもね！
+EN Kobashi:
+EN "We, Burning, can't lose. We need
+EN  results, to prove why we teamed up!"
+
+@ 026
+JP #MS：
+JP 「それは俺達も同じ事ですよ！
+JP 　必ず結果を出して見せる！
+EN #MS:
+EN "Same goes for us! We'll get results,
+EN  you'll see!"
+
+@ 027
+JP #WS040：
+JP 「頼むぞ。
+EN Misawa:
+EN "I'm counting on you."
+
+@ 028
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"

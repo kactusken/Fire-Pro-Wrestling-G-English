@@ -1,0 +1,42 @@
+@ 000
+JP 不本意ながらＦＷＯは倒幕軍と
+JP 抗争状態に入ってしまった。
+EN Against my wishes, nWo ended up in a
+EN feud with Heisei Ishingun.
+
+@ 001
+JP そして現時点での決着戦として組まれたのが
+JP この試合だった。
+EN And this match was booked to settle
+EN it, for now.
+
+@ 002
+JP #WS033：
+JP 「はっきり言って
+JP 　邪魔なんだよ、お前らは！
+EN Koshinaka:
+EN "Let me be blunt. You guys are in the
+EN  way!"
+
+@ 003
+JP #MS：
+JP 「邪魔者を排除するだけの力の無い
+JP 　ハンパ者軍団が何言ってやがんだコラ！
+EN #MS:
+EN "Big talk from a half-assed bunch too
+EN  weak to get rid of anyone in their
+EN  way!"
+
+@ 004
+JP #WS033：
+JP 「お前なんて所詮はお坊ちゃまなんだよ！
+JP 　叩き潰してやるよ！
+EN Koshinaka:
+EN "You're nothing but a spoiled brat! I'll
+EN  crush you!"
+
+@ 005
+JP #MS：
+JP 「やってみろ、この野郎！
+EN #MS:
+EN "Try it, you bastard!"

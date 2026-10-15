@@ -1,0 +1,91 @@
+@ 000
+JP この日観客動員数は#PS02史上
+JP 最高を記録。#WS076さん抜きでの
+JP この実績は大きい。
+EN That day set a #PS02 attendance
+EN record. Doing it without Onita was
+EN huge.
+
+@ 001
+JP #MS：
+JP 「今日は負けました！でも、
+JP 　今日からが本当に新しい
+JP 　#PS02のスタートです！
+EN #MS:
+EN "I lost today! But today is the real
+EN  start of a new #PS02!"
+
+@ 002
+JP #MS：
+JP 「これからの#PS02に
+JP 　期待して下さい！
+EN #MS:
+EN "Look forward to the #PS02 to
+EN  come!"
+
+@ 003
+JP 試合には負けたものの、
+JP お客さんの期待を裏切らない最高の試合を
+JP 提供出来たと自信を持って言える。
+EN I lost the match, but I can say with
+EN pride that we gave the fans the best
+EN match they could hope for.
+
+@ 004
+JP その後も軍団抗争は続き、
+JP 俺はノーリストリクトの連中を
+JP １人１人シングルで撃破していった。
+EN The faction war raged on, and I took
+EN down the Team No Respect guys one
+EN by one in singles.
+
+@ 005
+JP そして遂に大一番で
+JP #WS071とのシングルが
+JP 組まれたのだった。
+EN And at last, a big singles match with
+EN Fuyuki was set.
+
+@ 006
+JP #WS071：
+JP 「最近随分と暴れてるな、オイ！
+JP 　俺を倒せばノーリストリクトも終わりだと
+JP 　思ってんだろ！そうは行かねぇぞ！
+EN Fuyuki:
+EN "You've been raising hell, huh! Think
+EN  beating me ends No Respect? No
+EN  way!"
+
+@ 007
+JP #MS：
+JP 「俺はもうあんた以外はみんな倒してるんだ！
+JP 　あんたに勝ったらそんな減らず口は
+JP 　叩かせない！
+EN #MS:
+EN "I've beaten everyone but you! Beat
+EN  you, and no more smart mouth!"
+
+@ 008
+JP 「ノーリストリクトは解散してもらう！
+EN "Team No Respect is disbanding!"
+
+@ 009
+JP #WS071：
+JP 「勝てると思ってんのか！？
+JP 　俺も随分と舐められたもんだな、え？
+EN Fuyuki:
+EN "You think you can win!? You really
+EN  take me lightly, huh?"
+
+@ 010
+JP 「まだまだお前には負けねぇよ！
+JP 　ヒャーーーッ！！
+EN "You ain't beating me yet! Hyaaaaa!!"
+
+@ 011
+JP #MS：
+JP 「そろそろあんたを倒す奴が出て来ても
+JP 　いい頃だ・・・・今日は勝つ！
+EN #MS:
+EN "It's about time someone took you
+EN  down.... Today I win!"

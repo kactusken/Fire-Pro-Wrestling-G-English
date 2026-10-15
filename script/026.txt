@@ -1,0 +1,34 @@
+@ 000
+JP 決勝に駒を進めた俺を待っていたのは
+JP #WS029を破って勝ち上がって来た
+JP #WS001さんだった。
+EN Waiting for me in the final was
+EN Hashimoto, who'd beaten Tenzan to
+EN get there.
+
+@ 001
+JP #WS001：
+JP 「まさかお前が上がってくるとはね。
+EN Hashimoto:
+EN "Never thought you'd make it this
+EN  far."
+
+@ 002
+JP 「その勢いも本物だって事か。
+EN "Guess your momentum's the real
+EN  thing."
+
+@ 003
+JP #MS：
+JP 「#WS001さん・・・
+JP 　今日こそあなたを越えてみせる！
+EN #MS:
+EN "Hashimoto... Today I'm going to
+EN  surpass you!"
+
+@ 004
+JP #WS001：
+JP 「いいだろう。死ぬ気でかかって来い！
+EN Hashimoto:
+EN "Fine. Come at me like your life
+EN  depends on it!"

@@ -1,0 +1,177 @@
+@ 000
+JP 記者：
+JP 「#MS選手！
+EN Reporter:
+EN "#MS!"
+
+@ 001
+JP #MS：
+JP 「ああ、どうも。
+EN #MS:
+EN "Oh, hey."
+
+@ 002
+JP 記者：
+JP 「おはようございます！
+JP 　あの、早速なんですが！
+EN Reporter:
+EN "Good morning! So, getting right to
+EN  it!"
+
+@ 003
+JP #MS：
+JP 「#WS045さんの事でしょ？
+EN #MS:
+EN "This is about Hase, right?"
+
+@ 004
+JP 記者：
+JP 「分かっていただけてるなら話は早い！
+JP 　印象とか、何かありませんか？
+EN Reporter:
+EN "Glad you know! That makes it easy!
+EN  Any impressions of him?"
+
+@ 005
+JP #WS045さんは
+JP #PL00を脱退後、
+JP 新たな闘いの場を求めてウチに来た。
+EN After leaving #PL00, Hase came to
+EN us looking for a new place to fight.
+
+@ 006
+JP 議員レスラーとして、
+JP 国会議員の仕事とプロレスラーを
+JP 両立している、器用な人だ。
+EN He's a member of the Diet who juggles
+EN politics and wrestling. A versatile
+EN guy.
+
+@ 007
+JP #MS：
+JP 「うーん・・・まあ国会議員とレスラーを
+JP 　両方こなすってのはやっぱり凄いですよね。
+JP 　しかもきちんとコンディション整えてるし。
+EN #MS:
+EN "Hmm... Doing both, Diet member and
+EN  wrestler, is impressive. And he keeps
+EN  himself in shape."
+
+@ 008
+JP 「アマレスでの下地もしっかりしてるし
+JP 　プロレスも色んな意味でうまいし・・・
+EN "He's got a solid amateur base, and
+EN  he's good at pro wrestling in every
+EN  sense..."
+
+@ 009
+JP 記者：
+JP 「何か、凄く誉めてますね。
+EN Reporter:
+EN "Wow, you're really praising him."
+
+@ 010
+JP #MS：
+JP 「ハハハ、そうですね。
+JP 　でも本当に凄い人ですよ。ただね・・・・
+EN #MS:
+EN "Hahaha, I guess so. He's really
+EN  something. Only..."
+
+@ 011
+JP 記者：
+JP 「ただ？
+EN Reporter:
+EN "Only?"
+
+@ 012
+JP ・副業でやってる人に負けられない。
+JP ・熱い試合が出来れば・・・
+EN ・I can't lose to a part-timer.
+EN ・If we can have a hot match...
+
+@ 013
+JP #MS：
+JP 「やっぱり俺はプロレス専業でやってるんでね、
+JP 　兼業でやってる人には
+JP 　負けられないってのはありますよ。
+EN #MS:
+EN "Wrestling's my only job, so I can't
+EN  lose to a guy who does it on the side."
+
+@ 014
+JP 記者：
+JP 「やっと本音が出ましたね！
+EN Reporter:
+EN "There's the real you at last!"
+
+@ 015
+JP #MS：
+JP 「まあでも、やっぱりそうですよ。うん。
+EN #MS:
+EN "Well, that's just how it is. Yeah."
+
+@ 016
+JP 記者：
+JP 「じゃあ今日は意地と意地の闘いになりますか？
+EN Reporter:
+EN "So today will be a clash of pride?"
+
+@ 017
+JP #MS：
+JP 「俺はそのつもりで行きますよ！
+EN #MS:
+EN "That's how I'm going in!"
+
+@ 018
+JP #MS：
+JP 「向こうは向こうで
+JP 　『兼業だからって舐められてたまるか』って
+JP 　来るでしょう。
+EN #MS:
+EN "He'll come in thinking, 'Don't look
+EN  down on me just because I've got two
+EN  jobs.'"
+
+@ 019
+JP 記者：
+JP 「ええ。
+EN Reporter:
+EN "Right."
+
+@ 020
+JP #MS：
+JP 「で、こっちはこっちで
+JP 　『兼業の奴に負けるか』って行けばね、うん。
+EN #MS:
+EN "And I'll go in thinking, 'I won't lose
+EN  to a part-timer.' So, yeah."
+
+@ 021
+JP 「熱い試合が出来ると思いますよ！
+EN "I think we'll have a hot match!"
+
+@ 022
+JP 記者：
+JP 「じゃあ今日は２人の熱さがぶつかり合う
+JP 　闘いになると。
+EN Reporter:
+EN "So today, two men's fire will collide."
+
+@ 023
+JP #MS：
+JP 「そうですね。
+JP 　俺は俺の熱さをぶつけて行きますよ！
+EN #MS:
+EN "That's right. I'll hit him with all my
+EN  fire!"
+
+@ 024
+JP 記者：
+JP 「そうですか、期待してます！
+EN Reporter:
+EN "I see. We're looking forward to it!"
+
+@ 025
+JP そして試合の時間がやって来た。
+EN Then it was time for the match.

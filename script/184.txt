@@ -1,0 +1,38 @@
+@ 000
+JP チーム『ファイヤーバード』として
+JP 最初の試合は#WS071組との
+JP タッグマッチだ。
+EN Our first match as Team Firebird: a
+EN tag bout against Fuyuki's team.
+
+@ 001
+JP #WS071：
+JP 「ヒャーーーーッ！お前等まだ俺達に
+JP 　逆らう気なのか？意味無いから止めたら
+JP 　どうだ！
+EN Fuyuki:
+EN "Hyaaaaah! You punks still wanna
+EN  defy us? It's pointless, so why not
+EN  quit!"
+
+@ 002
+JP #MS：
+JP 「お前達こそいい加減にしたらどうだ！
+JP 　いつまでも下らない事してるんじゃない！
+EN #MS:
+EN "How about you quit it already!
+EN  Enough of this stupid crap!"
+
+@ 003
+JP #WS071：
+JP 「ごちゃごちゃうるさい奴だな！
+JP 　いいか！すぐに黙らせてやるからな！
+EN Fuyuki:
+EN "What a noisy little punk! Listen! I'll
+EN  shut you up real quick!"
+
+@ 004
+JP #WS088：
+JP 「ヘイ、頼むぜ#MS！
+EN Fuji:
+EN "Hey, count on you, #MS!"

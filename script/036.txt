@@ -1,0 +1,36 @@
+@ 000
+JP 坂上：
+JP 「#MS・・・
+JP 　今日は最高の試合だったぜ。
+EN Sakagami:
+EN "#MS... That was one hell of a
+EN  match today."
+
+@ 001
+JP #MS：
+JP 「そうだな。
+EN #MS:
+EN "Yeah."
+
+@ 002
+JP 坂上：
+JP 「ただ、これで終わらせちゃダメだ。
+JP 　ここから始めるんだ、俺達の闘いを！
+JP 　実現させよう、シングルを！
+EN Sakagami:
+EN "But this can't be the end. It's where
+EN  our fight begins! Let's make the
+EN  singles match happen!"
+
+@ 003
+JP #MS：
+JP 「ああ、必ずな！
+EN #MS:
+EN "Yeah, for sure!"
+
+@ 004
+JP この大会は記録的な盛り上がりの中幕を閉じ、
+JP 話題性も高い上に白熱した俺達の試合は
+JP 高い評価を受けた。
+EN The show drew record buzz, and our
+EN heated match got rave reviews.

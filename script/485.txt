@@ -1,0 +1,328 @@
+@ 000
+JP 俺はシリーズの合間に、#PS00の道場で
+JP トレーニングをさせてもらっていた。
+EN Between series, #PS00 let me train
+EN at their dojo.
+
+@ 001
+JP 道場では#WS006さんが
+JP みんなのトレーニングを見てくれている。
+EN At the dojo, Iizuka oversaw
+EN everyone's training.
+
+@ 002
+JP #WS006：
+JP 「よーし、次はスクワット。脚の曲げ方と
+JP 　腕の振りは言った通りにやってみてくれよ。
+EN Iizuka:
+EN "All right, squats next. Bend your legs
+EN  and swing your arms like I told you."
+
+@ 003
+JP ？：
+JP 「どうも、ただいま戻りました！
+EN ???:
+EN "Hey there, I'm back!"
+
+@ 004
+JP 誰かが来て#WS006さんと話をしている。
+EN Someone came in and was talking
+EN with Iizuka.
+
+@ 005
+JP その人がおもむろにＴシャツを脱ぎ、
+JP 俺の横にあるベンチプレスマシンのところに
+JP やって来た。
+EN He casually pulled off his T-shirt and
+EN came over to the bench press next to
+EN me.
+
+@ 006
+JP ？：
+JP 「・・・・・・
+EN ???:
+EN "......"
+
+@ 007
+JP #MS：
+JP 「？
+EN #MS:
+EN "?"
+
+@ 008
+JP 何だか俺の方をじっと見ている・・・・
+EN He's staring right at me....
+
+@ 009
+JP 何か顔についてるのか？
+EN Is there something on my face?
+
+@ 010
+JP いや、見慣れない顔がいるから
+JP 観察してるのか？それにしては・・・・
+EN Or is he sizing up a new face? Even
+EN so....
+
+@ 011
+JP ハッ！？まさか・・・・
+JP 俺は危険な想像をして冷や汗をかいてしまった。
+JP お、俺にそんな趣味は無いぞ！
+EN Wait!? Don't tell me.... A dangerous
+EN thought made me sweat. I-I'm not
+EN into that!
+
+@ 012
+JP ？：
+JP 「おい。
+EN ???:
+EN "Hey."
+
+@ 013
+JP 俺は恐くなって気付かぬ振りをした。
+EN Scared, I pretended not to notice.
+
+@ 014
+JP ？：
+JP 「おいってば。
+EN ???:
+EN "I said hey."
+
+@ 015
+JP さすがにもう逃げられない。
+JP 俺は観念してそっちを向いた。
+EN No escaping now. I gave up and
+EN turned toward him.
+
+@ 016
+JP #MS：
+JP 「・・・・・・・・・
+EN #MS:
+EN "........."
+
+@ 017
+JP 何か見覚えがあるような気が・・・・
+EN He looks kind of familiar....
+
+@ 018
+JP ？：
+JP 「お前、#MSだろ？
+EN ???:
+EN "You're #MS, right?"
+
+@ 019
+JP 何で俺の名前を！？
+JP 俺も思わず相手の顔を見返す。
+EN How does he know my name!? I stared
+EN right back at him.
+
+@ 020
+JP #MS：
+JP 「・・・・・あの、どこかでお会いしました？
+EN #MS:
+EN ".....Um, have we met?"
+
+@ 021
+JP ？：
+JP 「プッ・・・ハッハッハ！
+EN ???:
+EN "Pfft... Ha ha ha!"
+
+@ 022
+JP 「何言ってるんだよ、俺だよ、坂上だよ。
+EN "What're you saying? It's me,
+EN  Sakagami."
+
+@ 023
+JP #MS：
+JP 「え！？
+EN #MS:
+EN "What!?"
+
+@ 024
+JP 確かに言われてみると
+JP 目や鼻の感じが似てるような気が・・・・
+EN Now that he said it, his eyes and nose
+EN did look kind of similar....
+
+@ 025
+JP 坂上：
+JP 「何だよ、本気で分からなかったのか？
+JP 　俺はてっきり冗談が上手くなったのかと
+JP 　思ったぜ。
+EN Sakagami:
+EN "What, you really didn't know me? I
+EN  figured you'd just gotten better at
+EN  jokes."
+
+@ 026
+JP #MS：
+JP 「だって、坂上と言えばあのヒョロ～ッとした
+JP 　体格がトレードマークだったのに・・・
+EN #MS:
+EN "But you were famous for being a
+EN  beanpole..."
+
+@ 027
+JP 坂上：
+JP 「ああ、ヨーロッパでいいトレーナーと会って、
+JP 　体作りをして来たんだよ。凄いだろ？
+EN Sakagami:
+EN "Yeah, I met a good trainer in Europe
+EN  and bulked up. Impressive, huh?"
+
+@ 028
+JP #MS：
+JP 「あ、ああ。
+EN #MS:
+EN "Y-yeah."
+
+@ 029
+JP 坂上：
+JP 「ま、予定よりちょっと早い再会だけどよ。
+JP 　一緒に頑張るのも面白いんじゃねぇか？
+JP 　道場の時みたいによ。
+EN Sakagami:
+EN "We're reuniting a bit early, but it'd
+EN  be fun to work together, right? Like
+EN  back at the dojo."
+
+@ 030
+JP #MS：
+JP 「そうだな・・・
+JP 　これからまた、よろしくな！
+EN #MS:
+EN "Yeah... Good to have you back!"
+
+@ 031
+JP 坂上：
+JP 「おう！
+EN Sakagami:
+EN "You bet!"
+
+@ 032
+JP こうして再会を果たした俺と坂上。
+JP 俺達は２人で#PS00ジュニアを更に
+JP 活性化させようと誓い合ったのだった。
+EN Reunited, Sakagami and I swore to
+EN fire up the #PS00 juniors even
+EN more.
+
+@ 033
+JP そして・・・・
+EN And then....
+
+@ 034
+JP #MS：
+JP 「タッグ、ですか？
+EN #MS:
+EN "A tag team?"
+
+@ 035
+JP #WS013：
+JP 「ああ。最初はシングル対決を考えたんだが
+JP 　それよりもお前達が組んで暴れた方が
+JP 　面白いんじゃないかと思ってな。
+EN Choshu:
+EN "Yeah. I thought about a singles
+EN  match first, but it'd be more fun to
+EN  have you two team up and raise hell."
+
+@ 036
+JP #WS015：
+JP 「シングルは寝かせておいて、それから
+JP 　機が熟したらやった方がいいと思うんだよ。
+EN Liger:
+EN "Better to save the singles match and
+EN  do it when the time is right."
+
+@ 037
+JP #MS：
+JP 「俺は異存はありません。
+EN #MS:
+EN "No objections here."
+
+@ 038
+JP 坂上：
+JP 「俺も全然。むしろ言われるように
+JP 　その方が面白いと思います。
+EN Sakagami:
+EN "Me neither. Like you said, I think
+EN  that'd be more fun."
+
+@ 039
+JP #WS013：
+JP 「そうか、分かった。じゃあお前達には
+JP 　タッグ５番勝負ってのを用意するよ。
+EN Choshu:
+EN "All right, then. I'll set you two up
+EN  with a five-match tag series."
+
+@ 040
+JP #WS015：
+JP 「期待してるからな。頑張ってくれよ？
+EN Liger:
+EN "We're counting on you. Don't let us
+EN  down, okay?"
+
+@ 041
+JP #MS＆坂上：
+JP 『はい！
+EN #MS & Sakagami:
+EN "Yes, sir!"
+
+@ 042
+JP 坂上：
+JP 「いよいよ始まりだな、５番勝負。
+EN Sakagami:
+EN "Here it comes, the five-match
+EN  series."
+
+@ 043
+JP #MS：
+JP 「そうだな。俺達が組んだら凄いんだってのを
+JP 　アピールして行かないとな。
+EN #MS:
+EN "Yeah. We've got to show everyone
+EN  how awesome we are as a team."
+
+@ 044
+JP 坂上：
+JP 「やってやろうぜ！
+EN Sakagami:
+EN "Let's do it!"
+
+@ 045
+JP #MS：
+JP 「おう！
+EN #MS:
+EN "Yeah!"
+
+@ 046
+JP 俺達の相手は#PS00初上陸を果たした
+JP ドンパチ・マシンガンズこと
+JP #WS089・#WS181組。
+EN Our opponents: Orihara and Ono, the
+EN Tonpachi Machine Guns, in their
+EN #PS00 debut.
+
+@ 047
+JP #WS089：
+JP 「てめぇら気取ってんじゃねぇぞ、コラ！
+EN Orihara:
+EN "Don't get cocky, you punks!"
+
+@ 048
+JP 「いいか！俺達はな・・・
+EN "Listen! We are..."
+
+@ 049
+JP 何かしばらくがなり立てていたようだったが、
+JP 俺は坂上とのタッグに入れ込んでいて、
+JP 何を言われていたのか覚えていない。
+EN He ranted for a while, but I was so
+EN fired up about teaming with Sakagami
+EN that I don't remember any of it.
+
+@ 050
+JP そしてゴングが鳴る・・・・
+EN And the bell rang....

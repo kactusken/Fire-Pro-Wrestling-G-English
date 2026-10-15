@@ -1,0 +1,66 @@
+@ 000
+JP 残念ながら俺達は
+JP 決勝戦に進む事は出来なかった。
+EN Sadly, we didn't make it to the final.
+
+@ 001
+JP #WS052：
+JP 「残念だが仕方無いな。だがユーとのタッグは
+JP 　ようやく形になって来たところだ。出来れば
+JP 　これからもやって行きたいものだな。
+EN Ace:
+EN "Too bad, but it can't be helped. Still,
+EN  our team was just clicking. I'd like to
+EN  keep it going."
+
+@ 002
+JP #MS：
+JP 「そうですね・・・・
+EN #MS:
+EN "Me too..."
+
+@ 003
+JP #WS052：
+JP 「ではまたチャンスがあったら共に頑張ろう。
+JP 　その時にはタッグ王座に挑戦しよう！
+EN Ace:
+EN "Let's team up again when we get the
+EN  chance. Next time, we go after the
+EN  tag titles!"
+
+@ 004
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 005
+JP タッグ決勝に出られなかった俺は
+JP #WS049選手とのシングルマッチを
+JP 組まれた。
+EN Since I wasn't in the tag final, they
+EN booked me in a singles match with
+EN Takayama.
+
+@ 006
+JP #WS049：
+JP 「アメプロとＵ・・・
+JP 　全く正反対と言ってもいい闘い、
+JP 　楽しみにしてましたよ。
+EN Takayama:
+EN "American wrestling vs. U-style...
+EN  Total opposites. I've been looking
+EN  forward to this."
+
+@ 007
+JP #MS：
+JP 「こちらこそ。全力で来い！
+EN #MS:
+EN "Same here. Give me everything
+EN  you've got!"
+
+@ 008
+JP #WS049：
+JP 「行くぞ！
+EN Takayama:
+EN "Here I come!"

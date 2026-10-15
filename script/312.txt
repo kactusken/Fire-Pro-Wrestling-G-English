@@ -1,0 +1,62 @@
+@ 000
+JP #WS166：
+JP 「・・・・・・・・
+EN Anjoh:
+EN "........"
+
+@ 001
+JP #MS：
+JP 「・・・・・本気なんですか？
+EN #MS:
+EN "..... Are you serious?"
+
+@ 002
+JP #WS166：
+JP 「これで起死回生、一発逆転を狙う！
+EN Anjoh:
+EN "This is our big comeback, our
+EN  one-shot turnaround!"
+
+@ 003
+JP 経営の危険な状態が続いていたキャッスルで、
+JP 賞金３００万を賭けたトーナメントを
+JP 行う事になった。
+EN Kingdom, still in financial danger,
+EN would hold a tournament with a
+EN 3-million-yen prize.
+
+@ 004
+JP 参加者は元ＵＷＨインテグラルのメンバーだ。
+JP 全員は来ないだろうが、賞金とお情けで
+JP 何人かは来てくれるかもしれない。
+EN Entrants were ex-UWF International
+EN guys. Not all would come, but money
+EN and pity might draw a few.
+
+@ 005
+JP #MS：
+JP 「でも、これでコケたらどうするんです？
+EN #MS:
+EN "But what if this flops?"
+
+@ 006
+JP #WS166：
+JP 「不吉な事を言うんじゃない！
+JP 　絶対に成功させるんだよ！
+EN Anjoh:
+EN "Don't jinx it! We're gonna make it
+EN  work, period!"
+
+@ 007
+JP #MS：
+JP 「はぁ・・・・・
+EN #MS:
+EN "Uh-huh....."
+
+@ 008
+JP そしてトーナメントの日がやって来た。
+JP １回戦の俺の相手は
+JP #WF148だ。
+EN Then tournament day came. My
+EN first-round opponent was Kenichi
+EN Yamamoto.

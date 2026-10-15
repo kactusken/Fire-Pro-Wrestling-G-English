@@ -1,0 +1,91 @@
+@ 000
+JP #MS：
+JP 「そんな・・・・
+EN #MS:
+EN "No way...."
+
+@ 001
+JP #WS165：
+JP 「・・・・・・・・
+EN Takada:
+EN "........"
+
+@ 002
+JP #MS：
+JP 「本当、なんですか？
+EN #MS:
+EN "Is it really true?"
+
+@ 003
+JP #WS165：
+JP 「残念ながら・・・・本当だ。
+EN Takada:
+EN "I'm afraid... it's true."
+
+@ 004
+JP しばらく続くかと思われた#PS00との
+JP 対抗戦も長くは続かなかった。
+EN The war with #PS00 we thought
+EN would last didn't go on long.
+
+@ 005
+JP 対抗戦の余韻で客足も少しは回復したものの、
+JP またすぐに落ち込んで行った。
+EN The war brought the crowds back a
+EN bit, but they soon dropped off again.
+
+@ 006
+JP そして・・・ＵＷＨインテグラルは・・・・
+EN And then... UWF International....
+
+@ 007
+JP 続けて行けなくなったのだ。
+EN ...couldn't go on any longer.
+
+@ 008
+JP #WS165：
+JP 「俺はしばらく自分を見詰め直そうと思ってる。
+JP 　その後の事はそれから考えるつもりだ。
+EN Takada:
+EN "I'm going to take some time to look at
+EN  myself. I'll think about what's next
+EN  after that."
+
+@ 009
+JP 「#WS166達は自分達で何か
+JP 　やるつもりらしいけどな。
+EN "Sounds like Anjoh and the others
+EN  plan to start something of their own."
+
+@ 010
+JP #MS：
+JP 「そうですか・・・・
+EN #MS:
+EN "I see...."
+
+@ 011
+JP その後も何かを話したが
+JP 良く覚えていない・・・・・
+EN We talked some more, but I don't
+EN remember much.....
+
+@ 012
+JP だが、『Ｕ』の名を冠した団体は、
+JP これで存在しなくなったのだ・・・・
+EN But with that, there was no longer
+EN any promotion bearing the name
+EN "U"....
+
+@ 013
+JP #WS166さん達はよりバーリトゥードに
+JP 近い闘いを目指す新団体、
+JP 『キャッスル』を設立。
+EN Anjoh and the others founded a new
+EN promotion, Kingdom, aiming for
+EN something closer to vale tudo.
+
+@ 014
+JP 誘われてはいたが、俺は未だに
+JP 結論を出せずにいた。
+EN They'd invited me, but I still couldn't
+EN make up my mind.

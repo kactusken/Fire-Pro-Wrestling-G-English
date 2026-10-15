@@ -1,0 +1,12 @@
+@ 000
+JP トーナメントで敗れた俺は
+JP #WF157との
+JP 試合を組まれた。
+EN After losing in the tournament, I was
+EN booked against Bas Rutten.
+
+@ 001
+JP 彼のファイトスタイルはまだ良く分からないが
+JP 打撃には定評があるらしい。気をつけて行こう。
+EN I don't know his style yet, but he's
+EN said to be a great striker. Careful.

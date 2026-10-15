@@ -1,0 +1,100 @@
+@ 000
+JP 記者：
+JP 「おめでとうございます。
+JP 　まずは今の心境をお聞かせ下さい。
+EN Reporter:
+EN "Congratulations. First, tell us how
+EN  you feel right now."
+
+@ 001
+JP #MS：
+JP 「ホッとしてますよ。
+JP 　負ける訳には行かなかったんでね。
+EN #MS:
+EN "Relieved. I couldn't afford to lose."
+
+@ 002
+JP 記者：
+JP 「立ち技に対してかなり特訓
+JP 　なされたんですか？
+EN Reporter:
+EN "Did you train hard against stand-up
+EN  fighting?"
+
+@ 003
+JP #MS：
+JP 「多少はやりましたけどね。
+JP 　ただ大体いつも通りですよ。普段も
+JP 　立ち技関係のトレーニングもしてますから。
+EN #MS:
+EN "A little. But mostly the usual. I train
+EN  stand-up stuff all the time anyway."
+
+@ 004
+JP 「まあこちらはルール飲んでもらって、
+JP 　基本的に有利だったんでね。今度は
+JP 　#PS08ルールでやってみたいですね。
+EN "Well, they accepted our rules, so I
+EN  had the edge. Next time I'd like to try
+EN  #PS08 rules."
+
+@ 005
+JP 記者：
+JP 「ファンに一言お願いします。
+EN Reporter:
+EN "A word for the fans, please."
+
+@ 006
+JP #MS：
+JP 「今後も色んな場所で闘って行きますので、
+JP 　応援お願いします。
+EN #MS:
+EN "I'll keep fighting in all kinds of
+EN  places, so please cheer me on."
+
+@ 007
+JP 俺は#WS149さんの#PS07引退に
+JP 花を添える事が出来た。
+EN I was able to crown Mr. Maeda's
+EN #PS07 retirement with a victory.
+
+@ 008
+JP 記者：
+JP 「今日は残念でした。
+JP 　今の心境をお聞かせ下さい。
+EN Reporter:
+EN "Too bad about today. Tell us how
+EN  you feel right now."
+
+@ 009
+JP #MS：
+JP 「単純に俺の方が弱かっただけですよ。
+JP 　ルール的にはこちらが有利だったんで
+JP 　負けられないと思ってたんですけどね。
+EN #MS:
+EN "I was just weaker, plain and simple.
+EN  The rules favored me, so I thought I
+EN  couldn't lose."
+
+@ 010
+JP 記者：
+JP 「今後、リベンジマッチ等は考えていますか？
+EN Reporter:
+EN "Are you thinking about a revenge
+EN  match?"
+
+@ 011
+JP #MS：
+JP 「いつかもう一度出たいですね。ただ
+JP 　今後は#PS08だけじゃなく他の色んな
+JP 　所で闘って行きたいですね。
+EN #MS:
+EN "I'd like to go back someday. But from
+EN  now on I want to fight in lots of
+EN  places, not only #PS08."
+
+@ 012
+JP 俺は#WS149さんの#PS07引退に
+JP 花を添える事が出来なかった。
+EN I couldn't crown Mr. Maeda's
+EN #PS07 retirement with a victory.

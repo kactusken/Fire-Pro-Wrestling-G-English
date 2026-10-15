@@ -1,0 +1,160 @@
+@ 000
+JP 俺は試合前にストレッチをしていた。
+EN I was stretching before the match.
+
+@ 001
+JP #WS088：
+JP 「フゥ～～～～～ッ！
+JP 　どうだ、調子は？
+EN Fuji:
+EN "Woooooo! How you feeling?"
+
+@ 002
+JP #MS：
+JP 「は、はい、バッチリです。
+EN #MS:
+EN "F-fine, sir. Great."
+
+@ 003
+JP #WS088：
+JP 「そうか！ロックな調子か！
+JP 　フゥ～～～～～ッ！
+EN Fuji:
+EN "Yeah! Feeling rock 'n' roll, huh!
+EN  Woooooo!"
+
+@ 004
+JP この人は
+JP #WF088さん。
+JP 色々と俺の面倒を見てくれている人だ。
+EN This is Ricky Fuji. He's been looking
+EN out for me in all sorts of ways.
+
+@ 005
+JP ただこの謎なノリに
+JP ついて行けないところがあるけど・・・・
+EN But sometimes I just can't keep up
+EN with his weird vibe....
+
+@ 006
+JP #WS088：
+JP 「今日は俺とのタッグだ。
+JP 　即席タッグではあるがチーム名を決めよう！
+EN Fuji:
+EN "Today we're tagging. It's a pickup
+EN  team, but let's pick a name!"
+
+@ 007
+JP 「そうだな・・・ハードロックエキスプレス！
+JP 　いや、これはどっかで使ってたな・・・
+JP 　シンプルにロックビート！いやいや・・・
+EN "Let's see... Hard Rock Express! No, I
+EN  used that somewhere... Plain Rock
+EN  Beat! No, no..."
+
+@ 008
+JP #MS：
+JP 「要するにロックがついてりゃ
+JP 　何でもいいんですね・・・・・
+EN #MS:
+EN "So basically anything goes as long as
+EN  it says 'rock'....."
+
+@ 009
+JP #WS088：
+JP 「何でも良くは無いぞ！
+JP 　ただロックの３文字が外せないだけだ。
+EN Fuji:
+EN "Not anything! I just can't drop the
+EN  word 'rock.'"
+
+@ 010
+JP #MS：
+JP 「そ、そうですか。
+EN #MS:
+EN "I-I see."
+
+@ 011
+JP #WS088：
+JP 「そうか！今日の相手に対抗して
+JP 　ハードロック・マシンガンズにしよう！
+EN Fuji:
+EN "Got it! To match today's opponents,
+EN  we're the Hard Rock Machine Guns!"
+
+@ 012
+JP そう、今日の相手は
+JP #WS089・#WS181組。
+JP 通称ドンパチ・マシンガンズだ。
+EN Yes, today we face Orihara and Ono,
+EN aka the Tonpachi Machine Guns.
+
+@ 013
+JP #MS：
+JP 「#WS088さんのロックと相手に対抗しての
+JP 　マシンガンズ。名前に俺がいる必然性が
+JP 　何も無いのがいいですね・・・・
+EN #MS:
+EN "'Rock' for you, 'Machine Guns' for
+EN  them. Nothing at all to do with me.
+EN  Lovely...."
+
+@ 014
+JP #WS088：
+JP 「何言ってんだ！ロックの所にお前の分も
+JP 　入ってるだろうが！お前ももう十分
+JP 　ロッカーなんだからな！
+EN Fuji:
+EN "What're you talking about! 'Rock'
+EN  covers you too! You're a total rocker
+EN  now!"
+
+@ 015
+JP 「いいか、俺と一緒に叫ぶんだ！
+JP 　フゥ～～～～～ッ！
+EN "Now, shout it with me! Woooooo!"
+
+@ 016
+JP #MS：
+JP 「え！？
+EN #MS:
+EN "What!?"
+
+@ 017
+JP #WS088：
+JP 「ホラ、続け！
+JP 　フゥ～～～～～ッ！
+EN Fuji:
+EN "Come on, follow me! Woooooo!"
+
+@ 018
+JP #MS：
+JP 「フ・・・フーッ。
+EN #MS:
+EN "Woo... Wooo."
+
+@ 019
+JP #WS088：
+JP 「ダメだ、ダメだ、そんなんじゃ！
+JP 　今日の試合も勝てなくなっちまうぞ！
+JP 　フゥ～～～～～ッ！
+EN Fuji:
+EN "No, no, that won't cut it! You won't
+EN  win today like that! Woooooo!"
+
+@ 020
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 021
+JP 試合と何の関係があるのか分からなかったが
+JP 俺はしばらく雄叫びの練習をさせられた。
+EN No idea what it had to do with the
+EN match, but he made me practice that
+EN war cry for a while.
+
+@ 022
+JP やっぱりこの人にはついて行けない・・・・
+EN I just can't keep up with this guy....

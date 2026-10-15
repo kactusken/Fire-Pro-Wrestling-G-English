@@ -1,0 +1,14 @@
+@ 000
+JP 今日はトーナメント決勝戦の日だ。
+JP 負けた俺は#WS087との
+JP シングルマッチだ。
+EN Today was the tournament final.
+EN Having lost, I got a singles match with
+EN Gedo.
+
+@ 001
+JP 正直言って悔しい。俺はこの悔しさをバネにして
+JP 頑張ろうと思った。
+EN Honestly, it stung. I decided to use
+EN that frustration as fuel and keep
+EN pushing.

@@ -1,0 +1,325 @@
+@ 000
+JP 俺は自分の試合が終わると、
+JP #WS001・#WS173戦を通路から
+JP 見る事にした。
+EN After my match, I watched Hashimoto
+EN vs. Ogawa from the entrance aisle.
+
+@ 001
+JP まず驚いたのは#WS173の動きの良さだ。
+JP あの動きは完全にバーリ・トゥードの
+JP ファイターだ。
+EN What surprised me first was how well
+EN Ogawa moved. That was pure vale
+EN tudo.
+
+@ 002
+JP #WS001さんが完全に押されている。
+JP しかしそれにしても何か様子がおかしい。
+JP まるで反撃をする意志が見られない。
+EN Hashimoto was getting totally
+EN outclassed. But something was off. He
+EN showed no will to fight back.
+
+@ 003
+JP 何故だ？何故そんな・・・
+EN Why? Why would he...
+
+@ 004
+JP 俺の疑問が解けないまま、#WS001さんは
+JP 場外で動かなくなった。
+EN Before I could figure it out,
+EN Hashimoto lay motionless on the floor.
+
+@ 005
+JP 俺は軍団云々を忘れて
+JP リングサイドに向かって走っていた。
+EN Faction or no faction, I ran for
+EN ringside.
+
+@ 006
+JP 事もあろうに、奴はリング上で
+JP 飛行機のポーズで踊っていた。
+JP しかもマイクを掴むと・・・
+EN And of all things, Ogawa was dancing
+EN in the ring doing his airplane pose.
+EN Then he grabbed the mic...
+
+@ 007
+JP #WS173：
+JP 「オイオイオイオイ！もう終りかよ！
+JP 　冗談じゃねーぞ！オラ！
+JP 　こんなもんか、プロレスはよぉ！
+EN Ogawa:
+EN "Hey hey hey hey! That's it?! You
+EN  gotta be kidding! Huh!? This is pro
+EN  wrestling?!"
+
+@ 008
+JP 「#PL00ファンの皆様！
+JP 　目を覚まして下さいッ！
+EN "#PL00 fans! Wake up!"
+
+@ 009
+JP この一言は致命的だった。
+JP #PS00とＵＬＯの大乱闘が
+JP おこったのだ。そして・・・・
+EN Those words were fatal. A huge brawl
+EN broke out between #PS00 and
+EN UFO. And then....
+
+@ 010
+JP 俺も完全にブチ切れていた！おもむろに
+JP #WS173に躍りかかる。途中誰かに
+JP 阻まれたがお構いなく突っ込んだ。
+EN I'd completely snapped! I lunged at
+EN Ogawa. Someone tried to stop me, but
+EN I charged on.
+
+@ 011
+JP #MS：
+JP 「そんな事はな！俺に勝ってから言え！
+JP 　図に乗ってんじゃねぇぞ！
+EN #MS:
+EN "Say that after you beat me! Don't get
+EN  cocky!"
+
+@ 012
+JP #WS173：
+JP 「やるか？やるかオイ！
+JP 　命かける気があるならいつでも来い、オラ！
+EN Ogawa:
+EN "Wanna go? You wanna go?! Come
+EN  anytime if you're ready to die!"
+
+@ 013
+JP 俺はリング下から冷ややかに乱闘を見つめた。
+JP 乱闘なんて馬鹿らしい。これでは
+JP 収拾がつかないだろう。
+EN I watched the brawl coldly from the
+EN floor. Brawling is stupid. There's no
+EN way to settle things like this.
+
+@ 014
+JP ファンの表情が暗い。この不愉快な事件は
+JP ファンの心に深い傷として残るだろう。
+EN The fans looked grim. This ugly
+EN incident would leave a deep scar on
+EN them.
+
+@ 015
+JP その傷を少しでも癒す為には、誰かが
+JP 奴をすっきりと倒さなければならない。
+EN To heal that scar even a little,
+EN someone had to beat him clean.
+
+@ 016
+JP 俺は静かに闘志を燃やした。
+JP やってやる！
+EN A quiet fire burned in me. I'll do it!
+
+@ 017
+JP #WS013：
+JP 「ダメなんだよ。坂内さんが断固反対の
+JP 　姿勢を貫いてる。あの人があそこまで
+JP 　強く主張するなんて初めてじゃないのか？
+EN Choshu:
+EN "No good. Mr. Sakaguchi is dead set
+EN  against it. Ever seen him dig in like
+EN  that before?"
+
+@ 018
+JP #MS：
+JP 「もう一個人の問題じゃないんですよ！
+JP 　今回の事でファンがみんなどう思ってるか
+JP 　知らないんですか！
+EN #MS:
+EN "This isn't about one person anymore!
+EN  Don't you know how the fans feel
+EN  about this?!"
+
+@ 019
+JP 「このままじゃプロレス界自体が
+JP 　落ち込んで行きますよ！
+EN "At this rate the whole wrestling
+EN  business will go down the drain!"
+
+@ 020
+JP #WS013：
+JP 「分かってる。俺も説得は続けるつもりだ。
+JP 　お前の気持ちも伝えておこう。
+EN Choshu:
+EN "I know. I'll keep trying to convince
+EN  him. I'll tell him how you feel too."
+
+@ 021
+JP その後この問題はこじれにこじれたが、
+JP 許可が出なければ団体離脱も辞さない俺の
+JP 態度に坂内社長が遂に断を下した。
+EN It dragged on and on, but I was ready
+EN to quit the company over it, and
+EN President Sakaguchi finally gave in.
+
+@ 022
+JP 勝とうが負けようがこれ１回限り。これで
+JP ＵＬＯとは手を切る、と。
+EN Win or lose, it's one match only. After
+EN that, we cut ties with UFO.
+
+@ 023
+JP 俺は対バーリ・トゥードファイター用の
+JP 特訓の為、ある道場に来ていた。
+EN I came to a certain dojo to train for a
+EN vale tudo fighter.
+
+@ 024
+JP #MS：
+JP 「今日はお願いします。
+EN #MS:
+EN "Thanks for having me today."
+
+@ 025
+JP #WS154：
+JP 「よろしく。
+EN Funaki:
+EN "Glad to."
+
+@ 026
+JP 俺は知り合いの知り合いの・・・用は
+JP つてを辿って、バーリ・トゥードに詳しい
+JP #WS154さんに特訓をお願いしたのだ。
+EN Through a friend of a friend of a...
+EN through connections, I asked Funaki,
+EN a vale tudo expert, to train me.
+
+@ 027
+JP 個人としてマスコミに極秘で行うのであれば
+JP ＯＫ、との返事をもらい、
+JP #PS10道場に来ていた。
+EN He said OK as long as it was personal
+EN and kept from the press, so here I was
+EN at the #PS10 dojo.
+
+@ 028
+JP #WS154：
+JP 「まずは彼のスタンドでのパンチを
+JP 　どうするかだね。パンチの防御から
+JP 　始めよう。
+EN Funaki:
+EN "First, what to do about his punches
+EN  standing. Let's start with defending
+EN  punches."
+
+@ 029
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 030
+JP こうして俺の特訓が始まった。
+EN And so my training began.
+
+@ 031
+JP 厳しい特訓の日々が続いた。バーリ・トゥードの
+JP 動きはプロレスの動きとは全く違う事を
+JP 俺は体で感じていた。
+EN Days of brutal training went on. I felt
+EN in my body how different vale tudo
+EN moves are from pro wrestling.
+
+@ 032
+JP 試合まで１週間を切ったところで
+JP バーリ・トゥードのファイターにどうやって
+JP プロレス技を仕掛けるかの訓練に切り替えた。
+EN With under a week left, we switched
+EN to landing pro wrestling moves on a
+EN vale tudo fighter.
+
+@ 033
+JP バーリ・トゥードの勝ち方で勝っても
+JP 意味が無い。その闘いを知った上で
+JP プロレスラーとして勝つ必要があるからだ。
+EN Winning his way means nothing. I had
+EN to know that fight, then win it as a
+EN pro wrestler.
+
+@ 034
+JP #WS154：
+JP 「いよいよ明日だね。
+EN Funaki:
+EN "Tomorrow's the day."
+
+@ 035
+JP #MS：
+JP 「はい。今回は特訓引き受けていただいて
+JP 　ありがとうございました。本当に
+JP 　感謝してます。
+EN #MS:
+EN "Yes. Thank you for agreeing to train
+EN  me. I really mean it."
+
+@ 036
+JP #WS154：
+JP 「でも驚いたよ。正直どこまで行けるかと
+JP 　心配だったんだけど、こんなに早く色々
+JP 　飲み込むとはね。
+EN Funaki:
+EN "You surprised me. Honestly I worried
+EN  how far you'd get, but you picked it
+EN  up fast."
+
+@ 037
+JP 「気が向いたら#PS10に入らないか？
+EN "Ever feel like joining #PS10?"
+
+@ 038
+JP #MS：
+JP 「え？
+EN #MS:
+EN "What?"
+
+@ 039
+JP #WS154：
+JP 「ははは、気が向いたらの話さ。でも君なら
+JP 　いつでも歓迎するよ。
+EN Funaki:
+EN "Ha ha ha, only if you feel like it. But
+EN  you're welcome anytime."
+
+@ 040
+JP #MS：
+JP 「あ、ありがとうございます。
+EN #MS:
+EN "Th-Thank you."
+
+@ 041
+JP そして遂に当日を迎えた。
+EN And at last, the day came.
+
+@ 042
+JP #WS173：
+JP 「#MS！
+JP 　死ぬ覚悟があったらかかってこい！
+JP 　本当の強さを思い知らせてやるからよ！
+EN Ogawa:
+EN "#MS! Come at me if you're
+EN  ready to die! I'll show you what real
+EN  strength is!"
+
+@ 043
+JP #MS：
+JP 「いい気になってるのも今の内だからな！
+JP 　せいぜい試合前に吠えとくんだな！
+EN #MS:
+EN "Enjoy feeling big while it lasts! Bark
+EN  all you want before the match!"
+
+@ 044
+JP #WS173：
+JP 「何言ってんだ！プロレスなんぞ強くねぇよ！
+JP 　ぶっ殺してやるからな！来い！コラ！
+EN Ogawa:
+EN "What're you talking about?! Pro
+EN  wrestling ain't strong! I'll kill you!
+EN  Come on!"

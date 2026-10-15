@@ -1,0 +1,139 @@
+@ 000
+JP #WS010：
+JP 「何かこう・・・アメリカにいながら
+JP 　日本で闘ってるような気になったよ。
+EN Nagata:
+EN "Somehow... it felt like I was fighting
+EN  in Japan, even though we're in
+EN  America."
+
+@ 001
+JP #MS：
+JP 「坂上と比べて、どうだった？
+EN #MS:
+EN "How did I compare to Sakagami?"
+
+@ 002
+JP #WS010：
+JP 「それは何とも言えないな。
+JP 　同じぐらい熱い闘いにはなっただろうな。
+EN Nagata:
+EN "Hard to say. It was just as hot a
+EN  fight, I'd say."
+
+@ 003
+JP #MS：
+JP 「そうか・・・・
+EN #MS:
+EN "I see...."
+
+@ 004
+JP 俺は自分がやって来た事が日本でも
+JP 通じるのだと分かって安心した。
+EN I was relieved to learn that what I'd
+EN been doing would work in Japan too.
+
+@ 005
+JP きちんと頑張っていれば、いつか坂上と
+JP 再会した時に十分渡り合えるのだから・・・
+EN If I keep at it, I'll be able to hold my
+EN own when I meet Sakagami again...
+
+@ 006
+JP #MS：
+JP 「あ、正井さん。出番ですか？
+EN #MS:
+EN "Oh, Mr. Asai. You're up?"
+
+@ 007
+JP #WS113：
+JP 「ああ。お前も遂に俺より後の試合に
+JP 　出れるようになったんだな。
+EN Ultimo:
+EN "Yeah. So you finally get to wrestle
+EN  after me on the card, huh."
+
+@ 008
+JP #MS：
+JP 「まあまだ自分の力じゃなくて
+JP 　相手次第ですけどね。
+EN #MS:
+EN "Well, that's thanks to my opponent,
+EN  not me."
+
+@ 009
+JP #WS113：
+JP 「今日は？
+EN Ultimo:
+EN "Who is it today?"
+
+@ 010
+JP #MS：
+JP 「#WF114です。
+EN #MS:
+EN "Chris Jericho."
+
+@ 011
+JP #WS113：
+JP 「あいつか・・・最近妙に人気があるんだよな。
+EN Ultimo:
+EN "Him... He's gotten weirdly popular
+EN  lately."
+
+@ 012
+JP #MS：
+JP 「そうみたいですね。
+EN #MS:
+EN "Seems so."
+
+@ 013
+JP #WS113：
+JP 「気をつけろよ。
+JP 　あいつは割と何でもこなすし、
+JP 　ズルイ事も大好きだからな。
+EN Ultimo:
+EN "Watch yourself. He can do pretty
+EN  much anything, and he loves dirty
+EN  tricks."
+
+@ 014
+JP #MS：
+JP 「分かってます。
+JP 　これでも少しは研究してますから。
+EN #MS:
+EN "I know. I've done a little homework."
+
+@ 015
+JP #WS113：
+JP 「・・・・何かお前、
+JP 　１枚脱皮したって感じがするよ。
+EN Ultimo:
+EN "....You know, it feels like you've shed
+EN  a skin."
+
+@ 016
+JP #MS：
+JP 「そうですか？
+JP 　うーん・・・どうなんでしょう？
+JP 　自分じゃ良く分かりませんよ。
+EN #MS:
+EN "You think so? Hmm... I wonder? I
+EN  can't really tell myself."
+
+@ 017
+JP #WS113：
+JP 「ハハハ、そりゃそうだ。
+EN Ultimo:
+EN "Ha ha ha, of course not."
+
+@ 018
+JP 「じゃあ俺は行くぞ。
+JP 　お前も試合、頑張れよ。
+EN "Well, I'm off. Good luck in your
+EN  match."
+
+@ 019
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Thanks!"

@@ -1,0 +1,69 @@
+@ 000
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 001
+JP #WS154：
+JP 「いや、驚いたよ。まさかお前が・・・
+EN Funaki:
+EN "Man, that was a shock. Who'd have
+EN  thought you'd...."
+
+@ 002
+JP ３度目の防衛戦以降、俺のコメントに
+JP 反応したかのように若い世代、新たな
+JP 外国人選手が育ち、上位陣に肉薄して来た。
+EN After my third defense, as if on cue,
+EN young guys and new foreigners closed
+EN in on the top.
+
+@ 003
+JP そして迎えた若手相手の４度目の防衛戦。
+EN Then came my fourth defense, against
+EN a young challenger.
+
+@ 004
+JP 無敵の王者であった俺は敗れ去ったのだ。
+EN And I, the unbeatable champ, went
+EN down.
+
+@ 005
+JP #MS：
+JP 「油断してた訳じゃないんですけどね・・・
+EN #MS:
+EN "It's not like I was careless..."
+
+@ 006
+JP #WS154：
+JP 「分かってる。お前の攻めはいつものように
+JP 　厳しかったし、隙も無かった。現に最後まで
+JP 　押しっ放しだった。
+EN Funaki:
+EN "I know. Your offense was as tough as
+EN  ever, no openings. You had him on
+EN  the ropes right to the end."
+
+@ 007
+JP 「今回はあのミクロの瞬間を捕らえた
+JP 　あいつを誉めてやるべきだろうな。
+EN "This time we just have to hand it to
+EN  him for seizing that split second."
+
+@ 008
+JP #MS：
+JP 「若い奴らも育って来てるんですね。
+EN #MS:
+EN "The young guys are coming up,
+EN  huh."
+
+@ 009
+JP #WS154：
+JP 「ああ。
+EN Funaki:
+EN "Yeah."
+
+@ 010
+JP 俺はどこか嬉しい気分だった。
+EN Somehow, I felt kind of happy.

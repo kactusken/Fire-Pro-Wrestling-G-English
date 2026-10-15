@@ -1,0 +1,344 @@
+@ 000
+JP 俺はメキシコでの初試合を終えた。
+EN My first match in Mexico was over.
+
+@ 001
+JP 記者：
+JP 「#MS選手！
+EN Reporter:
+EN "#MS!"
+
+@ 002
+JP #MS：
+JP 「はい！
+JP 　あれ、日本の記者の人・・・
+EN #MS:
+EN "Yes! Huh, a reporter from Japan..."
+
+@ 003
+JP 記者：
+JP 「僕は今メキシコ担当でね。
+JP 　来たらちょうど君が試合をしてたから。
+EN Reporter:
+EN "I cover Mexico now. I showed up just
+EN  as you were wrestling."
+
+@ 004
+JP 「で、初のメキシコでの試合、
+JP 　いかがでしたか？
+EN "So, how was your first match in
+EN  Mexico?"
+
+@ 005
+JP #MS：
+JP 「その、やっぱり、シンドかったです。
+JP 　初めてのメキシコですし・・・
+EN #MS:
+EN "Honestly, it was rough. It's my first
+EN  time in Mexico..."
+
+@ 006
+JP 「食べ物にあたったりして
+JP 　体調が良くないのが困りものですね。
+EN "I got food poisoning, and I'm not
+EN  feeling great. That's the problem."
+
+@ 007
+JP 記者：
+JP 「#WF160選手は
+JP 　いかがでしたか？
+EN Reporter:
+EN "And how was Negro Casas?"
+
+@ 008
+JP #MS：
+JP 「やっぱりベテランだけあって
+JP 　素晴らしい動きですよね。
+JP 　ビックリしました。
+EN #MS:
+EN "He's a real veteran. His moves are
+EN  amazing. I was blown away."
+
+@ 009
+JP 記者：
+JP 「それでは今後の抱負を聞かせて下さい。
+EN Reporter:
+EN "Then tell us your goals from here."
+
+@ 010
+JP ・とにかく頑張る。
+JP ・勝ちを意識する。
+JP ・地盤固めをしたい。
+EN ・Just give it my all.
+EN ・Focus on winning.
+EN ・Build a solid base.
+
+@ 011
+JP #MS：
+JP 「今はとにかく１歩でも上に行けるように、
+JP 　日々頑張るだけです！
+EN #MS:
+EN "Right now I just want to work hard
+EN  every day to climb even one step!"
+
+@ 012
+JP #MS：
+JP 「やっぱり勝ちを意識した闘いをしたいですね。
+EN #MS:
+EN "I want to wrestle with my eye on
+EN  winning."
+
+@ 013
+JP 「小さい団体から来たデビューしたての
+JP 　俺ですけど、来たからには結果としての
+JP 　勝利が欲しいですよ。
+EN "I'm a rookie from a small promotion,
+EN  but now that I'm here, I want results.
+EN  I want wins."
+
+@ 014
+JP #MS：
+JP 「目先の勝利よりも、今は何でも吸収して
+JP 　後々自分の力に出来るように・・・
+JP 　そういう意識で闘って行きたいですね。
+EN #MS:
+EN "Over quick wins, I want to soak up
+EN  everything now and make it my
+EN  strength later."
+
+@ 015
+JP 記者：
+JP 「なるほど・・・では、期待してます！
+JP 　頑張って下さい。
+EN Reporter:
+EN "I see... Well, we're counting on you!
+EN  Good luck."
+
+@ 016
+JP #MS：
+JP 「はい！ありがとうございます！
+EN #MS:
+EN "Right! Thank you!"
+
+@ 017
+JP 「フゥ・・・・
+EN "Phew...."
+
+@ 018
+JP ？：
+JP 「どうした、溜息なんかついて。
+EN ???:
+EN "What's wrong? Why the big sigh?"
+
+@ 019
+JP #MS：
+JP 「あ、#WS162！
+EN #MS:
+EN "Oh, Wagner!"
+
+@ 020
+JP 「ありがとう、おかげさまで
+JP 　何とか初試合、終わりました。
+EN "Thanks to you, I got through my
+EN  first match somehow."
+
+@ 021
+JP #WS162：
+JP 「良かったな。何か苦しそうだったけど。
+EN Wagner:
+EN "Good for you. You looked like you
+EN  were struggling, though."
+
+@ 022
+JP #MS：
+JP 「そうですね、やっぱりまだシンドイですよ。
+EN #MS:
+EN "Yeah, I'm still pretty rough."
+
+@ 023
+JP #WS162：
+JP 「夕べの食あたり、まだ治らないのか？
+EN Wagner:
+EN "Still sick from last night's food?"
+
+@ 024
+JP #MS：
+JP 「一晩寝たけどダメでしたよ。
+JP 　話には聞いてたけど・・・メキシコって
+JP 　衛生面で問題あるよなぁ・・・
+EN #MS:
+EN "Slept on it, but no luck. I'd heard
+EN  about it, but... Mexico's got some
+EN  hygiene issues, huh..."
+
+@ 025
+JP #WS162：
+JP 「そんな事はないぞ。
+JP 　ミー達は平気で暮らしてるじゃないか。
+EN Wagner:
+EN "That's not true. We all live here just
+EN  fine, don't we?"
+
+@ 026
+JP #MS：
+JP 「生まれた時からいればそりゃあ
+JP 　慣れるだろうけどさ・・・・
+EN #MS:
+EN "Sure, if you've been here since birth,
+EN  you get used to it...."
+
+@ 027
+JP #WS162：
+JP 「でも一流選手になるにはそのくらい
+JP 　平気にならないとダメだろう。どこの国でも
+JP 　自分の力を１００％発揮するのがプロだぞ。
+EN Wagner:
+EN "To be top-class, you must shrug that
+EN  off. A pro gives 100% in any country."
+
+@ 028
+JP #MS：
+JP 「うっ・・・確かにその通り・・・
+EN #MS:
+EN "Ugh... You're totally right..."
+
+@ 029
+JP 「みんなこうした苦しみを乗り越えて
+JP 　ビッグになって行くんだよな・・・・
+EN "Everyone gets through hardships
+EN  like this to make it big, huh...."
+
+@ 030
+JP 「よし、俺も負けずに頑張るぞ！
+EN "All right, I won't lose either!"
+
+@ 031
+JP #WS162：
+JP 「おう、その調子だ！
+EN Wagner:
+EN "Yes, that's the spirit!"
+
+@ 032
+JP 「じゃあ、夕飯食べに行くか。
+EN "Now, let's go get dinner."
+
+@ 033
+JP #MS：
+JP 「え！？
+EN #MS:
+EN "What!?"
+
+@ 034
+JP 今日は何と#WS162とタッグを
+JP 組んでもらえる事になった。
+EN Today, Wagner actually agreed to
+EN team up with me.
+
+@ 035
+JP しかも相手は更に驚きの
+JP #WF158、
+JP #WF160組だ。
+EN And even more amazing, our
+EN opponents were Hijo del Santo and
+EN Negro Casas.
+
+@ 036
+JP #WS160と言えばルード（悪役側）だと
+JP 思っていたが、今はテクニコ（正義側）らしい。
+EN I thought Casas was a rudo (heel), but
+EN now he's a tecnico (face), it seems.
+
+@ 037
+JP 一方の#WS158は、メキシコでは英雄だ。
+JP 日本で言えば#WS059さんみたいな
+JP 感じだろうか。
+EN Santo is a hero in Mexico. In Japan,
+EN he'd be like Baba, I guess.
+
+@ 038
+JP こんな大物とタッグとは言え試合が
+JP 出来るなんて・・・・
+EN Even as a tag, to be in a match with
+EN stars like these....
+
+@ 039
+JP #WS162：
+JP 「いいか、相手を良く見ろ。
+JP 　ルチャは特にそうだが、相手の動きを見て
+JP 　その流れに応じた動きをするんだ。
+EN Wagner:
+EN "Listen, watch your opponent. In
+EN  lucha above all, you read their moves
+EN  and flow with them."
+
+@ 040
+JP 「お互いがそうやって闘う事で
+JP 　試合にリズムが出来る。
+JP 　リズムの崩れた試合はみっともないからな。
+EN "Done by both sides, that gives the
+EN  match rhythm. A match with no
+EN  rhythm is an embarrassment."
+
+@ 041
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 042
+JP #WS162：
+JP 「#MS！聞いているのか！
+EN Wagner:
+EN "#MS! Are you listening!?"
+
+@ 043
+JP #MS：
+JP 「え！？あ、何？
+EN #MS:
+EN "Huh!? Oh, what?"
+
+@ 044
+JP #WS162は無言で首を左右に振っている。
+EN Wagner silently shook his head.
+
+@ 045
+JP #WS162：
+JP 「相手がビッグネームだからと言って
+JP 　感動している場合ではないだろう！
+EN Wagner:
+EN "This is no time to be starstruck by
+EN  big names!"
+
+@ 046
+JP #MS：
+JP 「そ、そうだな。うん。
+EN #MS:
+EN "R-right. Yeah."
+
+@ 047
+JP 「よし、気持ち切り替えた！
+EN "Okay, I've switched gears!"
+
+@ 048
+JP #WS162：
+JP 「まあいいだろう。
+EN Wagner:
+EN "Well, all right."
+
+@ 049
+JP 「それと観客に見えるように、伝わるように
+JP 　注意して動け。メキシコでは特に
+JP 　そうしないと認められないぞ。
+EN "And move so the crowd can see and
+EN  feel it. In Mexico especially, you
+EN  won't get respect otherwise."
+
+@ 050
+JP 「よし、じゃあ行って来い！
+EN "All right, go get 'em!"
+
+@ 051
+JP #MS：
+JP 「はい、行きます！
+EN #MS:
+EN "Yes, here I go!"

@@ -1,0 +1,19 @@
+# Lint settings: python3 -m pip install ruff && ruff check .
+target-version = "py38"
+line-length = 120
+
+[lint]
+# pyflakes, pycodestyle, bugbear (likely bugs), pyupgrade (for Python 3.8)
+select = ["F", "E", "W", "B", "UP"]
+ignore = [
+    "E402",   # tools put tools/ on sys.path before importing their siblings
+    "E731",   # small lambdas are used as local helpers
+    "E741",   # "l" and "I" appear in MIPS and pixel code
+]
+
+[lint.flake8-bugbear]
+# Defaults built from constant strings (repository-relative paths) are safe.
+extend-immutable-calls = ["paths.repo", "os.path.join"]
+
+[lint.per-file-ignores]
+"text/*.py" = ["E501"]   # translation tables: one entry per line

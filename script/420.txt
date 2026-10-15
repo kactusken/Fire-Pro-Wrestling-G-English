@@ -1,0 +1,44 @@
+@ 000
+JP #WS103：
+JP 「やったな。遂にシングルのベルトに挑戦か。
+EN Sting:
+EN "You did it. A singles title shot at
+EN  last."
+
+@ 001
+JP #MS：
+JP 「とうとうここまで来たんだなぁ・・・・
+EN #MS:
+EN "I've finally come this far...."
+
+@ 002
+JP #WS103：
+JP 「しかし#WF100には
+JP 　#WF132が
+JP 　つきまとってたよな？大丈夫か？
+EN Sting:
+EN "But Bam Bam Bigelow's been
+EN  hounding Bill Goldberg. You okay
+EN  with that?"
+
+@ 003
+JP #MS：
+JP 「そう思って、
+JP 　今日シングル組んでもらいました。
+EN #MS:
+EN "I figured, so I asked for a singles
+EN  match with him today."
+
+@ 004
+JP #WS103：
+JP 「オゥ、先制攻撃か？
+EN Sting:
+EN "Oh, a preemptive strike?"
+
+@ 005
+JP #MS：
+JP 「先に叩きのめして
+JP 　手出し出来ないようにしてやりますよ！
+EN #MS:
+EN "I'll beat him down first so he can't
+EN  interfere!"

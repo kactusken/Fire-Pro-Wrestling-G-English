@@ -1,0 +1,50 @@
+@ 000
+JP 結局五番勝負の初戦の相手は
+JP #WS046に決まった。
+EN In the end, my first opponent in the
+EN series was Omori.
+
+@ 001
+JP まずは同世代より抜きん出ている事を
+JP 証明しなければならないらしい。
+EN It seems I have to prove I stand out
+EN from my generation first.
+
+@ 002
+JP #WS066：
+JP 「今日は#WS046だって？
+EN Kikuchi:
+EN "You've got Omori today?"
+
+@ 003
+JP #MS：
+JP 「ええ。
+EN #MS:
+EN "Yeah."
+
+@ 004
+JP #WS066：
+JP 「同期同士、良い試合が出来そうだな。
+EN Kikuchi:
+EN "Two classmates. Should be a good
+EN  match."
+
+@ 005
+JP #MS：
+JP 「そうですね。
+JP 　『打てば響く』試合が出来そうです！
+EN #MS:
+EN "Right. Hit him and he'll hit back. It
+EN  should be a good one!"
+
+@ 006
+JP #WS065：
+JP 「#MS！出番だぞ！
+EN Fuchi:
+EN "#MS! You're up!"
+
+@ 007
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"

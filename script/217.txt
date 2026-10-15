@@ -1,0 +1,117 @@
+@ 000
+JP 記者：
+JP 「非常に残念でした。どちらが勝っても
+JP 　おかしくない試合でしたが・・・・・
+EN Reporter:
+EN "That was a real shame. It could have
+EN  gone either way....."
+
+@ 001
+JP #MS：
+JP 「負けましたけど内容には納得してます。
+EN #MS:
+EN "I lost, but I'm satisfied with the
+EN  match."
+
+@ 002
+JP 記者：
+JP 「内容もタイトルマッチに相応しいものでした。
+EN Reporter:
+EN "And it was a match worthy of a title
+EN  bout."
+
+@ 003
+JP #MS：
+JP 「明日につながる試合が出来たと思ってます。
+EN #MS:
+EN "I think it was a match that leads to a
+EN  better tomorrow."
+
+@ 004
+JP 記者：
+JP 「次期シリーズでは第一回
+JP 　『トップオブ#PS02トーナメント』が
+JP 　開かれます。
+EN Reporter:
+EN "Next series is the first-ever "Top of
+EN  #PS02 Tournament.""
+
+@ 005
+JP #MS：
+JP 「優勝狙って行きます！そしてもう一度
+JP 　タイトルに挑戦しますよ！
+EN #MS:
+EN "I'm going for the win! And then I'll
+EN  challenge for the title again!"
+
+@ 006
+JP 記者：
+JP 「ありがとうございました。
+EN Reporter:
+EN "Thank you very much."
+
+@ 007
+JP マスコミが帰った後、
+JP 俺は悔しさもあったが
+JP 全力でぶつかり合えた爽快感を感じていた。
+EN After the press left, I was frustrated,
+EN but also felt great about going all-out
+EN with him.
+
+@ 008
+JP まあ、また挑戦すればいいさ・・・・
+EN Well, I'll just challenge him again....
+
+@ 009
+JP #WS088：
+JP 「#MS！
+EN Fuji:
+EN "#MS!"
+
+@ 010
+JP #MS：
+JP 「あ、#WS088さん。おはようございます。
+EN #MS:
+EN "Oh, Mr. Fuji. Morning."
+
+@ 011
+JP #WS088：
+JP 「それどころじゃないぜ！
+JP 　#WS068がベルトを返上したんだよ！
+EN Fuji:
+EN "Never mind that! Hayabusa gave
+EN  back the belt!"
+
+@ 012
+JP #MS：
+JP 「えっ！？
+EN #MS:
+EN "What!?"
+
+@ 013
+JP #WS076色の古い#PS02の
+JP タイトルを永久封印し、
+JP 新たな#PS02ベルトを作るのだと言う。
+EN He'd seal away the old #PS02 title,
+EN stained with Onita's colors, and create
+EN a new #PS02 belt.
+
+@ 014
+JP #WS088：
+JP 「まさかあいつがそんな事考えてたなんてな。
+EN Fuji:
+EN "Who knew he was thinking about
+EN  something like that."
+
+@ 015
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 016
+JP 俺も漠然と考えていた事だった。
+JP まさか同じ事を考えていたなんて・・・・
+EN I'd vaguely been thinking the same
+EN thing. Who knew he had the same
+EN idea....

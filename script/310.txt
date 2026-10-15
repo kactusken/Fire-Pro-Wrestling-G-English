@@ -1,0 +1,102 @@
+@ 000
+JP もはや撃沈寸前のキャッスルに願ってもない
+JP チャンスが訪れた。
+EN A golden chance came to Kingdom,
+EN which was on the verge of sinking.
+
+@ 001
+JP #WS166：
+JP 「#MS、今日は頼むぜ！
+JP 　キャッスル代表なんだから。
+EN Anjoh:
+EN "#MS, I'm counting on you
+EN  today! You're representing Kingdom."
+
+@ 002
+JP 本格的なバーリトゥードの大会が
+JP 行われる事になり、キャッスルにも
+JP 出場要請が来たのだ。
+EN A real vale tudo tournament was
+EN being held, and Kingdom had been
+EN invited to take part.
+
+@ 003
+JP #MS：
+JP 「必ず・・・勝ちます！
+EN #MS:
+EN "I'll win... no matter what!"
+
+@ 004
+JP #WS166：
+JP 「メインの#WS165さんの試合に
+JP 　弾みをつけてやりたいしな。
+EN Anjoh:
+EN "I want to give Takada's main event
+EN  some momentum."
+
+@ 005
+JP #MS：
+JP 「そうですね！
+EN #MS:
+EN "Right!"
+
+@ 006
+JP そう、メインは
+JP #WF165対
+JP #WF169なのだ。
+EN Yes, the main event was Nobuhiko
+EN Takada vs. Rickson Gracie.
+
+@ 007
+JP #WS169は実に４５０戦無敗と言われ
+JP １度も負けた事が無いと言う
+JP 恐ろしい男である。
+EN Gracie, said to be 450-0, is a terrifying
+EN man who has never lost a fight.
+
+@ 008
+JP 日本人の格闘家が挑戦したが全て蹴散らし、
+JP 日本においても最強を体言して見せたのだ。
+JP そこで#WS165さんが立ち上がった。
+EN He'd crushed every Japanese
+EN challenger, proving himself the best
+EN in Japan too. So Takada stood up.
+
+@ 009
+JP 打倒#WL169の期待を一身に背負い、
+JP 今日リングに立つのだ。
+EN Carrying everyone's hopes of beating
+EN Gracie, he steps into the ring today.
+
+@ 010
+JP #WS166：
+JP 「そろそろじゃないのか？
+EN Anjoh:
+EN "Isn't it about time?"
+
+@ 011
+JP #MS：
+JP 「そうですね。
+EN #MS:
+EN "Yeah."
+
+@ 012
+JP #WS166：
+JP 「相手の#WS170は強いぞ。
+JP 　十分気をつけて行けよ！
+EN Anjoh:
+EN "Gordeau's strong. Watch yourself out
+EN  there!"
+
+@ 013
+JP 俺の対戦相手はあの
+JP #WF170。
+JP その道では有名な『喧嘩屋』だ。
+EN My opponent: Gerard Gordeau, the
+EN notorious "Street Fighter."
+
+@ 014
+JP #MS：
+JP 「行きます！
+EN #MS:
+EN "Here I go!"

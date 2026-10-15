@@ -1,0 +1,188 @@
+@ 000
+JP 俺はリング下でいつものように
+JP セコンドについていた。
+EN As usual, I was working as a second at
+EN ringside.
+
+@ 001
+JP カードは#WS042・#WS043組対
+JP #WS053・#WS049組。
+EN The card: Kawada and Taue vs.
+EN Albright and Takayama.
+
+@ 002
+JP #WS049は#WS042さんとの
+JP 対戦を望んで#PS01に移籍して来た
+JP 元ＵＷＨインテグラルの選手だ。
+EN Takayama is ex-UWF International.
+EN He came to #PS01 wanting to face
+EN Kawada.
+
+@ 003
+JP 相当入れ込んでいるようだ。
+EN He seems pretty obsessed.
+
+@ 004
+JP #WS049：
+JP 「おい、#WS042！俺と正々堂々闘え！
+EN Takayama:
+EN "Hey, Kawada! Fight me fair and
+EN  square!"
+
+@ 005
+JP 入場が終わるやいきなりのアピールだ。
+EN He called him out the second the
+EN entrances were over.
+
+@ 006
+JP #WS042：
+JP 「・・・・・・・・・
+EN Kawada:
+EN "........."
+
+@ 007
+JP #WS042さんはいなすように後ろを向き、
+JP コーナーの所に行ってしまう。
+EN Kawada brushed him off, turned his
+EN back and walked to the corner.
+
+@ 008
+JP #WS049：
+JP 「クッ・・・
+EN Takayama:
+EN "Ngh..."
+
+@ 009
+JP 「うおおおおっ！
+EN "Raaaaagh!"
+
+@ 010
+JP 怒りを抑えきれない#WS049は猛然と
+JP ダッシュ、立ち塞がった#WS043さんに
+JP 膝蹴りを入れた。
+EN Unable to hold back his rage,
+EN Takayama charged and kneed Taue,
+EN who stood in his way.
+
+@ 011
+JP #WS043さんが、勢い余って
+JP リングからこちらへ落ちて来た。
+JP だが何か様子がおかしい。
+EN Taue flew out of the ring and landed
+EN near me. But something was off.
+
+@ 012
+JP #WS043：
+JP 「・・・・・・・
+EN Taue:
+EN "......."
+
+@ 013
+JP 股間を押さえ、うずくまったまま動かない。
+JP 急所を蹴られたのか！
+EN He curled up, clutching his crotch,
+EN not moving. Did he get kneed in the
+EN groin!?
+
+@ 014
+JP #MS：
+JP 「#WS043さん！大丈夫ですか！？
+EN #MS:
+EN "Mr. Taue! Are you okay!?"
+
+@ 015
+JP そこへ#WS042さんに蹴られたらしい
+JP #WS049が落ちて来た。
+EN Then Takayama came tumbling out
+EN too, apparently kicked by Kawada.
+
+@ 016
+JP #WS049は#WS043さんを一瞥すると
+JP リングに戻ろうとしたが、俺が
+JP 睨みつけているのに気づいて止まった。
+EN Takayama glanced at Taue and went
+EN to get back in, but stopped when he
+EN saw me glaring.
+
+@ 017
+JP #WS049：
+JP 「何だ、この野郎！
+EN Takayama:
+EN "What're you looking at, punk!"
+
+@ 018
+JP #MS：
+JP 「急所蹴りなんかやってんじゃねぇぞ！
+EN #MS:
+EN "Don't you go kneeing guys in the
+EN  groin!"
+
+@ 019
+JP #WS049：
+JP 「何だと！だったらどうした！
+EN Takayama:
+EN "Oh yeah! So what if I did!"
+
+@ 020
+JP #MS：
+JP 「ふざけんな！
+EN #MS:
+EN "Screw you!"
+
+@ 021
+JP セコンドだけに手は出せないが俺達はしばらく
+JP 睨み合っていた。
+EN As a second, I couldn't lay a hand on
+EN him, but we glared at each other for a
+EN while.
+
+@ 022
+JP その後試合は#WS042さんが
+JP #WS049をピンフォールで下した。
+EN In the end, Kawada pinned Takayama.
+
+@ 023
+JP その試合の後に残ったもの。それは・・・・
+EN What that match left behind was....
+
+@ 024
+JP 俺と#WS049の抗争だった。
+EN A feud between me and Takayama.
+
+@ 025
+JP #WS049：
+JP 「・・・・・・・・・・
+EN Takayama:
+EN ".........."
+
+@ 026
+JP 試合前から俺に胸を突き出して挑発して来る
+JP #WS049。俺も構わずやり返す。
+EN Before the match, Takayama shoved
+EN his chest into me. I shoved right back.
+
+@ 027
+JP #MS：
+JP 「今日はお前を沈めてやるからな！
+EN #MS:
+EN "Tonight, I'm putting you down!"
+
+@ 028
+JP #WS049：
+JP 「それはこっちのセリフだ、この野郎！
+EN Takayama:
+EN "That's my line, punk!"
+
+@ 029
+JP 今日は#WS046と組んで
+JP #WS049・#WS050組との
+JP タッグマッチだ。
+EN Today it's Omori and me against
+EN Takayama and Kakihara in a tag
+EN match.
+
+@ 030
+JP #MS：
+JP 「行くぞ、この野郎！
+EN #MS:
+EN "Let's go, punk!"

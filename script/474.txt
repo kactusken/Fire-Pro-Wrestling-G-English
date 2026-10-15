@@ -1,0 +1,79 @@
+@ 000
+JP メキシコでの修行期間を終えた俺は
+JP #WS092社長に挨拶に来たのだ。
+EN My training stint in Mexico over, I
+EN came to report to our president,
+EN Sasuke.
+
+@ 001
+JP #WS092：
+JP 「おう、久しぶりだな。
+EN Sasuke:
+EN "Hey, long time no see."
+
+@ 002
+JP #MS：
+JP 「はい、すっかりご無沙汰で・・・・
+EN #MS:
+EN "Yes, it's been far too long...."
+
+@ 003
+JP #WS092：
+JP 「それでな。お前に今度は
+JP 　#PS02から話が来てるんだよ。
+EN Sasuke:
+EN "So, listen. This time you've got an
+EN  offer from #PS02."
+
+@ 004
+JP #MS：
+JP 「え？
+EN #MS:
+EN "Huh?"
+
+@ 005
+JP #WS092：
+JP 「どうだ、メキシコでの成果を活かし、
+JP 　更に新たな経験を積む。
+JP 　悪い話じゃないだろう？
+EN Sasuke:
+EN "Well? Use what you got in Mexico
+EN  and gain even more experience. Not a
+EN  bad deal, right?"
+
+@ 006
+JP #MS：
+JP 「行っても、いいんですか？
+EN #MS:
+EN "Are you sure it's okay for me to go?"
+
+@ 007
+JP #WS092：
+JP 「俺はお前の気持ちを聞いてるんだぞ。
+JP 　行かせる気が無いんなら
+JP 　わざわざ聞かないさ。
+EN Sasuke:
+EN "I'm asking what you want. If I didn't
+EN  mean to let you go, I wouldn't ask."
+
+@ 008
+JP #MS：
+JP 「それじゃあ、是非お願いします！
+EN #MS:
+EN "Then, yes, please!"
+
+@ 009
+JP #WS092：
+JP 「分かった。先方にはそう伝えておく。
+EN Sasuke:
+EN "Got it. I'll tell them."
+
+@ 010
+JP 「頑張って来いよ！
+EN "Give it your all!"
+
+@ 011
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"

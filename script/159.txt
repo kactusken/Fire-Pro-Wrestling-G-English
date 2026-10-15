@@ -1,0 +1,25 @@
+@ 000
+JP 二回戦に駒を進めた俺を待っていたのは
+JP #WS075。インディー団体
+JP ＷＩＮＮＩＮＧのエースだった男だ。
+EN In round two I faced Kanemura, once
+EN the ace of the indie promotion W*ING.
+
+@ 001
+JP #WS075：
+JP 「俺はこのトーナメントで優勝して
+JP 　ＷＩＮＮＩＮＧ魂を見せつけてやるんや！
+JP 　絶対負けられへんのや！
+EN Kanemura:
+EN "I'm gonna win this thing and show
+EN  y'all the W*ING spirit! No way I'm
+EN  losin'!"
+
+@ 002
+JP #MS：
+JP 「俺だって負けられないんだよ！
+JP 　ここでお前を倒して、決勝で#WS069を
+JP 　倒して、俺が優勝してやる！
+EN #MS:
+EN "I can't lose either! I'll beat you, beat
+EN  Tanaka in the final, and win it all!"

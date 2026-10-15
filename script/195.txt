@@ -1,0 +1,195 @@
+@ 000
+JP #WS074：
+JP 「おう兄弟！
+EN Jado:
+EN "Hey, brother!"
+
+@ 001
+JP #MS：
+JP 「あ、おはようございます。
+EN #MS:
+EN "Oh, morning."
+
+@ 002
+JP #WS074：
+JP 「#WS076が#PS02を
+JP 　出て行くらしいぞ。
+EN Jado:
+EN "Word is Onita's leaving #PS02."
+
+@ 003
+JP #MS：
+JP 「そうなんですか！？
+EN #MS:
+EN "Really!?"
+
+@ 004
+JP 新団体を設立してそこに移籍、
+JP 今後#PS02のリングには
+JP 一切上がらないと言う事らしい。
+EN He'd start a new promotion and move
+EN there, never to set foot in the
+EN #PS02 ring again, supposedly.
+
+@ 005
+JP #WS074：
+JP 「ま、どこまで信用出来るか分からねえけどな。
+EN Jado:
+EN "Course, who knows how much of that
+EN  you can trust."
+
+@ 006
+JP #MS：
+JP 「何で今更？
+EN #MS:
+EN "Why now?"
+
+@ 007
+JP #WS071：
+JP 「奴もさすがに自分の引き際を感じてるんだろ。
+EN Fuyuki:
+EN "Even he must feel it's time to bow
+EN  out."
+
+@ 008
+JP #MS：
+JP 「引き際と言っても・・・
+EN #MS:
+EN "Bow out, but..."
+
+@ 009
+JP #WS071：
+JP 「ハハハ！まあ信用出来ないがな、どうも
+JP 　今回は古傷の膝が原因らしいぞ。医者に
+JP 　そろそろヤバイって言われたらしいぞ。
+EN Fuyuki:
+EN "Hahaha! Who knows, but supposedly
+EN  it's his bad knee. Doc supposedly says
+EN  it's near its limit."
+
+@ 010
+JP 「で、残された時間にやり残した事を
+JP 　しておきたいらしい。
+EN "So supposedly he wants to finish
+EN  what he left undone while he still
+EN  can."
+
+@ 011
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 012
+JP #WS074：
+JP 「#WS071さん、らしい、らしいを
+JP 　連発しながらいやに情報が
+JP 　詳しくないですか？
+EN Jado:
+EN "Mr. Fuyuki, for all your
+EN  "supposedlys," you sure know a lot of
+EN  details."
+
+@ 013
+JP #WS071：
+JP 「うるさい！
+EN Fuyuki:
+EN "Shut up!"
+
+@ 014
+JP #WS074：
+JP 「痛っ！痛いっスよ、#WS071さん！
+EN Jado:
+EN "Ow! That hurts, Mr. Fuyuki!"
+
+@ 015
+JP #WS071：
+JP 「俺には独自の情報網があるんだよ！
+EN Fuyuki:
+EN "I've got my own sources!"
+
+@ 016
+JP #MS：
+JP 「ま、まあでもこれで新しいものを築く土壌は
+JP 　出来たんじゃないですか？
+EN #MS:
+EN "W-well, anyway, doesn't this give us
+EN  room to build something new?"
+
+@ 017
+JP #WS071：
+JP 「そうだよ。大事なのはそこなんだよ。
+JP 　これから、これからが俺達の本当の闘いに
+JP 　なる、って事なんだよ！
+EN Fuyuki:
+EN "Right. That's what matters. From
+EN  here on, this is where our real fight
+EN  begins!"
+
+@ 018
+JP #MS：
+JP 「そうですね・・・新しいインディー、
+JP 　新しい#PS02を作りましょう！
+EN #MS:
+EN "Yeah... Let's build a new indie scene,
+EN  a new #PS02!"
+
+@ 019
+JP #WS074：
+JP 「オー！！
+EN Jado:
+EN "Yeahhh!!"
+
+@ 020
+JP #WS071：
+JP 「頼むぞ、お前ら！
+EN Fuyuki:
+EN "Countin' on you guys!"
+
+@ 021
+JP 旧タイトル撤廃に続く#WS076離脱により
+JP 本当の意味で新しい
+JP #PS02がスタートする事になった。
+EN The old titles were scrapped, Onita
+EN was gone, and a truly new #PS02
+EN was born.
+
+@ 022
+JP #WS071：
+JP 「いよいよトーナメントだな。
+EN Fuyuki:
+EN "Tournament time at last."
+
+@ 023
+JP 新しい#PS02の第一歩がこの
+JP 『トップオブ#PS02トーナメント』
+JP という形で記される事になる。
+EN The new #PS02's first step would
+EN be written in the form of the "Top of
+EN #PS02 Tournament."
+
+@ 024
+JP #WS071：
+JP 「#MSは最初誰だっけ？
+EN Fuyuki:
+EN "#MS, who've you got first?"
+
+@ 025
+JP #MS：
+JP 「#WS070さんですね。
+EN #MS:
+EN "Ohya."
+
+@ 026
+JP #WS071：
+JP 「何だ、あのハゲか。
+JP 　まあ多少うまいとこがあるから気をつけろよ。
+EN Fuyuki:
+EN "What, that baldy? Well, he's got some
+EN  skill, so watch yourself."
+
+@ 027
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Right!"

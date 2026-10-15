@@ -1,0 +1,13 @@
+@ 000
+JP トーナメントを制したのは
+JP #WF073だった。
+EN The tournament went to Mr.
+EN Gannosuke.
+
+@ 001
+JP 大きなチャンスを逃したのは悔しいが
+JP 悔やんでいても仕方無い。
+JP 次のチャンスを待つしかないだろう。
+EN It stung to let a big chance slip, but
+EN there's no use dwelling on it. I'll just
+EN have to wait for the next one.

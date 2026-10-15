@@ -1,0 +1,84 @@
+@ 000
+JP 記者：
+JP 「初防衛おめでとうございます！
+EN Reporter:
+EN "Congratulations on your first
+EN  defense!"
+
+@ 001
+JP #MS：
+JP 「ありがとうございます。
+EN #MS:
+EN "Thank you."
+
+@ 002
+JP 記者：
+JP 「激しい闘いでした。
+EN Reporter:
+EN "That was a fierce fight."
+
+@ 003
+JP #MS：
+JP 「そうですね。すぐ負けると
+JP 　キング・オブ・#PS10の価値が
+JP 　下がっちゃうんで、必死でした。
+EN #MS:
+EN "Yeah. If I lose right away, the King
+EN  of #PS10 means less. So I gave it
+EN  everything."
+
+@ 004
+JP 記者：
+JP 「今後も頑張って防衛してください。
+EN Reporter:
+EN "Keep those defenses coming."
+
+@ 005
+JP #MS：
+JP 「はい。応援おねがいします！
+EN #MS:
+EN "I will. Please keep cheering!"
+
+@ 006
+JP 初防衛からしばらく経って、
+JP 今日は２度目の防衛戦が行われる。
+EN Some time after my first defense, it's
+EN time for defense number two.
+
+@ 007
+JP そう、相手は#WS155さんだ。
+JP 最近では殺気を感じさせるようになった。
+EN Yes, against Suzuki. Lately he's been
+EN giving off real bloodlust.
+
+@ 008
+JP ファンもその危険な香りに魅力を感じて
+JP 熱い声援を送っている。
+EN The fans love that scent of danger
+EN and cheer him on like crazy.
+
+@ 009
+JP #WS155：
+JP 「俺のスタイルは#WS154さんの言う
+JP 　ハイブリッドレスリングとは少し違うかも
+JP 　しれない。
+EN Suzuki:
+EN "My style may be a little different
+EN  from the 'hybrid wrestling' Funaki
+EN  talks about."
+
+@ 010
+JP 「だが今の俺のスタイルこそが、今まで
+JP 　求め続けて来たものだ。だから俺は
+JP 　このスタイルで勝ってみせる！
+EN "But my style now is what I've always
+EN  been searching for. And I'll win with
+EN  it!"
+
+@ 011
+JP #MS：
+JP 「なら俺も自分の全てをもって
+JP 　それに応えて見せましょう！
+EN #MS:
+EN "Then I'll answer it with everything
+EN  I've got!"

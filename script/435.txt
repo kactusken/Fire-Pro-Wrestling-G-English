@@ -1,0 +1,160 @@
+@ 000
+JP #WS134：
+JP 「いいよな、#WL119ズと
+JP 　試合が出来るなんてよ。
+EN TAKA:
+EN "Lucky you, getting to wrestle the
+EN  Road Warriors."
+
+@ 001
+JP #MS：
+JP 「さすがに最初は緊張しましたよ。
+JP 　でもやっぱり強いですね。
+JP 　凄いパワーでした。
+EN #MS:
+EN "I was nervous at first, I'll admit. But
+EN  they're really strong. Incredible
+EN  power."
+
+@ 002
+JP #WS134：
+JP 「へぇ・・・・
+EN TAKA:
+EN "Huh..."
+
+@ 003
+JP 「しかし何だな、確かにあの試合の後から
+JP 　お前と#WS123の扱いが
+JP 　少し良くなったよな。
+EN "Still, ever since that match, they've
+EN  been treating you and Shamrock a bit
+EN  better."
+
+@ 004
+JP #MS：
+JP 「そうですね。やっぱり認めてもらえた部分が
+JP 　あったんじゃないですかね？
+EN #MS:
+EN "Yeah. I guess they saw something in
+EN  us."
+
+@ 005
+JP #MS：
+JP 「あ、どうも。
+EN #MS:
+EN "Oh, hello."
+
+@ 006
+JP #WS123：
+JP 「サンキュー、#MS。ユーのおかげで
+JP 　チャンスが増えたよ。
+EN Shamrock:
+EN "Thanks, #MS. You've gotten me
+EN  more chances."
+
+@ 007
+JP #MS：
+JP 「こちらこそ！誘ってもらったおかげで
+JP 　少し上に近づきました。
+EN #MS:
+EN "Same here! Thanks to your invite, I'm
+EN  a step closer to the top."
+
+@ 008
+JP #WS123：
+JP 「そうかそうか。ミーは近々
+JP 　チーム『カンパニー』に入る事になりそうだ。
+EN Shamrock:
+EN "Glad to hear it. Looks like I'll be
+EN  joining the Corporation soon."
+
+@ 009
+JP #MS：
+JP 「チーム『カンパニー』？
+JP 　じゃあ悪の首脳部の用心棒ですか？
+EN #MS:
+EN "The Corporation? So you'll be the
+EN  evil bosses' bodyguard?"
+
+@ 010
+JP #WS123：
+JP 「まあそう言う事だ。
+JP 　これでタッグは組めなくなるが
+JP 　対戦する事はあるかもな。
+EN Shamrock:
+EN "Pretty much. So we can't team
+EN  anymore, but we might face each
+EN  other."
+
+@ 011
+JP #MS：
+JP 「そうですね。
+JP 　その時はまたいい試合しましょう！
+EN #MS:
+EN "True. If we do, let's have another
+EN  great match!"
+
+@ 012
+JP #WS123：
+JP 「ＯＫ、約束だ。
+EN Shamrock:
+EN "OK, it's a promise."
+
+@ 013
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "You got it!"
+
+@ 014
+JP 俺と握手を交わすと
+JP #WS123は出て行った。
+EN Shamrock shook my hand and left.
+
+@ 015
+JP #WS134：
+JP 「なるほどな。#WS123はもう
+JP 　トップグループの争いに入って行く訳だ。
+EN TAKA:
+EN "I see. So Shamrock's moving up into
+EN  the main event picture."
+
+@ 016
+JP #MS：
+JP 「そうみたいですね。
+EN #MS:
+EN "Looks that way."
+
+@ 017
+JP #WS134：
+JP 「で、お前は今日は誰と試合なんだ？
+EN TAKA:
+EN "So who're you wrestling today?"
+
+@ 018
+JP #MS：
+JP 「#WS185です。
+EN #MS:
+EN "Kane."
+
+@ 019
+JP #WS134：
+JP 「ああ、#WS185か・・・ってお前、
+JP 　一度は#PS06世界ヘビー級王座に
+JP 　ついた男じゃないか。
+EN TAKA:
+EN "Oh, Kane... Wait, he's held the
+EN  #PS06 World Heavyweight title!"
+
+@ 020
+JP 「お前ももうトップグループだな。
+EN "You're in the main event picture too
+EN  now."
+
+@ 021
+JP #MS：
+JP 「そうですね。
+JP 　でももっと上を狙えるように頑張りますよ！
+EN #MS:
+EN "I guess. But I'll keep working so I can
+EN  aim even higher!"

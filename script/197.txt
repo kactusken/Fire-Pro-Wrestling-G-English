@@ -1,0 +1,66 @@
+@ 000
+JP 俺は残念ながらトーナメント１回戦で
+JP 敗れてしまった。
+EN Sadly, I lost in the first round of the
+EN tournament.
+
+@ 001
+JP #WS075：
+JP 「まさかお前が負けるなんてな。
+EN Kanemura:
+EN "Never thought you'd lose."
+
+@ 002
+JP #MS：
+JP 「うるさいな！仕方無いだろ・・・・
+EN #MS:
+EN "Shut up! Couldn't be helped...."
+
+@ 003
+JP #WS075：
+JP 「お前との試合、楽しみにしとったのになぁ。
+EN Kanemura:
+EN "And I was lookin' forward to our
+EN  match."
+
+@ 004
+JP #MS：
+JP 「・・・・悪かったな。
+EN #MS:
+EN ".... Sorry."
+
+@ 005
+JP #WS075：
+JP 「ま、元気出せや。ワイが優勝したら
+JP 　コーヒー１杯ぐらいおごったるわ。
+EN Kanemura:
+EN "Well, chin up. If I win it all, I'll buy
+EN  ya a cup of coffee."
+
+@ 006
+JP #MS：
+JP 「せめてステーキとか言えないのかよ。
+EN #MS:
+EN "Couldn't you at least say a steak?"
+
+@ 007
+JP #WS075：
+JP 「世の中そんなに甘くは無いって事や。
+EN Kanemura:
+EN "Life ain't that sweet, pal."
+
+@ 008
+JP 何だか訳が分からなくなって来たが
+JP #WS075が俺を
+JP 励まそうとしてくれたらしいのは分かった。
+EN I was getting a little lost, but I could
+EN tell Kanemura was trying to cheer me
+EN up.
+
+@ 009
+JP いつまでもしょげていても仕方無い。
+JP 俺は諦めて#WS088との消化試合に
+JP 向かう事にした。
+EN No point moping forever. I gave up
+EN and headed out for my meaningless
+EN match with Fuji.

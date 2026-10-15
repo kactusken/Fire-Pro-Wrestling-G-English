@@ -1,0 +1,40 @@
+@ 000
+JP いよいよ、決勝戦。相手は
+JP #WF171・・・
+JP リングを替えての再戦となった。
+EN At last, the final, against Maurice
+EN Smith... A rematch on a different
+EN stage.
+
+@ 001
+JP #WS171：
+JP 「正直言ってミーはかなり驚いているよ。
+JP 　まさかユーとこう言う形で再会するとはね。
+EN Smith:
+EN "Honestly, I am very surprised. To
+EN  meet you again in this way."
+
+@ 002
+JP 「以前の発言を改めよう。ユーはヤングボーイ
+JP 　では無い。ミーのリスペクトに値する
+JP 　立派なファイターだ。
+EN "I take back what I said before. You
+EN  are no young boy. You are a fine
+EN  fighter, worthy of my respect."
+
+@ 003
+JP #MS：
+JP 「あなたに認めてもらって俺も嬉しいよ。
+JP 　でも勝負は別。優勝は俺だ！
+EN #MS:
+EN "I'm glad you see it that way. But a
+EN  fight's a fight. The title is mine!"
+
+@ 004
+JP #WS171：
+JP 「ユーの実力を認めた以上、ミーも始めから
+JP 　１００％で行く。前と同じと思うなよ！
+EN Smith:
+EN "Now that I respect your skill, I go
+EN  100% from the start. Don't think it will
+EN  be like before!"

@@ -1,0 +1,244 @@
+@ 000
+JP 俺達は#WL164ブラザーズとの
+JP 試合を終えて、控え室に戻ろうとしていた。
+EN Our match with the Mascaras
+EN Brothers over, we headed back to the
+EN locker room.
+
+@ 001
+JP #WS162：
+JP 「どうだった？
+JP 　#WL164ブラザーズは。
+EN Wagner:
+EN "How were the Mascaras Brothers?"
+
+@ 002
+JP #MS：
+JP 「うーん、さすがって感じでしたね。
+JP 　いや、まさか彼らと闘う機会が訪れるとは
+JP 　思ってもみなかったんで・・・・
+EN #MS:
+EN "Hmm, they were the real deal. I never
+EN  dreamed I'd get the chance to fight
+EN  them...."
+
+@ 003
+JP #WS162：
+JP 「ハハハ、感謝してくれよ。
+EN Wagner:
+EN "Ha ha ha, you can thank me."
+
+@ 004
+JP #MS：
+JP 「いや、本当にどうもありがとう！
+EN #MS:
+EN "No, really, thank you so much!"
+
+@ 005
+JP ？：
+JP 「おう！
+EN ???:
+EN "Hey!"
+
+@ 006
+JP #MS：
+JP 「あれ！？
+EN #MS:
+EN "Huh!?"
+
+@ 007
+JP #WS092：
+JP 「どうした、そんなに驚いて。
+EN Sasuke:
+EN "What's with the surprised look?"
+
+@ 008
+JP #MS：
+JP 「だって・・・何でここにいるんですか？
+EN #MS:
+EN "But... what are you doing here?"
+
+@ 009
+JP #WS092：
+JP 「色々商売の話があってな。
+JP 　アメリカに飛ぶところなんだ。
+EN Sasuke:
+EN "Got some business to take care of. I'm
+EN  on my way to America."
+
+@ 010
+JP #MS：
+JP 「アメリカ？
+EN #MS:
+EN "America?"
+
+@ 011
+JP #WS092：
+JP 「#PS06と専属契約の話が
+JP 　持ち上がっててな。
+JP 　直接行って会談を行う予定なんだ。
+EN Sasuke:
+EN "An exclusive deal with #PS06
+EN  came up. I'm going to meet with them
+EN  in person."
+
+@ 012
+JP #MS：
+JP 「へぇ～・・・凄いじゃないですか！
+EN #MS:
+EN "Whoa... That's amazing!"
+
+@ 013
+JP #WS092：
+JP 「で、途中ＥＸＷにもちょっと
+JP 　寄って行く事になってるんだ。
+EN Sasuke:
+EN "And on the way I'm stopping by ECW
+EN  for a bit."
+
+@ 014
+JP ＥＸＷとはアメリカの#PS02とも言うべき
+JP 団体だ。『ハードコア』をキーワードにした
+JP 過激なファイトをウリにしている。
+EN ECW is like America's #PS02. Its
+EN selling point is extreme fighting built
+EN on one word: "hardcore."
+
+@ 015
+JP #MS：
+JP 「そうなんですか。でもわざわざメキシコに
+JP 　俺の様子を見に来てくれるなんて。
+JP 　回り道で大変じゃないんですか？
+EN #MS:
+EN "I see. But you came all the way to
+EN  Mexico to check on me? Isn't that a
+EN  big detour?"
+
+@ 016
+JP #WS092：
+JP 「そりゃあそうだけどな。
+JP 　お前にもちゃんと用があって来たんだよ。
+EN Sasuke:
+EN "Sure it is. But I came here on
+EN  business with you, too."
+
+@ 017
+JP #MS：
+JP 「用、ですか？
+EN #MS:
+EN "Business?"
+
+@ 018
+JP #WS092：
+JP 「早く荷物まとめてくれ。
+EN Sasuke:
+EN "Hurry up and pack your bags."
+
+@ 019
+JP #MS：
+JP 「は？
+EN #MS:
+EN "Huh?"
+
+@ 020
+JP #WS092：
+JP 「お前も一緒に連れて行くんだよ。
+JP 　#PS06でもＥＸＷでも
+JP 　試合をやるんだよ。
+EN Sasuke:
+EN "You're coming with me. You'll
+EN  wrestle in #PS06 and ECW too."
+
+@ 021
+JP 「いい経験になるぞ！
+JP 　ホラ、飛行機のチケット取ってあるから
+JP 　早くしろ。
+EN "It'll be great experience! Come on,
+EN  I've got your plane ticket. Hurry."
+
+@ 022
+JP #MS：
+JP 「ええ！？わ、分かりました！
+EN #MS:
+EN "Whaaat!? O-okay!"
+
+@ 023
+JP 「それじゃあ#WS162、
+JP 　今まで色々とありがとう。
+JP 　またいつか会いましょう。
+EN "Well then, Wagner, thanks for
+EN  everything. Let's meet again
+EN  someday."
+
+@ 024
+JP #WS162：
+JP 「ＯＫ。良い旅を。
+EN Wagner:
+EN "OK. Have a good trip."
+
+@ 025
+JP #MS：
+JP 「ありがとう！
+EN #MS:
+EN "Thank you!"
+
+@ 026
+JP こうして俺は慌ただしく
+JP アメリカに飛ぶ事になった。
+EN And so, in a rush, I flew off to
+EN America.
+
+@ 027
+JP #WS092さんが言っていた通り、
+JP 俺はここＥＸＷで
+JP 試合をさせてもらう事になった。
+EN Just as Sasuke said, I got to wrestle
+EN here in ECW.
+
+@ 028
+JP 相手はこの団体のエース格の１人、
+JP #WF139。
+EN My opponent: one of the promotion's
+EN aces, Rob Van Dam.
+
+@ 029
+JP #WS139：
+JP 「ヘイ、ユー！ジャパニーズだからって
+JP 　遠慮はしないからな！
+EN RVD:
+EN "Hey, you! Don't expect me to go easy
+EN  just 'cause you're Japanese!"
+
+@ 030
+JP 「ミーは観客の求める
+JP 　ハードコアレスリングをするだけだ！
+EN "I just give the fans the hardcore
+EN  wrestling they want!"
+
+@ 031
+JP #MS：
+JP 「遠慮なんかいらないさ。
+JP 　あんたのプロレスを、
+JP 　俺に全部ぶつけて来てくれよ！
+EN #MS:
+EN "No need to go easy. Hit me with
+EN  everything you've got!"
+
+@ 032
+JP #WS139：
+JP 「ハッハッハァ！
+JP 　分かったよ、ジャパニーズ。
+EN RVD:
+EN "Ha ha haaa! You got it, Japanese."
+
+@ 033
+JP 「ただしぶっ潰されても
+JP 　後で文句は言うなよ？
+EN "But if you get crushed, don't come
+EN  crying to me later, OK?"
+
+@ 034
+JP #MS：
+JP 「よし来い！
+EN #MS:
+EN "Bring it on!"

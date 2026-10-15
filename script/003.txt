@@ -1,0 +1,973 @@
+@ 000
+JP 試合は終わった。
+EN The match was over.
+
+@ 001
+JP 俺は勝った。
+EN I won.
+
+@ 002
+JP あの#WF026に・・・・
+EN Against Kotetsu Yamamoto...
+
+@ 003
+JP 残念ながら俺は負けてしまった。
+EN Sadly, I lost.
+
+@ 004
+JP だが俺はこの闘いを通して、勝ち負けよりも
+JP 遥かに大事なものを得た。それは技術であり
+JP 経験であり、魂であった。
+EN But this fight gave me something far
+EN more important than winning. Skill,
+EN experience, and fighting spirit.
+
+@ 005
+JP 俺は確かに
+JP #WF026の遺伝子を
+JP 受け継いだのだ。
+EN I had truly inherited the genes of
+EN Kotetsu Yamamoto.
+
+@ 006
+JP #WL026先生がニヤリと笑いながら
+JP こちらを見ている。
+EN Coach Yamamoto was looking my way
+EN with a grin.
+
+@ 007
+JP #WL026：
+JP 「ハァ、ハァ、やる、ように、なったな、
+JP 　#MS。
+EN Yamamoto:
+EN "Hah, hah, you've, come, a long way,
+EN  #MS."
+
+@ 008
+JP #MS:
+JP 「あ、ありが、とう、ござい、ます。
+EN #MS:
+EN "Th-thank, you, sir."
+
+@ 009
+JP #WL026先生は坂上に
+JP 『１０分後に始める』と言って
+JP 控えの部屋に消えて行った。
+EN Coach Yamamoto told Sakagami "we
+EN start in ten minutes" and vanished
+EN into the back room.
+
+@ 010
+JP そして俺は気づいた。
+EN And then it hit me.
+
+@ 011
+JP #WL026先生は初めて
+JP 俺を名前で呼んでくれたのだ。
+EN For the first time, Coach Yamamoto
+EN had called me by name.
+
+@ 012
+JP その日の夜、俺はなかなか寝付けなかった。
+EN That night, I couldn't sleep.
+
+@ 013
+JP 俺にオファーの来た団体はどこなのだろうか。
+JP 明日で#WS026道場での生活は本当に
+JP 終わりなのだろうか。
+EN Who had made me an offer? Was my
+EN life at the Yamamoto Dojo really
+EN ending tomorrow?
+
+@ 014
+JP 俺はこれからどうなって行くのだろうか・・・
+EN What was going to happen to me...
+
+@ 015
+JP そして、運命の朝が来た。
+EN And then the fateful morning came.
+
+@ 016
+JP 坂上：
+JP 「いよいよだな。
+EN Sakagami:
+EN "This is it."
+
+@ 017
+JP #MS:
+JP 「ああ。いよいよだ。
+EN #MS:
+EN "Yeah. This is it."
+
+@ 018
+JP 坂上：
+JP 「俺、どこから声かかってるのかな・・・
+EN Sakagami:
+EN "Wonder who wants me..."
+
+@ 019
+JP 「先生だ。
+EN "It's the coach."
+
+@ 020
+JP #WL026：
+JP 「おい、#MS。
+EN Yamamoto:
+EN "Hey, #MS."
+
+@ 021
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 022
+JP #WL026：
+JP 「来客だ。
+EN Yamamoto:
+EN "You have a visitor."
+
+@ 023
+JP #MS：
+JP 「#WS013さん！
+EN #MS:
+EN "Mr. Choshu!"
+
+@ 024
+JP #WS013：
+JP 「おう。どうだ、ウチに来いよ。
+EN Choshu:
+EN "Yo. How about it? Come join us."
+
+@ 025
+JP #MS：
+JP 「本当ですか！？
+EN #MS:
+EN "Really!?"
+
+@ 026
+JP #WS013：
+JP 「ウソでこんな事言わないだろ。
+EN Choshu:
+EN "Would I joke about this?"
+
+@ 027
+JP #WL026：
+JP 「返事はどうした、返事は！
+EN Yamamoto:
+EN "Well? Answer the man!"
+
+@ 028
+JP #MS：
+JP 「は、はい！喜んで！
+JP 　よろしくお願いします！
+EN #MS:
+EN "Y-Yes! I'd be glad to! Thank you
+EN  very much!"
+
+@ 029
+JP こうして俺は#PL00に
+JP 入団する事になったのだった。
+EN And so I joined #PL00.
+
+@ 030
+JP #MS：
+JP 「#WS060さん！
+EN #MS:
+EN "Mr. Tsuruta!"
+
+@ 031
+JP #WS060：
+JP 「どうだい、#PL01に
+JP 　就職してみないか？
+EN Tsuruta:
+EN "How about it? Want to come work for
+EN  #PL01?"
+
+@ 032
+JP #MS：
+JP 「はい！俺も『就職』させてもらいます！
+EN #MS:
+EN "Yes! Please let me 'work' for you!"
+
+@ 033
+JP 「そして王道の名に恥じない
+JP 　レスラーになります！
+EN "And I'll be a wrestler worthy of the
+EN  King's Road!"
+
+@ 034
+JP #WS060：
+JP 「ハッハッハッハ。
+JP 　期待してるよ、#MSクン。
+EN Tsuruta:
+EN "Ha ha ha ha. I'm counting on you,
+EN  #MS."
+
+@ 035
+JP #MS：
+JP 「はい！よろしくお願いします！
+EN #MS:
+EN "Yes, sir! Thank you very much!"
+
+@ 036
+JP こうして俺は#PL01に
+JP 入団する事になったのだった。
+EN And so I joined #PL01.
+
+@ 037
+JP #MS：
+JP 「#WS088さん！
+EN #MS:
+EN "Mr. Fuji!"
+
+@ 038
+JP #WS088：
+JP 「ヘイ、#PL02で
+JP 　俺達とホットな闘いをしていかないか？
+EN Fuji:
+EN "Hey, wanna have some hot fights
+EN  with us in #PL02?"
+
+@ 039
+JP #MS：
+JP 「はい！喜んで！
+EN #MS:
+EN "Yes! I'd be glad to!"
+
+@ 040
+JP #WS088：
+JP 「ＯＫ、今日からお前は
+JP 　#PL02の一員だ！
+EN Fuji:
+EN "OK, from today you're part of
+EN  #PL02!"
+
+@ 041
+JP 「ヘイ！カモン、ロックンロール！
+EN "Hey! C'mon, rock 'n' roll!"
+
+@ 042
+JP こうして俺は#PL02に
+JP 入団する事になったのだった。
+EN And so I joined #PL02.
+
+@ 043
+JP #MS：
+JP 「#WS149さん！
+EN #MS:
+EN "Mr. Maeda!"
+
+@ 044
+JP #WS149：
+JP 「どうだ、うちで理想の闘いを
+JP 　目指してみないか。
+EN Maeda:
+EN "How about chasing the ideal fight
+EN  with us?"
+
+@ 045
+JP #MS：
+JP 「ＵＷＨ、理想の闘い・・・か。
+EN #MS:
+EN "UWF... the ideal fight..."
+
+@ 046
+JP #WS149：
+JP 「どや？
+EN Maeda:
+EN "Well?"
+
+@ 047
+JP #MS：
+JP 「はい、喜んで行かせてもらいます！
+EN #MS:
+EN "Yes, I'd be glad to join you!"
+
+@ 048
+JP 「理想の闘いと、
+JP 　最強のプロレスラーを目指して！
+EN "Chasing the ideal fight, and to be the
+EN  strongest wrestler!"
+
+@ 049
+JP #WS149：
+JP 「よし、決まりだ！
+EN Maeda:
+EN "Good, it's settled!"
+
+@ 050
+JP こうして俺はＵＷＨに
+JP 入団する事になったのだった。
+EN And so I joined UWF.
+
+@ 051
+JP #MS：
+JP 「ゾンビ・マサさん！
+EN #MS:
+EN "Masa!"
+
+@ 052
+JP 「と、言う事は#PL00・・・
+EN "So that means #PL00..."
+
+@ 053
+JP マサ：
+JP 「そうじゃないんだよ。
+EN Masa:
+EN "That's not it."
+
+@ 054
+JP 「知ってるかもしれないが、
+JP 　俺は#PS00の海外担当をやってる。
+EN "You may know this already, but I
+EN  handle overseas for #PS00."
+
+@ 055
+JP そうか。
+EN That's right.
+
+@ 056
+JP 確かあの#WF122や
+JP #WF107を
+JP 発掘して来たのはこの人だったはずだ。
+EN If I remember right, he's the one who
+EN discovered Vader and Scott Norton.
+
+@ 057
+JP #MS：
+JP 「じゃあ、もしかして・・・
+EN #MS:
+EN "Then, does that mean..."
+
+@ 058
+JP マサ：
+JP 「そう、アメリカに行ってみないか？
+EN Masa:
+EN "Yep. How about going to America?"
+
+@ 059
+JP #MS：
+JP 「アメリカ・・・
+EN #MS:
+EN "America..."
+
+@ 060
+JP マサ：
+JP 「正確にはアメリカの#PS05だがな。
+JP 　どうだ、考えた事もないか？
+EN Masa:
+EN "#PS05 in America, to be exact.
+EN  Ever thought about it?"
+
+@ 061
+JP #MS：
+JP 「いえ・・・
+EN #MS:
+EN "Not really..."
+
+@ 062
+JP アメリカか。正直ちょっと戸惑った。
+JP 日本でどうするかばかり考えていたからな・・・
+EN America. Honestly, it threw me. I'd
+EN only thought about Japan...
+
+@ 063
+JP しかし俺はこれもチャンスだと思った。
+EN But I figured this was a chance too.
+
+@ 064
+JP #MS：
+JP 「お世話になります！
+EN #MS:
+EN "I'm in your hands!"
+
+@ 065
+JP マサ：
+JP 「そうか。よし、早速手配しよう。
+EN Masa:
+EN "Good. I'll make the arrangements."
+
+@ 066
+JP こうして俺は
+JP アメリカに渡る事になったのだった。
+EN And so I was off to America.
+
+@ 067
+JP #MS：
+JP 「#WS013さん！
+EN #MS:
+EN "Mr. Choshu!"
+
+@ 068
+JP #WS013：
+JP 「おう。どうだ、ウチに来いよ。
+EN Choshu:
+EN "Yo. How about it? Come join us."
+
+@ 069
+JP #MS：
+JP 「本当ですか！？
+EN #MS:
+EN "Really!?"
+
+@ 070
+JP #WS013：
+JP 「お前なら#WS015も
+JP 　納得するだろう。
+EN Choshu:
+EN "Liger would be on board with you,
+EN  too."
+
+@ 071
+JP #WL026：
+JP 「返事はどうした、返事は！
+EN Yamamoto:
+EN "Well? Answer the man!"
+
+@ 072
+JP #MS：
+JP 「は、はい！喜んで！
+JP 　よろしくお願いします！
+EN #MS:
+EN "Y-Yes! I'd be glad to! Thank you
+EN  very much!"
+
+@ 073
+JP こうして俺は#PL00に
+JP 入団する事になったのだった。
+EN And so I joined #PL00.
+
+@ 074
+JP #MS：
+JP 「#WS092さん！
+EN #MS:
+EN "Mr. Sasuke!"
+
+@ 075
+JP #WS092：
+JP 「どうだい、ウチでルチャ・リブレを
+JP 　やってみないか？
+EN Sasuke:
+EN "How about doing some lucha libre
+EN  with us?"
+
+@ 076
+JP #MS：
+JP 「ルチャ・リブレ・・・・
+EN #MS:
+EN "Lucha libre..."
+
+@ 077
+JP #WS092：
+JP 「メキシコ仕込みの純粋なルチャをやるも良し、
+JP 　日本向けの和製ルチャをやるも良し。
+EN Sasuke:
+EN "Pure lucha straight from Mexico, or
+EN  Japanese-style lucha. Either!"
+
+@ 078
+JP 「どうだい？
+EN "What do you say?"
+
+@ 079
+JP #MS：
+JP 「はい、お願いします！
+EN #MS:
+EN "Yes, I'm in!"
+
+@ 080
+JP #WS092：
+JP 「よし！じゃあすぐに行こう！
+EN Sasuke:
+EN "Great! Then let's go right now!"
+
+@ 081
+JP #MS：
+JP 「え？
+EN #MS:
+EN "Huh?"
+
+@ 082
+JP #WS092：
+JP 「さあさあ！
+EN Sasuke:
+EN "C'mon, c'mon!"
+
+@ 083
+JP #MS：
+JP 「い、いえ、まだ色々と準備もありますし・・・
+EN #MS:
+EN "W-Wait, I still have to get things
+EN  ready and all..."
+
+@ 084
+JP #WS092：
+JP 「ん？そうか、じゃあ後で連絡くれよ。
+JP 　都内のホテルにいるからさ。
+EN Sasuke:
+EN "Hm? Oh, okay. Call me later, then.
+EN  I'm at a hotel in Tokyo."
+
+@ 085
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Okay."
+
+@ 086
+JP こうして俺は#PL04に
+JP 入団する事になったのだった。
+EN And so I joined #PL04.
+
+@ 087
+JP 俺が契約の説明を受けている間に、坂上の方でも
+JP 話が行われていたらしい。
+EN While I heard about my contract,
+EN Sakagami had been getting his offer
+EN too.
+
+@ 088
+JP 坂上：
+JP 「やったな、おい。
+EN Sakagami:
+EN "You did it, man."
+
+@ 089
+JP #MS：
+JP 「そう言うお前はどうだったんだ？
+EN #MS:
+EN "What about you?"
+
+@ 090
+JP 坂上：
+JP 「俺か？俺はな・・・
+EN Sakagami:
+EN "Me? Well..."
+
+@ 091
+JP 「王道、#PL01だ。
+EN "#PL01. The King's Road."
+
+@ 092
+JP #MS：
+JP 「やったじゃないか！
+EN #MS:
+EN "You did it!"
+
+@ 093
+JP 「俺達２人がメジャー２団体に行くのか！
+EN "Both of us going to the two major
+EN  promotions!"
+
+@ 094
+JP 坂上：
+JP 「将来、『夢の対決』とかになっちまうかもな！
+EN Sakagami:
+EN "Someday we'll be a 'dream match'!"
+
+@ 095
+JP 「#PL00だ。
+EN "#PL00."
+
+@ 096
+JP #MS：
+JP 「やったじゃないか！
+EN #MS:
+EN "You did it!"
+
+@ 097
+JP 「俺達２人がメジャー２団体に行くのか！
+EN "Both of us going to the two major
+EN  promotions!"
+
+@ 098
+JP 坂上：
+JP 「将来、『夢の対決』とかになっちまうかもな！
+EN Sakagami:
+EN "Someday we'll be a 'dream match'!"
+
+@ 099
+JP 「#PL00だ。
+EN "#PL00."
+
+@ 100
+JP #MS：
+JP 「やったじゃないか！
+JP 　メジャー#PS00か！
+EN #MS:
+EN "You did it! Major league #PS00!"
+
+@ 101
+JP 「団体の規模じゃ一歩先に行かれちまったな。
+EN "You're a step ahead of me when it
+EN  comes to size."
+
+@ 102
+JP 坂上：
+JP 「ビッグになったら
+JP 　メジャー対インディーの対決でもやるか？
+EN Sakagami:
+EN "When we make it big, let's do major
+EN  versus indie, huh?"
+
+@ 103
+JP 「アメリカに渡る事になったよ。
+EN "I'm going to America."
+
+@ 104
+JP #MS：
+JP 「アメリカ？
+EN #MS:
+EN "America?"
+
+@ 105
+JP 坂上：
+JP 「ああ。
+EN Sakagami:
+EN "Yeah."
+
+@ 106
+JP 「とりあえず#PS05に
+JP 　行く事になったよ。
+EN "For now, I'm going to #PS05."
+
+@ 107
+JP #MS：
+JP 「そうか。俺は何かピンと来ないな・・・
+EN #MS:
+EN "I see. I can't quite picture it..."
+
+@ 108
+JP 坂上：
+JP 「正反対の所に行くようなもんだからな。
+EN Sakagami:
+EN "It's like going to the opposite end of
+EN  the world."
+
+@ 109
+JP 「まあ見てろよ。
+JP 　でっかいアメリカンドリームを、
+JP 　この手につかんで帰ってくるぜ！
+EN "Just watch. I'll grab the American
+EN  dream with these hands and come
+EN  back!"
+
+@ 110
+JP 「#PL00だ。
+EN "#PL00."
+
+@ 111
+JP #MS：
+JP 「やったじゃないか！
+EN #MS:
+EN "You did it!"
+
+@ 112
+JP 「メジャー、#PS00だなんてな！
+EN "Major league #PS00, no less!"
+
+@ 113
+JP 坂上：
+JP 「お前がアメリカ行ってる間に、
+JP 　日本プロレス界の頂点に俺が立ってやるぜ！
+EN Sakagami:
+EN "While you're off in America, I'll be
+EN  on top of Japanese wrestling!"
+
+@ 114
+JP #MS：
+JP 「随分大きく出るな？
+EN #MS:
+EN "Big talk, huh?"
+
+@ 115
+JP 坂上：
+JP 「スケールのでかさで
+JP 　お前に負けたくないからな！
+EN Sakagami:
+EN "I don't want you beating me on
+EN  dreaming big!"
+
+@ 116
+JP 「#PL00だ。
+EN "#PL00."
+
+@ 117
+JP #MS：
+JP 「やったじゃないか！
+EN #MS:
+EN "You did it!"
+
+@ 118
+JP 「メジャー、#PS00だなんてな！
+EN "Major league #PS00, no less!"
+
+@ 119
+JP 坂上：
+JP 「へへ、一歩リードかな？
+EN Sakagami:
+EN "Heh, guess I'm a step ahead?"
+
+@ 120
+JP #MS：
+JP 「そう言ってられるのも今のうちだぜ。
+EN #MS:
+EN "Enjoy it while it lasts."
+
+@ 121
+JP 坂上：
+JP 「へへっ、だといいけどな。
+EN Sakagami:
+EN "Heh, I hope it does."
+
+@ 122
+JP #MS：
+JP 「まあそれにしても今まで頑張って来た
+JP 　甲斐があったよな。
+EN #MS:
+EN "Still, all our hard work finally paid
+EN  off."
+
+@ 123
+JP 坂上：
+JP 「そうだな・・・・
+EN Sakagami:
+EN "Yeah..."
+
+@ 124
+JP 「でも、何か・・・な。
+EN "But, you know... it's kinda..."
+
+@ 125
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 126
+JP #WL026：
+JP 「どうした、支度は終わったのか？
+EN Yamamoto:
+EN "What's this? Are you packed?"
+
+@ 127
+JP #MS：
+JP 「#WL026先生・・・・
+EN #MS:
+EN "Coach Yamamoto..."
+
+@ 128
+JP 「今まで・・・・
+JP 　今まで本当にお世話になりました！
+EN "For everything... thank you so much,
+EN  for everything!"
+
+@ 129
+JP 坂上：
+JP 「ありがとうございました！
+EN Sakagami:
+EN "Thank you, sir!"
+
+@ 130
+JP #WL026：
+JP 「フフフ・・・良く頑張ったな、お前達。
+EN Yamamoto:
+EN "Heh heh... You did well, you two."
+
+@ 131
+JP 「だが昨日も言ったようにここは
+JP 　お前達にとって巣立ちの為の力を蓄える
+JP 　場所に過ぎない。
+EN "But like I said yesterday, this place is
+EN  just where you build up the strength
+EN  to leave the nest."
+
+@ 132
+JP 「重要なのはあくまでもこれから。
+JP 　１人で自分の『ファイティングロード』を
+JP 　歩き出してからだ！
+EN "What matters is what comes next.
+EN  Once you start walking your own
+EN  'Fighting Road' alone!"
+
+@ 133
+JP 「いいか！プロレスの歴史に名を刻め！
+JP 　観客１人１人の心に己の姿を焼き付けろ！
+EN "Listen! Carve your names in history!
+EN  Burn yourselves into the heart of
+EN  every fan!"
+
+@ 134
+JP 「その為には、レスラーの闘いの場は
+JP 　『観客に囲まれた』リングの上だと
+JP 　言う事を決して忘れるな！
+EN "And for that, never forget: a
+EN  wrestler's battlefield is the ring,
+EN  'surrounded by the crowd'!"
+
+@ 135
+JP 「わしから言う事はそれだけだ。
+EN "That's all I have to say."
+
+@ 136
+JP #MS：
+JP 「今の言葉、忘れません。
+EN #MS:
+EN "I won't forget those words."
+
+@ 137
+JP 坂上：
+JP 「心しておきます。
+EN Sakagami:
+EN "I'll keep them in my heart."
+
+@ 138
+JP #WL026：
+JP 「ではな。わしは部屋の片付けが忙しいから
+JP 　ここでお別れだ。
+EN Yamamoto:
+EN "Well then. I'm busy tidying my room,
+EN  so this is goodbye."
+
+@ 139
+JP 「お前達の活躍がわしの耳に
+JP 　入って来る事を祈っているぞ。
+EN "I'll be hoping to hear about your
+EN  success."
+
+@ 140
+JP #MS＆坂上：
+JP 「ありがとうございました！
+EN #MS & Sakagami:
+EN "Thank you, sir!"
+
+@ 141
+JP #WL026先生は後ろ手に片手を上げて
+JP 会釈をすると去って行った。
+EN Coach Yamamoto raised one hand
+EN over his shoulder in a nod, and walked
+EN away.
+
+@ 142
+JP 俺達はしばらく
+JP #WL026先生のいる部屋に
+JP 礼をし続けた。
+EN For a long while we kept bowing
+EN toward Coach Yamamoto's room.
+
+@ 143
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 144
+JP 坂上：
+JP 「なあ。
+EN Sakagami:
+EN "Hey."
+
+@ 145
+JP #MS：
+JP 「ん？
+EN #MS:
+EN "Hm?"
+
+@ 146
+JP 坂上：
+JP 「良く考えたら、お前とも
+JP 　ここで一旦お別れだな。
+EN Sakagami:
+EN "Come to think of it, this is goodbye
+EN  for us too, for now."
+
+@ 147
+JP #MS：
+JP 「そう言えばそうかもな。これからは
+JP 　お互い忙しいだろうしな。
+EN #MS:
+EN "Guess it is. We'll both be busy from
+EN  here on."
+
+@ 148
+JP 坂上：
+JP 「いつか・・・・
+EN Sakagami:
+EN "Someday..."
+
+@ 149
+JP 「いつか俺達２人がビッグになって、
+JP 　どこかの大会場のメインイベントで
+JP 　ぶつかりあえたら・・・・
+EN "Someday, when we've both made it
+EN  big, if we could clash in the main
+EN  event at some huge arena..."
+
+@ 150
+JP 「最高だよな。
+EN "That'd be the best."
+
+@ 151
+JP #MS：
+JP 「ああ・・・・
+EN #MS:
+EN "Yeah..."
+
+@ 152
+JP 「いつか、必ずやろうぜ！
+JP 　ビッグになった俺達の試合を、大観衆の前で！
+EN "Someday, let's do it for sure! Our
+EN  match, in front of a huge crowd!"
+
+@ 153
+JP 坂上：
+JP 「おう！
+EN Sakagami:
+EN "You bet!"
+
+@ 154
+JP 「へっ、それまでにちゃんと
+JP 　ビッグになっとけよ！
+EN "Heh, make sure you've made it big by
+EN  then!"
+
+@ 155
+JP #MS：
+JP 「お前こそな！その時に平凡な地位に
+JP 　落ち付いてるんじゃねえぞ！
+EN #MS:
+EN "You too! Don't you go settling for
+EN  some average spot!"
+
+@ 156
+JP 坂上：
+JP 「へへへ・・・じゃあな。
+EN Sakagami:
+EN "Heh heh... See ya."
+
+@ 157
+JP 坂上が手をかざす。
+EN Sakagami raises his hand.
+
+@ 158
+JP 俺も同じように手を挙げる。
+EN I raise mine the same way.
+
+@ 159
+JP ２人の手が空中でぶつかり合い、
+JP 派手な音を立てる。
+EN Our hands slap together in midair
+EN with a loud crack.
+
+@ 160
+JP そのまま俺達はまとめてあった
+JP 自分の荷物を持ち、
+JP それぞれの道を歩いて行った。
+EN Then we each picked up the bags we'd
+EN packed, and walked our separate
+EN ways.
+
+@ 161
+JP 振りかえる事無く・・・
+EN Without looking back...

@@ -1,0 +1,224 @@
+@ 000
+JP 俺はマイクを掴むと、苦しそうに膝をついている
+JP #WS173にマイクで
+JP 何か言ってやろうと思った。
+EN I grabbed the mic. Ogawa was on one
+EN knee, hurting. I wanted to tell him
+EN something.
+
+@ 001
+JP ・同じ言い方で言い返す。
+JP ・役者が上だと思わせるアピールをする。
+JP ・相手にしない。
+EN ・Throw his words back at him.
+EN ・Show who's the better showman.
+EN ・Ignore him.
+
+@ 002
+JP #MS：
+JP 「オイオイオイオイ！もう終りかよ！
+JP 　冗談じゃねーぞ！オラ！
+JP 　こんなもんか、ＵＬＯはよぉ！
+EN #MS:
+EN "Hey hey hey hey! That's it?! You
+EN  gotta be kidding! Huh!? This is
+EN  UFO?!"
+
+@ 003
+JP 「ＵＬＯファンの皆様！
+JP 　目を覚まして下さいッ！
+EN "UFO fans! Wake up!"
+
+@ 004
+JP その後、俺は不敵な笑みを浮かべてリングを
+JP 降りた。この間の影響か、誰も乱闘を
+JP 仕掛けて来ようとはしなかった。
+EN Then I left the ring with a fearless
+EN grin. Maybe because of last time,
+EN nobody tried to start a brawl.
+
+@ 005
+JP #MS：
+JP 「おい#WS173。
+EN #MS:
+EN "Hey, Ogawa."
+
+@ 006
+JP 会場が静まる。
+EN The arena went quiet.
+
+@ 007
+JP 「お前の闘いはハートに来ないんだよ。
+JP 　何の為に闘ってんだよ、お前。
+EN "Your fighting doesn't reach the
+EN  heart. What are you even fighting
+EN  for?"
+
+@ 008
+JP 「俺はプロレスを守る為に、自分の魂を守る為に
+JP 　闘ったよ。お前は何だ、え？
+JP 　#WS012の代役か？ただの手駒かよ！
+EN "I fought to protect pro wrestling, to
+EN  protect my soul. What about you?
+EN  Inoki's stand-in? Just a pawn?!"
+
+@ 009
+JP 「自分の闘いが出来ないんじゃな、
+JP 　誰の心にもお前の闘いは届かないんだよ。
+EN "If you can't fight your own fight, it
+EN  won't reach anybody's heart."
+
+@ 010
+JP 「もし！もしお前が誰の代役でもない、
+JP 　自分の闘いに気がついたら！俺はいつでも
+JP 　やってやるよ！待ってるぞ！！
+EN "If! If you ever find a fight that's
+EN  your own, not anyone's stand-in! I'll
+EN  take you on anytime! I'll be waiting!!"
+
+@ 011
+JP 俺は言い終えるとマイクを叩き付けて
+JP リングを降りた。
+EN When I finished, I slammed down the
+EN mic and left the ring.
+
+@ 012
+JP 俺がリング下に降りた時、お客達が
+JP 思い出したように騒ぎ出した。おおむね
+JP 好評だったようだ。
+EN As I hit the floor, the crowd erupted
+EN as if they'd just remembered to. It
+EN went over well.
+
+@ 013
+JP #MS：
+JP 「どうだ、これが結果だよ。
+EN #MS:
+EN "There you go. That's the result."
+
+@ 014
+JP 俺は素っ気無く言い捨てるとリングを降りた。
+EN I tossed that off curtly and left the
+EN ring.
+
+@ 015
+JP 俺がリング下に降りた時、お客達が
+JP 思い出したように騒ぎ出した。
+EN As I hit the floor, the crowd erupted
+EN as if they'd just remembered to.
+
+@ 016
+JP 記者：
+JP 「#MSさん！
+EN Reporter:
+EN "#MS!"
+
+@ 017
+JP 「おめでとうございます！
+JP 　今日の#WS173選手、
+JP 　どうでしたか？
+EN "Congratulations! What did you think
+EN  of Ogawa today?"
+
+@ 018
+JP #MS：
+JP 「リングの上が全てですよ。
+EN #MS:
+EN "What happened in the ring says it
+EN  all."
+
+@ 019
+JP 記者：
+JP 「プロレスファンも関係者も、
+JP 　溜飲が下がる思いだったと思いますが。
+EN Reporter:
+EN "I think fans and insiders alike feel
+EN  vindicated."
+
+@ 020
+JP #MS：
+JP 「そうですね。やっぱりこの間、
+JP 　ああいう形になって・・・誰かがやらなきゃ
+JP 　いけない事だったんでね。
+EN #MS:
+EN "Yeah. After how things went last
+EN  time... somebody had to do it."
+
+@ 021
+JP 「あと１つ言っておきたいんですよ。
+JP 　俺はあまり会社に干渉されないで済んだんで
+JP 　勝てたんだと思ってます。
+EN "One more thing I want to say. I think
+EN  I won because the company didn't
+EN  meddle with me much."
+
+@ 022
+JP 記者：
+JP 「それはどういう・・・
+EN Reporter:
+EN "What do you mean by..."
+
+@ 023
+JP 余計な事とは思いつつも
+JP 何故か最後に一言言ってしまった。
+EN I knew I shouldn't, but I couldn't help
+EN adding that last bit.
+
+@ 024
+JP 心のどこかで#WS001さんの事が
+JP ずっと気になっていたからだろう。
+EN Maybe because part of me was still
+EN worried about Hashimoto.
+
+@ 025
+JP だがもういい。
+JP これからは純粋なプロレスで
+JP 勝負すればいいのだから・・・
+EN But enough. From here on, I just have
+EN to compete in pure pro wrestling...
+
+@ 026
+JP 試合後、#WS173はマイクを握り・・・
+EN After the match, Ogawa took the
+EN mic...
+
+@ 027
+JP #WS173：
+JP 「おいおいおい！
+JP 　プロレスの復讐じゃなかったのかよ！
+JP 　本当にこれじゃ終わりだな、おい！
+EN Ogawa:
+EN "Hey hey hey! Wasn't this pro
+EN  wrestling's revenge?! It really is over
+EN  now!"
+
+@ 028
+JP 俺は脳しんとうを起こし、意識が薄れていた。
+JP しかし、#WS173がリング上で
+JP 好き放題に言っているのは、聞き取れていた。
+EN I had a concussion and was fading.
+EN But I could hear Ogawa running his
+EN mouth in the ring.
+
+@ 029
+JP #WS173：
+JP 「#PL00も終わりだな！
+JP 　これからはＵＬＯだ！
+JP 　みんな、#WS012イズムを見に来いよ！
+EN Ogawa:
+EN "#PL00 is finished! UFO is the
+EN  future! Everybody come see
+EN  Inoki-ism!"
+
+@ 030
+JP 今度は乱闘にならなかったが、
+JP #PS00勢の悔しそうな顔が目に映る。
+EN There was no brawl this time, but I
+EN saw the bitter faces of the #PS00
+EN guys.
+
+@ 031
+JP 俺は自己嫌悪に陥った。今回だけは負けては
+JP いけない闘いだったのに・・・・
+EN I hated myself. This was the one fight
+EN I couldn't afford to lose...

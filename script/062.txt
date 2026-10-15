@@ -1,0 +1,33 @@
+@ 000
+JP #WS076：
+JP 「出て来い、#WS013！
+JP 　#WS013！#WS013！
+EN Onita:
+EN "Get out here, Choshu! Choshu!
+EN  Choshu!"
+
+@ 001
+JP 俺は結局奴の叫びを止める事は出来なかった。
+JP 確かに体はボコボコにしてやった。
+JP でもそれだけでは意味が無かったのだ・・・
+EN In the end I couldn't silence his
+EN shouting. Sure, I beat him black and
+EN blue. But that alone meant nothing...
+
+@ 002
+JP その後#MSは低迷期を迎える。
+EN After that, #MS hit a slump.
+
+@ 003
+JP #WS076との試合がきっかけになったのは
+JP 間違いなかった。
+EN There was no doubt the Onita match
+EN had set it off.
+
+@ 004
+JP やがて#MSは引退。
+JP どこかの道場を引き継いだと言う噂を最後に、
+JP 彼の名はプロレス界から消えたのだった・・・
+EN #MS soon retired. After a last
+EN rumor that he'd taken over a dojo, his
+EN name faded from wrestling...

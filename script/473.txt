@@ -1,0 +1,82 @@
+@ 000
+JP #PS05での修行期間を終えた俺は
+JP #WS092社長に挨拶に来たのだ。
+EN My training stint at #PS05 over, I
+EN came to report to our president,
+EN Sasuke.
+
+@ 001
+JP #WS092：
+JP 「おう、久しぶりだな。
+EN Sasuke:
+EN "Hey, long time no see."
+
+@ 002
+JP #MS：
+JP 「はい、すっかりご無沙汰で・・・・
+EN #MS:
+EN "Yes, it's been far too long...."
+
+@ 003
+JP #WS092：
+JP 「それでな。お前今度は
+JP 　メキシコで修行をする気は無いか？
+EN Sasuke:
+EN "So, listen. How'd you like to train in
+EN  Mexico next?"
+
+@ 004
+JP #MS：
+JP 「え？
+EN #MS:
+EN "Huh?"
+
+@ 005
+JP #WS092：
+JP 「で、どうする？
+EN Sasuke:
+EN "So, what'll it be?"
+
+@ 006
+JP #MS：
+JP 「行っても、いいんですか？
+EN #MS:
+EN "Are you sure it's okay for me to go?"
+
+@ 007
+JP #WS092：
+JP 「俺はお前の気持ちを聞いてるんだぞ。
+JP 　行かせる気が無いんなら
+JP 　わざわざ聞かないさ。
+EN Sasuke:
+EN "I'm asking what you want. If I didn't
+EN  mean to let you go, I wouldn't ask."
+
+@ 008
+JP #MS：
+JP 「それじゃあ、是非お願いします！
+EN #MS:
+EN "Then, yes, please!"
+
+@ 009
+JP #WS092：
+JP 「分かった。向こうでは
+JP 　#WF162が
+JP 　お前の面倒を見てくれる事になってる。
+EN Sasuke:
+EN "Got it. Over there, Dr. Wagner Jr. will
+EN  be looking after you."
+
+@ 010
+JP 「頑張って来いよ！
+EN "Give it your all!"
+
+@ 011
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 012
+JP そして俺はメキシコへと飛んだ。
+EN And so I flew off to Mexico.

@@ -1,0 +1,46 @@
+@ 000
+JP 記者：
+JP 「どうでしたか？
+JP 　初の王道プロレスを体感した訳ですが？
+EN Reporter:
+EN "How was it? Your first taste of
+EN  King's Road wrestling?"
+
+@ 001
+JP #MS：
+JP 「そうですね。やっぱり凄かったです。
+JP 　体力と言うか、パワーと言うか・・・
+EN #MS:
+EN "Well, it was something else. The
+EN  stamina, the power..."
+
+@ 002
+JP 記者：
+JP 「今後も参戦して行きたいですか？
+EN Reporter:
+EN "Do you want to keep wrestling
+EN  there?"
+
+@ 003
+JP #MS：
+JP 「出来ればそうしたいですね。ただ自分の
+JP 　団体の活動もあるし、#WS059さんが
+JP 　どう思われたか分かりませんし。
+EN #MS:
+EN "If I can. But I've got my own
+EN  promotion, and I don't know what Mr.
+EN  Baba thought."
+
+@ 004
+JP 記者：
+JP 「ではファンに一言。
+EN Reporter:
+EN "A word for the fans, then."
+
+@ 005
+JP #MS：
+JP 「#PS09、
+JP 　頑張ってますので、一度見に来て下さい！
+EN #MS:
+EN "#PS09 is working hard, so come
+EN  see us sometime!"

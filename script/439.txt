@@ -1,0 +1,191 @@
+@ 000
+JP ディンク：
+JP 「やってくれたな。
+EN McMahon:
+EN "Well, you've done it now."
+
+@ 001
+JP オーナーは呆れ顔だ。
+EN The owner looked exasperated.
+
+@ 002
+JP #MS：
+JP 「済みません・・・・
+EN #MS:
+EN "I'm sorry..."
+
+@ 003
+JP 俺はタッグマッチの後、#WS183の
+JP 後頭部を思いっきりイスで叩いて
+JP 失神させてしまったのだ。
+EN After the tag match, I'd cracked The
+EN Rock over the back of the head with a
+EN chair and knocked him out cold.
+
+@ 004
+JP ディンク：
+JP 「別にユーが悪い訳では無い。
+JP 　乱闘中だったのだからな。
+JP 　しかしよりによって#WS183を・・・
+EN McMahon:
+EN "It's not your fault. It was a brawl.
+EN  But The Rock, of all people..."
+
+@ 005
+JP #MS：
+JP 「どうかしたんですか？
+EN #MS:
+EN "Is something wrong?"
+
+@ 006
+JP ディンク：
+JP 「実はその事で#WS183はかなり
+JP 　プライドを傷つけられたらしくてな。
+EN McMahon:
+EN "His pride took quite a blow from it."
+
+@ 007
+JP 「ユーとベルトを賭けて闘うのだと
+JP 　言い張っているのだ。
+EN "Now he insists on facing you with
+EN  the belt on the line."
+
+@ 008
+JP #MS：
+JP 「本当ですか？
+EN #MS:
+EN "Really?"
+
+@ 009
+JP ディンク：
+JP 「そんな嬉しそうな顔をするな。
+JP 　悪いがベルトはやれないのだ。
+EN McMahon:
+EN "Don't look so happy. I'm afraid I
+EN  can't give you the belt."
+
+@ 010
+JP #MS：
+JP 「え？
+EN #MS:
+EN "Huh?"
+
+@ 011
+JP ディンク：
+JP 「次のビッグマッチで#WS183と
+JP 　#WS117のタイトルマッチを
+JP 　予定しているのだ。
+EN McMahon:
+EN "The Rock and Austin are set for the
+EN  title at our next big show."
+
+@ 012
+JP 「メインのカードはビッグマッチの顔だ。
+JP 　そして観客を呼び寄せるパワーのある
+JP 　カードでなければならない。
+EN "The main event is the face of a big
+EN  show. It has to be a card that can
+EN  draw a crowd."
+
+@ 013
+JP 「悪いが今のユーにはそれだけの力は
+JP 　無いと思ってる。
+EN "And frankly, I don't think you have
+EN  that drawing power yet."
+
+@ 014
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 015
+JP ディンク：
+JP 「だからタイトルマッチを組む事は出来るが
+JP 　結果のいかんを問わずベルトはやれない。
+JP 　それでもタイトルマッチにするか？
+EN McMahon:
+EN "I can make it a title match, but win
+EN  or lose, the belt isn't yours. Still want
+EN  it for the title?"
+
+@ 016
+JP #MS：
+JP 「・・・・いえ、ノンタイトルで結構です。
+EN #MS:
+EN "...No. Non-title is fine."
+
+@ 017
+JP ディンク：
+JP 「そう暗い顔をするな。
+JP 　今の調子で頑張ってくれればチャンスも
+JP 　自ずと来る。必要以上に焦る事はない。
+EN McMahon:
+EN "Don't look so glum. Keep this up and
+EN  your chance will come. No need to
+EN  rush."
+
+@ 018
+JP 「それにな、物事にはタイミングと言うものが
+JP 　ある。レスラーを売り出すタイミング、
+JP 　カードを提供するタイミング・・・・
+EN "Besides, everything has its timing.
+EN  When to push a wrestler, when to
+EN  give fans a match..."
+
+@ 019
+JP 「このタイミングを見極める事が大事なのだ。
+JP 　ユーのタイミングはまだ来ていない。もっとも
+JP 　タイミングが来ないで終わる人間もいるがな。
+EN "Reading the timing is what counts.
+EN  Yours hasn't come yet. Mind you, for
+EN  some it never does."
+
+@ 020
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 021
+JP 何となく言われている事は分かる気がした。
+EN I sort of understood what he meant.
+
+@ 022
+JP ディンク：
+JP 「分かってもらえたか？
+EN McMahon:
+EN "Do you understand?"
+
+@ 023
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes."
+
+@ 024
+JP ディンク：
+JP 「そうか。では#WS183との
+JP 　ノンタイトル戦を来週行う事にしよう。
+EN McMahon:
+EN "Good. Then you'll face The Rock in a
+EN  non-title match next week."
+
+@ 025
+JP 悔しく無かったと言えば嘘になる。だが
+JP そこまで認められていないのも事実だ。
+EN I'd be lying if I said it didn't sting.
+EN But it's true they didn't rate me that
+EN highly yet.
+
+@ 026
+JP それにここで勝っておけば、
+JP １つの実績にはなる。ムダにはならない。
+EN And a win here would still go on my
+EN record. It wouldn't be wasted.
+
+@ 027
+JP 俺は#WS183戦に新たな気持ちで
+JP 向かう事にした。
+EN I headed into The Rock match with
+EN fresh resolve.

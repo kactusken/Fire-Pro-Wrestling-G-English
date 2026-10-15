@@ -1,0 +1,82 @@
+@ 000
+JP 歓声は鳴り止まない。
+JP 満員の観客達から「プロレス」コールが
+JP 大合唱となり会場が揺れている。
+EN The cheers wouldn't stop. A packed
+EN house chanted "Pro wres-ling!" and
+EN the whole arena shook.
+
+@ 001
+JP 坂上：
+JP 「参ったぜ。本当に強くなったな。
+EN Sakagami:
+EN "I give. You really have gotten
+EN  strong."
+
+@ 002
+JP #MS：
+JP 「まあな。
+EN #MS:
+EN "Guess so."
+
+@ 003
+JP 「でも俺も危なかったぜ。
+JP 　『ここで３カウント聞いたら楽になれる』
+JP 　何度そう思った事か。
+EN "But it was close for me too. 'If I just
+EN  hear the three count, it'll all be over.'
+EN  I thought that so many times."
+
+@ 004
+JP 坂上：	
+JP 「よく言うぜ。
+EN Sakagami:
+EN "Yeah, right."
+
+@ 005
+JP 「でもこれで公式記録上では１敗か。
+JP 　早いとこタイに戻さないと俺の方が
+JP 　弱い事になっちまうな。
+EN "But that's one loss on the official
+EN  record. I'd better even it up quick, or
+EN  I'll be the weaker one."
+
+@ 006
+JP #MS：
+JP 「ハハハ、そうだな。
+JP 　でも今度は２敗目をつけてやるよ。
+JP 　お前がいる限り俺はもっと強くなる！
+EN #MS:
+EN "Hahaha, yeah. But next time, that's
+EN  loss two for you. With you around,
+EN  I'll only get stronger!"
+
+@ 007
+JP 坂上：
+JP 「よし、俺はそれより更に強くなって
+JP 　お前が『もう勝てない』って
+JP 　思うまで負かし続けてやる！
+EN Sakagami:
+EN "Fine. I'll get even stronger and keep
+EN  beating you till you think, 'I can't
+EN  beat him anymore!'"
+
+@ 008
+JP #MS：
+JP 「ああ、次はいつか分からないけど
+JP 　必ずまた、リングの上で、な。
+EN #MS:
+EN "Yeah. Don't know when the next one
+EN  is, but we'll meet again in the ring."
+
+@ 009
+JP 坂上：
+JP 「おう！勝ち逃げは無しだぜ！
+EN Sakagami:
+EN "You bet! No winning and running!"
+
+@ 010
+JP まだ大歓声は鳴り止まない。
+JP 俺達２人がリングを去った後でも・・・
+EN The cheers still wouldn't stop. Even
+EN after the two of us had left the ring...

@@ -1,0 +1,168 @@
+@ 000
+JP 俺はその日もいつものように会場入りした。
+JP #WS134さんが先に行って待ってるはずだ。
+EN That day I arrived at the arena as
+EN usual. TAKA should be there waiting.
+
+@ 001
+JP #MS：
+JP 「わっ！
+EN #MS:
+EN "Whoa!"
+
+@ 002
+JP #WS117：
+JP 「・・・・・・・・
+EN Austin:
+EN "........"
+
+@ 003
+JP 目の前に大男が現れた。
+JP いきなりの出現に
+JP ビビっている俺を見ると・・・・
+EN A huge man appeared in front of me.
+EN Seeing me freaked out by his sudden
+EN appearance....
+
+@ 004
+JP #WS117：
+JP 「シュッ、シュッ！
+EN Austin:
+EN "Hyah! Hyah!"
+
+@ 005
+JP 何と彼は#WS063ばりの
+JP 空手ポーズを決めてみせたのだ！
+EN He struck a karate pose, just like
+EN Abdullah!
+
+@ 006
+JP 呆然とただ見ているだけの俺を見て
+JP 彼はニヤッ、と笑った。
+EN Seeing me just stand there stunned,
+EN he grinned.
+
+@ 007
+JP 一体何事だ！？
+EN What on earth!?
+
+@ 008
+JP #WS134：
+JP 「何だ、お前こんな所にいたのか。
+JP 　あれっ、#WS117。
+EN TAKA:
+EN "So this is where you were. Oh,
+EN  Austin."
+
+@ 009
+JP #WS117：
+JP 「オー、こいつは
+JP 　#WS134の知り合いか？
+EN Austin:
+EN "Oh, this guy's a friend of yours,
+EN  TAKA?"
+
+@ 010
+JP #WS134：
+JP 「そうだよ。
+JP 　さてはいつもの奴をやってたんだな？
+EN TAKA:
+EN "Yeah. You were doing your usual bit,
+EN  weren't you?"
+
+@ 011
+JP #WS117：
+JP 「当然だ。
+JP 　ジャパンと言えば『カラテ』だろう？
+EN Austin:
+EN "Of course. Japan means 'karate,'
+EN  right?"
+
+@ 012
+JP #WS134：
+JP 「ハハハ、そうだな。
+EN TAKA:
+EN "Ha ha ha, sure does."
+
+@ 013
+JP #WS117：
+JP 「で、ユーは何て名前なんだ？
+EN Austin:
+EN "So what's your name?"
+
+@ 014
+JP #MS：
+JP 「あ、お、俺ですか？
+JP 　#MFです！
+JP 　よろしくお願いします！
+EN #MS:
+EN "Oh, m-me? I'm
+EN  #MF!
+EN  Nice to meet you!"
+
+@ 015
+JP #WS117：
+JP 「オー、#MSか。覚えておこう。
+JP 　じゃあな。
+EN Austin:
+EN "Oh, #MS, huh. I'll remember
+EN  that. See ya."
+
+@ 016
+JP #MS：
+JP 「あれ・・・誰ですか？
+EN #MS:
+EN "Huh... who was that?"
+
+@ 017
+JP 「痛っ！
+EN "Ow!"
+
+@ 018
+JP #WS117：
+JP 「#PS06のエース、
+JP 　#WN117
+JP 　#WF117だよ！
+EN TAKA:
+EN "#PS06's ace, Stone Cold Steve
+EN  Austin!"
+
+@ 019
+JP 「ここにいるならそれぐらい勉強しておけ！
+EN "If you're here, at least learn that
+EN  much!"
+
+@ 020
+JP #MS：
+JP 「は、はい・・・・
+EN #MS:
+EN "Y-yes...."
+
+@ 021
+JP #WS134：
+JP 「いいか、今日は大将達とのタッグマッチだけど
+JP 　俺の足引っ張るんじゃねぇぞ。
+EN TAKA:
+EN "Listen, today's a tag match against
+EN  the top dogs. Don't drag me down."
+
+@ 022
+JP #MS：
+JP 「試合になれば話は別です！
+JP 　気合入れて頑張りますよ！
+EN #MS:
+EN "Once the bell rings, it's different! I'll
+EN  give it everything!"
+
+@ 023
+JP #WS134：
+JP 「はいはい、分かったよ。
+JP 　行くぞ！
+EN TAKA:
+EN "Yeah, yeah, got it. Let's go!"
+
+@ 024
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Right!"

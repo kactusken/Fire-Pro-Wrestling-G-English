@@ -1,0 +1,134 @@
+@ 000
+JP 俺は使命を果たした。それと同時に
+JP #WF100の
+JP 連勝記録にもストップをかけた。
+EN Mission accomplished. And I'd put an
+EN end to Bill Goldberg's winning streak,
+EN too.
+
+@ 001
+JP そしてこの大歓声・・・俺はどうやら
+JP #PS05のファンにも認知されたようだ。
+EN And this roar... It looks like even
+EN #PS05's fans have accepted me.
+
+@ 002
+JP 俺は思わず両拳を突き上げて叫んでいた。
+EN Before I knew it, I thrust both fists in
+EN the air and roared.
+
+@ 003
+JP #MS：
+JP 「ウオォォォォォォォォッ！！
+EN #MS:
+EN "Raaaaaaaaagh!!"
+
+@ 004
+JP 俺は使命を果たせなかった。
+JP #WF100に
+JP 敗れ去ったのだ。
+EN I failed my mission. I'd fallen to Bill
+EN Goldberg.
+
+@ 005
+JP この歓声は・・・・
+EN This cheering...
+
+@ 006
+JP そう、歓声は
+JP #WF100への
+JP ものでは無く、俺へのものだった。
+EN Yes, the cheers weren't for Bill
+EN Goldberg. They were for me.
+
+@ 007
+JP 俺は試合には敗れたものの、#PS05の
+JP 会場でありながら、ファンの心を掴む事が
+JP 出来たのだ。
+EN I'd lost the match, but I'd won the
+EN fans' hearts, and in a #PS05 arena
+EN at that.
+
+@ 008
+JP それはもしかしたら、勝利よりも
+JP 価値のあるものではないだろうか。
+EN Maybe that's worth even more than a
+EN win.
+
+@ 009
+JP 俺は大歓声を上げる観客に向かって
+JP お辞儀をして退場した。
+EN I bowed to the roaring crowd and left.
+
+@ 010
+JP 俺は今、タイトルマッチの
+JP リングの上に立っている。
+EN Now I'm standing in the ring for a
+EN title match.
+
+@ 011
+JP #WF100との
+JP 試合から帰った俺は大ブレイク。
+EN After coming back from the Bill
+EN Goldberg match, my career exploded.
+
+@ 012
+JP 自然な流れで#PS06世界ヘビー級王座への
+JP 挑戦が決まったのだ。
+EN A shot at the #PS06 World
+EN Heavyweight title came about
+EN naturally.
+
+@ 013
+JP 相手は・・・・
+EN My opponent...
+
+@ 014
+JP #WS183を破って王座に返り咲いた
+JP #WN117
+JP #WF117。
+EN Back on the throne after beating The
+EN Rock: Stone Cold Steve Austin.
+
+@ 015
+JP この人気者同士の対戦に、チケットは早々と
+JP 売り切れ、会場には溢れんばかりの観客が
+JP 押し寄せた。
+EN Two fan favorites clashing - tickets
+EN sold out fast, and the arena was
+EN packed to bursting.
+
+@ 016
+JP #WS117：
+JP 「ユーがここまでビッグになるとは
+JP 　思っていなかったよ。
+EN Austin:
+EN "Didn't think you'd get this big."
+
+@ 017
+JP #MS：
+JP 「俺自身驚いてますから。
+JP 　でも必ず勝ちます！
+EN #MS:
+EN "It surprises me too. But I'm going to
+EN  win!"
+
+@ 018
+JP そう、俺は勝つ。
+EN Yes. I will win.
+
+@ 019
+JP 昔見た夢を実現させる為に。
+EN To make the dream I once had come
+EN true.
+
+@ 020
+JP 共に夢を見た友との約束の為に。
+EN For the promise to the friend who
+EN dreamed it with me.
+
+@ 021
+JP 待っていろ、坂上。
+JP 俺は今、世界のベルトを手に入れる・・・
+EN Wait for me, Sakagami. I'm about to
+EN take the world title...

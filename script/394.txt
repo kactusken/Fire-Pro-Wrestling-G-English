@@ -1,0 +1,118 @@
+@ 000
+JP 数多くの強豪が集った大会は
+JP 歴史に残る名勝負を数多く生んだ。
+EN The event, packed with top fighters,
+EN produced many classic matches.
+
+@ 001
+JP その中でも俺と坂上の試合は、マスコミが
+JP 俺達のバックグラウンドを記事にした事もあって
+JP 日本格闘技界の歴史に残るものになった。
+EN Mine with Sakagami became part of
+EN combat sports history, helped by the
+EN press covering our backstory.
+
+@ 002
+JP #WS154：
+JP 「お前もすっかりスター選手だな。
+EN Funaki:
+EN "You've become a real star."
+
+@ 003
+JP #MS：
+JP 「俺の目標は
+JP 　『#WF149を
+JP 　　越える事』ですから。
+EN #MS:
+EN "My goal is to 'surpass Akira Maeda.'"
+
+@ 004
+JP #WS154：
+JP 「そうか・・・・お前ならいつか
+JP 　果たせるかもしれないな。
+EN Funaki:
+EN "I see.... Maybe you'll pull it off
+EN  someday."
+
+@ 005
+JP #MS：
+JP 「ありがとうございます。
+JP 　でもまだまだ・・・遠い道のりですよ。
+EN #MS:
+EN "Thank you. But I've still got... a long
+EN  way to go."
+
+@ 006
+JP #WS154：
+JP 「そうだな・・・・
+EN Funaki:
+EN "That you do...."
+
+@ 007
+JP #MS：
+JP 「でも、目標はデカイ方がやり甲斐が
+JP 　あるじゃないですか。俺はこれからも
+JP 　頑張りますよ！
+EN #MS:
+EN "But the bigger the goal, the more it's
+EN  worth it, right? I'll keep at it!"
+
+@ 008
+JP #WS154：
+JP 「そうだな。そう言えば坂上、だったっけ。
+JP 　彼はどうした？
+EN Funaki:
+EN "Right. By the way, Sakagami, was it?
+EN  What's he up to?"
+
+@ 009
+JP #MS：
+JP 「あいつはまたアメリカに飛びました。
+JP 　今度はマイク・ベアーと闘うそうですよ。
+EN #MS:
+EN "He flew back to America. Says he's
+EN  fighting Mark Kerr next."
+
+@ 010
+JP #WS154：
+JP 「なるほど・・・こりゃ
+JP 　うかうかしてられないな。
+EN Funaki:
+EN "I see... Then you can't sit back."
+
+@ 011
+JP #MS：
+JP 「そうですね・・・・また次の約束もあるし。
+JP 　俺も今日から毎日特訓ですよ！
+EN #MS:
+EN "Right.... And we have another
+EN  promise. I'm doing special training
+EN  every day starting today!"
+
+@ 012
+JP #WS154：
+JP 「そうか。良いライバルに恵まれたな。
+EN Funaki:
+EN "I see. You've got a good rival."
+
+@ 013
+JP #MS：
+JP 「はい！先輩と言いライバルと言い、
+JP 　俺はいい人達に恵まれて幸せ者ですよ！
+EN #MS:
+EN "Yes! Between my seniors and my
+EN  rival, I'm a lucky guy!"
+
+@ 014
+JP #WS154：
+JP 「そう言われちゃ仕方無いな。
+JP 　スパーリング、付き合うよ。
+EN Funaki:
+EN "Well, when you put it like that... I'll
+EN  spar with you."
+
+@ 015
+JP #MS：
+JP 「ありがとうございます！
+EN #MS:
+EN "Thank you!"

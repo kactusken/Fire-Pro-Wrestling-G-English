@@ -1,0 +1,53 @@
+@ 000
+JP 俺は試合前にストレッチをしていた。
+EN I was stretching before the match.
+
+@ 001
+JP #WS015：
+JP 「どうだ、調子は？
+EN Liger:
+EN "How are you feeling?"
+
+@ 002
+JP #MS：
+JP 「はい、バッチリです。
+EN #MS:
+EN "Great, sir."
+
+@ 003
+JP #WS015：
+JP 「今日は#WS016とだろ？
+EN Liger:
+EN "You've got El Samurai today, right?"
+
+@ 004
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes."
+
+@ 005
+JP #WS015：
+JP 「軟体動物みたいな奴だからな。
+EN Liger:
+EN "That guy's like a jellyfish."
+
+@ 006
+JP #MS：
+JP 「軟体動物・・・・
+EN #MS:
+EN "A jellyfish...."
+
+@ 007
+JP #WS015：
+JP 「だから多少無茶やっても
+JP 　受けてもらえるから、遠慮無く行け。
+EN Liger:
+EN "So he can take whatever crazy stuff
+EN  you throw. Don't hold back."
+
+@ 008
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"

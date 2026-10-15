@@ -1,0 +1,33 @@
+@ 000
+JP 俺はこの間の返事をする為に
+JP #WS154さん達が行っていると言う
+JP ジムに来ていた。
+EN To give my answer, I went to the gym
+EN where Funaki and the others were
+EN training.
+
+@ 001
+JP #WS154：
+JP 「#MS！よく来たな。
+JP 　あっちに#WS155もいるよ。
+EN Funaki:
+EN "#MS! Glad you came. Suzuki's
+EN  over there too."
+
+@ 002
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Okay."
+
+@ 003
+JP #WS155：
+JP 「で、考えてくれたか？
+EN Suzuki:
+EN "So, did you think it over?"
+
+@ 004
+JP #MS：
+JP 「はい。色々悩みましたけど俺は・・・・
+EN #MS:
+EN "Yes. I struggled with it, but I...."

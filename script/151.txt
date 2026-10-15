@@ -1,0 +1,59 @@
+@ 000
+JP 俺はまだ本来の気迫を取り戻せないでいた。
+JP 自分でも理由は良く分からない。それとも
+JP これを『スランプ』と言うのだろうか。
+EN I still hadn't gotten my fire back. I
+EN didn't really know why. Maybe this
+EN was what they call a "slump."
+
+@ 001
+JP #WS044：
+JP 「よう。
+EN Akiyama:
+EN "Hey."
+
+@ 002
+JP #MS：
+JP 「#WS044・・・・
+EN #MS:
+EN "Akiyama...."
+
+@ 003
+JP #WS044：
+JP 「最近全然ダメじゃないか。
+JP 　一体どうしたって言うんだ？
+EN Akiyama:
+EN "You've been no good at all lately.
+EN  What's going on with you?"
+
+@ 004
+JP #MS：
+JP 「別に・・・・・
+EN #MS:
+EN "Nothing....."
+
+@ 005
+JP #WS044：
+JP 「・・・・・・・・
+EN Akiyama:
+EN "........"
+
+@ 006
+JP 「今日は#WS046とだろ？
+JP 　あの時の熱い試合を
+JP 　また見せてくれよ、な？
+EN "You've got Omori today, right? Show
+EN  me another hot match like that one,
+EN  okay?"
+
+@ 007
+JP #WS044は俺の肩を叩くと去って行った。
+EN Akiyama patted my shoulder and left.
+
+@ 008
+JP ・・・・・・・
+EN .......
+
+@ 009
+JP 俺だって・・・・分かってるさ・・・・
+EN I know.... I know that already....

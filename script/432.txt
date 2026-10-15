@@ -1,0 +1,84 @@
+@ 000
+JP #WS134：
+JP 「あの#WS123と闘うなんてな・・・
+JP 　出世街道まっしぐらじゃねぇか！
+EN TAKA:
+EN "Facing THE Ken Shamrock... You're
+EN  on the fast track to the top!"
+
+@ 001
+JP #MS：
+JP 「いや、まだまだこれからですよ。
+JP 　この後転落する可能性だって
+JP 　ある訳ですからね。気は抜けないです！
+EN #MS:
+EN "No, I'm just getting started. I could
+EN  still slide right back down. Can't let
+EN  up!"
+
+@ 002
+JP #WS134：
+JP 「おーおー、気合入ってんなぁ。
+JP 　で、今日はあれだろ？
+EN TAKA:
+EN "Ooh, fired up. And today's the big
+EN  one, right?"
+
+@ 003
+JP #MS：
+JP 「そうなんですよ！今日の試合はあの
+JP 　#WF126なんです。
+EN #MS:
+EN "That's right! Today I'm up against
+EN  Steve Williams."
+
+@ 004
+JP #WS134：
+JP 「でも確か欠場してたんじゃ無かったっけ？
+EN TAKA:
+EN "Wasn't he out hurt?"
+
+@ 005
+JP #MS：
+JP 「復帰したばっかりみたいですね。
+JP 　向こうの体調が１００％でないのが
+JP 　残念ですけど・・・・
+EN #MS:
+EN "Seems he just came back. Too bad
+EN  he's not at 100%, but..."
+
+@ 006
+JP 「自分がどれだけ通用するか、
+JP 　試して来ますよ！
+EN "I'm going to find out how I stack up!"
+
+@ 007
+JP #WS134：
+JP 「へいへい。
+EN TAKA:
+EN "Yeah, yeah."
+
+@ 008
+JP #WS126：
+JP 「ユーもジャパニーズならミーの活躍を
+JP 　知ってるだろう？どれほどタフな
+JP 　レスラーか、もな。
+EN Williams:
+EN "If you're Japanese, you know what I
+EN  did over there. And how tough I am."
+
+@ 009
+JP #MS：
+JP 「もちろん！そんなあなたと闘えるのが
+JP 　俺には嬉しい！全力で行きます！
+EN #MS:
+EN "Of course! That's why I'm thrilled to
+EN  face you! I'm going all out!"
+
+@ 010
+JP #WS126：
+JP 「ハッハッハァ！
+JP 　いいだろう。弾き返してやる！
+EN Williams:
+EN "Ha ha haaa! Fine. I'll knock you right
+EN  back!"

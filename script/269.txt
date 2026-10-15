@@ -1,0 +1,61 @@
+@ 000
+JP 俺は#WS166さんに敗れた。
+EN I lost to Mr. Anjoh.
+
+@ 001
+JP #WS166：
+JP 「いやー、参った参った。
+EN Anjoh:
+EN "Man, you got me, you got me."
+
+@ 002
+JP 「強くなったな、お前よぉ。
+EN "You got strong, kid."
+
+@ 003
+JP #MS：
+JP 「#WS166さん。
+JP 　ありがとうございました！
+EN #MS:
+EN "Mr. Anjoh. Thank you!"
+
+@ 004
+JP #WS166：
+JP 「さすがの俺も何度か危なかったよ、実際。
+JP 　まぁ後はキャリアの差だな。
+EN Anjoh:
+EN "Even I was in trouble a few times, for
+EN  real. In the end, it's the experience
+EN  gap."
+
+@ 005
+JP 「トーナメント終わるまで試合はあるから
+JP 　試合をしつつ、俺の試合を見て学ぶといいぞ。
+EN "You've still got matches till the
+EN  tournament ends. Wrestle and watch
+EN  my fights and learn."
+
+@ 006
+JP #MS：
+JP 「はい・・・・
+EN #MS:
+EN "Yes, sir...."
+
+@ 007
+JP 俺の次の試合は
+JP #WF174。
+EN My next match is Don Frye.
+
+@ 008
+JP アメリカではそれなりの実績を持っている
+JP ファイターだ。
+EN He's a fighter with a solid record in
+EN America.
+
+@ 009
+JP グルーサムと言う闘いの中でお客を意識した
+JP 闘いをする珍しいファイターだ。案外
+JP プロレスのリングが向いているのかもしれない。
+EN He's rare, fighting with the crowd in
+EN mind even in Gruesome. Pro wrestling
+EN might suit him.

@@ -1,0 +1,180 @@
+@ 000
+JP 歓声は鳴り止まない。
+JP 満員の観客達から『プロレス』コールが
+JP 大合唱となり会場が揺れている。
+EN The cheering won't stop. The packed
+EN house is chanting "Pro wrestling!" and
+EN the whole arena shakes.
+
+@ 001
+JP 坂上：
+JP 「参ったぜ。本当に強くなったな。
+EN Sakagami:
+EN "You got me. You've gotten really
+EN  strong."
+
+@ 002
+JP #MS：
+JP 「まあな。
+EN #MS:
+EN "I guess."
+
+@ 003
+JP 「でも俺も危なかったぜ。
+JP 　『ここで３カウント聞いたら楽になれる』
+JP 　何度そう思った事か。
+EN "But that was close. 'Take the three
+EN  count and it's over.' I thought that so
+EN  many times."
+
+@ 004
+JP 坂上：	
+JP 「よく言うぜ。
+EN Sakagami:
+EN "Yeah, right."
+
+@ 005
+JP 「でもこれで公式記録上では１敗か。
+JP 　早いとこタイに戻さないと俺の方が
+JP 　弱い事になっちまうな。
+EN "But now I'm one loss down on the
+EN  record. Better tie it up quick or I'll
+EN  look like the weaker one."
+
+@ 006
+JP #MS：
+JP 「ハハハ、そうだな。
+JP 　でも今度は２敗目をつけてやるよ。
+JP 　お前がいる限り俺はもっと強くなる！
+EN #MS:
+EN "Ha ha, true. But next time I'll hand
+EN  you loss number two. With you
+EN  around, I'll keep getting stronger!"
+
+@ 007
+JP 坂上：
+JP 「よし、俺はそれより更に強くなって
+JP 　お前が『もう勝てない』って
+JP 　思うまで負かし続けてやる！
+EN Sakagami:
+EN "Fine, I'll get even stronger and keep
+EN  beating you till you think 'I can't win
+EN  anymore'!"
+
+@ 008
+JP #MS：
+JP 「ああ。必ずまた、な。
+EN #MS:
+EN "Yeah. We'll do it again, for sure."
+
+@ 009
+JP 坂上：
+JP 「おう！勝ち逃げは無しだぜ！
+EN Sakagami:
+EN "You bet! No winning and running!"
+
+@ 010
+JP 歓声は鳴り止まない。
+JP 満員の観客達から「プロレス」コールが
+JP 大合唱となり会場が揺れている。
+EN The cheering won't stop. The packed
+EN house is chanting "Pro wrestling!" and
+EN the whole arena shakes.
+
+@ 011
+JP #MS：
+JP 「参ったよ、本当に強くなったな。
+EN #MS:
+EN "You got me. You've gotten really
+EN  strong."
+
+@ 012
+JP 坂上：
+JP 「まあな。でも俺も危なかったぜ。
+JP 　『ここで３カウント聞いたら楽になれる』
+JP 　何度そう思った事か。
+EN Sakagami:
+EN "I guess. But that was close. 'Take the
+EN  three count and it's over.' I thought
+EN  that so many times."
+
+@ 013
+JP #MS：
+JP 「よく言うぜ。
+EN #MS:
+EN "Yeah, right."
+
+@ 014
+JP 「でもこれで公式記録上では１敗か。
+JP 　早いとこタイに戻さないと俺の方が
+JP 　弱い事になっちまうな。
+EN "But now I'm one loss down on the
+EN  record. Better tie it up quick or I'll
+EN  look like the weaker one."
+
+@ 015
+JP 坂上：
+JP 「ハハハ、そうだな。
+JP 　でも今度は２敗目をつけてやるよ。
+JP 　お前がいる限り俺はもっと強くなる！
+EN Sakagami:
+EN "Ha ha, true. But next time I'll hand
+EN  you loss number two. With you
+EN  around, I'll keep getting stronger!"
+
+@ 016
+JP #MS：
+JP 「俺だってそうだぜ。今回負けた分、
+JP 　お釣が来るくらい勝ってやるから
+JP 　覚えとけよ！
+EN #MS:
+EN "Same here. I'll win enough to make
+EN  up for this loss and then some.
+EN  Remember that!"
+
+@ 017
+JP 坂上：
+JP 「へへへ、そいつは楽しみだな。
+JP 　必ずまたやろうな。
+EN Sakagami:
+EN "Heh heh, can't wait. Let's do it again
+EN  for sure."
+
+@ 018
+JP #MS：
+JP 「おう。また観客の度肝ぬく試合を、
+JP 　歴史に残るような名勝負を２人でやろうぜ！
+EN #MS:
+EN "Yeah. Let's give them another
+EN  jaw-dropper, a classic for the history
+EN  books!"
+
+@ 019
+JP この大会は大盛況の内に幕を閉じ、
+JP #MSは定期的に#PS00に
+JP 呼ばれるようになった。
+EN The show closed to a roaring success,
+EN and #MS began to be called to
+EN #PS00 regularly.
+
+@ 020
+JP だが#PS00における展開の流れの早さは
+JP 次第に#MSを置き去りにして行った。
+EN But things moved fast in #PS00,
+EN and #MS was gradually left
+EN behind.
+
+@ 021
+JP ちょうどその頃から#PS02においても
+JP 勢いを失い始めた#MSは、やがて
+JP 前座に押しやられて行った。
+EN Around the same time, #MS lost
+EN steam in #PS02 too, and was soon
+EN pushed down to the undercard.
+
+@ 022
+JP 今日も彼はメインの試合を横目で見ながら、
+JP 若手との試合に向かう・・・・・
+EN Today again, he glances at the main
+EN event as he heads out for a match
+EN with a young rookie.....

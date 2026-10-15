@@ -1,0 +1,113 @@
+@ 000
+JP 記者：
+JP 「タイトル奪取おめでとうございます。
+EN Reporter:
+EN "Congratulations on winning the
+EN  titles."
+
+@ 001
+JP #MS：
+JP 「ありがとうございます。
+EN #MS:
+EN "Thank you."
+
+@ 002
+JP 記者：
+JP 「相手チームはどうでしたか？ 
+EN Reporter:
+EN "What did you think of the other
+EN  team?"
+
+@ 003
+JP #MS：
+JP 「さすがにチャンピオンですね、強かったです。
+JP 　その強いチャンピオンからベルトを取ったって
+JP 　言うのが大きいですよ。
+EN #MS:
+EN "They're champs for a reason. Tough.
+EN  Taking the belts off a team that
+EN  strong means a lot."
+
+@ 004
+JP 記者：
+JP 「今後は狙われる立場になる訳ですが？
+EN Reporter:
+EN "Now you'll be the one they're
+EN  gunning for."
+
+@ 005
+JP #MS：
+JP 「世代交代だけじゃなくて、#PS00を
+JP 　高めて行く為の闘いをね、
+JP 　どんどんして行きたいですね。
+EN #MS:
+EN "Not just a changing of the guard. I
+EN  want to keep having fights that raise
+EN  #PS00 up."
+
+@ 006
+JP 「頑張って行きますんで、
+JP 　今後とも応援お願いします！
+EN "I'll keep working hard, so please keep
+EN  cheering me on!"
+
+@ 007
+JP #WS001：
+JP 「#MS、#WS008！
+JP 　やったな、おめでとう！
+EN Hashimoto:
+EN "#MS, Nakanishi! You did it!
+EN  Congratulations!"
+
+@ 008
+JP #MS：
+JP 「やりました！
+EN #MS:
+EN "I did it!"
+
+@ 009
+JP #WS001：
+JP 「本当に強くなったな！
+JP 　今#PS00の頂点に立ってるチームは
+JP 　お前らなんだからな！
+EN Hashimoto:
+EN "You've really gotten strong! You two
+EN  are the team at the top of #PS00
+EN  now!"
+
+@ 010
+JP #MS：
+JP 「ありがとうございます！
+JP 　最高の気分です！
+EN #MS:
+EN "Thank you! I feel amazing!"
+
+@ 011
+JP #WS001：
+JP 「でもこれからが大変だぞ。これから
+JP 　闘わなくちゃならんのは敵だけじゃない。
+EN Hashimoto:
+EN "But the hard part starts now. From
+EN  here on, it's not just opponents you'll
+EN  be fighting."
+
+@ 012
+JP 「追われる側ってのは想像を絶する
+JP 　プレッシャーとも闘って行かなきゃならない。
+JP 　覚悟しておけよ。
+EN "When you're the one being chased,
+EN  you fight pressure you can't imagine.
+EN  Be ready for it."
+
+@ 013
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 014
+JP 俺達はとうとうＩＧＰタッグのベルトを・・・
+JP 世界最強タッグチームの称号を手に入れたのだ。
+EN At last we had the IWGP Tag belts...
+EN The title of the strongest tag team in
+EN the world.

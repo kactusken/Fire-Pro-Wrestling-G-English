@@ -1,0 +1,142 @@
+@ 000
+JP 俺は#WS171戦に向けてトレーニングに
+JP 励んでいた。
+EN I was training hard for the Smith
+EN match.
+
+@ 001
+JP #WS143：
+JP 「#MS！
+EN Tamura:
+EN "#MS!"
+
+@ 002
+JP #MS：
+JP 「あっ、#WS143さん！？
+EN #MS:
+EN "Oh, Mr. Tamura!?"
+
+@ 003
+JP #WS143：
+JP 「久しぶりだな。
+EN Tamura:
+EN "Long time no see."
+
+@ 004
+JP #WS143さんはＵＷＨ時代の先輩で、
+JP #WS165さんのＵインテグラルに
+JP 行ったはずだ。
+EN Mr. Tamura was my senior in the UWF
+EN days. I thought he'd gone to Mr.
+EN Takada's UWF-i.
+
+@ 005
+JP #MS：
+JP 「どうしたんです？
+EN #MS:
+EN "What brings you here?"
+
+@ 006
+JP #WS143：
+JP 「そうか、お前まだ聞いてないのか。
+EN Tamura:
+EN "Oh, so you haven't heard yet."
+
+@ 007
+JP #MS：
+JP 「え？
+EN #MS:
+EN "Huh?"
+
+@ 008
+JP #WS143：
+JP 「実は俺も#PS07に入団する事に
+JP 　なったんだよ。
+EN Tamura:
+EN "Actually, I'm joining #PS07 too."
+
+@ 009
+JP #MS：
+JP 「そうなんですか！
+EN #MS:
+EN "Really!"
+
+@ 010
+JP #WS143：
+JP 「まだマスコミには内緒にしてるから
+JP 　大っぴらには出来ないけどな。
+EN Tamura:
+EN "We're keeping it from the press for
+EN  now, so I can't go public yet."
+
+@ 011
+JP そう言えばＵインテグラルは今すっかり
+JP #PS00との対抗戦に路線換えしていて、
+JP #WS143さんは異議を唱えて欠場中だった。
+EN Come to think of it, UWF-i had turned
+EN to an all-out war with #PS00. Mr.
+EN Tamura objected and sat out.
+
+@ 012
+JP それで遂に#PS07に移籍する事に
+JP したって事か・・・・
+EN So in the end, he decided to jump to
+EN #PS07....
+
+@ 013
+JP #WS143：
+JP 「まああっちでは色々あったけど・・・
+EN Tamura:
+EN "A lot happened over there, but..."
+
+@ 014
+JP 「#PS07で新たな闘いをして行く
+JP 　つもりだ。よろしくな。
+EN "I plan to start a new fight in
+EN  #PS07. Good to have you."
+
+@ 015
+JP #MS：
+JP 「はい、こちらこそ！
+JP 　でも試合では負けませんよ！
+EN #MS:
+EN "Good to have you too! But I won't
+EN  lose to you in the ring!"
+
+@ 016
+JP #WS143：
+JP 「ハハハ、まあお互い良いライバルに
+JP 　なれそうだな。
+EN Tamura:
+EN "Ha ha, looks like we'll make good
+EN  rivals."
+
+@ 017
+JP #WS171：
+JP 「せっかく#PS07のリングに上がったのに
+JP 　#WS149が欠場中とは残念だ。
+EN Smith:
+EN "Too bad, finally stepping into the
+EN  #PS07 ring, and Maeda is out."
+
+@ 018
+JP 「それにしても相手がユーのような
+JP 　ヤングボーイでは私も闘い甲斐が無いよ。
+EN "And facing a young boy like you, it
+EN  is hardly worth my time."
+
+@ 019
+JP #MS：
+JP 「そう言うセリフは俺の闘いを見てから
+JP 　言ってもらおうか！
+EN #MS:
+EN "Save that kind of talk till after
+EN  you've seen me fight!"
+
+@ 020
+JP #WS171：
+JP 「なるほど、威勢の良いボーイだ。
+JP 　では見せてもらおうか、ユーの闘いを。
+EN Smith:
+EN "I see, a feisty boy. Then show me,
+EN  how you fight."

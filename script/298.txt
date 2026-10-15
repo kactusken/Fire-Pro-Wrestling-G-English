@@ -1,0 +1,49 @@
+@ 000
+JP ＵＷＨインテグラルとしてスタートしてから
+JP 俺は確実に実績を積み重ねて行った。
+EN Since UWF International started, I'd
+EN steadily built up my record.
+
+@ 001
+JP そして遂に#WS165さんへの挑戦を
+JP 口に出来る段階になった。だがその為には
+JP 倒さなければならない男がいる。
+EN At last I could say Takada's name out
+EN loud as a challenger. But first, there's
+EN a man I have to beat.
+
+@ 002
+JP そう、#WF143。
+JP 今若手の中でもトップと言われている、
+JP この人だ。
+EN Yes, Kiyoshi Tamura. Said to be the
+EN best of the young guys right now.
+
+@ 003
+JP #WS143：
+JP 「心身共に充実したこの時に
+JP 　#WS165さんに挑戦しておきたい。
+EN Tamura:
+EN "I want to challenge Takada now,
+EN  while I'm at my peak, body and
+EN  mind."
+
+@ 004
+JP 「だからお前には絶対に負けられない！
+EN "So I can't lose to you, no matter
+EN  what!"
+
+@ 005
+JP #MS：
+JP 「そうは行きませんよ！俺だって
+JP 　#WF165に
+JP 　挑戦したい・・・必ず勝つ！
+EN #MS:
+EN "Not happening! I want a shot at
+EN  Nobuhiko Takada too... I'll win!"
+
+@ 006
+JP #WS143：
+JP 「いいだろう！行くぞ！
+EN Tamura:
+EN "Fine! Here I come!"

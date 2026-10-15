@@ -1,0 +1,179 @@
+@ 000
+JP #WS162：
+JP 「どうだ、メキシコの食べ物はうまいだろう？
+EN Wagner:
+EN "Well? Mexican food is good, yes?"
+
+@ 001
+JP #MS：
+JP 「うまいですよ、凄く。
+JP 　俺は気に入ってますよ。
+JP 　後は衛生面がねぇ・・・・・
+EN #MS:
+EN "It's great, really. I love it. It's just
+EN  the hygiene...."
+
+@ 002
+JP #WS162：
+JP 「ちょっと待て！ユーの言い方だと
+JP 　まるでメヒコが不潔な街みたいじゃないか！
+EN Wagner:
+EN "Hold it! The way you say that, you
+EN  make Mexico sound like a dirty
+EN  town!"
+
+@ 003
+JP #MS：
+JP 「いや、そうは言いませんけど・・・
+JP 　こう何度もあたるとちょっと・・・・
+EN #MS:
+EN "No, I'm not saying that... It's just,
+EN  getting sick this often...."
+
+@ 004
+JP #WS162：
+JP 「それはユーがまだ未熟な証拠だ。
+EN Wagner:
+EN "That only proves you're still green."
+
+@ 005
+JP #MS：
+JP 「はいはい・・・そうです、そうです。
+EN #MS:
+EN "Sure, sure... Whatever you say."
+
+@ 006
+JP #WS162：
+JP 「何かトゲのある返事だな・・・まあいい。
+EN Wagner:
+EN "That answer has a bit of a sting...
+EN  Oh, well."
+
+@ 007
+JP 「今夜の試合、楽しみにしておけよ。
+EN "Look forward to tonight's match."
+
+@ 008
+JP #MS：
+JP 「え？今夜の試合？
+JP 　もしかしてまた
+JP 　大物と試合出来るんですか！？
+EN #MS:
+EN "Huh? Tonight's match? Don't tell me
+EN  I get to face another big name!?"
+
+@ 009
+JP #WS162：
+JP 「そうだ。期待しておけよ！
+EN Wagner:
+EN "That's right. Get excited!"
+
+@ 010
+JP #MS：
+JP 「やった！ありがとうございます！
+EN #MS:
+EN "Yes! Thank you!"
+
+@ 011
+JP 「大物って誰だろう・・・まさか
+JP 　#WF164とか！
+EN "Who's the big name... Could it be Mil
+EN  Mascaras!?"
+
+@ 012
+JP 「いや、まさかそれは無いか・・・
+JP 　でもな・・・
+EN "No, no way... But still..."
+
+@ 013
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 014
+JP 「・・・・・・・大物、ね。
+EN ".......A big name, huh."
+
+@ 015
+JP #WS162：
+JP 「何か言いたそうだな、#MS。
+EN Wagner:
+EN "You look like you want to say
+EN  something, #MS."
+
+@ 016
+JP #MS：
+JP 「いや、別に・・・・
+EN #MS:
+EN "No, nothing...."
+
+@ 017
+JP #WS162：
+JP 「ミーも十分大物だと思うがな。
+EN Wagner:
+EN "I think I'm a pretty big name too."
+
+@ 018
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 019
+JP 冗談はさておき、#WS162と言う
+JP ルチャドールは尊敬に値する人物だと思う。
+EN Joking aside, I think Wagner is a
+EN luchador worthy of respect.
+
+@ 020
+JP 大抵のメキシカンは日本のジュニアの
+JP スタイルには合わず、成功出来ずに
+JP 帰って行く例が多かった。
+EN Most Mexicans didn't fit the Japanese
+EN junior style. Many failed and went
+EN home.
+
+@ 021
+JP だが#WS162は、日本のジュニアの世界で
+JP 確固たる地位を築き、レギュラー出場を
+JP 果たしている。しかも#PS00で・・・
+EN But Wagner built a firm place in
+EN Japan's juniors as a regular. In
+EN #PS00, no less...
+
+@ 022
+JP それは彼の類稀なるレスリングセンスの
+JP 賜物だろう。
+EN That must come from his rare
+EN wrestling sense.
+
+@ 023
+JP だから俺は本人の手前おどけて見せたが
+JP #WS162と試合が出来るのは
+JP 素直に嬉しい事だった。
+EN So I played the clown in front of him,
+EN but honestly, I was thrilled to get a
+EN match with Wagner.
+
+@ 024
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 025
+JP #WS162：
+JP 「・・・・・・・
+EN Wagner:
+EN "......."
+
+@ 026
+JP 俺の様子が変わったのが分かったのか、
+JP #WS162も目つきが変わった。
+EN As if he sensed my mood change,
+EN Wagner's eyes changed too.
+
+@ 027
+JP 俺達は無言の握手を交わした。
+EN We shook hands without a word.

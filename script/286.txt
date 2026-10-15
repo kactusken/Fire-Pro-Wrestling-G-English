@@ -1,0 +1,125 @@
+@ 000
+JP 遂に今日、日本格闘技界
+JP 注目の大一番が行われる。
+EN Today, at last, the big fight all of
+EN Japanese combat sports is watching.
+
+@ 001
+JP #WF169対
+JP #WF165・・・
+EN Rickson Gracie vs. Nobuhiko
+EN Takada...
+
+@ 002
+JP 俺達#PS07ジャパン勢は道場で
+JP 観戦する事になったが・・・
+JP 絶望の瞬間を目の当たりにする事になった。
+EN We #PS07 Japan guys watched at
+EN the dojo... and witnessed a moment of
+EN despair.
+
+@ 003
+JP #WS165さんの惨敗。
+JP 腕ひしぎ逆十字固めによる、
+JP わずか４分足らずでの敗北だった。
+EN Mr. Takada was crushed. Beaten by a
+EN cross armbar in under four minutes.
+
+@ 004
+JP #WS149：
+JP 「何ちゅうこっちゃ・・・
+EN Maeda:
+EN "What the hell..."
+
+@ 005
+JP #MS：
+JP 「#WS165さんが・・・
+EN #MS:
+EN "Mr. Takada..."
+
+@ 006
+JP #WS149：
+JP 「・・・・何で#WS165が負けたか、
+JP 　分かるか？
+EN Maeda:
+EN "....You know why Takada lost?"
+
+@ 007
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 008
+JP 「精神的に余裕が無かったから・・・ですか？
+EN "Because he wasn't calm enough...
+EN  mentally?"
+
+@ 009
+JP #WS149：
+JP 「そう言う事や。あのままスタンドで
+JP 　打撃勝負で行けば勝てたものを・・・
+JP 　焦ってグラウンドに行ったから負けたんや。
+EN Maeda:
+EN "Exactly. If he'd stayed standin' and
+EN  traded strikes, he coulda won... He
+EN  rushed to the mat, and lost."
+
+@ 010
+JP 「で、どうする？
+EN "So, what're ya gonna do?"
+
+@ 011
+JP #WS149さんは俺が#WS169と
+JP 本気で闘う気があるのか
+JP 聞いているのだろう。
+EN Mr. Maeda must be asking if I'm
+EN serious about fighting Gracie.
+
+@ 012
+JP #MS：
+JP 「ええ。問題さえクリアされれば・・・
+JP 　今すぐにでも！
+EN #MS:
+EN "Yes. Once the problems are cleared...
+EN  I'd go right now!"
+
+@ 013
+JP #WS149：
+JP 「分かった・・・・
+EN Maeda:
+EN "Got it...."
+
+@ 014
+JP 今日の相手は最近絶好調で、俺以外の
+JP #PS07ジャパン勢を総ナメにした
+JP #WS144だ。
+EN Today's opponent: Tariel. He's been on
+EN fire lately, sweeping every #PS07
+EN Japan fighter but me.
+
+@ 015
+JP #MS：
+JP 「#PS07ジャパンの意地に賭けて・・・
+JP 　そして来るべき闘いの為に・・・
+EN #MS:
+EN "For the pride of #PS07 Japan...
+EN  and for the fight to come..."
+
+@ 016
+JP 「俺は負けられない！
+EN "I can't lose!"
+
+@ 017
+JP #WS144：
+JP 「なるほど、凄い気合だ。ならばこちらも
+JP 　この最高の拳を持って応えよう・・・
+EN Tariel:
+EN "I see, great fighting spirit. Then I
+EN  will answer with my finest fists..."
+
+@ 018
+JP #MS：
+JP 「行くぜ！
+EN #MS:
+EN "Let's go!"

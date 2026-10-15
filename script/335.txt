@@ -1,0 +1,147 @@
+@ 000
+JP 坂上：
+JP 「あの厳しい道場を巣立ってから今日まで、
+JP 　違う場所で活躍しているお前を目標に
+JP 　今まで頑張って来た。
+EN Sakagami:
+EN "Ever since we left that brutal dojo,
+EN  I've chased you, out there making it
+EN  somewhere else."
+
+@ 001
+JP 「でも今はこうして同じマットで、
+JP 　こんな大観衆の見守る中で、
+JP 　お互い認め合った上で闘えるんだ。
+EN "But now we're on the same mat, in
+EN  front of this huge crowd, fighting as
+EN  equals."
+
+@ 002
+JP 「お前みたいなライバルがいて、
+JP 　俺は本当に幸せだよ。
+EN "I'm lucky to have a rival like you."
+
+@ 003
+JP #MS：
+JP 「俺だって同じだ。お前がいるから
+JP 　俺はここまで頑張って来れたんだ。
+EN #MS:
+EN "Same here. You're the reason I made
+EN  it this far."
+
+@ 004
+JP 坂上：
+JP 「三冠、必ず取れよ。
+EN Sakagami:
+EN "Win the Triple Crown, you hear me?"
+
+@ 005
+JP #MS：
+JP 「ああ。そしてお前を相手に防衛戦を・・・
+JP 　今度はこの武闘館のメインでやろうぜ！
+EN #MS:
+EN "Yeah. And then I'll defend it against
+EN  you... in the main event, right here at
+EN  Budokan!"
+
+@ 006
+JP 坂上：
+JP 「おう！約束、だぜ？
+EN Sakagami:
+EN "You got it! That's a promise, right?"
+
+@ 007
+JP #MS：
+JP 「分かってる！
+EN #MS:
+EN "I know!"
+
+@ 008
+JP #MS：
+JP 「あの厳しい道場を巣立ってから今日まで、
+JP 　違う場所で活躍しているお前を目標に
+JP 　今まで頑張って来た。
+EN #MS:
+EN "Ever since we left that brutal dojo,
+EN  I've chased you, out there making it
+EN  somewhere else."
+
+@ 009
+JP 「でも今はこうして同じマットで、
+JP 　こんな大観衆の見守る中で、
+JP 　お互い認め合った上で闘えるんだ。
+EN "But now we're on the same mat, in
+EN  front of this huge crowd, fighting as
+EN  equals."
+
+@ 010
+JP 「お前みたいなライバルがいて、
+JP 　俺は本当に幸せだよ。
+EN "I'm lucky to have a rival like you."
+
+@ 011
+JP 坂上：
+JP 「俺だって同じだ。お前がいるから
+JP 　俺はここまで頑張って来れたんだ。
+EN Sakagami:
+EN "Same here. You're the reason I made
+EN  it this far."
+
+@ 012
+JP #MS：
+JP 「三冠、必ず取れよ。
+EN #MS:
+EN "Win the Triple Crown, you hear me?"
+
+@ 013
+JP 坂上：
+JP 「ああ。そしてお前を相手に防衛戦を・・・
+JP 　今度はこの武闘館のメインでやろうぜ！
+EN Sakagami:
+EN "Yeah. And then I'll defend it against
+EN  you... in the main event, right here at
+EN  Budokan!"
+
+@ 014
+JP #MS：
+JP 「おう！約束、だぜ？
+EN #MS:
+EN "You got it! That's a promise, right?"
+
+@ 015
+JP 坂上：
+JP 「分かってる！
+EN Sakagami:
+EN "I know!"
+
+@ 016
+JP 会場の２人に対する歓声は
+JP 止む事は無かった・・・・・
+EN The crowd's cheers for the two of us
+EN never stopped.....
+
+@ 017
+JP この試合は年間ベストバウト賞に輝いた。
+EN The match won Match of the Year.
+
+@ 018
+JP 誰もが２人を
+JP #PL01の
+JP エースとして認めるようになり、
+EN Everyone came to see the two of them
+EN as the aces of #PL01,
+
+@ 019
+JP ２人の闘いはゴールデンカードとなり、
+JP その後も三冠王座を巡り熱い闘いを繰り広げた。
+EN and their fights became a golden card,
+EN battling hard over the Triple Crown
+EN for years to come.
+
+@ 020
+JP そして#MF、
+JP 坂上浩一は日本プロレス界を代表する選手として
+JP 歴史にその名を刻み付けたのだった・・・・
+EN And so #MF and
+EN Koichi Sakagami carved their names
+EN into Japanese wrestling history....

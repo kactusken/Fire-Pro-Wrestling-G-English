@@ -1,0 +1,95 @@
+@ 000
+JP 記者：
+JP 「残念でしたが、どちらが勝っても
+JP 　おかしくない好勝負でした。
+JP 　一言お願いします。
+EN Reporter:
+EN "Too bad, but it was a great match
+EN  that could have gone either way. Any
+EN  comment?"
+
+@ 001
+JP #MS：
+JP 「自分の力が足りなかったです。
+JP 　また出直します。
+EN #MS:
+EN "I just wasn't strong enough. I'll start
+EN  over."
+
+@ 002
+JP 記者：
+JP 「しかしながら#WS046選手との一連の
+JP 　激闘でお２人の評価が
+JP 　もの凄く上がったと思います。
+EN Reporter:
+EN "Still, your wars with Omori have
+EN  raised both your stocks hugely."
+
+@ 003
+JP 「これからは四天王、#WS044選手も
+JP 　意識しての試合になって行くと思いますが？
+EN "From now on, you'll have the Four
+EN  Pillars and Akiyama in your sights?"
+
+@ 004
+JP #MS：
+JP ・「そうですね。
+JP ・「いや、まだまだこれからですよ！
+JP ・「いつでもマイペースですよ。
+EN #MS:
+EN ・"That's right."
+EN ・"No, I'm only getting started!"
+EN ・"I go at my own pace."
+
+@ 005
+JP 「どんどん上とやっていきたいです。
+JP 　いつまでも四天王じゃない、って
+JP 　皆さんに思われるようにしないと。
+EN "I want to keep taking on the top
+EN  guys. I have to make people see it
+EN  won't always be the Four Pillars."
+
+@ 006
+JP 「#WS046に借りを返して、
+JP 　行く行くはやっぱり
+JP 　ワールド三冠挑戦を狙いますよ！
+EN "I'll pay Omori back, and down the
+EN  line, I'm going after the Triple
+EN  Crown!"
+
+@ 007
+JP 「#WS046に負けてますんで。
+JP 　あいつに借りを返してからが俺にとっての
+JP 　本当の勝負じゃないですか？
+EN "I lost to Omori. My real fight starts
+EN  once I pay him back, doesn't it?"
+
+@ 008
+JP 「ここで止まっていられないですから！
+JP 　これからも突っ走りますよ！
+EN "I can't stop here! I'll keep charging
+EN  ahead!"
+
+@ 009
+JP 「１歩１歩着実にここまで来たんでね。
+JP 　これからも１歩１歩行きますよ。
+JP 　そうして結果出して、実績積みますよ。
+EN "I got here one step at a time. I'll keep
+EN  going step by step, getting results
+EN  and a track record."
+
+@ 010
+JP 「そうして行けばベルトに行き着くでしょう。
+EN "Do that, and the belt will come."
+
+@ 011
+JP 記者：
+JP 「ではファンの皆さんに一言。
+EN Reporter:
+EN "Any words for the fans?"
+
+@ 012
+JP #MS：
+JP 「これからも応援よろしくお願いします！
+EN #MS:
+EN "Please keep supporting me!"

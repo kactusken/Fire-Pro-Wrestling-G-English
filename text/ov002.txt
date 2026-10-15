@@ -1,0 +1,43 @@
+# overlay 002: strings in 0x8005a71c..0x8005ad40
+
+@ 8005a754 len=28 refs=p0,c1
+JP ﾄﾓﾔ|ﾕ､ﾕﾄﾕDECODE
+
+@ 8005aa8c len=8 refs=p1,c0
+JP 記者
+EN Reporter
+
+@ 8005aa94 len=12 refs=p2,c0
+JP 坂上浩一
+EN Koichi Sakagami
+
+@ 8005aaa0 len=12 refs=p1,c0
+JP 増田信行
+EN Nobuyuki Masuda
+
+@ 8005aaac len=16 refs=p1,c0
+JP バット・若部
+EN Ted Tanabe
+
+@ 8005aabc len=28 refs=p1,c0
+JP ディンク・カクラコンＪｒ．
+EN Vince McMahon Jr.
+
+@ 8005aad8 len=16 refs=p1,c0
+JP ゾンビ・マサ
+EN Masa Saito
+
+@ 8005aae8 len=60 refs=p0,c1
+JP Ｎｏ．%03d\n　%s\n　　　　　　　　　　　　　　　%03d／%03d
+EN No.%03d\n　%s\n　　　　　　　　　　　　　　　%03d/%03d
+
+@ 8005ad1c len=4 refs=p0,c2
+JP ．
+
+@ 8005ad20 len=13 refs=p0,c2
+JP ＮｏＤａｔａ
+EN No Data
+
+@ 8005ad3c len=31 refs=p1,c0
+JP １９９９年　ＨＵＭＡＮ株式会社
+EN (C)1999 HUMAN Corporation

@@ -1,0 +1,160 @@
+@ 000
+JP ＵＷＨインテグラルの人気はその後も続くかと
+JP 思われたが、観客動員数は激減。
+JP 経営が傾くのに時間はかからなかった。
+EN UWF International seemed set to stay
+EN hot, but attendance crashed. The
+EN business soon began to sink.
+
+@ 001
+JP 最近では試合数も減り、こうして道場で
+JP トレーニングを続ける毎日が続いていた。
+EN Lately there were fewer shows, and
+EN every day was just more training here
+EN in the dojo.
+
+@ 002
+JP #WS166：
+JP 「よ！
+EN Anjoh:
+EN "Yo!"
+
+@ 003
+JP #MS：
+JP 「#WS166さん・・・
+EN #MS:
+EN "Mr. Anjoh..."
+
+@ 004
+JP #WS166：
+JP 「#MSも分かってるだろうけど、
+JP 　今ウチは経営が行き詰まってる。
+JP 　それで打開策を色々練ってたんだが・・・
+EN Anjoh:
+EN "#MS, you know it too. We're
+EN  broke. So we've been working on
+EN  ways out of this..."
+
+@ 005
+JP 「結局#PL00との対抗戦を
+JP 　する事になった。
+EN "In the end, we're doing an
+EN  interpromotional war with
+EN  #PL00."
+
+@ 006
+JP #MS：
+JP 「えっ！？
+EN #MS:
+EN "What!?"
+
+@ 007
+JP #WS166：
+JP 「色々思う所があると思うけどよ、一般に
+JP 　対する露出度は今までとケタ違いだし、
+JP 　ウチの強さをアピールする良い機会だぜ。
+EN Anjoh:
+EN "Sure, you've got doubts. But the
+EN  exposure's on another level. A great
+EN  chance to show we're tough."
+
+@ 008
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 009
+JP 確かに#WS166さんの言う事には
+JP 一理あるが・・・やはり色々なリスクはある。
+JP 後は個人個人がどう対応して行くかだろう。
+EN Anjoh has a point... but there are
+EN risks. It's up to each of us how we
+EN deal with it.
+
+@ 010
+JP #WS166：
+JP 「ま、心の準備、しといてくれや。
+JP 　対プロレスの特訓なら
+JP 　俺が付き合ってやるからよ。
+EN Anjoh:
+EN "Anyway, get yourself ready. If you
+EN  need to train for pro wrestlers, I'll
+EN  help you out."
+
+@ 011
+JP 俺は#WS165さんや#WS166さんの
+JP 気持ちを考えて、結局
+JP #PS00との対抗戦に出場した・・・
+EN Thinking of how Takada and Anjoh
+EN felt, I ended up fighting in the war
+EN with #PS00...
+
+@ 012
+JP #WS010：
+JP 「いいか！俺達とお前達では基礎体力から
+JP 　違うんだ！今日はその差を
+JP 　体に教え込んでやる！
+EN Nagata:
+EN "Listen! Our basic strength is on a
+EN  whole other level! Today we'll beat
+EN  that gap into your bodies!"
+
+@ 013
+JP #WS006：
+JP 「・・・・・・・・
+EN Iizuka:
+EN "........"
+
+@ 014
+JP #MS：
+JP 「そうは行くか！逆にお前達の体に
+JP 　俺達の闘いを教えてやるよ！
+EN #MS:
+EN "Like hell! We'll beat our kind of fight
+EN  into YOUR bodies!"
+
+@ 015
+JP #WS166：
+JP 「よし、いいか。奴等が後ろ向いたら
+JP 　ダッシュしろ！そしてこの間教えた
+JP 　ドロップキックをカマしてやるんだ！
+EN Anjoh:
+EN "Okay, listen. When they turn their
+EN  backs, dash in and hit 'em with that
+EN  dropkick I taught you!"
+
+@ 016
+JP #MS：
+JP 「ええ！？・・・本気でやるんですか？
+EN #MS:
+EN "What!? ...You're serious?"
+
+@ 017
+JP #WS166：
+JP 「当たり前だろ！あいつらは俺達がそんな事
+JP 　するとはこれっぽっちも思ってないから
+JP 　動揺するはずだ。その隙をつく！
+EN Anjoh:
+EN "Of course! They'd never expect us to
+EN  do that, so they'll be rattled. We hit
+EN  the opening!"
+
+@ 018
+JP #MS：
+JP 「そんなんで動揺するんですかね？
+EN #MS:
+EN "Would that really rattle them?"
+
+@ 019
+JP #WS166：
+JP 「ゴチャゴチャ言ってる暇は無い！
+JP 　ホラ、行くぞ！
+EN Anjoh:
+EN "No time to argue! Come on, let's go!"
+
+@ 020
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"

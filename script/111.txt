@@ -1,0 +1,52 @@
+@ 000
+JP 東洋タッグ王者チームである、
+JP #WS044・#WS046組と
+JP ノンタイトルながら当たるチャンスを得た。
+EN I got a shot, non-title, at the All Asia
+EN Tag champs, Akiyama and Omori.
+
+@ 001
+JP #WS044：
+JP 「俺達第３世代がどこまで出来るのか、
+JP 　世間に知らしめてやろうじゃないか。
+EN Akiyama:
+EN "Let's show the world what we Third
+EN  Generation guys can do."
+
+@ 002
+JP #MS：
+JP 「おう。その上でお前から取って、
+JP 　俺がこの中で一番だって証明してやるよ！
+EN #MS:
+EN "Yeah. And I'll pin you and prove I'm
+EN  the best of us!"
+
+@ 003
+JP #WS044：
+JP 「そうか？#WS046がただ黙ってるとも
+JP 　思えないけどな。
+EN Akiyama:
+EN "Oh yeah? I doubt Omori will just
+EN  keep quiet."
+
+@ 004
+JP #MS：
+JP 「・・・・違いない。
+JP 　でもその上で取れば、文句無しだろ？
+EN #MS:
+EN "....No doubt. But if I pin you anyway,
+EN  nobody can complain, right?"
+
+@ 005
+JP #WS044：
+JP 「そうだな・・・・それじゃ俺も
+JP 　お前から取るようにするよ。
+EN Akiyama:
+EN "Fair enough.... Then I'll make sure I
+EN  pin you."
+
+@ 006
+JP #MS：
+JP 「へへ・・・行くぜ！
+EN #MS:
+EN "Heh heh... Let's go!"

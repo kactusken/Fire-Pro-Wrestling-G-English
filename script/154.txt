@@ -1,0 +1,22 @@
+@ 000
+JP 勝ったのは俺だった。
+JP 相手はかなり悔しそうだ。
+EN I was the winner. My opponent looked
+EN bitter as hell.
+
+@ 001
+JP #WS002:
+JP 「これで終わると思うなよ！
+JP 　俺はこの位じゃ終わらないぞ！
+EN Sasaki:
+EN "Don't think this is over! It'll take
+EN  more than this to finish me!"
+
+@ 002
+JP 俺は負け惜しみを背に退場した。
+EN I walked out with his sore-loser lines
+EN at my back.
+
+@ 003
+JP このまま突っ走ってやる！
+EN I'm gonna keep charging ahead!

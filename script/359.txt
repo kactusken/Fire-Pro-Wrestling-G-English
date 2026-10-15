@@ -1,0 +1,154 @@
+@ 000
+JP #WS151：
+JP 「長らくお待たせしました！
+EN Ishikawa:
+EN "Sorry to keep you waiting so long!"
+
+@ 001
+JP #MS：
+JP 「何だ？呼び出して早々・・・・
+JP 　来たのは俺の方だろ？
+EN #MS:
+EN "What? You called me here... I'm the
+EN  one who came, right?"
+
+@ 002
+JP #WS151：
+JP 「違いますよ。坂上さんの事です。
+EN Ishikawa:
+EN "Not that. I mean Sakagami."
+
+@ 003
+JP #MS：
+JP 「えっ！？もしかして・・・・
+EN #MS:
+EN "What!? Don't tell me...."
+
+@ 004
+JP #WS151：
+JP 「ええ、正式に#PS06と契約を
+JP 　交わして来ました。
+EN Ishikawa:
+EN "Yep, I signed an official deal with
+EN  #PS06."
+
+@ 005
+JP 「今度のドーム大会でシングル、組みますよ。
+EN "You'll have your singles match at
+EN  our next Dome show."
+
+@ 006
+JP #MS：
+JP 「そうか、ありがと・・・ってドーム！？
+EN #MS:
+EN "I see, thanks... wait, the Dome!?"
+
+@ 007
+JP #WS151：
+JP 「だって次はドームしかないでしょう！
+EN Ishikawa:
+EN "Well, where else could it be!"
+
+@ 008
+JP #MS：
+JP 「お前、金はあるのか、金は！？
+EN #MS:
+EN "Do you have the money!? The
+EN  money!?"
+
+@ 009
+JP #WS151：
+JP 「大丈夫、何とかなりますよ！
+EN Ishikawa:
+EN "Don't worry, it'll work out!"
+
+@ 010
+JP #MS：
+JP 「何とかなりますよ・・・・
+JP 　つまり現時点では何ともなっていない、と。
+EN #MS:
+EN "'It'll work out'.... So right now, it
+EN  hasn't worked out at all."
+
+@ 011
+JP #WS151：
+JP 「いやいや、大丈夫ですよ！
+EN Ishikawa:
+EN "No, no, it's fine!"
+
+@ 012
+JP #MS：
+JP 「・・・・・・・まあそう言うんなら
+JP 　これ以上言わないけど・・・・
+EN #MS:
+EN "....... Well, if you say so, I won't push
+EN  it...."
+
+@ 013
+JP #WS151：
+JP 「頑張って下さいね！
+EN Ishikawa:
+EN "Give it your all!"
+
+@ 014
+JP #MS：
+JP 「いよいよだな。
+EN #MS:
+EN "This is it."
+
+@ 015
+JP 坂上：
+JP 「ああ。
+EN Sakagami:
+EN "Yeah."
+
+@ 016
+JP #MS：
+JP 「どれだけこの日を待ちわびた事か・・・
+EN #MS:
+EN "I've waited so long for this day..."
+
+@ 017
+JP 坂上：
+JP 「俺もそうだ。その為に俺は
+JP 　色んな試練を乗り越えて来た。
+EN Sakagami:
+EN "Me too. I've been through all kinds of
+EN  trials for it."
+
+@ 018
+JP #MS：
+JP 「同じ道場で同期の２人が
+JP 　この大舞台で激突する。夢みたいだな。
+EN #MS:
+EN "Two guys from the same dojo class,
+EN  clashing on this big stage. It's like a
+EN  dream."
+
+@ 019
+JP 坂上：
+JP 「へへへ・・・まさにドリームマッチって訳だ。
+EN Sakagami:
+EN "Heh heh... a real dream match."
+
+@ 020
+JP #MS：
+JP 「ああ、本気で来いよ！
+JP 　思い出にふけって
+JP 　手を抜いたら承知しないぜ！
+EN #MS:
+EN "Yeah, so come at me for real! Get
+EN  nostalgic and hold back, and I won't
+EN  forgive you!"
+
+@ 021
+JP 坂上：
+JP 「それはこっちのセリフだ！
+JP 　腰抜かすなよ！俺の成長ぶりに！
+EN Sakagami:
+EN "That's my line! Don't fall over at how
+EN  much I've grown!"
+
+@ 022
+JP そして運命のゴングが鳴った・・・・
+EN And then the bell of fate rang....

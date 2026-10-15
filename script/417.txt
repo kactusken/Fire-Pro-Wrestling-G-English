@@ -1,0 +1,157 @@
+@ 000
+JP 俺は子供の頃見た
+JP スーパースターとの試合を終えた。
+EN My match with the superstar I'd
+EN watched as a kid was over.
+
+@ 001
+JP だが俺には感傷に浸る暇は無かった。
+JP すぐにまたブラックＦＷＯ軍が
+JP 押し寄せて来たのだ。
+EN But there was no time to get
+EN sentimental. nWo Hollywood came
+EN storming in again.
+
+@ 002
+JP #WS107：
+JP 「ウガァァァァァッ！
+EN Norton:
+EN "UGAAAAAAAH!"
+
+@ 003
+JP そしてそれに呼応するように
+JP レッドＦＷＯの仲間も入って来た。
+JP これで奴らを追っ払える。
+EN And in answer, my Wolfpac buddies
+EN came in too. Now we can run them
+EN off.
+
+@ 004
+JP #WS103：
+JP 「大丈夫か、#MS！
+EN Sting:
+EN "You okay, #MS!?"
+
+@ 005
+JP #MS：
+JP 「ありがとう、#WS103・・・
+EN #MS:
+EN "Thanks, Sting..."
+
+@ 006
+JP だが俺達は予想だにしない展開を
+JP 眼にする事になった。
+EN But what happened next, we never
+EN saw coming.
+
+@ 007
+JP 何と他のレッドＦＷＯのメンバーが、
+JP ブラックＦＷＯ軍のメンバーと
+JP 握手をしているのだ。
+EN The rest of the Wolfpac were shaking
+EN hands with nWo Hollywood!
+
+@ 008
+JP そして俺と#WS103は袋叩きにされた。
+EN And then Sting and I got ganged up
+EN on.
+
+@ 009
+JP #WS100：
+JP 「ウォォォォォォッ！
+EN Goldberg:
+EN "WOOOOOOOOOH!"
+
+@ 010
+JP そこへ現れたのは
+JP #WF100。
+EN Then out came Bill Goldberg.
+
+@ 011
+JP １６０戦無敗と言う、
+JP どこぞの格闘家のような
+JP 戦績を誇るレスラーだ。
+EN A wrestler who boasts a 160-0 record,
+EN like a certain martial artist we know.
+
+@ 012
+JP そして現在の
+JP #PS05世界ヘビー級の
+JP チャンピオンでもある。
+EN And the current #PS05 World
+EN Heavyweight Champion.
+
+@ 013
+JP 彼はブラックＦＷＯ勢を蹴散らし、
+JP リング上から追い払った。
+EN He scattered the nWo Hollywood guys
+EN and drove them from the ring.
+
+@ 014
+JP #WS100：
+JP 「ウォォォォォォッ！！
+EN Goldberg:
+EN "WOOOOOOOOOH!!"
+
+@ 015
+JP 彼は雄叫びを上げると
+JP 俺達を残してリングを去って行った。
+EN He let out a roar and left the ring,
+EN leaving us behind.
+
+@ 016
+JP #WS103：
+JP 「ソーリィ、まさかこんな事になるとは・・・
+EN Sting:
+EN "Sorry. I never dreamed it'd come to
+EN  this..."
+
+@ 017
+JP 結局俺達２人以外のレッドＦＷＯは
+JP ブラックＦＷＯと合体。
+EN In the end, the whole Wolfpac except
+EN us two merged with Hollywood.
+
+@ 018
+JP しかも#WS103は先日の襲撃で
+JP 頭と脚を負傷、
+JP 当分欠場する事になってしまった。
+EN On top of that, Sting hurt his head
+EN and leg in the attack, and he'll be out
+EN for a while.
+
+@ 019
+JP #WS103：
+JP 「俺もしばらく加勢してやれない。
+JP 　敵が増えちまったってのに・・・・
+EN Sting:
+EN "I can't back you up for a while
+EN  either. Just when we've got even
+EN  more enemies...."
+
+@ 020
+JP #MS：
+JP 「構わないですよ。
+JP 　俺は１人でも闘って見せる。
+EN #MS:
+EN "That's fine. I'll fight even if it's
+EN  alone."
+
+@ 021
+JP #WS103：
+JP 「そうか・・・
+EN Sting:
+EN "I see..."
+
+@ 022
+JP #MS：
+JP 「まずは裏切り者からだ。
+EN #MS:
+EN "First, the traitor."
+
+@ 023
+JP 裏切り者とは
+JP #WF109の事だ。
+JP あいつとシングルで勝負だ！
+EN The traitor is Kevin Nash. I'll take
+EN him on in singles!

@@ -1,0 +1,31 @@
+@ 000
+JP 記者：
+JP 「どうでしたか？タイトル戦は？
+EN Reporter:
+EN "How was it? The title match?"
+
+@ 001
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 002
+JP #WS006：
+JP 「良い試合だったぞ。
+JP 　次にやったら分からないんじゃないか？
+EN Iizuka:
+EN "Good match. Next time, who knows?"
+
+@ 003
+JP #WS006さんは俺の肩を叩くと
+JP 去って行った。
+EN Iizuka patted me on the shoulder and
+EN walked off.
+
+@ 004
+JP そうとも。また挑んでやるさ。
+JP 俺が諦めない限り、チャンスはまた掴める！
+EN That's right. I'll challenge again. As
+EN long as I don't give up, I'll get another
+EN shot!
