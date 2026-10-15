@@ -1,0 +1,261 @@
+@ 000
+JP 俺は今生まれて初めて訪れた
+JP アメリカの大地を踏みしめていた。
+EN For the first time in my life, I was
+EN standing on American soil.
+
+@ 001
+JP 予想外の展開だったとは言え、こうして
+JP アメリカに来たからには必ずここで
+JP ビッグになってやる！
+EN It wasn't how I'd pictured it, but now
+EN that I'm in America, I'm going to make
+EN it big here!
+
+@ 002
+JP 俺は決意も新たに空を見上げ、拳を握り締めた。
+EN With fresh resolve, I looked up at the
+EN sky and clenched my fist.
+
+@ 003
+JP マサ：
+JP 「思いにふけっているのはいいけど
+JP 　早くしてくれないか。
+EN Masa:
+EN "Daydream all you want, but could
+EN  you hurry it up?"
+
+@ 004
+JP #MS：
+JP 「あ！
+EN #MS:
+EN "Ah!"
+
+@ 005
+JP そう、俺は一緒にいるマサさんの事を
+JP すっかり忘れていたのだ。
+EN Right. I'd completely forgotten Mr.
+EN Masa was with me.
+
+@ 006
+JP #MS：
+JP 「済みません、つい・・・・
+EN #MS:
+EN "Sorry, I just...."
+
+@ 007
+JP マサ：
+JP 「まあ気持ちは分からんでも無いけどな。
+EN Masa:
+EN "Well, I know how you feel."
+
+@ 008
+JP #MS：
+JP 「マサさんもアメリカで
+JP 　ビッグになったんですよね。
+EN #MS:
+EN "You made it big in America too,
+EN  didn't you, Masa?"
+
+@ 009
+JP マサ：
+JP 「そうだよ。でもいい時代になったもんだよ。
+JP 　俺達の時代のアメリカだったら日本人と言えば
+JP 　徹底的に、本質的にヒール（悪役側）だった。
+EN Masa:
+EN "Yep. Times are better now. In my
+EN  day, a Japanese guy here was a heel
+EN  (bad guy), through and through.
+
+@ 010
+JP 「客には画鋲を撒かれるし、ビンでも容赦なく
+JP 　投げつけて来る。囲まれて襲われそうになって
+JP 　大慌てで逃げ出した事もある。
+EN "Fans threw thumbtacks and bottles,
+EN  no mercy. Once I got surrounded and
+EN  had to run for my life."
+
+@ 011
+JP #MS：
+JP 「す、凄いですね・・・・
+EN #MS:
+EN "Th-That's crazy...."
+
+@ 012
+JP マサ：
+JP 「それに比べれば、今は日本人でも
+JP 　いいレスリングをすればお客は認めてくれるし
+JP 　ベビーフェイス（正義側）になる事も出来る。
+EN Masa:
+EN "Now, if a Japanese guy wrestles well,
+EN  the fans accept him. He can even be a
+EN  babyface (good guy).
+
+@ 013
+JP 「頑張って、アメリカンドリームを
+JP 　実現させるんだぞ！
+EN "Work hard, and make that American
+EN  Dream come true!"
+
+@ 014
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 015
+JP マサ：
+JP 「で、ここがお前がこれからしばらく
+JP 　厄介になるところだ。
+EN Masa:
+EN "Now, this is where you'll be staying
+EN  for a while."
+
+@ 016
+JP 「こんちわー！
+EN "Hellooo!"
+
+@ 017
+JP #MS：
+JP 「どうもこんにちは！
+EN #MS:
+EN "Hello there!"
+
+@ 018
+JP #WS113：
+JP 「はーい！
+EN Ultimo:
+EN "Hiii!"
+
+@ 019
+JP #MS：
+JP 「あっ、あなたは・・・・
+EN #MS:
+EN "Ah, you're...."
+
+@ 020
+JP マサ：
+JP 「久しぶりだな！
+EN Masa:
+EN "Long time no see!"
+
+@ 021
+JP #WS113：
+JP 「お待ちしてましたよ、マサさん。
+JP 　で、彼が電話で言ってた若いのですか？
+EN Ultimo:
+EN "I've been expecting you, Masa. So
+EN  this is the young guy you called
+EN  about?"
+
+@ 022
+JP マサ：
+JP 「そうなんだよ。
+EN Masa:
+EN "That's him."
+
+@ 023
+JP #MS：
+JP 「初めまして、
+JP 　#MFです！
+JP 　よろしくお願いします！
+EN #MS:
+EN "Nice to meet you. I'm
+EN  #MF!
+EN  Thanks for having me!"
+
+@ 024
+JP #WS113：
+JP 「#WF113こと
+JP 　正井俊彦。
+JP 　折角来たんだから、頑張って結果出そう！
+EN Ultimo:
+EN "Ultimo Dragon, real name Yoshihiro
+EN  Asai. You came all this way, so let's
+EN  get some results!"
+
+@ 025
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 026
+JP #WS113：
+JP 「ここは上が宿舎になってるから
+JP 　そこを使うといい。
+EN Ultimo:
+EN "Upstairs is a dorm. Feel free to use
+EN  it."
+
+@ 027
+JP #MS：
+JP 「ありがとうございます！
+EN #MS:
+EN "Thank you!"
+
+@ 028
+JP こうして俺は正井さんのジムで
+JP お世話になる事になったのだ。
+EN And so I came to stay at Asai's gym.
+
+@ 029
+JP 俺はあれから正井さんに
+JP アメリカの事やレスリングについて色々と
+JP 教えてもらいながら過ごして来た。
+EN Since then I'd been learning all about
+EN America and wrestling from Asai.
+
+@ 030
+JP そして今日、遂に#PS05での
+JP デビュー戦を迎えたのだ。
+EN And today, at last, came my debut in
+EN #PS05.
+
+@ 031
+JP #WS113：
+JP 「いよいよデビュー戦だな。
+EN Ultimo:
+EN "Debut day at last."
+
+@ 032
+JP #MS：
+JP 「はい。おかげさまでここまで来れました。
+EN #MS:
+EN "Yes. I made it this far thanks to
+EN  you."
+
+@ 033
+JP #WS113：
+JP 「最初のインパクトは大事だからな。
+JP 　自分をきちんとアピールして来い。
+EN Ultimo:
+EN "First impressions matter. Go show
+EN  them what you've got."
+
+@ 034
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes, sir."
+
+@ 035
+JP #WS113：
+JP 「相手の#WS116は
+JP 　体格はジュニアヘビーでも、その分スピードと
+JP 　テクニックには素晴らしいものを持ってる。
+EN Ultimo:
+EN "Your opponent, Hayashi, is a junior
+EN  heavyweight, but his speed and
+EN  technique are something else.
+
+@ 036
+JP 「翻弄されないようにな。
+EN "Don't let him run circles around
+EN  you."
+
+@ 037
+JP #MS：
+JP 「はい！行って来ます！
+EN #MS:
+EN "Right! I'm off!"

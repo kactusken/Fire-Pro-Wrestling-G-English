@@ -1,0 +1,85 @@
+@ 000
+JP 『すばる杯』は白熱した展開となった。
+JP 俺も２勝、#WS046も２勝で迎えた
+JP 直接対決は時間切れ引き分けのドロー。
+EN The Asunaro Cup got heated. Omori
+EN and I were both 2-0, and our match
+EN ended in a time-limit draw.
+
+@ 001
+JP その為最終戦の今日、日本武闘館で
+JP 俺と#WS046での優勝決定戦が
+JP 行われる事になった。
+EN So today, the final day, Omori and I
+EN would meet at the Nippon Budokan to
+EN decide the winner.
+
+@ 002
+JP 記者：
+JP 「#MS選手！
+EN Reporter:
+EN "#MS!"
+
+@ 003
+JP 「『すばる杯』、決勝ですね！
+EN "It's the Asunaro Cup final!"
+
+@ 004
+JP #MS：
+JP 「そうですね。
+EN #MS:
+EN "That's right."
+
+@ 005
+JP 記者：
+JP 「#WS046選手とは本戦で時間切れ
+JP 　引き分けのドロー。同期としてのライバル心
+JP 　が熱い闘いになっている訳ですか？
+EN Reporter:
+EN "Your league match with Omori was a
+EN  time-limit draw. Is your rivalry as
+EN  classmates fueling these fights?"
+
+@ 006
+JP #MS：
+JP 「やっぱりそれは大きいですよね。
+JP 　そういう熱い闘いをした上で勝って、
+JP 　それで次のステップに進みたいですね。
+EN #MS:
+EN "That's a big part of it. I want to win
+EN  a heated fight and move on to the
+EN  next step."
+
+@ 007
+JP 記者：
+JP 「ありがとうございました。頑張って下さい！
+EN Reporter:
+EN "Thank you. Good luck!"
+
+@ 008
+JP 遂に『すばる杯』決勝戦だ。
+EN The Asunaro Cup final, at last.
+
+@ 009
+JP #WS044：
+JP 「いよいよだな。
+EN Akiyama:
+EN "This is it, huh."
+
+@ 010
+JP #MS：
+JP 「おう。
+EN #MS:
+EN "Yeah."
+
+@ 011
+JP #WS044：
+JP 「見させてもらうぜ、お前達の闘い。
+EN Akiyama:
+EN "I'll be watching you two fight."
+
+@ 012
+JP #MS：
+JP 「良く見てろよ！
+EN #MS:
+EN "Watch closely!"

@@ -1,0 +1,56 @@
+@ 000
+JP 記者：
+JP 「最強の挑戦者を下しての３度目の防衛、
+JP 　おめでとうございます。
+EN Reporter:
+EN "Congratulations on your third
+EN  defense, against the toughest
+EN  challenger."
+
+@ 001
+JP #MS：
+JP 「ありがとうございます。
+EN #MS:
+EN "Thank you."
+
+@ 002
+JP 記者：
+JP 「まさに敵無しと言った所ですが？
+EN Reporter:
+EN "Looks like no one can touch you."
+
+@ 003
+JP #MS：
+JP 「そんな事ありませんよ。
+JP 　勝敗はいつも紙一重ですから。
+EN #MS:
+EN "Not at all. Every match is decided by
+EN  a hair."
+
+@ 004
+JP 「ただその中で３連続で防衛出来たというのは
+JP 　自信になりますね。
+EN "But three straight defenses does give
+EN  me confidence."
+
+@ 005
+JP 記者：
+JP 「事実上、実力者全員に勝った訳ですが
+JP 　今後はどういった展開を考えていますか？
+EN Reporter:
+EN "You've beaten every top name. What
+EN  do you have in mind next?"
+
+@ 006
+JP #MS：
+JP 「これからは若い連中にもドンドン
+JP 　出て来て欲しいですね。
+EN #MS:
+EN "I'd like to see the young guys step up
+EN  and come at me."
+
+@ 007
+JP 記者：
+JP 「ありがとうございました！
+EN Reporter:
+EN "Thank you very much!"

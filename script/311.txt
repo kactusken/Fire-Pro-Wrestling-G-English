@@ -1,0 +1,47 @@
+@ 000
+JP 試合を終えた俺は#WS166さん達と
+JP 控え室のモニターで#WS165さんと
+JP #WS169の試合を観戦する事にした。
+EN After my match, I watched Takada vs.
+EN Gracie with Anjoh and the others on
+EN the locker room monitor.
+
+@ 001
+JP #WS166：
+JP 「ありゃ・・・・・
+EN Anjoh:
+EN "Oh, man....."
+
+@ 002
+JP #WS165さんの敗北。しかも４分程度で、
+JP 何も出来ぬまま得意技の腕ひしぎ逆十字固めを
+JP 逆に極められて敗れたのだ。
+EN Takada lost. In about four minutes,
+EN helpless, caught in an armbar, his own
+EN specialty.
+
+@ 003
+JP #MS：
+JP 「#WS165さんが・・・・
+EN #MS:
+EN "Takada lost...."
+
+@ 004
+JP #WS166：
+JP 「まあ・・・・負けちまったもんは
+JP 　しょうがねぇよな。
+EN Anjoh:
+EN "Well.... a loss is a loss. Nothing we
+EN  can do."
+
+@ 005
+JP 結局大会自体は成功したものの、
+JP この敗戦が残した影響は大きかった。
+EN The event was a success, but that loss
+EN left a deep mark.
+
+@ 006
+JP 打倒#WL169・・・これが今の
+JP 日本格闘技界の合い言葉になったのだ。
+EN Beat Gracie... that became the
+EN rallying cry of Japan's fighting world.

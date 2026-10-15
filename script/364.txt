@@ -1,0 +1,44 @@
+@ 000
+JP ２回戦に勝ち進んだ俺の
+JP 次の相手は#WS155さんだ。
+EN I won through to round two. My next
+EN opponent is Suzuki.
+
+@ 001
+JP #WS155：
+JP 「やっぱりお前が来たか。
+EN Suzuki:
+EN "Figures it'd be you."
+
+@ 002
+JP #MS：
+JP 「旗揚げ早々先輩倒して優勝出来たら
+JP 　一気にエースですからね・・・
+JP 　頑張りますよ！
+EN #MS:
+EN "Beat a senior guy and win it all right
+EN  out of the gate, and I'm the ace
+EN  overnight... I'll give it everything!"
+
+@ 003
+JP #WS155：
+JP 「俺は#WS154さんを
+JP 　倒さなければならない。
+JP 　これは俺の宿命のようなものだ。
+EN Suzuki:
+EN "I have to beat Funaki. It's like it's my
+EN  destiny."
+
+@ 004
+JP 「だからここで負けている訳には
+JP 　行かない！決勝であの人を下して、
+JP 　決着をつけた上で頂点に立つ！
+EN "So I can't lose here! I'll take him
+EN  down in the final, settle it, and stand
+EN  at the top!"
+
+@ 005
+JP #MS：
+JP 「行きます！
+EN #MS:
+EN "Here I come!"

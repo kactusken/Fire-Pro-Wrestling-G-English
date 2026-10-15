@@ -1,0 +1,61 @@
+@ 000
+JP 俺達は今シリーズ、タッグとしての試合を
+JP 中心として闘って来た。
+EN This series, we'd focused on fighting
+EN as a tag team.
+
+@ 001
+JP その結果、新設タッグ王者決定戦を
+JP 最終戦の今日、行う事になったのだ。
+EN As a result, a match for the new tag
+EN titles was set for today, the final
+EN show.
+
+@ 002
+JP 相手は正規軍最強コンビの
+JP #WS068・#WS069組。
+EN Our opponents: the regulars' strongest
+EN duo, Hayabusa and Tanaka.
+
+@ 003
+JP #WS068：
+JP 「お前達２人の勢いは本物のようだ。
+JP 　だけど俺と#WS069も負けられない！
+EN Hayabusa:
+EN "You two have real momentum. But
+EN  Tanaka and I can't lose either!"
+
+@ 004
+JP 「チームノーリストリクトに
+JP 　#PS02を渡す訳には行かないんだ！
+EN "We can't hand #PS02 over to
+EN  Team No Respect!"
+
+@ 005
+JP #MS：
+JP 「お前の言ってる事は小さいんだよ！
+JP 　俺と坂上はプロレス界全体を見据えてる！
+EN #MS:
+EN "You're thinking too small! Sakagami
+EN  and I have our eyes on all of
+EN  wrestling!"
+
+@ 006
+JP 坂上：
+JP 「チームじゃない、団体じゃない。
+JP 　俺達はプロレスに
+JP 　新たな革命を起こして見せる！
+EN Sakagami:
+EN "Not a team, not a promotion. We're
+EN  gonna start a new revolution in
+EN  wrestling!"
+
+@ 007
+JP #MS：
+JP 「それが今日、この場から始まるんだ！
+EN #MS:
+EN "And it starts today, right here!"
+
+@ 008
+JP 「良く見ておけ！！
+EN "Watch closely!!"

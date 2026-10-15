@@ -1,0 +1,29 @@
+@ 000
+JP 防衛を一度も出来ずに王座転落・・・・
+EN I lost the title without a single
+EN defense....
+
+@ 001
+JP #WS154：
+JP 「残念だったな。
+EN Funaki:
+EN "Tough break."
+
+@ 002
+JP #MS：
+JP 「ええ・・・ただ、これが
+JP 　ハイブリッドレスリング。紙一重の
+JP 　勝負の世界ですからね。
+EN #MS:
+EN "Yeah... but that's hybrid wrestling. A
+EN  game of inches."
+
+@ 003
+JP #WS154：
+JP 「フフフ・・・そうだな。
+EN Funaki:
+EN "Heh heh heh... That it is."
+
+@ 004
+JP 俺はまた出直しを誓った。
+EN I swore to start over again.

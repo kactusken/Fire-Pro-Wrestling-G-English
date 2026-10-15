@@ -1,0 +1,73 @@
+@ 000
+JP 俺達はＥＸＷを後にして、ニューヨークの
+JP #PS06本部に向かった。
+EN We left ECW and headed for #PS06
+EN headquarters in New York.
+
+@ 001
+JP #WS092：
+JP 「あった、あの辺りだな。
+EN Sasuke:
+EN "There it is, right over there."
+
+@ 002
+JP ディンク：
+JP 「良く来た、#WS092。
+EN McMahon:
+EN "Welcome, Sasuke."
+
+@ 003
+JP #WS092：
+JP 「よろしくお願いしますよ。
+EN Sasuke:
+EN "Pleased to be working with you."
+
+@ 004
+JP ディンク：
+JP 「早速だがユー達とサイレンターイの
+JP 　テスト戦を行いたい。
+EN McMahon:
+EN "Let's get right to it. I'd like a test
+EN  match between you two and
+EN  Kai-En-Tai."
+
+@ 005
+JP 「その後ファンの反応を見て、色々
+JP 　形を決めて行こうと思ってる。
+EN "Then we'll see how the fans react
+EN  and work out the details."
+
+@ 006
+JP #WS092：
+JP 「分かりました。
+EN Sasuke:
+EN "Understood."
+
+@ 007
+JP こうして２人の首脳会談の結果、
+JP #WS092対#WS134と
+JP #MS対#WS137の試合が決定した。
+EN After the two leaders met, the
+EN matches were set: Sasuke vs. TAKA,
+EN and #MS vs. Funaki.
+
+@ 008
+JP #WS092：
+JP 「頼むぞ。この２試合で専属契約が
+JP 　取れるかどうかが決まる。
+EN Sasuke:
+EN "I'm counting on you. These two
+EN  matches decide whether we get the
+EN  exclusive deal."
+
+@ 009
+JP 「俺達の凄さを、アメリカのファンに
+JP 　思いっきりアピールして来い！
+EN "Show the American fans just how
+EN  good we are!"
+
+@ 010
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"

@@ -1,0 +1,76 @@
+@ 000
+JP 軌道に乗り、順調に見えたキャッスルだったが
+JP １人、また１人と、退団する人間が増え、
+JP 次第に興行すらまともに打てなくなって行った。
+EN Kingdom seemed to be on track, but
+EN one by one people left, until we
+EN couldn't even run proper shows.
+
+@ 001
+JP 今日は遂に温存されていたカード・・・
+JP そう、俺と#WS166さんの試合を
+JP 行う事になった。
+EN Today, at last, came the card we'd
+EN been saving... Anjoh against me.
+
+@ 002
+JP だが・・・・
+EN But....
+
+@ 003
+JP #WS166：
+JP 「何かよぉ、閑古鳥鳴いてねぇか？
+EN Anjoh:
+EN "Hey, isn't it kinda dead in here?"
+
+@ 004
+JP そう、客席はガラガラ。招待券の席だけは
+JP それなりに埋まっているが・・・・
+EN Yes, the seats were empty. Only the
+EN comp-ticket seats were fairly full....
+
+@ 005
+JP #WS166：
+JP 「さすがにやる気も失せて来るよなぁ・・・
+EN Anjoh:
+EN "Kinda kills your motivation,
+EN  y'know..."
+
+@ 006
+JP #MS：
+JP 「何言ってるんですか！ここで凄い試合して
+JP 　お客さんにまた来たい、って思わせないと！
+EN #MS:
+EN "What are you saying!? We have to
+EN  put on a great match so the fans
+EN  want to come back!"
+
+@ 007
+JP #WS166：
+JP 「そうだな・・・・
+EN Anjoh:
+EN "You're right...."
+
+@ 008
+JP 「分かった。じゃあ頑張ってくれ！
+EN "Got it. Then good luck out there!"
+
+@ 009
+JP #MS：
+JP 「そうじゃないでしょう！
+EN #MS:
+EN "That's not the point!"
+
+@ 010
+JP #WS166：
+JP 「じょ、冗談だよ。俺はいつだって
+JP 　本気でやってるんだからよ。ホラ、来い！
+EN Anjoh:
+EN "J-just kidding. I'm always serious,
+EN  y'know. Come on, bring it!"
+
+@ 011
+JP #MS：
+JP 「こ、この人は・・・・
+EN #MS:
+EN "Th-this guy...."

@@ -1,0 +1,171 @@
+@ 000
+JP 俺はしばし呆然としてしまった。
+EN I stood there stunned for a while.
+
+@ 001
+JP 『最強の格闘技プロレス』を証明する為に
+JP 数々の強敵と闘って来た、平成の格闘王
+JP #WF165に勝利。
+EN I beat Nobuhiko Takada, the Heisei
+EN fighting king who fought so many to
+EN prove pro wrestling is the strongest.
+
+@ 002
+JP 自分でも嬉しいような信じられないような
+JP 不思議な気分だ。
+EN I felt strange, happy and yet unable
+EN to believe it.
+
+@ 003
+JP #WS165：
+JP 「強くなったな。俺の負けだよ。
+EN Takada:
+EN "You got strong. I lost."
+
+@ 004
+JP #MS：
+JP 「#WS165さん・・・・
+EN #MS:
+EN "Mr. Takada..."
+
+@ 005
+JP #WS165：
+JP 「でも俺もこれで終わるつもりは無い。
+JP 　これからも一緒にＵＷＨインテグラルを
+JP 　盛り上げて行こう！
+EN Takada:
+EN "But I'm not finished. Let's keep
+EN  firing up UWF International
+EN  together!"
+
+@ 006
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 007
+JP ＵＷＨインテグラルの人気はその後も続くかと
+JP 思われたが、観客動員数は激減。
+JP 経営が傾くのに時間はかからなかった。
+EN UWF International seemed set to stay
+EN hot, but attendance crashed. The
+EN business soon began to sink.
+
+@ 008
+JP 最近では試合数も減り、こうして道場で
+JP トレーニングを続ける毎日が続いていた。
+EN Lately there were fewer shows, and
+EN every day was just more training here
+EN in the dojo.
+
+@ 009
+JP #WS166：
+JP 「よ！
+EN Anjoh:
+EN "Yo!"
+
+@ 010
+JP #MS：
+JP 「#WS166さん・・・
+EN #MS:
+EN "Mr. Anjoh..."
+
+@ 011
+JP #WS166：
+JP 「#MSも分かってるだろうけど、
+JP 　今ウチは経営が行き詰まってる。
+JP 　それで打開策を色々練ってたんだが・・・
+EN Anjoh:
+EN "#MS, you know it too. We're
+EN  broke. So we've been working on
+EN  ways out of this..."
+
+@ 012
+JP 「結局#PL00との対抗戦を
+JP 　する事になった。
+EN "In the end, we're doing an
+EN  interpromotional war with
+EN  #PL00."
+
+@ 013
+JP #MS：
+JP 「えっ！？
+EN #MS:
+EN "What!?"
+
+@ 014
+JP #WS166：
+JP 「色々思う所があると思うけどよ、一般に
+JP 　対する露出度は今までとケタ違いだし、
+JP 　ウチの強さをアピールする良い機会だぜ。
+EN Anjoh:
+EN "Sure, you've got doubts. But the
+EN  exposure's on another level. A great
+EN  chance to show we're tough."
+
+@ 015
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 016
+JP 確かに#WS166さんの言う事には
+JP 一理あるが・・・やはり色々なリスクはある。
+JP 後は個人個人がどう対応して行くかだろう。
+EN Anjoh has a point... but there are
+EN risks. It's up to each of us how we
+EN deal with it.
+
+@ 017
+JP #WS166：
+JP 「ま、心の準備、しといてくれや。
+JP 　対プロレスの特訓なら
+JP 　俺が付き合ってやるからよ。
+EN Anjoh:
+EN "Anyway, get yourself ready. If you
+EN  need to train for pro wrestlers, I'll
+EN  help you out."
+
+@ 018
+JP 俺は#WS165さんや#WS166さんの
+JP 気持ちを考えて、結局
+JP #PS00との対抗戦に出場した・・・
+EN Thinking of how Takada and Anjoh
+EN felt, I ended up fighting in the war
+EN with #PS00...
+
+@ 019
+JP 俺の相手はトップに迫る勢いの
+JP #WF002だ。
+EN My opponent was Kensuke Sasaki,
+EN closing in on the top spot.
+
+@ 020
+JP #WS002：
+JP 「オイ！プロレスをナメんなよ！
+JP 　そんな体で俺らに勝てると思ってんのか！
+JP 　体重増やして出直して来い！
+EN Sasaki:
+EN "Hey! Don't disrespect pro wrestling!
+EN  You think you can beat us with that
+EN  body!? Bulk up and come back!"
+
+@ 021
+JP #MS：
+JP 「確かにパワーではかなわないかもしれない！
+JP 　でも俺達には俺達の闘い方があるんだ！
+JP 　それを今から教えてやるよ！
+EN #MS:
+EN "Maybe I can't match your power! But
+EN  we've got our own way to fight! I'll
+EN  show you right now!"
+
+@ 022
+JP #WS002：
+JP 「良い度胸だ！俺の前でそこまで言って
+JP 　ただで済むと思うなよ！
+EN Sasaki:
+EN "You've got guts! Talk like that to my
+EN  face and you won't walk away clean!"

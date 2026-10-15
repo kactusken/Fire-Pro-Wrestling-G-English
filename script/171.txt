@@ -1,0 +1,208 @@
+@ 000
+JP #WS074：
+JP 「で、どうする？
+JP 　大会の最後を締めくくる恒例のコントは？
+EN Jado:
+EN "So, what're we doin' for the usual
+EN  skit to close out the show?"
+
+@ 001
+JP #WS071軍の選手達は
+JP 興行の度にお客さんに喜んでもらう為
+JP ショートコントをしている。
+EN The Fuyuki-gun guys do a short
+EN comedy skit at every show to give the
+EN fans a good time.
+
+@ 002
+JP 普段やりたい放題やっているように見えて
+JP 一番お客さんを大事にしているのは
+JP #WS071軍なのだ。
+EN They look like they do whatever they
+EN want, but it's the Fuyuki-gun who
+EN care most about the fans.
+
+@ 003
+JP #WS075：
+JP 「どないしますかね・・・
+JP 　そろそろ根本的にトランクス兄弟の次のネタ、
+JP 　考えておいた方がええんとちゃいますか？
+EN Kanemura:
+EN "What to do... Ain't it about time we
+EN  thought up a whole new bit after the
+EN  Trunks Brothers?"
+
+@ 004
+JP 二人とも真剣にネタを考えている・・・
+EN They were both seriously
+EN brainstorming...
+
+@ 005
+JP #WS074：
+JP 「んー#MS、どう思う？
+JP 　何か次のネタの案はないか？
+EN Jado:
+EN "Hmm, #MS, whaddaya think?
+EN  Got any ideas for the next bit?"
+
+@ 006
+JP ・バニー兄弟
+JP ・レオタード軍団
+JP ・ふんどし軍団
+EN ・Bunny Brothers
+EN ・Leotard Squad
+EN ・Loincloth Squad
+
+@ 007
+JP #MS：
+JP 「やっぱこれでしょう！バニーガールの格好で
+JP 　『バニー兄弟』！
+EN #MS:
+EN "Gotta be this! We dress as bunny
+EN  girls: the "Bunny Brothers"!"
+
+@ 008
+JP #WS074：
+JP 「何か、寒くねーかこの部屋・・・
+EN Jado:
+EN "Is it just me, or is it freezin' in
+EN  here..."
+
+@ 009
+JP #WS075：
+JP 「確かに・・・・
+JP 　シベリアよりも寒いんとちゃいますか？
+EN Kanemura:
+EN "Sure is.... Colder than Siberia, ain't
+EN  it?"
+
+@ 010
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 011
+JP どうやら外したらしい。
+EN Looks like it bombed.
+
+@ 012
+JP #MS：
+JP 「『レオタード軍団』でしょう！
+JP 　もちろんみんな生脚限定！
+EN #MS:
+EN "The "Leotard Squad"! Bare legs only,
+EN  of course!"
+
+@ 013
+JP #WS075：
+JP 「・・・・・
+EN Kanemura:
+EN "....."
+
+@ 014
+JP #WS074：
+JP 「・・・・・・・
+EN Jado:
+EN "......."
+
+@ 015
+JP もしかして外したか！？
+EN Did it bomb!?
+
+@ 016
+JP #WS075：
+JP 「す、素晴らしいやないか！
+JP 　さっすが#MSや！おもろ過ぎやで！
+EN Kanemura:
+EN "Th-that's brilliant! That's our
+EN  #MS! Too damn funny!"
+
+@ 017
+JP #WS074：
+JP 「決まりだな、こりゃ。
+EN Jado:
+EN "That settles it."
+
+@ 018
+JP #MS：
+JP 「えっ！？
+EN #MS:
+EN "What!?"
+
+@ 019
+JP まさか採用されるとは思わなかった俺は
+JP 自分がやる時の事を想像して
+JP 気分が悪くなってしまった。
+EN I never thought they'd go for it.
+EN Picturing myself doing it made me
+EN feel sick.
+
+@ 020
+JP #MS：
+JP 「今度はふんどしでしょう！
+JP 　『ふんどし軍団』で決まり！
+EN #MS:
+EN "Loincloths this time! The "Loincloth
+EN  Squad," final answer!"
+
+@ 021
+JP #WS075：
+JP 「・・・・・
+EN Kanemura:
+EN "....."
+
+@ 022
+JP #WS074：
+JP 「・・・・・・・
+EN Jado:
+EN "......."
+
+@ 023
+JP 何か場の空気がおかしい・・・・
+EN Something felt off in the room....
+
+@ 024
+JP #WS075：
+JP 「最悪やな・・・・
+EN Kanemura:
+EN "That's the worst...."
+
+@ 025
+JP #WS074：
+JP 「話にならねえ・・・・
+JP 　そんなのあの#WS076でも思い付くぞ。
+EN Jado:
+EN "Pathetic.... Even Onita could come
+EN  up with that."
+
+@ 026
+JP #WS075：
+JP 「ギャグのセンス磨いて出直して来いや。
+EN Kanemura:
+EN "Go sharpen your gag sense and come
+EN  back."
+
+@ 027
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 028
+JP 俺はおしかりを受けてしまった。
+EN I got chewed out.
+
+@ 029
+JP コントしたり暴れたり・・・でも真剣に
+JP 将来を考えプロレスを愛する仲間達。
+JP 俺はこの愉快な仲間達を大事にしようと思った。
+EN Skits, brawls... but they love
+EN wrestling and take its future
+EN seriously. I'd treasure this fun bunch.
+
+@ 030
+JP 今日は
+JP #WS070さんとのシングルマッチだ。
+EN Today I had a singles match with
+EN Ohya.

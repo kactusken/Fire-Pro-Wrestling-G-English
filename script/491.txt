@@ -1,0 +1,95 @@
+@ 000
+JP 俺は#PS02での修行を終えて、
+JP #PL04に帰って来た。
+EN Done training at #PS02, I came
+EN back to #PL04.
+
+@ 001
+JP #WS092：
+JP 「お疲れさん。
+EN Sasuke:
+EN "Good work out there."
+
+@ 002
+JP #MS：
+JP 「ただいま、戻りました。
+EN #MS:
+EN "I'm back."
+
+@ 003
+JP #WS092：
+JP 「大きくなったな。
+EN Sasuke:
+EN "You've grown."
+
+@ 004
+JP #MS：
+JP 「おかげさまで、色々な経験が出来ました。
+EN #MS:
+EN "Thanks to you, I got all kinds of
+EN  experience."
+
+@ 005
+JP #WS092：
+JP 「これからはその経験を活かして、
+JP 　ガンガン活躍してくれよ。
+EN Sasuke:
+EN "Now put that experience to use and
+EN  go wild out there."
+
+@ 006
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 007
+JP その後俺は現在の#PS04の
+JP 詳しい状況を教えてもらった。
+EN Then he filled me in on how things
+EN stood at #PS04.
+
+@ 008
+JP 西連隊ＥＸは全員#PS06へ転出した事。
+JP #WS092さんがケガで欠場している事。
+EN All of Kaientai DX had jumped to
+EN #PS06. Sasuke was out injured.
+
+@ 009
+JP 経営が厳しい事。
+JP 選手会だけでも盛り上げようと、
+JP #WS093さんを中心に頑張っている事。
+EN Money was tight. Led by Delfin, the
+EN roster was working hard to keep the
+EN fire going.
+
+@ 010
+JP #MS：
+JP 「そうなんですか・・・・・
+JP 　じゃあ俺も頑張らないと！
+EN #MS:
+EN "I see..... Then I'd better work hard
+EN  too!"
+
+@ 011
+JP #WS092：
+JP 「ああ。ちょうど今は#WS098達
+JP 　若い連中が頑張ってるからな。
+JP 　お前もあいつらと競い合ってみるといい。
+EN Sasuke:
+EN "Yeah. Hoshikawa and the young guys
+EN  are working hard right now. Go
+EN  compete with them."
+
+@ 012
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 013
+JP そして俺の#PS04復帰第１戦は
+JP #WF096さんに
+JP 決定した。
+EN And my first match back in #PS04
+EN was set: against Gran Naniwa.

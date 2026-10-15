@@ -1,0 +1,34 @@
+image,source,x,y,w,h,palette,category,japanese,english,notes,status
+mode_onenight,sheet277,0,0,128,16,clut:251:0,mode,ワンナイトマッチ,One Night Match,"Mode select; drawn with this palette, a purple one and a grey one (locked)",done
+mode_league,sheet277,0,16,128,16,clut:251:0,mode,オープンリーグ,Open League,"Mode select; drawn with this palette, a purple one and a grey one (locked)",done
+mode_battleroyal,sheet277,0,32,128,16,clut:251:0,mode,バトルロイヤル,Battle Royal,"Mode select; drawn with this palette, a purple one and a grey one (locked)",done
+mode_gruesome,sheet277,0,48,128,16,clut:251:0,mode,グルーサムファイティング,Gruesome Fighting,"Mode select; drawn with this palette, a purple one and a grey one (locked)",done
+mode_fightingroad,sheet277,0,64,128,16,clut:251:0,mode,ファイティングロード,Fighting Road,"Mode select; drawn with this palette, a purple one and a grey one (locked)",done
+mode_edit,sheet277,0,80,128,16,clut:251:0,mode,エディットモード,Edit Mode,"Mode select; drawn with this palette, a purple one and a grey one (locked)",done
+mode_titlematch,sheet277,0,96,128,16,clut:251:0,mode,タイトルマッチ,Title Match,"Mode select; drawn with this palette, a purple one and a grey one (locked)",done
+mode_memorycard,sheet277,0,112,128,16,clut:251:0,mode,メモリーカード,Memory Card,"Mode select; drawn with this palette, a purple one and a grey one (locked)",done
+mode_tournament,sheet277,128,0,128,16,clut:251:0,mode,ワンナイトトーナメント,One Night Tournament,"Mode select; drawn with this palette, a purple one and a grey one (locked)",done
+mode_elimination,sheet277,128,16,128,16,clut:251:0,mode,イリミネーションマッチ,Elimination Match,"Mode select; drawn with this palette, a purple one and a grey one (locked)",done
+mode_deathmatch,sheet277,128,32,128,16,clut:251:0,mode,デスマッチ,Death Match,"Mode select; drawn with this palette, a purple one and a grey one (locked)",done
+mode_editranking,sheet277,128,48,128,16,clut:251:0,mode,エディットランキング,Edit Ranking,"Mode select; drawn with this palette, a purple one and a grey one (locked)",done
+mode_dojo,sheet277,128,64,128,16,clut:251:0,mode,道場,Dojo,"Mode select; drawn with this palette, a purple one and a grey one (locked)",done
+mode_options,sheet277,128,80,128,16,clut:251:0,mode,オプション,Options,"Mode select; drawn with this palette, a purple one and a grey one (locked)",done
+label_name,sheet277,1408,0,40,16,clut:195:320,label,名前,Name,Wrestler select info panel: yellow text (0) with dark shadow (14) on transparent (15) over a gradient box,done
+label_nickname,sheet277,1408,16,40,16,clut:195:320,label,ニックネーム,Nickname,Wrestler select info panel: yellow text (0) with dark shadow (14) on transparent (15) over a gradient box,done
+label_birthplace,sheet277,1408,32,40,16,clut:195:320,label,出身地,Country,Wrestler select info panel: yellow text (0) with dark shadow (14) on transparent (15) over a gradient box,done
+label_finisher,sheet277,1408,48,40,16,clut:195:320,label,必殺技,Finisher,Wrestler select info panel: yellow text (0) with dark shadow (14) on transparent (15) over a gradient box,done
+label_height,sheet277,1408,64,40,16,clut:195:320,label,身長,Height,Wrestler select info panel: yellow text (0) with dark shadow (14) on transparent (15) over a gradient box,done
+label_birthday,sheet277,1408,80,40,16,clut:195:320,label,生年月日,Birthday,Wrestler select info panel: yellow text (0) with dark shadow (14) on transparent (15) over a gradient box,done
+label_weight,sheet277,1408,96,40,16,clut:195:320,label,体重,Weight,Wrestler select info panel: yellow text (0) with dark shadow (14) on transparent (15) over a gradient box,done
+absent,sheet277,1360,0,48,64,gray,mark,欠場,No / Show,Marks a wrestler who is out (tournament/league?); palette not known yet,todo
+voice_1,sheet277,1022,230,28,18,gray,mark,声1,V1,"Small tag, probably Edit (voice); palette not known yet",todo
+voice_2,sheet277,1052,230,28,18,gray,mark,声2,V2,"Small tag, probably Edit (voice); palette not known yet",todo
+finisher_tag,sheet277,1086,230,28,18,gray,mark,必殺 (?),Fin.,Small tag next to the voice tags; palette not known yet,todo
+victory_win,victory,768,0,128,48,clut:241:192,victory,勝利,Victory,Result screen caption; the same image is used by all 7 victory screens (FPG 279-285),done
+victory_champion,victory,768,48,128,48,clut:241:192,victory,優勝,Champion,Result screen caption; the same image is used by all 7 victory screens (FPG 279-285),done
+victory_conquest,victory,768,96,128,48,clut:241:192,victory,制覇,Conquest,Result screen caption; the same image is used by all 7 victory screens (FPG 279-285),done
+victory_titlewon,victory,768,144,128,48,clut:241:192,victory,タイトル奪取,Title Won,Result screen caption; the same image is used by all 7 victory screens (FPG 279-285),done
+victory_titledefended,victory,768,192,128,48,clut:241:192,victory,タイトル防衛,Title Defended,Result screen caption; the same image is used by all 7 victory screens (FPG 279-285),done
+logo_small,tim093,0,0,160,131,,logo,ファイヤープロレスリングG (flaming logo),Fire Pro Wrestling G,Stays Japanese (artwork is kept as is),keep
+title_screen,tim012,0,0,320,240,,logo,ファイヤープロレスリングG (title logo),Fire Pro Wrestling G,Stays Japanese (artwork is kept as is),keep
+outline_figure,tim018,0,0,240,208,,other,(kanji on the chest),,Line-art wrestler; where it appears is unknown,keep

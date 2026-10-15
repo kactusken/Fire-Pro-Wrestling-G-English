@@ -1,0 +1,70 @@
+@ 000
+JP リーグ戦優勝は逃した俺だったが、
+JP 早速今後の展開について#WS151と
+JP 相談していた。
+EN I missed out on winning the league,
+EN but I was soon talking plans with
+EN Ishikawa.
+
+@ 001
+JP #WS151：
+JP 「実は今度、#WL152が
+JP 　#PS01に参戦する事に
+JP 　なったんですよ。
+EN Ishikawa:
+EN "Actually, Ikeda's going to wrestle in
+EN  #PS01."
+
+@ 002
+JP #MS：
+JP 「へぇ、凄いじゃないか。
+EN #MS:
+EN "Huh, that's great."
+
+@ 003
+JP #WS151：
+JP 「タッグなんですよ。で、パートナーが
+JP 　必要なんですけど、どうですか？
+EN Ishikawa:
+EN "It's a tag match. He needs a partner.
+EN  How about it?"
+
+@ 004
+JP #MS：
+JP 「向こうと#WL152さえ良ければ
+JP 　俺は喜んで行くよ。
+EN #MS:
+EN "If they and Ikeda are fine with it, I'd
+EN  be glad to go."
+
+@ 005
+JP #WS151：
+JP 「じゃあ、決まりですね。
+EN Ishikawa:
+EN "Then it's settled."
+
+@ 006
+JP #WS059：
+JP 「今日はしっかり頼むよ。
+EN Baba:
+EN "I'm counting on you today."
+
+@ 007
+JP #MS：
+JP 「はい。最高の俺達をお見せします！
+EN #MS:
+EN "Yes, sir. We'll show you our very
+EN  best!"
+
+@ 008
+JP 今日のカードは
+JP #WS047・#WS048組対
+JP #MS・#WS152組。
+EN Today's card: Honda & Izumida vs.
+EN #MS & Ikeda.
+
+@ 009
+JP #PL09の魂を
+JP #PS01のファンに見せてやろう！
+EN Let's show #PS01's fans the soul of
+EN #PL09!

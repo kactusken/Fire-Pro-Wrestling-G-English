@@ -1,0 +1,115 @@
+@ 000
+JP #WS149：
+JP 「まあそう固くなるな。
+EN Maeda:
+EN "Now, don't be so stiff."
+
+@ 001
+JP #MS：
+JP 「はい・・・・
+EN #MS:
+EN "Yes, sir...."
+
+@ 002
+JP 俺は#WS149さんに呼び出されていた。
+JP 別の団体にいる俺をわざわざ・・・しかも
+JP #WS154さんの許可を得てまで。
+EN Maeda had called me in. Me, in
+EN another promotion... he even got
+EN Funaki's permission.
+
+@ 003
+JP 一体何が・・・・
+EN What could it be....
+
+@ 004
+JP #WS149：
+JP 「どうや、最近の調子は？
+EN Maeda:
+EN "So, how ya been lately?"
+
+@ 005
+JP #MS：
+JP 「ええ、それなりに・・・ところで今日は
+JP 　何かあったんですか？
+EN #MS:
+EN "Oh, all right... But what's this
+EN  about?"
+
+@ 006
+JP #WS149：
+JP 「実はな・・・引退を考えてるんや。
+EN Maeda:
+EN "Truth is... I'm thinkin' about
+EN  retirin'."
+
+@ 007
+JP #MS：
+JP 「い、引退！？
+JP 　#WS149さんがですか！？
+EN #MS:
+EN "R-Retiring!? You, Mr. Maeda!?"
+
+@ 008
+JP #WS149：
+JP 「そんなに驚く事でも無いやろ。
+JP 　体の事を考えればおかしくは無い時期や。
+EN Maeda:
+EN "Ain't nothin' to be so shocked about.
+EN  With this body, it's about time."
+
+@ 009
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 010
+JP #WS149：
+JP 「で、色々考えたんやが・・・
+EN Maeda:
+EN "So I gave it a lotta thought..."
+
+@ 011
+JP 「引退試合の相手をお前に
+JP 　やってもらおうかと思ってるんや。
+EN "And I want you to be my opponent in
+EN  my retirement match."
+
+@ 012
+JP #MS：
+JP 「えっ！？
+EN #MS:
+EN "What!?"
+
+@ 013
+JP #WS149：
+JP 「他にも候補はたくさんおるけどな。
+JP 　結局お前しか無いと結論を出した訳や。
+EN Maeda:
+EN "There's plenty of candidates. But in
+EN  the end, I decided it's gotta be you."
+
+@ 014
+JP #MS：
+JP 「・・・・分かりました。
+JP 　引退は残念ですけど最後の相手、
+JP 　務めさせてもらいます！
+EN #MS:
+EN "....Understood. I'm sorry you're
+EN  retiring, but I'll be your last
+EN  opponent!"
+
+@ 015
+JP #WS149：
+JP 「頼むぞ。
+EN Maeda:
+EN "I'm countin' on ya."
+
+@ 016
+JP そして遂に・・・・・
+EN And at last.....
+
+@ 017
+JP 運命の日がやって来た。
+EN The fateful day arrived.

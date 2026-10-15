@@ -1,0 +1,361 @@
+@ 000
+JP 俺はいつものように会場入りした。
+JP 今日は誰と当たるのか・・・・
+EN I arrived at the arena as usual. Who
+EN will I face today....
+
+@ 001
+JP ？：
+JP 「ヘイ！
+EN ???:
+EN "Hey!"
+
+@ 002
+JP そろそろ体格のデカイ奴と
+JP 試合してみたいよな・・・どこまで通じるか。
+EN I'd like to face a big guy soon... see
+EN how far I can get.
+
+@ 003
+JP ？：
+JP 「ヘイ、ユー！聞こえないのか！？
+EN ???:
+EN "Hey, you! Can't you hear me!?"
+
+@ 004
+JP #MS：
+JP 「へっ？
+EN #MS:
+EN "Huh?"
+
+@ 005
+JP #WS103：
+JP 「ミーの声が聞こえないのか？
+EN Sting:
+EN "Can't you hear me talking?"
+
+@ 006
+JP #MS：
+JP 「お、俺！？
+EN #MS:
+EN "M-Me!?"
+
+@ 007
+JP 相手は何とあの#WS103・・・
+JP トップスターが俺に何の用だ？
+EN It was none other than Sting... What
+EN does a top star want with me?
+
+@ 008
+JP #WS103：
+JP 「この場に他に誰かいるのか？
+JP 　それよりちょっと話があるから来い。
+EN Sting:
+EN "See anybody else here? Anyway,
+EN  come on, I want to talk."
+
+@ 009
+JP と言うと#WS103は俺の腕を引っ張って
+JP 近くの控え室に入った。
+EN With that, Sting grabbed my arm and
+EN pulled me into a nearby locker room.
+
+@ 010
+JP まさかここでボコボコにされるのか！？
+JP 俺、何か悪い事でもしたのか！？
+EN Is he gonna beat me to a pulp in here!?
+EN Did I do something wrong!?
+
+@ 011
+JP #MS：
+JP 「お、俺に何の用ですか！？
+EN #MS:
+EN "Wh-What do you want with me!?"
+
+@ 012
+JP #WS103：
+JP 「何をビビッてるんだか知らないが
+JP 　バッドニュースじゃないから聞いてくれ。
+EN Sting:
+EN "No idea why you're so scared, but it's
+EN  not bad news. Hear me out."
+
+@ 013
+JP #MS：
+JP 「へ？
+EN #MS:
+EN "Huh?"
+
+@ 014
+JP #WS103：
+JP 「ユーもレッドＦＷＯとブラックＦＷＯの
+JP 　抗争は知っているよな？
+EN Sting:
+EN "You know about the war between
+EN  nWo Wolfpac and nWo Hollywood,
+EN  right?"
+
+@ 015
+JP #MS：
+JP 「そりゃ、まあ・・・
+EN #MS:
+EN "Well, sure..."
+
+@ 016
+JP #WS103：
+JP 「レッドＦＷＯに入らないか？
+EN Sting:
+EN "How'd you like to join the Wolfpac?"
+
+@ 017
+JP #MS：
+JP 「は！？
+EN #MS:
+EN "Huh!?"
+
+@ 018
+JP #WS103：
+JP 「ユーは荒削りだがグッドファイターになれる。
+JP 　後は経験がユー自身を育ててくれるだろう。
+EN Sting:
+EN "You're rough, but you could be a
+EN  good fighter. Experience will do the
+EN  rest."
+
+@ 019
+JP まさかこんなトップスターが
+JP 俺の試合を見ていたとは・・・・
+JP しかもこれってスカウトじゃないか！
+EN A top star like him was watching my
+EN matches.... And this is a scouting
+EN offer!
+
+@ 020
+JP #MS：
+JP 「本当に俺でいいんですか！？
+JP 　人違いじゃないですよね？
+EN #MS:
+EN "Do you really mean me!? You don't
+EN  have the wrong guy, do you?"
+
+@ 021
+JP #WS103：
+JP 「何でそんな事を
+JP 　間違えなくちゃいけないんだ？
+EN Sting:
+EN "Why would I get something like that
+EN  wrong?"
+
+@ 022
+JP 「イエスか、ノーか、返事をしてくれ。
+EN "Yes or no. Give me an answer."
+
+@ 023
+JP #MS：
+JP 「イエス！イエス、イエス！
+EN #MS:
+EN "Yes! Yes, yes!"
+
+@ 024
+JP #WS103：
+JP 「ジャパニーズの返事は
+JP 　１回が基本じゃないのか？
+EN Sting:
+EN "Don't you Japanese usually just say
+EN  it once?"
+
+@ 025
+JP #MS：
+JP 「いや、あははは・・・・
+EN #MS:
+EN "Uh, ah ha ha ha...."
+
+@ 026
+JP #WS103：
+JP 「まあいい。それなら早速相談だ。
+JP 　いいか・・・・
+EN Sting:
+EN "Never mind. Then let's talk plans.
+EN  Listen up...."
+
+@ 027
+JP 俺は物陰からリング上の成り行きを
+JP 見守っていた。
+EN I watched what was happening in the
+EN ring from the shadows.
+
+@ 028
+JP #WS103：
+JP 「ヘイ、#WS101！
+JP 　ユーはそうやっていつまで逃げ回る
+JP 　つもりなんだ？
+EN Sting:
+EN "Hey, Hogan! How long do you plan to
+EN  keep running away like that?"
+
+@ 029
+JP #WS101：
+JP 「分かってないな、#WS103。
+JP 　逃げ回ってるんじゃない、
+JP 　クレバーなだけさ。
+EN Hogan:
+EN "You don't get it, Sting. I'm not
+EN  running away, brother. I'm just
+EN  clever."
+
+@ 030
+JP そう言うとブラックＦＷＯ軍団が
+JP 入場ゲートから押し寄せて来た。
+EN At that, the nWo Hollywood army
+EN came pouring out of the entrance.
+
+@ 031
+JP #WS103率いるレッドＦＷＯ軍が応戦する。
+JP しかしブラックＦＷＯの方が人数が多い。
+EN Sting's Wolfpac fought back, but
+EN Hollywood had the numbers.
+
+@ 032
+JP #WS101は手下達に後を任せ、
+JP 自分は意気揚々と引き揚げる・・・・
+EN Hogan left it to his flunkies and
+EN strutted off, pleased with himself....
+
+@ 033
+JP 今だ！
+EN Now!
+
+@ 034
+JP 俺は打ち合わせ通り、
+JP ゲートの陰から飛び出し猛ダッシュ。
+JP #WS101に渾身の一撃を見舞う。
+EN Just as planned, I burst out from
+EN behind the entrance, charged, and hit
+EN Hogan with everything I had.
+
+@ 035
+JP #WS101：
+JP 「オウゥッ！？
+EN Hogan:
+EN "OOWWWW!?"
+
+@ 036
+JP 俺はダウンした#WS101に
+JP ストンピングを浴びせる。
+EN Hogan went down, and I rained stomps
+EN on him.
+
+@ 037
+JP 事態に気付いたブラックＦＷＯ軍が
+JP 駆けつけるが、レッドＦＷＯ軍に後ろから
+JP 襲われ、結局全員で逃げ帰った。
+EN Hollywood rushed in when they saw,
+EN but the Wolfpac jumped them from
+EN behind and sent them all running.
+
+@ 038
+JP #WS103：
+JP 「みんな聞いてくれ。
+JP 　こいつが今日から俺達の仲間に加わった！
+EN Sting:
+EN "Listen up, everybody. As of today,
+EN  this guy's one of us!"
+
+@ 039
+JP 「名前は
+JP 　#MF。
+JP 　よろしく頼むぞ！
+EN "This is #MF.
+EN  Treat him right!"
+
+@ 040
+JP と言うと#WS103は俺の背中を
+JP ポン、と叩いた。アピールしろと言う事らしい。
+JP 俺は取り敢えず・・・・
+EN Sting patted me on the back. I guess
+EN he wanted me to say something. So I
+EN just....
+
+@ 041
+JP #MS：
+JP 「ブラックＦＷＯ！ぶっ潰してやる！
+EN #MS:
+EN "nWo Hollywood! I'm gonna crush
+EN  you!"
+
+@ 042
+JP と叫んだ。その時は相手の方が全然強いとか
+JP そんな事は考えなかった。場の雰囲気と言うか
+JP お客さんに乗せられた、そんな感じだった。
+EN ...yelled. I didn't think how much
+EN stronger they were. The crowd just
+EN carried me along.
+
+@ 043
+JP #WS103：
+JP 「良くやった！
+JP 　これで奴等に一泡吹かせてやれたよ。
+EN Sting:
+EN "Nice work! We gave them a nasty
+EN  surprise."
+
+@ 044
+JP だが・・・・
+EN But....
+
+@ 045
+JP #WS101：
+JP 「ヘイ、#WS103！
+JP 　さっきは不意をつかれたが今度は
+JP 　そうは行かないぜ。
+EN Hogan:
+EN "Hey, Sting! You caught me off guard
+EN  before, but it won't happen again,
+EN  brother."
+
+@ 046
+JP 「それとヤングボーイ！よくもこの
+JP 　#WS101様を殴ってくれたな！
+JP 　今ここで借りを返してやる！出て来い！
+EN "And you, young boy! How dare you
+EN  hit the great Hogan! I'll pay you back
+EN  right now! Get out here!"
+
+@ 047
+JP #WS103：
+JP 「行こう、#MS！
+EN Sting:
+EN "Let's go, #MS!"
+
+@ 048
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Right!"
+
+@ 049
+JP #WS103：
+JP 「来てやったぜ！
+EN Sting:
+EN "Here we are!"
+
+@ 050
+JP #WS101：
+JP 「よし、いいだろう。
+JP 　それじゃあお前達の相手は
+JP 　こいつらにしてもらおう！
+EN Hogan:
+EN "All right, fine. Then you'll be facing
+EN  these guys!"
+
+@ 051
+JP #WS107：
+JP 「ウオオオオオオオッ！
+EN Norton:
+EN "WOOOOOOOOOH!"
+
+@ 052
+JP 相手は#WF107、
+JP #WF106組のようだ。
+EN Looks like it's Scott Norton and Scott
+EN Steiner.

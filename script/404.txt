@@ -1,0 +1,73 @@
+@ 000
+JP #WS113：
+JP 「驚いたなんてもんじゃないよ、全く。
+EN Ultimo:
+EN "'Surprised' doesn't even cover it."
+
+@ 001
+JP #MS：
+JP 「まあ、本人も驚いてますから・・・・
+EN #MS:
+EN "Well, I'm surprised too...."
+
+@ 002
+JP #WS113：
+JP 「お前がレッドＦＷＯ入りか。
+JP 　本当に信じられないよ。
+EN Ultimo:
+EN "You, in the Wolfpac. I really can't
+EN  believe it."
+
+@ 003
+JP 「ただこうなった以上、力つけてかないと
+JP 　置いてかれちまうぞ。
+EN "But now that it's happened, you've
+EN  got to get stronger or get left
+EN  behind."
+
+@ 004
+JP #MS：
+JP 「そうですね。
+JP 　今まで以上に頑張りますよ！
+EN #MS:
+EN "Right. I'll work harder than ever!"
+
+@ 005
+JP #WS104：
+JP 「ハァァァァァァァァァァァッ！
+EN Muta:
+EN "HAAAAAAAAAAAAH!"
+
+@ 006
+JP レッドＦＷＯとしての初シングルの相手は
+JP #WF104。
+EN My first singles match as a Wolfpac
+EN member: The Great Muta.
+
+@ 007
+JP #PS00の#WS028さんの
+JP 変身だが、まるで別人のような豹変ぶりだ。
+EN He's #PS00's Mutoh transformed,
+EN but he acts like a totally different
+EN man.
+
+@ 008
+JP ペースを掴まれないように
+JP 気を付けなければならない。
+EN I have to be careful not to let him
+EN control the pace.
+
+@ 009
+JP #WS104：
+JP 「ハァァァァ！
+JP 　ファッキン、レッドＦＷＯ！
+JP 　ファッキン、#MS！
+EN Muta:
+EN "HAAAAH! F***in' Wolfpac! F***in'
+EN  #MS!"
+
+@ 010
+JP #MS：
+JP 「甘く見るなよ！
+EN #MS:
+EN "Don't underestimate me!"

@@ -1,0 +1,312 @@
+@ 000
+JP 俺は#PS00での初試合を終えた。
+EN My first #PS00 match was over.
+
+@ 001
+JP 記者：
+JP 「#MS選手！
+EN Reporter:
+EN "#MS!"
+
+@ 002
+JP #MS：
+JP 「あ、はい！
+EN #MS:
+EN "Oh, yes!"
+
+@ 003
+JP 記者：
+JP 「初の#PL00での試合、
+JP 　いかがでしたか？
+EN Reporter:
+EN "How was your first match in
+EN  #PL00?"
+
+@ 004
+JP 出ただけで記者の人が聞きに来るなんて・・・
+JP 俺はさすがに#PS00は違う、と
+JP 関心してしまった。
+EN A reporter coming to ask me questions
+EN just for showing up... #PS00 really
+EN was something else.
+
+@ 005
+JP #MS：
+JP 「その、やっぱり、シンドかったです。
+EN #MS:
+EN "Um, well... it was tough, honestly."
+
+@ 006
+JP 記者：
+JP 「#WS020選手はいかがでしたか？
+EN Reporter:
+EN "What did you think of Takaiwa?"
+
+@ 007
+JP #MS：
+JP 「やっぱり強いですね。
+JP 　ジュニアヘビーであれだけのパワーが
+JP 　あるって言うのは凄いですよ・・・・
+EN #MS:
+EN "He's strong. Having that much power
+EN  as a junior heavyweight is
+EN  amazing..."
+
+@ 008
+JP 記者：
+JP 「それでは今後の抱負を聞かせて下さい。
+EN Reporter:
+EN "Now, tell us your goals going
+EN  forward."
+
+@ 009
+JP ・とにかく頑張る。
+JP ・勝ちを意識する。
+JP ・地盤固めをしたい。
+EN ・Just keep working hard.
+EN ・Focus on winning.
+EN ・Build a solid foundation.
+
+@ 010
+JP #MS：
+JP 「今はとにかく１歩でも上に行けるように、
+JP 　日々頑張るだけです！
+EN #MS:
+EN "Right now I just work hard every
+EN  day to climb even one step higher!"
+
+@ 011
+JP #MS：
+JP 「やっぱり勝ちを意識した闘いをしたいですね。
+EN #MS:
+EN "I want to fight with winning in
+EN  mind."
+
+@ 012
+JP 「小さい団体から来たデビューしたての
+JP 　俺ですけど、来たからには結果としての
+JP 　勝利が欲しいですよ。
+EN "I'm a raw rookie from a small
+EN  promotion, but now that I'm here, I
+EN  want wins to show for it."
+
+@ 013
+JP #MS：
+JP 「目先の勝利よりも、今は何でも吸収して
+JP 　後々自分の力に出来るように・・・
+JP 　そういう意識で闘って行きたいですね。
+EN #MS:
+EN "More than wins now, I want to soak it
+EN  all up and make it my strength later.
+EN  That's my mindset."
+
+@ 014
+JP 記者：
+JP 「なるほど・・・では、期待してます！
+JP 　頑張って下さい。
+EN Reporter:
+EN "I see... Well, we'll be watching! Good
+EN  luck."
+
+@ 015
+JP #MS：
+JP 「はい！ありがとうございます！
+EN #MS:
+EN "Yes! Thank you!"
+
+@ 016
+JP 「フゥ・・・・
+EN "Phew..."
+
+@ 017
+JP ？：
+JP 「どうした、溜息なんかついて。
+EN ???:
+EN "What's with the big sigh?"
+
+@ 018
+JP #MS：
+JP 「あ、#WS015さん！
+EN #MS:
+EN "Oh, Liger!"
+
+@ 019
+JP 「ありがとうございます、おかげさまで
+JP 　何とか初試合、終わりました。
+EN "Thank you. Thanks to you, I
+EN  somehow got through my first
+EN  match."
+
+@ 020
+JP #WS015：
+JP 「良かったな。何か苦しそうだったけど。
+EN Liger:
+EN "Good. Looked like a struggle,
+EN  though."
+
+@ 021
+JP #MS：
+JP 「そうですね、やっぱりまだシンドイですよ。
+EN #MS:
+EN "Yeah, it's still pretty rough."
+
+@ 022
+JP 「それはそうと実は前から聞きたい事が
+JP 　あったんですけど・・・・
+EN "By the way, there's something I've
+EN  been wanting to ask..."
+
+@ 023
+JP #WS015：
+JP 「何だ？
+EN Liger:
+EN "What is it?"
+
+@ 024
+JP #MS：
+JP 「あの、坂上ってどうしてますか？
+JP 　何か１度も会わないんで
+JP 　どうしてるのかと思って・・・
+EN #MS:
+EN "Um, how's Sakagami doing? I haven't
+EN  run into him once, so I was
+EN  wondering..."
+
+@ 025
+JP #WS015：
+JP 「ああ、あいつはちょうど入れ違いで
+JP 　海外遠征に行ったよ。
+EN Liger:
+EN "Ah, he left on an overseas tour just
+EN  as you got here."
+
+@ 026
+JP 「そう言えば#WL026さんの
+JP 　道場で一緒だったのって、お前なんだっけ？
+EN "Come to think of it, you're the one
+EN  who was with him at Yamamoto's
+EN  dojo?"
+
+@ 027
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes."
+
+@ 028
+JP #WS015：
+JP 「なるほど、それでか。
+JP 　どうもただの若手にしちゃあ
+JP 　出来ると思ったよ。
+EN Liger:
+EN "I see, that explains it. I thought you
+EN  were pretty good for just a young
+EN  guy."
+
+@ 029
+JP 「でも残念だったな、一緒にやれなくて。
+EN "Too bad you two can't work together,
+EN  though."
+
+@ 030
+JP #MS：
+JP 「いえ・・・まだそんなに経ってないんで
+JP 　それは別に。元気にしてればいいんですよ。
+EN #MS:
+EN "No... It hasn't been that long. As long
+EN  as he's doing well, that's enough."
+
+@ 031
+JP #WS015：
+JP 「そうか。でも頑張らないとな。
+JP 　あいつが帰って来た時に、
+JP 　差が開いてたら困るもんな。
+EN Liger:
+EN "I see. But you'd better work hard.
+EN  Can't have him way ahead of you
+EN  when he gets back."
+
+@ 032
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 033
+JP #WS015：
+JP 「いいか、思いっきり行け。
+JP 　１発やられたら３発返すつもりで行くんだ。
+JP 　いいな！
+EN Liger:
+EN "Listen, go all out. Take one shot, give
+EN  back three. Got it!"
+
+@ 034
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 035
+JP 今日は何と#WS015さんとタッグを
+JP 組んでもらえる事になった。
+EN Incredibly, today I got to team with
+EN Liger himself.
+
+@ 036
+JP 相手は#WS017、#WS019組だ。
+EN Our opponents: Kanemoto and Ka
+EN Shin.
+
+@ 037
+JP 参戦して来るインディーのレスラーは
+JP この人と当たると大体ケガをすると言う。
+EN They say indie guys who come in
+EN usually get hurt when they face
+EN Kanemoto.
+
+@ 038
+JP もちろんわざとケガをさせている訳ではなくて、
+JP それだけ激しいファイトをする、と言う事だ。
+EN Not that he hurts them on purpose. It
+EN just means he fights that hard.
+
+@ 039
+JP だがそれに恐れていては始まらない。
+JP 正面からぶつかって行くのみだ。
+JP 俺は#WS017選手を睨み付ける。
+EN But being scared gets me nowhere.
+EN Just meet him head-on. I glared at
+EN Kanemoto.
+
+@ 040
+JP #WS017：
+JP 「何や、この野郎。
+JP 　俺にガンたれるとはいい度胸やな！
+EN Kanemoto:
+EN "What, punk? Ya got some nerve,
+EN  eyeballin' me!"
+
+@ 041
+JP #MS：
+JP 「クッ！
+EN #MS:
+EN "Ngh!"
+
+@ 042
+JP #WS017：
+JP 「おもろい奴やな。
+JP 　どこまで出来るか、試したるわ。
+EN Kanemoto:
+EN "You're a funny one. Let's see what ya
+EN  got."
+
+@ 043
+JP 「来い、コラ！
+EN "C'mon, punk!"
+
+@ 044
+JP #MS：
+JP 「行くぞ！
+EN #MS:
+EN "Here I come!"

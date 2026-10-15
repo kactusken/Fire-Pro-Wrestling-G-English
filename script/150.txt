@@ -1,0 +1,230 @@
+@ 000
+JP 俺はいつものようにジムに向かおうとしていた。
+EN I was heading to the gym as usual.
+
+@ 001
+JP #WS090：
+JP 「よう、久しぶりだな。
+EN Tenryu:
+EN "Hey, long time no see."
+
+@ 002
+JP #MS：
+JP 「あ、#WS090さん！？
+EN #MS:
+EN "Oh, Mr. Tenryu!?"
+
+@ 003
+JP #WS090さんとは正月の豆まきで
+JP 同席した時に少し会話をしたぐらいだが・・・
+JP 一体どうしたんだろう？
+EN All we'd ever done was chat a bit at
+EN the New Year's bean-throwing... What
+EN could he want?
+
+@ 004
+JP #WS090：
+JP 「今日お前に会いに来たのは他でもない。
+JP 　俺と組んで
+JP 　#PL00で試合しないか？
+EN Tenryu:
+EN "I came to see you for one reason.
+EN  How'd you like to team with me in
+EN  #PL00?"
+
+@ 005
+JP #MS：
+JP 「えっ！？
+EN #MS:
+EN "What!?"
+
+@ 006
+JP #WS090：
+JP 「お前、今の状態に満足してるのか？
+EN Tenryu:
+EN "Are you satisfied with where you are
+EN  now?"
+
+@ 007
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 008
+JP #WS090：
+JP 「確かにリスクは大きかもしれん。しかし
+JP 　これはこれで１つのチャンスだと思うぞ。
+EN Tenryu:
+EN "Sure, the risk is big. But I'd say this
+EN  is a chance in its own right."
+
+@ 009
+JP 「それにお前なら
+JP 　俺や、#WS013以上の革命児になれる
+JP 　素質を持ってる。
+EN "Besides, you've got what it takes to
+EN  be a bigger revolutionary than me or
+EN  Choshu."
+
+@ 010
+JP 「どうだ、来ないか？
+EN "Well? You coming?"
+
+@ 011
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 012
+JP 俺は迷った。
+JP 確かに今後、#PS01では
+JP 交流戦の望みは薄いかもしれない・・・・・
+EN I wavered. True, at #PS01 my
+EN hopes of interpromotion bouts looked
+EN slim...
+
+@ 013
+JP 「分かりました。お世話になります！
+EN "All right. I'm in your hands!"
+
+@ 014
+JP #WS090：
+JP 「そうか！よし、日本マット界活性化の為
+JP 　共に闘おう！
+EN Tenryu:
+EN "Good! Let's fight together to shake
+EN  up the Japanese mat scene!"
+
+@ 015
+JP #WS059：
+JP 「そうか・・・・
+EN Baba:
+EN "I see...."
+
+@ 016
+JP 「まあ自分で決めたのならそうすればいい。
+JP 　ただ１つだけ言っておく。
+EN "Well, if you've made up your mind,
+EN  go ahead. But I'll tell you one thing."
+
+@ 017
+JP 「今後二度とウチのリングには上げない。
+JP 　肝に命じておけ。
+EN "You will never set foot in our ring
+EN  again. Remember that."
+
+@ 018
+JP #MS：
+JP 「その考えを変えるぐらい
+JP 　ビッグになって見せます！
+EN #MS:
+EN "Then I'll get big enough to make you
+EN  change your mind!"
+
+@ 019
+JP 俺のセリフにも#WS059社長は
+JP 静かに首を振るだけだった・・・・
+EN President Baba just quietly shook his
+EN head....
+
+@ 020
+JP #PL01電撃離脱、
+JP #WS090同盟として
+JP #PL00参戦。
+EN A shock exit from #PL01! Joining
+EN #PL00 in alliance with Tenryu!
+
+@ 021
+JP さすがにマスコミにも騒がれ、
+JP 俺は一躍時の人となった。
+EN The press went wild, and I became the
+EN man of the hour overnight.
+
+@ 022
+JP 記者：
+JP 「いよいよ#PS00での
+JP 　闘いが始まりますが？
+EN Reporter:
+EN "Your fight in #PS00 is about to
+EN  begin. Any thoughts?"
+
+@ 023
+JP #MS：
+JP 「革命の第一歩でしかないですから。
+JP 　まあ、試合を見て下さい。
+EN #MS:
+EN "This is just the first step of the
+EN  revolution. Just watch the matches."
+
+@ 024
+JP 記者：
+JP 「#MS選手のライバル
+JP 　坂上選手が先日#PS05へ
+JP 　旅立ちましたが？
+EN Reporter:
+EN "Your rival Sakagami just left for
+EN  #PS05 the other day..."
+
+@ 025
+JP #MS：
+JP 「そうなんですか？関係ないですよ。
+JP 　いずれは闘う事もあるでしょう。
+EN #MS:
+EN "Did he? Has nothing to do with me.
+EN  I'm sure we'll fight someday."
+
+@ 026
+JP 関係ない訳が無い。
+JP 離脱の理由の一つは
+JP 坂上との試合だったからだ。
+EN Like hell it had nothing to do with me.
+EN Our match was one of the reasons I
+EN left.
+
+@ 027
+JP しかしもう後戻りは出来ない。
+EN But there was no turning back now.
+
+@ 028
+JP 俺はブーイングと歓声の入り交じる中
+JP 入場した。
+EN I made my entrance to a mix of boos
+EN and cheers.
+
+@ 029
+JP #WS002：
+JP 「オイてめぇ！
+JP 　#PS00のリングに上がって
+JP 　好き勝手出来ると思うなよ！
+EN Sasaki:
+EN "Hey, you! Don't think you can do as
+EN  you please in the #PS00 ring!"
+
+@ 030
+JP #MS：
+JP 「やらせてもらうさ！伊達に
+JP 　#PS01にいた訳じゃないって事を
+JP 　お前の体に教えてやるよ！
+EN #MS:
+EN "Watch me! I'll teach your body I
+EN  wasn't in #PS01 for nothing!"
+
+@ 031
+JP #WS000：
+JP 「・・・・・・
+EN Fujinami:
+EN "......"
+
+@ 032
+JP #WS090：
+JP 「頼むぞ！
+EN Tenryu:
+EN "I'm counting on you!"
+
+@ 033
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"

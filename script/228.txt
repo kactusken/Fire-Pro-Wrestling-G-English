@@ -1,0 +1,165 @@
+@ 000
+JP この日観客動員数は#PS02史上
+JP 最高を記録。#WS076さん抜きでの
+JP この実績は大きい。
+EN That day set a #PS02 attendance
+EN record. Doing it without Onita was
+EN huge.
+
+@ 001
+JP #MS：
+JP 「会場の皆さん！
+JP 　今日からが本当に新しい
+JP 　#PS02のスタートです！
+EN #MS:
+EN "Everybody! Today is the real start of
+EN  a new #PS02!"
+
+@ 002
+JP #MS：
+JP 「これからの#PS02に
+JP 　期待して下さい！
+EN #MS:
+EN "Look forward to the #PS02 to
+EN  come!"
+
+@ 003
+JP 俺は新タイトルの初代王者になり
+JP 防衛戦を重ねて行った。王者として
+JP ベルトの価値を高める為、俺は勝ち続けた。
+EN I became the first holder of the new
+EN title and kept defending it. To raise
+EN the belt's worth, I kept on winning.
+
+@ 004
+JP そんなある日・・・・
+EN Then one day....
+
+@ 005
+JP 俺は#WS088さんと共に#PS00の
+JP 事務所を訪れていた。
+EN Fuji and I paid a visit to the #PS00
+EN office.
+
+@ 006
+JP #WS013：
+JP 「まあそう言う事で坂上が
+JP 　どうしても、って言うんでね。
+EN Choshu:
+EN "So that's how it is. Sakagami insisted
+EN  on it."
+
+@ 007
+JP 「例の件は許される事じゃないけど、
+JP 　ウチとしても良いものをお客に
+JP 　提供して行きたいからな。
+EN "What he did can't be excused, but we
+EN  want to give the fans something good
+EN  too."
+
+@ 008
+JP そう、坂上はあれからＩＧＰヘビーの
+JP チャンピオンになった。
+EN That's right: Sakagami had since
+EN become IWGP Heavyweight Champion.
+
+@ 009
+JP そして来たる１．４ドーム大会で坂上が
+JP 望んだ試合は俺とのシングルだったのだ・・・
+EN And at the coming January 4 Dome
+EN show, the match he wanted was a
+EN singles bout with me...
+
+@ 010
+JP #MS：
+JP 「ありがとうございます！
+EN #MS:
+EN "Thank you so much!"
+
+@ 011
+JP #WS013：
+JP 「こうなった以上は良い試合、頼むぞ。
+EN Choshu:
+EN "Now that it's set, give us a good
+EN  match."
+
+@ 012
+JP 「まあ俺も個人としては楽しみにしてるよ。
+JP 　あの#WS026道場での試合が今
+JP 　どれだけのものになっているのか・・・
+EN "Personally, I'm looking forward to it.
+EN  To see what that match at
+EN  Yamamoto's dojo has become..."
+
+@ 013
+JP #MS：
+JP 「はい！精一杯の試合をお見せします！
+EN #MS:
+EN "Yes, sir! We'll give it everything
+EN  we've got!"
+
+@ 014
+JP #WS088：
+JP 「良かったじゃねぇか！
+EN Fuji:
+EN "Good for you!"
+
+@ 015
+JP #MS：
+JP 「そうですね・・・・
+EN #MS:
+EN "Yeah...."
+
+@ 016
+JP ノンタイトル戦ではあるが両団体の
+JP トップレスラー同士の対決だ。
+JP 話題性も十分なカードと言えるだろう。
+EN A non-title bout, but between the top
+EN men of two promotions. It was sure to
+EN draw plenty of buzz.
+
+@ 017
+JP 坂上：
+JP 「今日という日を待ち続けていたよ。
+JP 　あの道場で同じスタートを切った
+JP 　お前と大舞台で対決する・・この時を！
+EN Sakagami:
+EN "I've waited so long for today. To face
+EN  you on the big stage, who started
+EN  with me in that dojo!"
+
+@ 018
+JP #MS：
+JP 「俺もだ。道場で会ったあの日から、お前に
+JP 　負けないよう頑張って来た・・・・・
+JP 　いつか必ず来る今日という日の為に！
+EN #MS:
+EN "Me too. Since the day we met, I've
+EN  worked not to lose to you..... for the
+EN  day I knew would come!"
+
+@ 019
+JP 坂上：
+JP 「この一戦でみんなの度肝を抜いてやろうぜ！
+EN Sakagami:
+EN "Let's blow everybody away with this
+EN  match!"
+
+@ 020
+JP #MS：
+JP 「おう！そして
+JP 　俺達が革命を起こすんだ！
+EN #MS:
+EN "Yeah! And we'll start a revolution!"
+
+@ 021
+JP 坂上：
+JP 「行くぜ！！
+EN Sakagami:
+EN "Here I come!!"
+
+@ 022
+JP #MS：
+JP 「来い！！
+EN #MS:
+EN "Bring it!!"

@@ -1,0 +1,37 @@
+@ 000
+JP 周囲の慌ただしさも収まらぬ中、
+JP 次のシリーズでＩＧＰ王座の挑戦者決定
+JP トーナメントが行われた。
+EN Amid all the turmoil, the next series
+EN held a tournament for an IWGP title
+EN shot.
+
+@ 001
+JP 俺はこれに優勝、挑戦権を得た。
+JP 現王者はあの#WS107だ。
+EN I won it and earned the title shot. The
+EN champ was none other than Norton.
+
+@ 002
+JP #WS107：
+JP 「ヘイ、#MS！ユーを見た時から
+JP 　いつかこうなると思っていた。
+JP 　遠慮する必要は無いぜ！
+EN Norton:
+EN "Hey, #MS! I knew this day
+EN  would come from the moment I saw
+EN  you. Don't hold back!"
+
+@ 003
+JP #MS：
+JP 「#WS107！俺の成長ぶり、
+JP 　その体に刻み込んでやる！
+EN #MS:
+EN "Norton! I'll carve how much I've
+EN  grown right into your body!"
+
+@ 004
+JP #WS107：
+JP 「カモーン！
+EN Norton:
+EN "Come ooon!"

@@ -1,0 +1,68 @@
+@ 000
+JP 記者：
+JP 「優勝おめでとうございます！
+EN Reporter:
+EN "Congratulations on the win!"
+
+@ 001
+JP #MS：
+JP 「決勝に#WS071さんが
+JP 　来なけりゃ俺が優勝するに
+JP 　決まってるだろ。当然の結果だよ。
+EN #MS:
+EN "With Fuyuki not in the final, of
+EN  course I won. Only natural."
+
+@ 002
+JP 記者：
+JP 「王座返上後のトーナメントで優勝、
+JP 　現在のトップだと言っても
+JP 　誰も文句は言えないでしょう。
+EN Reporter:
+EN "Winning the tournament after the
+EN  title was vacated, no one can argue
+EN  you're not on top now."
+
+@ 003
+JP #MS：
+JP 「そうだよな。本当に勝っちゃったから敵が
+JP 　いなくなっちまったよ。参ったな、こりゃ。
+EN #MS:
+EN "Right? I really did win, so now I'm
+EN  out of enemies. What a problem."
+
+@ 004
+JP 「まあ安心してよ。本当は文句無しで
+JP 　新王座についても良いんだけどさ。決定戦は
+JP 　やってやるから。
+EN "But relax. I could just take the new
+EN  title, no questions asked. I'll do the
+EN  deciding match anyway."
+
+@ 005
+JP 記者：
+JP 「今回の優勝で、新王座決定戦進出は
+JP 　決まりなんじゃないですか？
+EN Reporter:
+EN "Doesn't this win guarantee you a
+EN  spot in the new title decision match?"
+
+@ 006
+JP #MS：
+JP 「まあ#WS068と俺の
+JP 　再戦で決まりでしょ。
+EN #MS:
+EN "Well, it's gotta be Hayabusa and me
+EN  again."
+
+@ 007
+JP 「それで借りを返して、新王座の
+JP 　初代チャンピオンとして名を残すよ。
+EN "I'll pay him back and go down as the
+EN  first-ever new champion."
+
+@ 008
+JP 記者：
+JP 「ありがとうございました！
+EN Reporter:
+EN "Thank you very much!"

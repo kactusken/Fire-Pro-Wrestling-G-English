@@ -1,0 +1,159 @@
+@ 000
+JP 俺はじっとしていられず、誰もいない道場で
+JP トレーニングに打ち込んでいた。
+EN Unable to sit still, I threw myself into
+EN training in the empty dojo.
+
+@ 001
+JP 実際まだ何も分からない。やっとデビューして
+JP 何試合かこなして、やっとリングの感触に
+JP 馴れて来たところなのに・・・・
+EN I still knew nothing. I'd just debuted,
+EN and was only now getting a feel for
+EN the ring...
+
+@ 002
+JP #WS165：
+JP 「#MS。
+EN Takada:
+EN "#MS."
+
+@ 003
+JP #MS：
+JP 「#WS165さん・・・
+EN #MS:
+EN "Mr. Takada..."
+
+@ 004
+JP #WS165：
+JP 「どうだ、身の振り考えたか？
+EN Takada:
+EN "Well? Decided where you're headed?"
+
+@ 005
+JP #MS：
+JP 「いえ・・・・
+EN #MS:
+EN "No..."
+
+@ 006
+JP #WS165：
+JP 「そうか。じゃあ俺んとこに来ないか？
+EN Takada:
+EN "I see. Then why not come with me?"
+
+@ 007
+JP #MS：
+JP 「え？
+EN #MS:
+EN "Huh?"
+
+@ 008
+JP #WS165：
+JP 「俺は昔の#WS012さんのような、
+JP 　緊張感や殺気を感じさせるような試合を
+JP 　やって行きたいと思ってる。
+EN Takada:
+EN "I want to have matches like Inoki
+EN  used to, full of tension and killer
+EN  intent."
+
+@ 009
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 010
+JP #WS165：
+JP 「それと異種格闘技戦をやって
+JP 　プロレスが最強の格闘技である事を
+JP 　証明して行きたいんだ。
+EN Takada:
+EN "And I want to fight mixed-style
+EN  bouts to prove pro wrestling is the
+EN  strongest fighting art."
+
+@ 011
+JP 「団体名はＵＷＨインテグラル。
+EN "The promotion's called UWF
+EN  International."
+
+@ 012
+JP #MS：
+JP 「ＵＷＨインテグラル・・・・
+EN #MS:
+EN "UWF International..."
+
+@ 013
+JP #WS165：
+JP 「今すぐとは言わないから、
+JP 　近い内に返事をくれ。
+EN Takada:
+EN "I don't need an answer now. Just get
+EN  back to me soon."
+
+@ 014
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes, sir."
+
+@ 015
+JP あの後#WS149さんや#WS150さん
+JP からも誘いをもらったが、
+JP 俺の気持ちは既に固まっていた。
+EN Maeda and Fujiwara also invited me
+EN after that, but my mind was already
+EN made up.
+
+@ 016
+JP #WS165：
+JP 「いよいよだな。
+EN Takada:
+EN "This is it."
+
+@ 017
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 018
+JP 俺は#WS165さんの団体、
+JP ＵＷＨインテグラルに
+JP 参加する事にした。
+EN I decided to join Takada's promotion,
+EN UWF International.
+
+@ 019
+JP 旗揚げ戦には間に合わず、２戦目からの参戦に
+JP なったものの、今日のコンディションは上々だ。
+EN I missed the opening show and only
+EN joined from the second, but I'm in
+EN great shape today.
+
+@ 020
+JP #WS165：
+JP 「お前の相手は#WS050になったよ。
+EN Takada:
+EN "Your opponent is Kakihara."
+
+@ 021
+JP これもある種の因縁なのだろうか。ここでの
+JP デビュー戦も#WS050さんだとは・・・
+EN Is this some kind of fate? My debut
+EN here is against Kakihara too...
+
+@ 022
+JP #WS165：
+JP 「気圧されないように、気合入れてけよ！
+EN Takada:
+EN "Don't let him overwhelm you. Fire
+EN  up!"
+
+@ 023
+JP #MS：
+JP 「はい、頑張ります！
+EN #MS:
+EN "Yes, sir, I'll do my best!"

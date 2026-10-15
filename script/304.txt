@@ -1,0 +1,100 @@
+@ 000
+JP 記者：
+JP 「おめでとうございます！
+EN Reporter:
+EN "Congratulations!"
+
+@ 001
+JP #MS：
+JP 「ありがとうございます。
+EN #MS:
+EN "Thank you."
+
+@ 002
+JP 記者：
+JP 「#WS010選手を撃破しました！
+JP 　今の心境はいかがですか？
+EN Reporter:
+EN "You took down Nagata! How do you
+EN  feel right now?"
+
+@ 003
+JP #MS：
+JP 「始まる前からね、何だかんだと
+JP 　言われてましたけど、俺達の闘いは
+JP 　間違っちゃいなかったって事ですよ。
+EN #MS:
+EN "People ran their mouths about us
+EN  from the start. But it shows our way
+EN  of fighting wasn't wrong."
+
+@ 004
+JP 「#WS010選手とこれだけ熱い闘いが
+JP 　出来て、しかも勝てた訳ですから。
+EN "I had a red-hot fight with Nagata,
+EN  and I won it."
+
+@ 005
+JP 記者：
+JP 「いわゆる『Ｕ系』の闘いの証明、と
+JP 　言う事ですか？
+EN Reporter:
+EN "Proof of the so-called 'U-style'
+EN  fight, then?"
+
+@ 006
+JP #MS：
+JP 「そうですね。『Ｕ』の名は俺達が
+JP 　守り抜いてみせますよ！
+EN #MS:
+EN "That's right. We'll defend the name
+EN  'U' to the end!"
+
+@ 007
+JP 記者：
+JP 「#WS010選手を相手に玉砕・・・
+JP 　今の心境をお願いします。
+EN Reporter:
+EN "You went down fighting against
+EN  Nagata... How do you feel right
+EN  now?"
+
+@ 008
+JP #MS：
+JP 「始まる前から何だかんだと
+JP 　言われてたんでね、勝って見返して
+JP 　やりたかったんですけどね。
+EN #MS:
+EN "People ran their mouths from the
+EN  start, so I wanted to win and shut
+EN  them up."
+
+@ 009
+JP 「ただ#WS010選手とはある意味
+JP 　認め合えた部分があると思ってます。
+EN "But I think Nagata and I came to
+EN  respect each other, in a way."
+
+@ 010
+JP 「こういう闘いを続けて行ければ
+JP 　俺達の闘いは間違っちゃいなかったって事に
+JP 　なるんじゃないですかね？
+EN "If we keep having fights like this,
+EN  doesn't that prove our way of
+EN  fighting wasn't wrong?"
+
+@ 011
+JP 記者：
+JP 「いわゆる『Ｕ系』の闘いの証明、と
+JP 　言う事ですか？
+EN Reporter:
+EN "Proof of the so-called 'U-style'
+EN  fight, then?"
+
+@ 012
+JP #MS：
+JP 「そうですね。『Ｕ』の名は俺達が
+JP 　守り抜いてみせますよ！
+EN #MS:
+EN "That's right. We'll defend the name
+EN  'U' to the end!"

@@ -1,0 +1,67 @@
+@ 000
+JP #WS151：
+JP 「参りましたよ。悔しいけど、それでも
+JP 　本当に面白かった！
+JP 　最高の試合でしたよ！
+EN Ishikawa:
+EN "You got me. It stings, but it was so
+EN  much fun! The best match ever!"
+
+@ 001
+JP #WS151：
+JP 「参りましたよ。何とか・・・
+JP 　紙一重で勝ちましたけど、それよりも
+JP 　本当に面白かった！最高の試合でしたよ！
+EN Ishikawa:
+EN "You got me. I won by a hair... but
+EN  more than that, it was so much fun!
+EN  The best match ever!"
+
+@ 002
+JP #MS：
+JP 「俺もだ。完全燃焼、だよ。
+EN #MS:
+EN "Same here. I left it all out there."
+
+@ 003
+JP #WS151：
+JP 「会場のお客さんも、これならきっと
+JP 　満足してくれたでしょう。
+EN Ishikawa:
+EN "The fans here must be satisfied with
+EN  that."
+
+@ 004
+JP #MS：
+JP 「そうだな。よし、社長。
+JP 　お客さんにアピールしとけよ。
+EN #MS:
+EN "Yeah. All right, Mr. President. Say
+EN  something to the crowd."
+
+@ 005
+JP #WS151：
+JP 「そうですね。
+EN Ishikawa:
+EN "Sure thing."
+
+@ 006
+JP 「『どうでしたか、お客さん！』
+EN "'How was that, everybody!'"
+
+@ 007
+JP 「『これからも#PL09、
+JP 　突き進んで行きますので、
+JP 　よろしくお願いします！』
+EN "'#PL09 will keep charging
+EN  forward, so keep supporting us!'"
+
+@ 008
+JP 「『ナーシャッ！！』
+EN "'Hell YEAAAH!!'"
+
+@ 009
+JP お客さんの反応に
+JP 確かな手応えを感じたリーグ戦だった。
+EN From the fans' reaction, the league
+EN felt like a real success.

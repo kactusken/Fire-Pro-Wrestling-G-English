@@ -1,0 +1,60 @@
+@ 000
+JP #WS166：
+JP 「どうよ、調子は？
+JP 　俺みたいにバリバリかい？
+EN Anjoh:
+EN "How you feeling? Fired up like me?"
+
+@ 001
+JP #MS：
+JP 「バリバリかどうかは分かりませんけど
+JP 　調子はいいですよ。
+EN #MS:
+EN "Not sure about fired up like you, but
+EN  I'm feeling good."
+
+@ 002
+JP #WS166：
+JP 「そうか。ま、キャッスルも軌道に乗って来たし
+JP 　勝負はこれからだよな、これから。
+EN Anjoh:
+EN "Good. Kingdom's on track now. The
+EN  real fight starts now, right now."
+
+@ 003
+JP #MS：
+JP 「そうですね。
+EN #MS:
+EN "That's right."
+
+@ 004
+JP #WS166：
+JP 「そう言えばお前次、
+JP 　#WS167さんとだっけ？
+EN Anjoh:
+EN "Oh yeah, you've got Sano next,
+EN  right?"
+
+@ 005
+JP #MS：
+JP 「ええ。
+EN #MS:
+EN "Yeah."
+
+@ 006
+JP #WS166：
+JP 「気合入れて頑張れよ！
+EN Anjoh:
+EN "Fire up and give it your all!"
+
+@ 007
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "I will."
+
+@ 008
+JP #WS166：
+JP 「じゃあな！
+EN Anjoh:
+EN "Later!"

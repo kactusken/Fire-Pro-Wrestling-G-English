@@ -1,0 +1,41 @@
+@ 000
+JP 遂に決勝戦の日がやって来た。
+JP 相手は・・・
+EN At last, the day of the final came. My
+EN opponent...
+
+@ 001
+JP ここまで#WS168さん、#WS141と
+JP #PS07ジャパン２選手を破っての
+JP 決勝進出だ。
+EN He'd beaten Nagai and Yamamoto, two
+EN of #PS07 Japan, to reach the final.
+
+@ 002
+JP #WS143：
+JP 「お前を破れば#PS07ジャパンは
+JP 　ほぼ制覇だな。
+EN Tamura:
+EN "Beat you, and I've all but conquered
+EN  #PS07 Japan."
+
+@ 003
+JP #MS：
+JP 「そうは行きませんよ！
+JP 　いくら先輩と言っても優勝は譲れない！
+EN #MS:
+EN "Not so fast! Senior or not, I won't
+EN  give up the title!"
+
+@ 004
+JP #WS143：
+JP 「それでいい。俺の意地とお前の意地の
+JP 　ぶつかり合いが素晴らしい闘いに
+JP 　結びつけばいいんだ。
+EN Tamura:
+EN "Good. If my pride and your pride
+EN  collide, it'll make for a great fight."
+
+@ 005
+JP 「行くぞ！
+EN "Here I come!"

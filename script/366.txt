@@ -1,0 +1,31 @@
+@ 000
+JP 俺は先輩#WS155さんを倒し決勝進出。
+EN I beat Suzuki and made the final.
+
+@ 001
+JP そして決勝の相手は
+JP #WF154・・・
+JP #PS10のエースだ。
+EN And in the final: Masakatsu Funaki...
+EN the ace of #PS10.
+
+@ 002
+JP #WS154：
+JP 「正直言って#WS155に勝つとは
+JP 　思っていなかったよ。
+JP 　俺も気を引き締めて行かないとヤバイな。
+EN Funaki:
+EN "Honestly, I didn't think you'd beat
+EN  Suzuki. I'd better tighten up too."
+
+@ 003
+JP #MS：
+JP 「自分の持つ全てをあなたにぶつけます！
+EN #MS:
+EN "I'll throw everything I have at you!"
+
+@ 004
+JP #WS154：
+JP 「来い！
+EN Funaki:
+EN "Bring it!"

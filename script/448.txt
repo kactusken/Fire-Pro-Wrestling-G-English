@@ -1,0 +1,70 @@
+@ 000
+JP 俺達の今日の相手は
+JP #WS042・#WS043組。
+EN Today's opponents: Kawada and Taue.
+
+@ 001
+JP 昨年、一昨年のワールドワンタッグリーグの
+JP 優勝チームであり、現在のタッグ王者でもある。
+EN They won the league the last two
+EN years running, and they're the
+EN current tag champions.
+
+@ 002
+JP タッグ歴も長く、
+JP ある意味もっとも要注意のチームだ。
+EN They've teamed for ages. In a way,
+EN they're the most dangerous team of
+EN all.
+
+@ 003
+JP #WS042：
+JP 「・・・・・・・・・
+EN Kawada:
+EN "........."
+
+@ 004
+JP #WS043：
+JP 「俺達は３連覇狙ってるんだよ。
+JP 　お前達に負けてられないんだよな。
+EN Taue:
+EN "We're going for three in a row. Can't
+EN  lose to you guys."
+
+@ 005
+JP #MS：
+JP 「俺達だって負けられない！
+JP 　#WS052の提唱するムーブメントを
+JP 　成功させる為にも！
+EN #MS:
+EN "We can't lose either! Not if Ace's
+EN  movement is going to work!"
+
+@ 006
+JP #WS043：
+JP 「そうは行かないよ。
+JP 　お前達なんかレロレロパッパだよ。
+EN Taue:
+EN "Ain't gonna happen. You guys are
+EN  lero-lero pappa."
+
+@ 007
+JP 「な、相棒。
+EN "Right, partner?"
+
+@ 008
+JP #WS042：
+JP 「・・・・・・・・・
+EN Kawada:
+EN "........."
+
+@ 009
+JP #MS：
+JP 「・・・・・・・・・・
+EN #MS:
+EN ".........."
+
+@ 010
+JP レロレロパッパって・・・・何？
+EN "Lero-lero pappa"... What does that
+EN  even mean?

@@ -1,0 +1,79 @@
+@ 000
+JP 記者：
+JP 「タイトル奪取おめでとうございます。
+EN Reporter:
+EN "Congratulations on winning the
+EN  titles."
+
+@ 001
+JP #MS：
+JP 「どうだったよ、試合はよ。
+JP 　凄い試合だっただろ。正規軍同士でこんな
+JP 　試合出来るか？これがＦＷＯだよ！
+EN #MS:
+EN "How was that, huh? Could two
+EN  regular teams put on a match like
+EN  that? This is nWo!"
+
+@ 002
+JP #WS028：
+JP 「レベルが違うだろ、レベルが。
+EN Mutoh:
+EN "Different level, that's all. Different
+EN  level."
+
+@ 003
+JP 記者：
+JP 「今後は狙われる立場になる訳ですが？
+EN Reporter:
+EN "Now you'll be the one they're
+EN  gunning for."
+
+@ 004
+JP #MS：
+JP 「誰だ？誰が来るんだよ、え？
+JP 　今の俺達から取れる奴なんているのか！
+JP 　来るなら来いって！みんな返り討ちだよ！
+EN #MS:
+EN "Who's next, huh? Who can take 'em
+EN  from us now?! Bring it! We'll send 'em
+EN  all packing!"
+
+@ 005
+JP #WS028：
+JP 「そうだ、ブラザー！
+JP 　俺達に敵なんていないぜ！
+EN Mutoh:
+EN "That's right, brother! Nobody can
+EN  touch us!"
+
+@ 006
+JP #WS029：
+JP 「おい#MS！
+JP 　やるじゃねぇか、オェッ！
+EN Tenzan:
+EN "Hey, #MS! Not bad, oeh!"
+
+@ 007
+JP #WS027：
+JP 「負けたのは悔しいけどな、
+JP 　今日はＦＷＯの凄さを見せ付けられた。
+JP 　これは大きい収穫だよ。
+EN Chono:
+EN "Losing stings, but today showed
+EN  everyone how great nWo is. That's a
+EN  big win for us."
+
+@ 008
+JP #WS029：
+JP 「そうだぞ、オェッ！
+EN Tenzan:
+EN "That's right, oeh!"
+
+@ 009
+JP これを機にＦＷＯはプロレス界のみならず
+JP 各スポーツ界も巻き込んで社会現象にまで
+JP なったのだ。
+EN After this, nWo became a social
+EN phenomenon, spilling out of wrestling
+EN into the whole sports world.

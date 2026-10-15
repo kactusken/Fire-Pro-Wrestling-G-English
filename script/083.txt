@@ -1,0 +1,104 @@
+@ 000
+JP 記者：
+JP 「タイトル防衛おめでとうございます。
+EN Reporter:
+EN "Congratulations on defending the
+EN  titles."
+
+@ 001
+JP #MS：
+JP 「ありがとうございます。
+EN #MS:
+EN "Thank you."
+
+@ 002
+JP 記者：
+JP 「事実上#PS00最強コンビを倒しての
+JP 　防衛ですが？
+EN Reporter:
+EN "You beat what's basically #PS00's
+EN  strongest duo to retain..."
+
+@ 003
+JP #MS：
+JP 「本当に強かったですね。凄く強かったです。
+JP 　でもその強い２人からベルトを守ったって
+JP 　言うのが大きいですよ。
+EN #MS:
+EN "They were really strong. Seriously
+EN  strong. Keeping the belts from those
+EN  two means a lot."
+
+@ 004
+JP 記者：
+JP 「それでは最後に
+JP 　今後の抱負をお聞かせ下さい。
+EN Reporter:
+EN "Finally, tell us your goals for the
+EN  future."
+
+@ 005
+JP #MS：
+JP 「今後も#WS008とベルトの価値を
+JP 　高める闘いをして行きます！
+JP 　防衛記録ねらって頑張ります！
+EN #MS:
+EN "Nakanishi and I will keep fighting to
+EN  raise the belts' value! We're going for
+EN  the defense record!"
+
+@ 006
+JP #WS001：
+JP 「#MS、#WS008！
+JP 　やったな、おめでとう！
+EN Hashimoto:
+EN "#MS, Nakanishi! You did it!
+EN  Congratulations!"
+
+@ 007
+JP #MS：
+JP 「#WS001さん！ありがとうございました。
+JP 　勉強になりました！
+EN #MS:
+EN "Hashimoto! Thank you. I learned a
+EN  lot!"
+
+@ 008
+JP #WS001：
+JP 「本当に強くなったな！
+JP 　今#PS00の頂点に立ってるチームは
+JP 　お前らなんだからな！
+EN Hashimoto:
+EN "You've really gotten strong! You two
+EN  are the team at the top of #PS00
+EN  now!"
+
+@ 009
+JP #MS：
+JP 「ありがとうございます！
+JP 　最高の気分です！
+EN #MS:
+EN "Thank you! I feel amazing!"
+
+@ 010
+JP #WS001：
+JP 「いいか！これからは俺達も
+JP 　本気でお前らを倒しにかかる。
+JP 　覚悟しておけよ！
+EN Hashimoto:
+EN "Listen! From now on, we're coming to
+EN  take you down for real. Be ready!"
+
+@ 011
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 012
+JP 最強の挑戦者を退けた俺達は、
+JP 単なる勢いだけではない本当のチャンピオンに
+JP なったと言っていいだろう。
+EN We'd turned back the toughest
+EN challengers. We were true champions
+EN now, not just a hot streak.

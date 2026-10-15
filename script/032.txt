@@ -1,0 +1,248 @@
+@ 000
+JP 記者：
+JP 「初載冠おめでとうございます。
+EN Reporter:
+EN "Congratulations on your first title."
+
+@ 001
+JP #MS：
+JP 「当然の結果だよ。
+JP 　年寄りの時代はもう終わってんだよ！
+EN #MS:
+EN "Only natural. The old men's era is
+EN  over!"
+
+@ 002
+JP #WS028:
+JP 「俺と#MSが組んだら
+JP 　ざっとこんなもんだよ！
+EN Mutoh:
+EN "When me and #MS team up, this
+EN  is what you get!"
+
+@ 003
+JP 記者：
+JP 「今後は狙われる立場になる訳ですが？
+EN Reporter:
+EN "Now you'll be the one they're
+EN  gunning for."
+
+@ 004
+JP #MS：
+JP 「誰でもいいぞ、誰でも！
+JP 　ただ言っとくがな！燃えない相手の挑戦は
+JP 　受けねえぞ！俺を熱くさせてみろ！
+EN #MS:
+EN "Anybody! But I won't take challenges
+EN  from guys who bore me! Get me fired
+EN  up!"
+
+@ 005
+JP 「正規軍にいるのか、俺を熱く出来る奴が！
+JP 　いねえんならタイトルマッチはずっと
+JP 　ＦＷＯの身内対決にするぞ！
+EN "Is there anybody in the regular army
+EN  who can fire me up?! If not, every
+EN  title match will be nWo versus nWo!"
+
+@ 006
+JP マスコミが帰った後、俺は１人感慨にふけった。
+JP ようやくベルトを手にした。子供の頃からの夢、
+JP 道場で見た夢が現実になったのだ。
+EN Alone after the press left, it sank in.
+EN The belt was mine. The dream from
+EN my childhood and the dojo was real.
+
+@ 007
+JP #WL026先生、見てるかな・・・
+JP 坂上の奴元気にしてるかな・・・
+EN Coach Yamamoto, are you watching? I
+EN wonder how Sakagami's doing...
+
+@ 008
+JP その時誰かが肩を叩いた。
+EN Just then, someone tapped my
+EN shoulder.
+
+@ 009
+JP #WS030：
+JP 「やったな。
+EN Hiro:
+EN "You did it."
+
+@ 010
+JP #WS029：
+JP 「やりやがったな、オェッ！
+EN Tenzan:
+EN "You damn well did it, oeh!"
+
+@ 011
+JP #WS028：
+JP 「サイコーだな、え？
+EN Mutoh:
+EN "That was the best, huh?"
+
+@ 012
+JP #MS：
+JP 「そうですね！
+EN #MS:
+EN "Sure was!"
+
+@ 013
+JP #WS028：
+JP 「俺達はサイコーのチームだぜ！
+EN Mutoh:
+EN "We're the best team there is!"
+
+@ 014
+JP #WS027：
+JP 「お前をＦＷＯに誘った甲斐があったよ。
+EN Chono:
+EN "Glad I brought you into nWo."
+
+@ 015
+JP #MS：
+JP 「#WS027さん・・・・
+EN #MS:
+EN "Chono...."
+
+@ 016
+JP #WS028：
+JP 「よし、みんな！酒だ！祝杯あげるぞ！
+EN Mutoh:
+EN "All right, everybody! Drinks! Let's
+EN  celebrate!"
+
+@ 017
+JP その日はＦＷＯメンバーによる
+JP 大宴会が行われた。
+EN That day, nWo threw a huge party.
+
+@ 018
+JP ・・・・・・・・・
+EN .........
+
+@ 019
+JP 正直、あまり思い出したくないかも知れない。
+EN Honestly, I'd rather not remember it.
+
+@ 020
+JP ウップ・・・・・
+EN Urp.....
+
+@ 021
+JP そしてある日、俺は事務所に呼ばれた。
+EN Then one day, I was called to the
+EN office.
+
+@ 022
+JP #WS013：
+JP 「おう、来たか。
+EN Choshu:
+EN "Oh, you're here."
+
+@ 023
+JP #MS：
+JP 「どうも・・・
+EN #MS:
+EN "Hey..."
+
+@ 024
+JP #WS013：
+JP 「早速なんだがな・・・
+EN Choshu:
+EN "Let's get right to it..."
+
+@ 025
+JP #WS013さんの話とは異種格闘技戦だった。
+EN Choshu wanted me in a mixed martial
+EN arts match.
+
+@ 026
+JP #MS：
+JP 「うーん・・・
+EN #MS:
+EN "Hmm..."
+
+@ 027
+JP 正直余り興味が無かった。
+EN Honestly, I wasn't that interested.
+
+@ 028
+JP #WS013：
+JP 「相手は#WF173。
+JP 　#WS012さんに見出され、格闘家への
+JP 　転身をはかっている元世界柔道王だ。
+EN Choshu:
+EN "Your opponent is Naoya Ogawa. A
+EN  former world judo champ, scouted by
+EN  Inoki to become a fighter."
+
+@ 029
+JP #MS：
+JP 「！
+EN #MS:
+EN "!"
+
+@ 030
+JP ファイターとしての魅力は感じないが、
+JP その知名度、肩書きには大きな価値がある。
+EN I don't see much in him as a fighter,
+EN but his fame and credentials are
+EN worth a lot.
+
+@ 031
+JP だがもしチャンピオンの俺が負ければ、
+JP #PS00そのものの権威が失われる。
+JP ハイリスク・ハイリターンって事か。
+EN But if I lose as champion, #PS00
+EN itself loses face. High risk, high
+EN return, huh.
+
+@ 032
+JP #WS013：
+JP 「どうする？お前が行かないなら
+JP 　#WS001に振ろうかと思ってんだよ。
+EN Choshu:
+EN "What'll it be? If you won't go, I'm
+EN  thinking of handing it to Hashimoto."
+
+@ 033
+JP #MS：
+JP 「やります！
+EN #MS:
+EN "I'll do it!"
+
+@ 034
+JP #WS013：
+JP 「そうか。最近お前、目がギラついてるからな。
+JP 　そう言うと思ったよ。
+EN Choshu:
+EN "Thought so. You've had that hungry
+EN  look in your eyes lately."
+
+@ 035
+JP 「しかし分かってると思うが、
+JP 　やるからには頼むぞ。
+EN "But you know the deal. If you do it,
+EN  don't let me down."
+
+@ 036
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 037
+JP 俺は#WS028さんにつきあってもらい、
+JP 対柔道のシュミレーションを少し行った。
+EN I had Mutoh help me run some drills
+EN against judo.
+
+@ 038
+JP もちろん勝つ為のものだけじゃない。
+JP いかにプロレス技を仕掛けるか、のものだ。
+JP 内容も重要だからな。
+EN Not just to win. To land real pro
+EN wrestling moves on him. The match
+EN itself matters too.

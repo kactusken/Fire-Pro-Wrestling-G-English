@@ -1,0 +1,301 @@
+@ 000
+JP 俺達２人は５番勝負最後の１戦に備え
+JP トレーニングに励んでいた。
+EN The two of us were training hard for
+EN the last match of the series.
+
+@ 001
+JP #WS015：
+JP 「#MS！俺に話があるんだって？
+EN Liger:
+EN "#MS! You wanted to talk to
+EN  me?"
+
+@ 002
+JP #MS：
+JP 「はい。あ、坂上もちょっと
+JP 　聞いてくれないか？
+EN #MS:
+EN "Yes. Oh, Sakagami, can you listen
+EN  too?"
+
+@ 003
+JP 坂上：
+JP 「何だ？
+EN Sakagami:
+EN "What is it?"
+
+@ 004
+JP #MS：
+JP 「実は無理を承知でお願いがあるんです。
+EN #MS:
+EN "I know it's a lot to ask, but I have a
+EN  favor."
+
+@ 005
+JP 「５番勝負最後の試合・・・・
+JP 　ウチの#PL04で
+JP 　やらせてもらえないでしょうか？
+EN "The last match of the series.... Could
+EN  we hold it at my home promotion,
+EN  #PL04?"
+
+@ 006
+JP #WS015：
+JP 「・・・・・・・・
+EN Liger:
+EN "........"
+
+@ 007
+JP #MS：
+JP 「俺は#PS04が苦しい時に
+JP 　修行に出してもらって、未だにこうして
+JP 　修行をしてます。でも・・・・
+EN #MS:
+EN "#PS04 sent me to train when
+EN  things were tough, and I'm still out
+EN  here training. But...."
+
+@ 008
+JP 俺が言い辛かった部分は２人とも
+JP 感じ取ってくれたらしい。
+EN They both seemed to sense the part I
+EN found hard to say.
+
+@ 009
+JP #PS04は経営の危機に瀕している。
+JP 今までも何度かあった事ではあるが、
+JP 今回は最大級のピンチらしい。
+EN #PS04 was facing a financial
+EN crisis. It had happened before, but
+EN this was apparently the worst yet.
+
+@ 010
+JP 「それで図々しいお願いなのは
+JP 　分かってるんですけど、
+JP 　５戦目のカード・・・
+EN "I know it's a shameless request, but
+EN  the card for match five..."
+
+@ 011
+JP 「#WS015・#WS016組対
+JP 　坂上・#MS組なら・・・・
+JP 　かなりの集客力が見込めると思うんです。
+EN "Liger and El Samurai vs. Sakagami
+EN  and #MS... I think it could draw
+EN  a big crowd."
+
+@ 012
+JP 「お願いします！どうか・・・・
+JP 　#PS04を助けて下さい！
+EN "Please! Please... help #PS04!"
+
+@ 013
+JP #WS015：
+JP 「分かった・・・俺はＯＫだ。
+JP 　でもな、俺の一存で決められる事じゃない。
+JP 　これは会社の問題だからな。
+EN Liger:
+EN "All right... I'm in. But it's not up to
+EN  me alone. It's a company matter."
+
+@ 014
+JP 「だが・・・・出来るところまで
+JP 　プッシュしてみよう。
+EN "But... I'll push as hard as I can."
+
+@ 015
+JP #MS：
+JP 「ありがとうございます！
+EN #MS:
+EN "Thank you so much!"
+
+@ 016
+JP #WS015：
+JP 「お前も依存は無いだろう？
+EN Liger:
+EN "You're fine with it too, right?"
+
+@ 017
+JP 坂上：
+JP 「もちろんですよ！
+JP 　断られたら俺だけでも行って、
+JP 　#MSとシングルやります！
+EN Sakagami:
+EN "Of course! If they say no, I'll go
+EN  alone and wrestle #MS
+EN  one-on-one!"
+
+@ 018
+JP #WS015：
+JP 「おいおい・・・夢は取っておけよ。
+JP 　分かったから。俺が何とかする。
+JP 　約束しよう。
+EN Liger:
+EN "Whoa, whoa... save your dream
+EN  match. I get it. I'll handle it. I
+EN  promise."
+
+@ 019
+JP #MS：
+JP 「ありがとうございます！
+JP 　お願いします！
+EN #MS:
+EN "Thank you! Please!"
+
+@ 020
+JP #WS092：
+JP 「お前と#WS015さんのおかげで、
+JP 　第５戦、ウチでやってもらえる事になったよ。
+EN Sasuke:
+EN "Thanks to you and Liger, they
+EN  agreed to hold match five at our
+EN  place."
+
+@ 021
+JP #MS：
+JP 「そうですか！良かった・・・
+EN #MS:
+EN "Really! Thank goodness..."
+
+@ 022
+JP #WS092：
+JP 「ありがとう。本当にありがとう。
+JP 　そして済まなかったな。
+JP 　約束守れなくて・・・
+EN Sasuke:
+EN "Thank you. Really, thank you. And
+EN  I'm sorry. I couldn't keep my
+EN  promise..."
+
+@ 023
+JP #MS：
+JP 「何言ってるんですか！
+JP 　#PS04はまだきちんと
+JP 　あるじゃないですか！
+EN #MS:
+EN "What are you saying! #PS04 is
+EN  still here, isn't it!"
+
+@ 024
+JP 「約束は守っていただいてます！
+JP 　それに俺こそ、こんなに長い間修行を
+JP 　させてもらって・・・・
+EN "You kept your promise! And you let
+EN  me train for so long...."
+
+@ 025
+JP 「だから！今度は
+JP 　俺が恩返しをする番なんです！
+EN "So! Now it's my turn to pay you
+EN  back!"
+
+@ 026
+JP #WS092：
+JP 「#MS・・・・
+EN Sasuke:
+EN "#MS...."
+
+@ 027
+JP 俺達は両手で握手をした。
+EN We shook hands with both hands.
+
+@ 028
+JP #WS092さんの目は
+JP 少し潤んでいるようだった・・・・
+EN Sasuke's eyes looked a little wet....
+
+@ 029
+JP そして５番勝負最終戦が行われる。
+JP 会場は超満員・・・・
+EN And so the final match of the series
+EN began. The arena was packed....
+
+@ 030
+JP 坂上：
+JP 「これで多少は足しになったのかな？
+EN Sakagami:
+EN "Guess this helped a little, huh?"
+
+@ 031
+JP #MS：
+JP 「ありがとう、坂上。
+JP 　本当に感謝してる。
+EN #MS:
+EN "Thanks, Sakagami. I really mean it."
+
+@ 032
+JP 坂上：
+JP 「よせよ。別に俺は何もしてないぜ？
+EN Sakagami:
+EN "Cut it out. I didn't do anything."
+
+@ 033
+JP #MS：
+JP 「いや、それでも言わせてくれ。
+JP 　ありがとう・・・・
+EN #MS:
+EN "No, let me say it anyway. Thank
+EN  you...."
+
+@ 034
+JP #WS015：
+JP 「良かったな、#MS。
+JP 　これだけ入れば少しは何とかなるだろう。
+EN Liger:
+EN "Good for you, #MS. A crowd
+EN  this big should help some."
+
+@ 035
+JP #MS：
+JP 「#WS015さん、ありがとうございます。
+JP 　ご尽力いただいたおかげで何とかなりました。
+JP 　本当にありがとうございます！
+EN #MS:
+EN "Liger, thank you. Your efforts made
+EN  this work. Thank you so much!"
+
+@ 036
+JP #WS015：
+JP 「ああ、もういいさ。あんまり気にするな。
+JP 　俺も#PL04と言う
+JP 　団体が好きなんだ。
+EN Liger:
+EN "Enough already. Don't worry about
+EN  it. I like #PL04 too."
+
+@ 037
+JP 「助けになったと思えば俺自身も嬉しい。
+EN "If it helped, that makes me happy."
+
+@ 038
+JP 「でもな、試合は試合だ。分かってるな？
+EN "But a match is a match. Got it?"
+
+@ 039
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 040
+JP #WS015：
+JP 「お前達が俺達を越えようとするなら
+JP 　俺達は全力で弾き返す。
+EN Liger:
+EN "If you try to get past us, we'll knock
+EN  you back with everything."
+
+@ 041
+JP #MS：
+JP 「俺達は全力でぶつかって・・・
+JP 　あなた方を越えてみせます！
+EN #MS:
+EN "We'll hit you with everything... and
+EN  get past you!"
+
+@ 042
+JP #WS015：
+JP 「よし、来い！
+EN Liger:
+EN "All right, come on!"

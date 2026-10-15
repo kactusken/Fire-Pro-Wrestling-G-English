@@ -1,0 +1,88 @@
+@ 000
+JP 俺はまたＦＷＯ勢の襲撃から救ってもらった。
+JP この男、#WF100に。
+EN Once again I'd been saved from an
+EN nWo attack. By this man, Bill
+EN Goldberg.
+
+@ 001
+JP #WS100：
+JP 「ウォォォォォォッ！
+EN Goldberg:
+EN "WOOOOOOOOOH!"
+
+@ 002
+JP そして実感していた。この男の強さを・・・
+EN And I could feel it. This man's
+EN strength....
+
+@ 003
+JP 俺は・・・俺はこいつと闘いたい！
+EN I... I want to fight him!
+
+@ 004
+JP 気がつくと俺はマイクを握っていた。
+EN Before I knew it, I had the mic.
+
+@ 005
+JP #MS：
+JP 『#WF100！
+JP 　俺と闘ってくれ！
+EN #MS:
+EN "Bill Goldberg! Fight me!"
+
+@ 006
+JP #WS100：
+JP 「・・・・・・・
+EN Goldberg:
+EN "......."
+
+@ 007
+JP #WL100が俺の方を向く。
+EN Goldberg turned toward me.
+
+@ 008
+JP 俺達はしばらく睨み合ったその後に
+JP 握手を交わした。
+EN We stared each other down for a
+EN while, then shook hands.
+
+@ 009
+JP #WS101：
+JP 『ヘイ、ちょっと待ちな！
+EN Hogan:
+EN "Hey, hold it right there!"
+
+@ 010
+JP 『ユーはそいつが何者か知っているのか？
+JP 　#PS05世界ヘビー級チャンピオンだぜ？
+EN "Do you know who that is? He's the
+EN  #PS05 World Heavyweight
+EN  Champion, brother!"
+
+@ 011
+JP 『そのベルトに次に挑戦するのは
+JP 　この#WS101様と決まってるんだ。
+JP 　勝手な抜け駆けは止めてもらおうか。
+EN "The next shot at that belt goes to the
+EN  great Hogan. No cutting in line."
+
+@ 012
+JP #MS：
+JP 『だったら！お前と俺で挑戦者決定戦だ！
+EN #MS:
+EN "Then you and I fight for the title
+EN  shot!"
+
+@ 013
+JP #WS101：
+JP 『いいだろう。
+JP 　受けて立ってやろうじゃないか。
+EN Hogan:
+EN "Fine. I accept."
+
+@ 014
+JP こうして俺は#WS100への挑戦権を賭けて
+JP #WS101と闘う事になった。
+EN So I'd fight Hogan for the right to
+EN challenge Goldberg.

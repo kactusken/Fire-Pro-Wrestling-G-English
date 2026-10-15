@@ -1,0 +1,94 @@
+@ 000
+JP #MS：
+JP 「ベストバウト賞ですか！
+EN #MS:
+EN "The Best Bout award!?"
+
+@ 001
+JP #WS059：
+JP 「ああ。あとグレートレスラー賞もだ。
+JP 　表彰式やるから来てくれと言ってたよ。
+EN Baba:
+EN "Yes. And Wrestler of the Year, too.
+EN  They want you at the ceremony."
+
+@ 002
+JP #MS：
+JP 「グレートレスラー賞って・・・あの！？
+EN #MS:
+EN "Wrestler of the Year... THE award!?"
+
+@ 003
+JP グレートレスラー賞は、各社マスコミと
+JP ファンの投票によって選ばれる、その年で
+JP 一番活躍したレスラーに送られる賞だ。
+EN Wrestler of the Year is voted on by
+EN the press and the fans, and goes to the
+EN year's most outstanding wrestler.
+
+@ 004
+JP #WS059：
+JP 「本当に良くここまで来たな。
+JP 　もう俺が言う事は無いよ。
+EN Baba:
+EN "You really came a long way. I've got
+EN  nothing left to tell you."
+
+@ 005
+JP #MS：
+JP 「#WS059社長・・・
+EN #MS:
+EN "Mr. Baba..."
+
+@ 006
+JP #WS059：
+JP 「ちょっと年寄りくさかったな。
+EN Baba:
+EN "Ha, that sounded a bit like an old
+EN  man."
+
+@ 007
+JP #MS：
+JP 「いえ・・・でも、これも#WS059社長と
+JP 　#WS060さん、#WS040さん達
+JP 　先輩方がいてくれたからですよ。
+EN #MS:
+EN "No, sir... But I owe it to you, Mr.
+EN  Tsuruta, Mr. Misawa and all my
+EN  seniors."
+
+@ 008
+JP 「これからも皆さんに対する恩返しの意味も
+JP 　含めて、頑張って行きます！
+EN "I'll keep working hard, to pay you all
+EN  back, too!"
+
+@ 009
+JP #WS059：
+JP 「ああ。頼むぞ。
+EN Baba:
+EN "Good. I'm counting on you."
+
+@ 010
+JP #MSと坂上は名実共に
+JP 日本マット界のエースとして認められ、
+JP その後も第一線で活躍し続けた。
+EN #MS and Sakagami became the
+EN true aces of Japanese wrestling, and
+EN stayed on top for years.
+
+@ 011
+JP ２人の活躍は、下降気味だった
+JP 日本マット界に新たな力を吹き込んだ。
+EN The two of them breathed new life
+EN into a Japanese wrestling scene that
+EN had been slipping.
+
+@ 012
+JP そして・・・・
+EN And then....
+
+@ 013
+JP 第三次プロレス黄金時代がやって来たのだった。
+EN The Third Golden Age of Pro
+EN Wrestling had arrived.

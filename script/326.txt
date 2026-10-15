@@ -1,0 +1,32 @@
+@ 000
+JP 坂上：
+JP 「さすがにやるじゃねぇか。スタイルは違っても
+JP 　お前はやっぱり俺のライバルだぜ。
+EN Sakagami:
+EN "Not bad at all. Different style or not,
+EN  you're still my rival."
+
+@ 001
+JP #MS：
+JP 「お前こそな。アメリカに行ってても
+JP 　ジャパニーズスタイルについてくるとはね。
+JP 　大した奴だよ。
+EN #MS:
+EN "Same to you. You were in America,
+EN  yet you kept up with Japanese style.
+EN  Impressive."
+
+@ 002
+JP 坂上：
+JP 「もう、シングルしかないだろ。
+EN Sakagami:
+EN "Now it's got to be singles."
+
+@ 003
+JP #MS：
+JP 「ああ、社長に頼んでみる。そして叶えよう、
+JP 　#WL026道場で見た夢を・・・
+EN #MS:
+EN "Yeah, I'll ask the boss. And we'll
+EN  make that dream from the Yamamoto
+EN  dojo come true..."

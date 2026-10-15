@@ -1,0 +1,177 @@
+@ 000
+JP 会場では#WS042、#WS043コールが
+JP 起こっている。俺と#WS040さんは
+JP その大歓声を背に控え室に戻った。
+EN The arena was chanting for Kawada
+EN and Taue. Misawa and I headed back
+EN with the roar at our backs.
+
+@ 001
+JP #WS042組は本当に強いチームだった。
+EN Kawada's team really was strong.
+
+@ 002
+JP 今の勢い、コンディションなら間違い無く
+JP 勝てると思っていたが
+JP まだまだ甘かったと言う事か。
+EN With our momentum and condition, I
+EN was sure we'd win. I guess I was still
+EN naive.
+
+@ 003
+JP 俺がしばらくボーッとしていると
+JP #WS040さんは着替え終わっていた。
+EN While I sat there in a daze, Misawa
+EN had finished changing.
+
+@ 004
+JP #WS040：
+JP 「お疲れさん、残念だったな。
+EN Misawa:
+EN "Good work. Tough luck."
+
+@ 005
+JP #MS：
+JP 「#WS040さん、すみません。
+EN #MS:
+EN "Mr. Misawa, I'm sorry."
+
+@ 006
+JP #WS040：
+JP 「謝る必要は無いさ。お前は立派に闘ったよ。
+JP 　あいつらとあれだけの試合が出来たんだ。
+JP 　胸を張っていい。
+EN Misawa:
+EN "No need to apologize. You fought
+EN  well. You had a match like that with
+EN  those two. Hold your head high."
+
+@ 007
+JP #MS：
+JP 「・・・・・・・・
+EN #MS:
+EN "........"
+
+@ 008
+JP 「#WS042さん達は凄く強かったですよ。
+JP 　対等に並んだつもりだったけど、
+JP 　まだあの人達の方が上でした。
+EN "Kawada and Taue were incredibly
+EN  strong. I thought we were on their
+EN  level, but they're still above us."
+
+@ 009
+JP 「でも壁は高ければ高い程越え甲斐が
+JP 　あるってものですよ！
+EN "But the higher the wall, the more it's
+EN  worth climbing!"
+
+@ 010
+JP 「俺は必ず・・・・
+JP 　必ずあの人達を超えて見せます！
+EN "I will.... I will surpass them, you'll
+EN  see!"
+
+@ 011
+JP #WS040：
+JP 「そうだな、正直驚いたよ。
+JP 　負けたばかりなのにすぐにそこまで
+JP 　立ち直れるとはね。
+EN Misawa:
+EN "Yeah. Honestly, I'm surprised. You
+EN  just lost, and you've already bounced
+EN  back that far."
+
+@ 012
+JP 「そう言うパワーって必要だよな。
+JP 　何かお前には教えられたよ。
+EN "That kind of power is a must. You
+EN  taught me something there."
+
+@ 013
+JP #MS：
+JP 「そ、そうですか？
+EN #MS:
+EN "R-Really?"
+
+@ 014
+JP #WS040：
+JP 「またその内、実績を作って挑戦しよう。
+EN Misawa:
+EN "We'll build a record and challenge
+EN  again someday."
+
+@ 015
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 016
+JP そして実績を作るチャンスが早くも訪れた。
+EN And the chance to build that record
+EN came soon.
+
+@ 017
+JP #WS040：
+JP 「よろしく頼むぞ。
+EN Misawa:
+EN "I'm counting on you."
+
+@ 018
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 019
+JP 今シリーズは年末恒例の
+JP 『ワールドワンタッグ決定リーグ戦』だ。
+EN This series is the annual year-end
+EN Real World Tag League.
+
+@ 020
+JP 俺は#WS040さんとのチームで出場、
+JP 予想外の苦戦をしつつも優勝決定戦に
+JP 駒を進めた。
+EN I entered as Misawa's partner. It was a
+EN tougher road than expected, but we
+EN reached the final.
+
+@ 021
+JP 相手は#WS051、#WS122組。
+JP 本戦は全勝で進んで来た、恐るべきチームだ。
+JP 俺達も奴等に唯一の黒星を喫している。
+EN Our opponents: Hansen and Vader.
+EN Unbeaten in the league, a fearsome
+EN team. They gave us our only loss.
+
+@ 022
+JP しかしここでこのチームを倒して優勝すれば
+JP タイトル挑戦への文句無い実績になるだろう。
+EN But if we beat them and win, nobody
+EN could argue with our claim to a title
+EN shot.
+
+@ 023
+JP #WS051：
+JP 「ヘイ！ミーと#WS122が組んだ以上
+JP 　最後まで勝利で突っ走るぜ！
+JP 　例え相手がユー達でもな！
+EN Hansen:
+EN "Hey! With me and Vader together,
+EN  we're running the table to the end!
+EN  Even against you!"
+
+@ 024
+JP 「ウィィィィィィッ！
+EN "WHEEEEEEE!"
+
+@ 025
+JP #MS：
+JP 「そうは行くか！
+JP 　本戦の屈辱を晴らして
+JP 　俺達が優勝してみせる！
+EN #MS:
+EN "Not a chance! We'll avenge that
+EN  league loss and win the whole thing!"

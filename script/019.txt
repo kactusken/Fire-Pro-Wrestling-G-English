@@ -1,0 +1,65 @@
+@ 000
+JP #WS027：
+JP 「悪いな、今日出来なくて。
+EN Chono:
+EN "Sorry we couldn't do it today."
+
+@ 001
+JP #MS：
+JP 「いえ・・・
+EN #MS:
+EN "No, it's..."
+
+@ 002
+JP 順当に行けば俺は今日、#WS027さんと
+JP 試合のはずだった。
+EN If things had gone as expected, I'd be
+EN facing Chono today.
+
+@ 003
+JP そう、#WS027さんは昨日、脚のケガが
+JP 思わしくないところをつけこまれ、
+JP #WS003さんに負けてしまったのだ。
+EN But yesterday, with his bad leg acting
+EN up, Yamazaki took advantage and beat
+EN him.
+
+@ 004
+JP 俺もそうだったように、#WS027さんも
+JP 俺との対戦を楽しみにしてくれていたらしい。
+JP 珍しく残念そうな顔をしている。
+EN Like me, Chono had been looking
+EN forward to our match. He looked
+EN unusually disappointed.
+
+@ 005
+JP 「見てて下さい！必ず優勝まで行きます！
+EN "Watch me! I'll go all the way!"
+
+@ 006
+JP #WS003：
+JP 「・・・・・・・・
+EN Yamazaki:
+EN "........"
+
+@ 007
+JP #MS：
+JP 「何がフリーだコラ！
+JP 　今はただの噛ませ犬じゃねぇか！
+JP 　落ちぶれたもんだな、えぇ！？
+EN #MS:
+EN "Freelancer, my ass! You're just a
+EN  jobber now! Fallen pretty far, haven't
+EN  you!?"
+
+@ 008
+JP 「飼い犬は飼い犬らしく、
+JP 　大人しくしてりゃいいんだよ、オラ！
+EN "A lapdog should act like a lapdog and
+EN  keep quiet, punk!"
+
+@ 009
+JP #WS003：
+JP 「・・・・・
+EN Yamazaki:
+EN "....."

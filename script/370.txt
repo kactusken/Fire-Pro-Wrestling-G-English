@@ -1,0 +1,101 @@
+@ 000
+JP 記者：
+JP 「お疲れ様です。
+JP 　トーナメントでは残念でした。
+EN Reporter:
+EN "Good work out there. Too bad about
+EN  the tournament."
+
+@ 001
+JP #MS：
+JP 「いや、いい勉強になりましたよ。
+EN #MS:
+EN "No, I learned a lot."
+
+@ 002
+JP 記者：
+JP 「かなりの激戦でした。
+EN Reporter:
+EN "It was a fierce tournament."
+
+@ 003
+JP #MS：
+JP 「そうですね。まだ出来たばかりの団体で
+JP 　カラーを打ち出そうと、みんなが必死で
+JP 　頑張りましたからね。
+EN #MS:
+EN "Yeah. It's a brand-new promotion, so
+EN  everyone fought like mad to show
+EN  what it's all about."
+
+@ 004
+JP 記者：
+JP 「#PS10自体も評判が良いですね。
+EN Reporter:
+EN "#PS10 itself is getting great
+EN  buzz."
+
+@ 005
+JP #MS：
+JP 「ありがたい事ですね。
+JP 　これからもみんなで頑張りますので、
+JP 　応援よろしくお願いします！
+EN #MS:
+EN "We're grateful. We'll all keep working
+EN  hard, so please keep supporting us!"
+
+@ 006
+JP #WS154：
+JP 「お疲れさん。
+EN Funaki:
+EN "Good work."
+
+@ 007
+JP #MS：
+JP 「あ、お疲れ様です。
+EN #MS:
+EN "Oh, good work, sir."
+
+@ 008
+JP #WS154：
+JP 「ハイブリッドレスリングはどうだ？
+EN Funaki:
+EN "So how's hybrid wrestling treating
+EN  you?"
+
+@ 009
+JP #MS：
+JP 「実際のファイトで、
+JP 　また何か掴めたような気がします。
+EN #MS:
+EN "I feel like I grabbed hold of
+EN  something new in real fights."
+
+@ 010
+JP #WS154：
+JP 「そうか。これからも大変だと思うけど
+JP 　この調子で#PL10の為
+JP 　頑張って行こう！
+EN Funaki:
+EN "I see. It'll stay tough, but let's keep it
+EN  up for #PL10!"
+
+@ 011
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Right!"
+
+@ 012
+JP のんびりと休む暇も無く
+JP 次の大会の日がやって来た。
+EN No time to kick back. The next show
+EN day arrived.
+
+@ 013
+JP 俺の相手は#WS156。
+JP コツコツと実績を作って
+JP キング・オブ・#PS10に挑戦だ。
+EN My opponent: Yamada. I'll build a
+EN record step by step and go after the
+EN King of #PS10.

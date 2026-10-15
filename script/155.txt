@@ -1,0 +1,19 @@
+@ 000
+JP 俺は負けた。
+EN I lost.
+
+@ 001
+JP #MS：
+JP 「これで勝ったと思うなよ！
+JP 　俺はこの位じゃ終わらないからな！
+EN #MS:
+EN "Don't think you've won! It'll take
+EN  more than this to finish me!"
+
+@ 002
+JP 俺は叫んで退場した。
+EN I yelled it and walked out.
+
+@ 003
+JP ここで止まっていられるか！
+EN I'm not stopping here!

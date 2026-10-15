@@ -1,0 +1,62 @@
+@ 000
+JP 決勝に駒を進めた俺を待っていたのは
+JP #WS029を破って勝ち上がって来た
+JP #WS001さんだった。
+EN Waiting for me in the final was
+EN Hashimoto, who'd beaten Tenzan to
+EN get there.
+
+@ 001
+JP #WS001：
+JP 「まさかお前が上がってくるとはね。
+EN Hashimoto:
+EN "Never thought you'd make it this
+EN  far."
+
+@ 002
+JP 「その勢いも本物だって事か。
+EN "Guess your momentum's the real
+EN  thing."
+
+@ 003
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 004
+JP #WS001：
+JP 「正直お前がＦＷＯに入ったのは許せないよな。
+JP 　ある種の裏切り行為だろう。
+EN Hashimoto:
+EN "Honestly, I can't forgive you for
+EN  joining nWo. It's a kind of betrayal."
+
+@ 005
+JP 「そしてお前が正規軍を離れた気持ちが
+JP 　どこまで本気のものなのか・・・・
+EN "And how serious you were about
+EN  leaving the regular army..."
+
+@ 006
+JP 「それを試す為に
+JP 　俺はお前を本気で潰しにかかる！
+EN "To test that, I'm coming at you for
+EN  real, to crush you!"
+
+@ 007
+JP #MS：
+JP 「#WS001さん・・・
+JP 　俺は自分の道を進みます。
+JP 　例え何が待っていても！
+EN #MS:
+EN "Hashimoto... I'm going my own way.
+EN  No matter what's waiting!"
+
+@ 008
+JP #WS001：
+JP 「良い覚悟だ。
+JP 　死ぬ気でかかって来い！
+EN Hashimoto:
+EN "Good resolve. Come at me like your
+EN  life depends on it!"

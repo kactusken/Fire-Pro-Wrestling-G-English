@@ -1,0 +1,50 @@
+@ 000
+JP 今日の試合は#WS071軍との
+JP タッグマッチだ。
+EN Today's match was a tag bout against
+EN the Fuyuki-gun.
+
+@ 001
+JP #WS071：
+JP 「#MS、お前バカか？
+JP 　何でそんなウソつき野郎の
+JP 　仲間になってんだよ！
+EN Fuyuki:
+EN "#MS, are you stupid? Why'd you
+EN  side with that lyin' bastard!?"
+
+@ 002
+JP #MS：
+JP 「お前らなんかに何が分かる！
+JP 　俺は#WS076さんを信じる！
+EN #MS:
+EN "What do you guys know! I believe in
+EN  Onita!"
+
+@ 003
+JP #WS087：
+JP 「諦めましょう、#WS071さん。
+JP 　奴もただのバカですよ。
+EN Gedo:
+EN "Forget it, Fuyuki. He's just another
+EN  idiot."
+
+@ 004
+JP #WS071：
+JP 「そうだな！お前も一緒に
+JP 　ぶちのめしてやるよ！ヒャーッ！
+EN Fuyuki:
+EN "Right! We'll pound you flat along
+EN  with him! Hyaaah!"
+
+@ 005
+JP #WS076：
+JP 「頼むぞ、#MS！
+EN Onita:
+EN "Count on ya, #MS!"
+
+@ 006
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"

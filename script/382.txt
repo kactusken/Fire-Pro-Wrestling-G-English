@@ -1,0 +1,185 @@
+@ 000
+JP 遂に今日、日本格闘技界
+JP 注目の大一番が行われる。
+EN Today, at last, comes the big fight all
+EN of Japanese combat sports is
+EN watching.
+
+@ 001
+JP #WF169対
+JP #WF165・・・
+EN Rickson Gracie vs. Nobuhiko
+EN Takada...
+
+@ 002
+JP 俺達#PS10勢は道場で
+JP 観戦する事になったが・・・
+EN We #PS10 guys watched it at the
+EN dojo, but...
+
+@ 003
+JP #WS154：
+JP 「・・・・・・・・
+EN Funaki:
+EN "........"
+
+@ 004
+JP 絶望の瞬間を目の当たりにする事になった。
+EN ...what we witnessed was despair.
+
+@ 005
+JP #WS165さんの惨敗。
+JP 腕ひしぎ逆十字固めによる、
+JP わずか４分足らずでの敗北だった。
+EN Takada was crushed. An armbar, in
+EN under four minutes.
+
+@ 006
+JP #WS154さんは
+JP 何の感想も述べないまま、
+JP 黙々とトレーニングを始めた。
+EN Funaki didn't say a word. He just
+EN started training in silence.
+
+@ 007
+JP この試合がきっかけとなり世間の
+JP バーリトゥードへの関心は一気に高まった。
+EN That fight sent the public's interest
+EN in vale tudo through the roof.
+
+@ 008
+JP そして
+JP 『打倒#WL169』が
+JP 日本格闘技界の合い言葉になったのだ。
+EN And "Beat Rickson!" became the
+EN rallying cry of Japanese combat
+EN sports.
+
+@ 009
+JP 俺はいつものようにトレーニングをしようと
+JP 道場にやって来た。
+EN I came to the dojo to train as usual.
+
+@ 010
+JP #WS165：
+JP 「よっ、ご無沙汰だな！
+EN Takada:
+EN "Yo, long time no see!"
+
+@ 011
+JP #MS：
+JP 「#WS165さん！？
+EN #MS:
+EN "Mr. Takada!?"
+
+@ 012
+JP #WS154：
+JP 「実は今度、#WS165さんの所と
+JP 　色々交流して行こうと思ってね。
+EN Funaki:
+EN "Actually, we're going to start
+EN  working with Takada's people in all
+EN  kinds of ways."
+
+@ 013
+JP #MS：
+JP 「交流、ですか？
+EN #MS:
+EN "Working together?"
+
+@ 014
+JP #WS165：
+JP 「ああ。技術交流をしてお互いを
+JP 　レベルアップして行こうと思ってる。
+JP 　当然試合もやるつもりだけどな。
+EN Takada:
+EN "Yeah. Trade techniques and level
+EN  each other up. And we'll have
+EN  matches too, of course."
+
+@ 015
+JP #WS154：
+JP 「始めは若手から。次第にエースクラスへと
+JP 　広げて行くつもりだ。
+EN Funaki:
+EN "Starting with the young guys, then
+EN  working up to the aces."
+
+@ 016
+JP #MS：
+JP 「じゃあ、俺が#WS165さんと
+JP 　試合させてもらえるかもしれないって
+JP 　事ですか！？
+EN #MS:
+EN "So I might get a match with you, Mr.
+EN  Takada!?"
+
+@ 017
+JP #WS165：
+JP 「ハハハ、随分喜ばれてるな。
+EN Takada:
+EN "Ha ha ha, you sure look happy."
+
+@ 018
+JP #MS：
+JP 「やっぱりＵＷＨでしばらく一緒にいながら
+JP 　対戦出来ませんでしたから・・・・
+JP 　いずれ是非、お願いします！
+EN #MS:
+EN "We were together in UWF for a
+EN  while but never got to face off....
+EN  Someday, please!"
+
+@ 019
+JP #WS165：
+JP 「分かった、約束だ。
+JP 　いずれ必ず、試合しよう。
+EN Takada:
+EN "All right, it's a promise. Someday,
+EN  we'll have that match."
+
+@ 020
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 021
+JP #WS165道場との交流戦が開始され、
+JP 既に若手の間で何戦か試合も組まれた。
+JP そして遂に俺の出番がやって来たのだ。
+EN The series with the Takada Dojo
+EN began, with young guys going first.
+EN At last, my turn came.
+
+@ 022
+JP #WS154：
+JP 「どうだ、調子は？
+EN Funaki:
+EN "How are you feeling?"
+
+@ 023
+JP #MS：
+JP 「はい、バッチリです。
+EN #MS:
+EN "Great. Perfect shape."
+
+@ 024
+JP 今日の相手は#WS167さん。
+JP #WS165戦への前哨戦の意味もある。
+EN Today's opponent is Sano. It's also a
+EN warm-up for the Takada fight.
+
+@ 025
+JP #WS154：
+JP 「なるほど、その調子なら問題無いだろう。
+JP 　後は思いっきりやって来い！
+EN Funaki:
+EN "Good. In that shape, you'll be fine.
+EN  Now go all out!"
+
+@ 026
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"

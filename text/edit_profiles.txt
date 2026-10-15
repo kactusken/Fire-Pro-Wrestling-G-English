@@ -1,0 +1,91 @@
+# Profiles of the 30 bonus edit wrestlers (FPG 013 0x8A28: 29 big-endian u16 offsets, then
+# NUL-terminated text, lines CR LF). Same order as the table; tools/editdata.py.
+# Shown in Edit Ranking (Fight menu) in a box from x 108: keep lines within ~195 px and 3 lines,
+# or the window auto-wraps at x 320 and pushes text below the box (tools/editdata.py checks).
+@ 0
+JP 全てが伝説の巨人。\n一度もこの座を譲った事はない。
+EN A legend of a giant in\nevery way. He has never\ngiven up his throne.
+@ 1
+JP 大会の最高出資者が、\nルールを変えてまで送り込んだ。\n双子のファイター。
+EN Twins sent in by the top\nsponsor, who even bent\nthe rules for them.
+@ 2
+JP この大会の元となった某Ｈ杯で優勝した\n実力者。\n容姿に騙されるな！
+EN Winner of the H Cup that\ninspired this event.\nDon't let looks fool you!
+@ 3
+JP 「エルボーこそ我が命！」
+EN "The elbow is my life!"
+@ 4
+JP 某Ｈ杯準優勝者。\n軽い身のこなしのオールラウンドファイター
+EN H Cup runner-up. A nimble,\nall-round fighter.
+@ 5
+JP 究極の必殺技を使いこなす男。
+EN The man who has mastered\nthe ultimate finisher.
+@ 6
+JP 専用狸型決戦兵士。\n恐るべき腕力の持ち主である。\n一部では、アンドロイドとの噂も！？
+EN A raccoon-type battle unit\nof fearsome strength.\nAn android, some say!?
+@ 7
+JP 謎。
+EN A mystery.
+@ 8
+JP 蹴り技のみで上位に食い込む実力者。\n恐るべき必殺技を使う。
+EN Rose to the top with kicks\nalone. A fearsome finisher.
+@ 9
+JP 脚関節技とラフ攻撃を得意とする\n黒人のファイター。
+EN A black fighter who excels\nat leg locks and rough\nattacks.
+@ 10
+JP 緑愚生成中に突然変異で発生した。\nあまり好戦的な性格ではない。
+EN A mutant, born in the\nmaking of Midorigu. Not\nvery aggressive.
+@ 11
+JP ある研究所で開発された緑聖人に、\nカッパフェースをフュージョンさせた\nミュータントファイター。
+EN A mutant fighter: a lab-\nmade green saint fused\nwith a kappa face.
+@ 12
+JP 稲妻レッグラリアートこそ最強！\nと、唱えるプロレス出身者。\nさらに上位を狙っている。
+EN A pro wrestler who swears\nby the Inazuma Leg Lariat!\nHe's aiming even higher.
+@ 13
+JP 全てが謎のタヌキの仮面。
+EN A raccoon mask.\nA total mystery.
+@ 14
+JP 謎のパンダ。\nくるくるころころが得意。\nその実力やいかに！
+EN A mysterious panda.\nGood at rolling around.\nHow strong is it really?
+@ 15
+JP 相手の首を狙い、短期決着を望む、\n実戦派のグラップラー。\nあらゆる技を使いこなす。
+EN A real grappler who goes\nfor the neck and a quick\nfinish. Uses every move.
+@ 16
+JP あくまでもプロレスラーとして参加。\n彼女の明るくも激しいプロレスは\nセメントファイター達に通じるか？
+EN She enters as a pro\nwrestler. Can her bright,\nfierce style beat shooters?
+@ 17
+JP セメントファイトの中でも空中戦を\n実践している、実力者。
+EN A skilled fighter who takes\nit to the air, even in\nshoot fights.
+@ 18
+JP この地下格闘技場にも自分の華麗な\nプロレスを広める為にやって来た、\n投げと飛び技を得意とする女子レスラー。
+EN A flashy woman wrestler\nwho throws and flies, here\nto spread pro wrestling.
+@ 19
+JP ラフファイトが得意な謎のファイター\nパンサー鳥取との関係は！？
+EN A mystery brawler. Any\nrelation to Tiger Hattori!?
+@ 20
+JP 「女子プロレス界最強の男」の称号を得た\n彼女は、自分を男呼ばわりした連中を\n見返すため世界最強を目指す。
+EN Called "the strongest man\nin women's pro", she aims\nfor the world's top.
+@ 21
+JP 見た目の風貌通りの大相撲のファイター\n彼を投げ飛ばすのはなかなか容易では\n無い。
+EN A sumo fighter, just as he\nlooks. Throwing him is\nno easy task.
+@ 22
+JP 若干１６歳にして驚くべき才能を\n発揮する謎の少年。\n打撃から関節の連携が得意。
+EN A mystery boy of just 16\nwith amazing talent.\nChains strikes into locks.
+@ 23
+JP アマレス仕込みの投げ技と\n威力重視のパイルドライバーが必殺技な\n陽気なロシア戦士。
+EN A cheerful Russian warrior\nwith amateur throws and\na crushing piledriver.
+@ 24
+JP 過去に腰にダメージを背負った経験があり\nその辛さを彼は知っている。\n故に、彼は相手の腰を狙い続ける。
+EN He once hurt his back, so\nhe knows the pain. Now he\ngoes after his foe's back.
+@ 25
+JP 熊次郎の弟のくま。\nやはり頭はよくないらしい。
+EN Kumajiro's little brother\nbear. Not too bright\neither, it seems.
+@ 26
+JP 町内最強の看板を掲げて参加。\n執拗なまでに腕を狙う闘いをする。
+EN Entered as the toughest\nguy in the neighborhood.\nGoes after the arm, hard.
+@ 27
+JP 自称、人間の知能を持った熊。\n知能を持っている割に技のレパートリーは\n貧弱である。
+EN A bear who claims human\nsmarts. For all that, his\nmove list is pretty thin.
+@ 28
+JP 大会の趣旨を理解していない謎のオヤジ\n強力なスポンサーのおかげで無理やり参加\nしているらしい。
+EN An old man who doesn't get\nthe event. A big sponsor\nforced him in, it seems.

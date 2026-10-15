@@ -1,0 +1,171 @@
+@ 000
+JP #WS136：
+JP 「オイ、#WS093！
+JP 　お前みたいな奴はもうダメなんだよ！
+EN Teioh:
+EN "Hey, Delfin! Guys like you are
+EN  finished!"
+
+@ 001
+JP #WS093：
+JP 「お前らこそな！チビッコ達が見に来る
+JP 　#PS04を壊すんやない！
+EN Delfin:
+EN "You're the ones who're finished!
+EN  Don't go wreckin' the #PS04 the
+EN  kiddies come to see!"
+
+@ 002
+JP 「楽しくない#PS04にしたら
+JP 　アカンのや！
+EN "#PS04's gotta be fun! Anything
+EN  else just won't do!"
+
+@ 003
+JP #WS136：
+JP 「お前はな、何か言いたかったら
+JP 　俺達に勝ってから言え！
+EN Teioh:
+EN "If you got something to say, beat us
+EN  first!"
+
+@ 004
+JP 「負けっ放しのお前達が何を言っても
+JP 　負け犬の遠吠えなんだよ！
+EN "Losers like you can talk all you
+EN  want. It's just a loser's howling!"
+
+@ 005
+JP #WS093：
+JP 「あいつら・・・分かっとらん。
+JP 　分かっとらんよ。
+EN Delfin:
+EN "Those guys... They don't get it. They
+EN  just don't get it."
+
+@ 006
+JP 「なあ、#MS。
+JP 　ワイの言う事分かるやろ？
+EN "Right, #MS? Ya know what I'm
+EN  sayin'?"
+
+@ 007
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes."
+
+@ 008
+JP #WS093：
+JP 「楽しくない#PS04じゃあダメなんよ。
+JP 　チビッコ達に喜んでもらえないようじゃ
+JP 　ダメなんよ。
+EN Delfin:
+EN "If #PS04 ain't fun, it's no good. If
+EN  the kiddies ain't happy, it's no good."
+
+@ 009
+JP #MS：
+JP 「はい・・・・
+EN #MS:
+EN "Yes..."
+
+@ 010
+JP #WS092：
+JP 「この脚がちゃんと動けば・・・・
+EN Sasuke:
+EN "If only this leg worked right..."
+
+@ 011
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 012
+JP 西連隊ＥＸと#WS093さんを含めた
+JP 正規軍の闘いは激しさを増していた。
+EN The war between Kaientai DX and the
+EN regulars, Delfin included, was heating
+EN up.
+
+@ 013
+JP 俺も早く正規軍の力になれるように
+JP 強くなりたいと思う・・・・
+EN I wanted to get strong fast, so I could
+EN help the regulars too...
+
+@ 014
+JP 俺は今日も会場の設営を手伝っていた。
+EN Today, as always, I was helping set up
+EN the venue.
+
+@ 015
+JP ？：
+JP 「よっ！
+EN ???:
+EN "Yo!"
+
+@ 016
+JP #MS：
+JP 「おはようございます！
+EN #MS:
+EN "Good morning!"
+
+@ 017
+JP #WS092：
+JP 「おはよう！
+JP 　今日は#WS097とだったよな？
+EN Sasuke:
+EN "Morning! You've got Tiger Mask
+EN  today, right?"
+
+@ 018
+JP #MS：
+JP 「はい、そうです。
+EN #MS:
+EN "Yes, that's right."
+
+@ 019
+JP #WS092：
+JP 「そうか。まあ色々肌で感じて学ぶといい。
+JP 　あいつの蹴りや関節は
+JP 　素晴らしいものがあるからな。
+EN Sasuke:
+EN "Okay. Well, feel it firsthand and
+EN  learn. His kicks and holds are
+EN  something else."
+
+@ 020
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 021
+JP #WS092：
+JP 「そうだ、それとな。
+EN Sasuke:
+EN "Oh, and one more thing."
+
+@ 022
+JP #MS：
+JP 「はい？
+EN #MS:
+EN "Yes?"
+
+@ 023
+JP #WS092：
+JP 「今日でシリーズ終わりだろう？
+JP 　明日会社の方に顔出してくれ。
+JP 　俺は一日中いるから。
+EN Sasuke:
+EN "The series wraps up today, right?
+EN  Come by the office tomorrow. I'll be
+EN  there all day."
+
+@ 024
+JP #MS：
+JP 「分かりました。
+EN #MS:
+EN "Understood."

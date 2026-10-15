@@ -1,0 +1,72 @@
+@ 000
+JP 今日の試合は#WS071軍との
+JP タッグマッチだ。
+EN Today's match was a tag bout against
+EN the Fuyuki-gun.
+
+@ 001
+JP #WS071：
+JP 「ヒャーッ！#MS！
+JP 　#WS068はバカ正直なだけなんだよ！
+EN Fuyuki:
+EN "Hyaaah! #MS! Hayabusa's just a
+EN  naive goody-goody!"
+
+@ 002
+JP 「そんな甘チャンと組んでないで、
+JP 　俺達と一緒に闘おうじゃねぇか。
+JP 　どうだ？
+EN "Quit teamin' with that softie and
+EN  fight with us. Whaddaya say?"
+
+@ 003
+JP #MS：
+JP 「俺はあんたのやってるおふざけ路線は
+JP 　大嫌いなんだよ！
+EN #MS:
+EN "I hate that clown act you guys put
+EN  on!"
+
+@ 004
+JP 「俺達は俺達の目指す未来の為に闘う！
+EN "We fight for the future we believe
+EN  in!"
+
+@ 005
+JP #WS071：
+JP 「ダメだな、おい！お前もただの甘チャンか？
+JP 　どうやら見込み違いだったようだな！
+EN Fuyuki:
+EN "Hopeless! You're just another softie,
+EN  huh? Guess I was wrong about you!"
+
+@ 006
+JP #WS087：
+JP 「諦めましょう、#WS071さん。
+JP 　奴もただのバカですよ。
+EN Gedo:
+EN "Forget it, Fuyuki. He's just another
+EN  idiot."
+
+@ 007
+JP #WS071：
+JP 「そうだな！お前も一緒に
+JP 　ぶちのめしてやるよ！ヒャーッ！
+EN Fuyuki:
+EN "Right! We'll pound you flat along
+EN  with him! Hyaaah!"
+
+@ 008
+JP #WS068：
+JP 「奴等の挑発に乗っちゃダメだ。
+JP 　ここは落ち着いて行こう。
+EN Hayabusa:
+EN "Don't take their bait. Let's keep
+EN  cool."
+
+@ 009
+JP #MS：
+JP 「そうですね。試合で黙らせましょう！
+EN #MS:
+EN "Right. We'll shut them up in the
+EN  match!"

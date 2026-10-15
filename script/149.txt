@@ -1,0 +1,34 @@
+@ 000
+JP あの大会後・・・・
+EN After that show....
+
+@ 001
+JP 祭りが終わった後のように気が抜けてしまった
+JP 俺は、ろくに実績も上げられぬまま悪者協会と
+JP フレンドリー軍団の闘いに参加していた。
+EN Drained, like after a festival, I got no
+EN results and was stuck in Akuyaku
+EN Shokai vs. Family Gundan bouts.
+
+@ 002
+JP マッチメイクに苛立ちを感じつつも
+JP どうする事も出来ない自分にも腹が立っていた。
+EN The matchmaking frustrated me, but I
+EN was even angrier at myself for not
+EN being able to do anything.
+
+@ 003
+JP #WS066：
+JP 「さぁ、気合入れて頑張ろうぜ。
+JP 　どんなカードでもお客さんに喜んで
+JP 　もらえる試合しなきゃな！
+EN Kikuchi:
+EN "C'mon, let's get fired up. Whatever
+EN  the card, we've gotta give the fans a
+EN  match they'll enjoy!"
+
+@ 004
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes, sir."

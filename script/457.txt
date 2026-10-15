@@ -1,0 +1,211 @@
+@ 000
+JP 俺は#WS128の『サッコ』によって
+JP 洗脳を解かれ、タッグを結成。
+JP しばらくはそのチームで試合をしていた。
+EN Mankind's Mr. Socko broke my
+EN brainwashing, and we formed a team.
+EN We wrestled together for a while.
+
+@ 001
+JP そんなある日、またオーナーに
+JP 呼び出されていた。
+EN Then one day, the owner called me in
+EN again.
+
+@ 002
+JP ディンク：
+JP 「今日呼び出したのは他でも無い。
+JP 　ユーの次のムーブメントが決まった。
+EN McMahon:
+EN "I called you here for one reason.
+EN  Your next angle is set."
+
+@ 003
+JP #MS：
+JP 「もうですか！？
+EN #MS:
+EN "Already!?"
+
+@ 004
+JP ディンク：
+JP 「会社としてはユーの事は評価しているが、
+JP 　ファンの興味がユーに向かない以上、色々
+JP 　試すしかあるまい？
+EN McMahon:
+EN "The company rates you, but while
+EN  the fans aren't biting, we just have to
+EN  try things, no?"
+
+@ 005
+JP 「それにユーは何でもソツ無くこなせる。
+EN "Besides, you can pull off anything."
+
+@ 006
+JP #MS：
+JP 「はぁ・・・・
+JP 　それで、新しい動きってのは何です？
+EN #MS:
+EN "Uh-huh... So what's the new angle?"
+
+@ 007
+JP ディンク：
+JP 「ユーの姉はある男に
+JP 　たぶらかされてしまうのだ。
+EN McMahon:
+EN "Your sister gets seduced by a certain
+EN  man."
+
+@ 008
+JP #MS：
+JP 「は？
+EN #MS:
+EN "Huh?"
+
+@ 009
+JP 「あの、俺に姉はいませんけど・・・・
+EN "Um, I don't have a sister..."
+
+@ 010
+JP ディンク：
+JP 「ノー。これがユーの姉だ。
+EN McMahon:
+EN "No. This is your sister."
+
+@ 011
+JP そう言ってディンクは１枚の写真を取り出した。
+JP そこには見た事も無い女性が写っていた。
+EN With that, McMahon pulled out a
+EN photo. It showed a woman I'd never
+EN seen in my life.
+
+@ 012
+JP #MS：
+JP 「誰ですか？これ。しかもこの人どう見ても
+JP 　日本人じゃないですよ。
+EN #MS:
+EN "Who is this? She's obviously not even
+EN  Japanese."
+
+@ 013
+JP ディンク：
+JP 「ノープロブレム。
+JP 　普通のアメリカ人には区別はつかない。
+EN McMahon:
+EN "No problem. The average American
+EN  can't tell the difference."
+
+@ 014
+JP #MS：
+JP 「読めて来ましたよ。それで俺が
+JP 　『姉さんの仇！』と言ってそいつと
+JP 　抗争を繰り広げる訳ですね？
+EN #MS:
+EN "I see where this is going. I yell 'This
+EN  is for my sister!' and feud with the
+EN  guy, right?"
+
+@ 015
+JP ディンク：
+JP 「さすがだ。やはりユーには才能がある。
+EN McMahon:
+EN "Splendid. I knew you had talent."
+
+@ 016
+JP #MS：
+JP 「何か最近こんなのばっかり・・・・
+EN #MS:
+EN "Lately it's nothing but stuff like
+EN  this..."
+
+@ 017
+JP ディンク：
+JP 「何か言ったか？
+EN McMahon:
+EN "Did you say something?"
+
+@ 018
+JP #MS：
+JP 「い、いいえ！何も！
+EN #MS:
+EN "N-no! Nothing!"
+
+@ 019
+JP ディンク：
+JP 「そうか。では頼むぞ。
+EN McMahon:
+EN "I see. Then I'm counting on you."
+
+@ 020
+JP #MS：
+JP 「はい・・・・
+EN #MS:
+EN "Yes, sir..."
+
+@ 021
+JP 俺はその後も大変だった。
+EN It stayed crazy after that, too.
+
+@ 022
+JP 結婚していないのに奥さんが出来てそいつに
+JP 裏切られる、#WS123の妹をたぶらかした
+JP と言われて追いかけられる・・・
+EN I got a wife without marrying, who
+EN then betrayed me. I got chased for
+EN "seducing" Shamrock's sister...
+
+@ 023
+JP 売春斡旋業者にされる、神父にされる、
+JP アメリカ人を卑しい人種だと罵る成り金に
+JP される・・・・・
+EN I was made a pimp, a priest, a snobby
+EN rich guy who called Americans a
+EN lowly race...
+
+@ 024
+JP これでもかと言わんばかりに色々やらされた。
+EN They made me do anything and
+EN everything.
+
+@ 025
+JP ただ何だかんだと言って、こう言うアメプロの
+JP 世界が気に入り始めていたのも確かだ。
+EN And yet, for all that, I was starting to
+EN love this world of American
+EN wrestling.
+
+@ 026
+JP だがそんな時、日本からニュースが入って来た。
+EN But then, news arrived from Japan.
+
+@ 027
+JP 『坂上、#PS01に電撃移籍！』
+EN "Sakagami makes shock jump to
+EN  #PS01!"
+
+@ 028
+JP 『「どうしても闘いたい奴がいる」と発言！』
+EN "Says: 'There's a guy I have to fight!'"
+
+@ 029
+JP そう言えば・・・・
+EN Come to think of it...
+
+@ 030
+JP ・・・・・・・・・・・
+EN ...........
+
+@ 031
+JP しかし俺は最近コロコロと変わる展開に
+JP ついて行くのが忙しく、#PS01に
+JP 遠征に行く事ももう無くなっていた。
+EN But I was so busy keeping up with
+EN ever-changing storylines that I never
+EN toured #PS01 anymore.
+
+@ 032
+JP 約束・・・・・
+EN The promise...
+
+@ 033
+JP いつか、果たせるのだろうか・・・・
+EN Will I ever keep it...?

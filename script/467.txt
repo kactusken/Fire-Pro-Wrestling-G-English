@@ -1,0 +1,235 @@
+@ 000
+JP 俺は昨日言われた通り、事務所に来た。
+EN As told yesterday, I came to the
+EN office.
+
+@ 001
+JP #MS：
+JP 「おはようございます！
+JP 　#MS来ました！
+EN #MS:
+EN "Good morning! #MS reporting!"
+
+@ 002
+JP #WS092：
+JP 「おう、来たか。
+EN Sasuke:
+EN "Hey, there you are."
+
+@ 003
+JP 俺達はソファーに腰掛けた。
+EN We sat down on the sofa.
+
+@ 004
+JP #MS：
+JP 「あの、今日は何の用でしょう？
+EN #MS:
+EN "Um, what did you need me for
+EN  today?"
+
+@ 005
+JP #WS092：
+JP 「実はな・・・お前を外に
+JP 　修行に出そうと思ってる。
+EN Sasuke:
+EN "Well... I'm thinking of sending you
+EN  abroad to train."
+
+@ 006
+JP #MS：
+JP 「修行、ですか？
+EN #MS:
+EN "To train?"
+
+@ 007
+JP #WS092：
+JP 「色々考えたんだがな、
+JP 　結局メキシコに行ってもらう事にした。
+EN Sasuke:
+EN "I gave it a lot of thought, and in the
+EN  end, I want you to go to Mexico."
+
+@ 008
+JP #MS：
+JP 「メキシコ・・・
+EN #MS:
+EN "Mexico..."
+
+@ 009
+JP #WS092：
+JP 「そうだ。しばらく回って、
+JP 　色々吸収して来い。
+EN Sasuke:
+EN "Right. Tour around for a while and
+EN  soak up everything you can."
+
+@ 010
+JP 「#PS00さんのつてで
+JP 　#WF162に
+JP 　お前の世話を頼んである。
+EN "Through #PS00, I've asked Dr.
+EN  Wagner Jr. to look after you."
+
+@ 011
+JP #MS：
+JP 「でも、あの・・・・
+EN #MS:
+EN "But, um...."
+
+@ 012
+JP #WS092：
+JP 「何だ？
+EN Sasuke:
+EN "What?"
+
+@ 013
+JP #MS：
+JP 「メキシコに行けるのは嬉しいですけど
+JP 　西連隊ＥＸとの闘いが大変なこの時に
+JP 　俺だけ行ってしまっていいんでしょうか？
+EN #MS:
+EN "I'm glad to go, but with the war
+EN  against Kaientai DX so rough, is it
+EN  okay for me to just leave?"
+
+@ 014
+JP #WS092：
+JP 「確かにそれはあるけどな。ただお前には
+JP 　色んな経験を積んで来て欲しい。それが
+JP 　後々お前の財産になるはずだ。
+EN Sasuke:
+EN "You've got a point. But I want you to
+EN  get all kinds of experience. It'll be
+EN  your treasure down the road."
+
+@ 015
+JP 「そしてそれは#PS04にとっての
+JP 　利益にもなる。
+JP 　これは先行投資なんだよ。
+EN "And it'll pay off for #PS04 too.
+EN  Think of it as an investment."
+
+@ 016
+JP #MS：
+JP 「はい・・・
+EN #MS:
+EN "Okay..."
+
+@ 017
+JP #WS092：
+JP 「安心しろ。お前が帰って来るまで、
+JP 　正規軍も、#PS04も、
+JP 　俺達が守ってみせる。
+EN Sasuke:
+EN "Relax. Till you get back, we'll
+EN  protect the regulars and #PS04."
+
+@ 018
+JP 「安心して行って来い！
+EN "Go on, and don't worry!"
+
+@ 019
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Right!"
+
+@ 020
+JP こうして俺は、
+JP メキシコに
+JP 修行に出る事になった。
+EN And so I was off to Mexico to train.
+
+@ 021
+JP #WS162：
+JP 「どうだ、準備はいいか？
+EN Wagner:
+EN "Well, are you ready?"
+
+@ 022
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes."
+
+@ 023
+JP 俺は道場でのトレーニングから
+JP #WS162に見てもらった。
+EN Wagner had looked after me, starting
+EN with training at the dojo.
+
+@ 024
+JP そして遂に、
+JP メキシコマットでの初試合を
+JP 迎えたのだ。
+EN And finally, my first match on the
+EN Mexican mat had arrived.
+
+@ 025
+JP #WS162：
+JP 「試合に集中しろ。
+JP 　ケガだけはしないようにな。
+EN Wagner:
+EN "Focus on the match. Above all, don't
+EN  get hurt."
+
+@ 026
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes."
+
+@ 027
+JP #WS162：
+JP 「後はユーの気迫をお客さんに伝えて来い！
+EN Wagner:
+EN "Then show the fans your fighting
+EN  spirit!"
+
+@ 028
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes!"
+
+@ 029
+JP メキシコマットでの初試合の相手は
+JP #WF160。
+EN My first opponent in Mexico was
+EN Negro Casas.
+
+@ 030
+JP 日本でも馴染みの深い、
+JP ベテランルチャドールだ。
+EN A veteran luchador, well known in
+EN Japan too.
+
+@ 031
+JP （ちなみにルチャとはメキシコで生まれ育った
+JP 独特のスタイルのプロレスの事で、
+JP ルチャドールとはそれをやるレスラーの事だ。）
+EN (Lucha is the unique style of pro
+EN wrestling born in Mexico, and a
+EN luchador is a wrestler who does it.)
+
+@ 032
+JP 伝家の宝刀、ラ・マヒストラルには
+JP 注意しなければならない。
+EN I had to watch out for his signature
+EN move, La Magistral.
+
+@ 033
+JP 俺はもう一度深呼吸をして・・・・
+EN I took one more deep breath....
+
+@ 034
+JP #MS：
+JP 「行きます！
+EN #MS:
+EN "Here I go!"
+
+@ 035
+JP #WS162：
+JP 「よし、行って来い！
+EN Wagner:
+EN "All right, go get 'em!"

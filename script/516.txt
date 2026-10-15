@@ -1,0 +1,140 @@
+@ 000
+JP 坂上：
+JP 「#MS・・・俺はお前と出会えて、
+JP 　本当に良かったと思ってる。
+EN Sakagami:
+EN "#MS... I'm really glad I met
+EN  you."
+
+@ 001
+JP #MS：
+JP 「俺もだぜ、坂上。
+JP 　お前と言う友が・・・ライバルがいたから
+JP 　俺はここまで来れたんだ。
+EN #MS:
+EN "Me too, Sakagami. It's because I had a
+EN  friend... a rival like you that I made
+EN  it this far."
+
+@ 002
+JP 坂上：
+JP 「あの、#WS026道場で・・・あっ！
+EN Sakagami:
+EN "Back at the Yamamoto dojo... Oh!"
+
+@ 003
+JP #MS：
+JP 「？
+EN #MS:
+EN "?"
+
+@ 004
+JP 坂上：
+JP 「見ろ、花道の奥・・・・
+EN Sakagami:
+EN "Look, at the back of the aisle...."
+
+@ 005
+JP #MS：
+JP 「#WL026先生・・・・
+EN #MS:
+EN "Coach Yamamoto...."
+
+@ 006
+JP #WS026：
+JP 「フフフ・・・・・
+EN Yamamoto:
+EN "Heh heh heh....."
+
+@ 007
+JP 「あいつら・・・
+JP 　本当に大きくなりやがって。
+EN "Those two... they've really grown."
+
+@ 008
+JP 「俺はもう弟子は取らない。
+JP 　お前達以上のレスラーは
+JP 　育てられそうも無いからな・・・・
+EN "I'm not taking any more students. I
+EN  could never raise wrestlers better
+EN  than them...."
+
+@ 009
+JP 「フフフ・・・・
+EN "Heh heh heh...."
+
+@ 010
+JP 俺達は去って行く#WL026先生に
+JP 向かって礼をした。ちょうどあの、
+JP 道場で別れた時のように・・・・
+EN We bowed to Coach Yamamoto as he
+EN left. Just like when we parted at the
+EN dojo....
+
+@ 011
+JP その後俺達はまるで
+JP 大会の終わりであるかのような大歓声の中、
+JP リングを後にした。
+EN Then, amid cheers so loud it felt like
+EN the end of the whole event, we left
+EN the ring.
+
+@ 012
+JP だが俺達が退場した後でも、
+JP 歓声は中々途切れなかった・・・・
+EN But even after we left, the cheers just
+EN wouldn't stop....
+
+@ 013
+JP あの大会の後、俺と坂上は世界を回る事にした。
+EN After that event, Sakagami and I
+EN decided to tour the world.
+
+@ 014
+JP 色んな国、色んな人達に俺達のプロレスを
+JP 見てもらう為だ。
+EN To show our pro wrestling to all kinds
+EN of countries and people.
+
+@ 015
+JP そして世界に、
+JP プロレスの素晴らしさを伝えたい、
+JP そう思っている。
+EN And to show the world how wonderful
+EN pro wrestling is. That's what we want.
+
+@ 016
+JP もちろん日本の各地も回って、
+JP 俺達のプロレスを見てもらうつもりだ。
+EN Of course, we'll tour all over Japan
+EN too, to show people our wrestling.
+
+@ 017
+JP まだプロレスを知らない人に。
+EN To people who don't know wrestling
+EN yet.
+
+@ 018
+JP プロレスを否定する人に。
+EN To people who reject wrestling.
+
+@ 019
+JP 多くのプロレスファン達に・・・・
+EN To all the wrestling fans....
+
+@ 020
+JP その中からいつか、将来のプロレス界を
+JP 支える人間が現れるはずだ。
+EN Someday, among them, the people who
+EN carry the wrestling world forward
+EN will appear.
+
+@ 021
+JP そして受け継がれて行く事だろう。
+EN And it will be passed on.
+
+@ 022
+JP 俺達の闘いの道、
+JP 『ファイティング・ロード』が・・・・・
+EN Our road of battle, our "Fighting
+EN Road"......

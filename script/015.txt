@@ -1,0 +1,103 @@
+@ 000
+JP １回戦敗退はショックだった。
+JP まさか#WS011に負けるなんて・・・
+JP 油断したつもりもなかったが。
+EN Losing in round one was a shock. To
+EN Yasuda, of all people... And I didn't
+EN think I'd gotten careless.
+
+@ 001
+JP #MS：
+JP 「あ、#WS001さん・・・・・
+EN #MS:
+EN "Oh, Hashimoto..."
+
+@ 002
+JP #WS001：
+JP 「あんまり気にするな。こういう事もあるさ。
+JP 　今回の負けを、力に変える事が大事なんだ。
+EN Hashimoto:
+EN "Don't worry about it. It happens.
+EN  What matters is turning this loss into
+EN  fuel."
+
+@ 003
+JP 「チャンスはいくらでもあるんだ。
+JP 　次、頑張ればいい。
+EN "There'll be plenty of chances. Just do
+EN  better next time."
+
+@ 004
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Right."
+
+@ 005
+JP #WS001：
+JP 「ただ、ＦＷＯは何とかしなきゃな。
+JP 　ここの所奴らに押されっ放しだからな。
+EN Hashimoto:
+EN "But we have to do something about
+EN  nWo. They've had us on the ropes
+EN  lately."
+
+@ 006
+JP #MS：
+JP 「そうですね。
+EN #MS:
+EN "That's true."
+
+@ 007
+JP #WS001：
+JP 「その為にも、お前にはこんな所で
+JP 　脚踏みしていて欲しくないんだよ。
+EN Hashimoto:
+EN "That's why I don't want you
+EN  spinning your wheels here."
+
+@ 008
+JP #MS：
+JP 「#WS001さん・・・
+EN #MS:
+EN "Hashimoto..."
+
+@ 009
+JP #WS001：
+JP 「頼むぜ。
+EN Hashimoto:
+EN "I'm counting on you."
+
+@ 010
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 011
+JP #WS001さんは俺の肩を軽く叩いて
+JP 去って行った。
+EN Hashimoto patted my shoulder lightly
+EN and walked off.
+
+@ 012
+JP 俺は気を取りなおして普段どおりに
+JP 試合をこなしていこうと決めた。
+EN I pulled myself together and decided
+EN to keep wrestling as usual.
+
+@ 013
+JP #WS030：
+JP 「お前、この会社が今のままの体制で
+JP 　大丈夫だと思ってるのか？
+EN Hiro:
+EN "You think this company's fine the
+EN  way it's run now?"
+
+@ 014
+JP #MS：
+JP 「思ってはいませんよ。でも俺はあんた達とは
+JP 　別の方法で変えてみせる！
+EN #MS:
+EN "No, I don't. But I'll change it my own
+EN  way, not yours!"

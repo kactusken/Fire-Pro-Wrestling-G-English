@@ -1,0 +1,90 @@
+@ 000
+JP まだ新人の俺は、会場の準備に忙しい。
+JP そしてちょうど控え室の前を通った時だった。
+EN As a rookie, I was busy setting up the
+EN venue. Then, just as I passed the
+EN locker room...
+
+@ 001
+JP ？：
+JP 「・・・そんなんじゃダメなんですよ！
+EN ???:
+EN "...That's just not good enough!"
+
+@ 002
+JP ？：
+JP 「何がダメなんや！
+EN ???:
+EN "What's not good enough!?"
+
+@ 003
+JP ？：
+JP 「もういいです！話にならない！
+EN ???:
+EN "Forget it! This is pointless!"
+
+@ 004
+JP 俺は何となく聞き耳を立てていたが、
+JP 人が出てくる気配がしたので慌てて
+JP ドアから離れた。
+EN I'd been listening in without meaning
+EN to, but I sensed someone coming out
+EN and hurried away from the door.
+
+@ 005
+JP #MS：
+JP 「#WS165さん？
+EN #MS:
+EN "Mr. Takada?"
+
+@ 006
+JP #WS165：
+JP 「・・・・・・
+EN Takada:
+EN "......"
+
+@ 007
+JP #WS165さんは行ってしまった。
+JP 普段は優しい人なのに・・・
+EN Mr. Takada walked off. He's usually
+EN so kind...
+
+@ 008
+JP #MS：
+JP 「何かあったのかな・・・
+EN #MS:
+EN "I wonder what happened..."
+
+@ 009
+JP 今日の相手は#WS155さん。
+JP 常に前に出るファイトで人気も上昇。
+JP 今一番勢いのある人と言っていいだろう。
+EN Today's opponent: Suzuki. Always
+EN pressing forward, his popularity is
+EN soaring. He's the hottest guy around.
+
+@ 010
+JP #WS155：
+JP 「#MS・・・まだデビュー間も無い
+JP 　お前でも容赦はしない。それが妥協無き
+JP 　レスリングを目指すＵＷＨだ！
+EN Suzuki:
+EN "#MS... You've barely debuted,
+EN  but I won't go easy. That's the UWF's
+EN  no-compromise wrestling!"
+
+@ 011
+JP #MS：
+JP 「分かってます！でも俺だっていつまでも
+JP 　ヒヨッコではいられない。あなたに勝って
+JP 　今後に弾みをつけます！
+EN #MS:
+EN "I know! But I can't be a chick
+EN  forever. I'll beat you and build some
+EN  momentum!"
+
+@ 012
+JP #WS155：
+JP 「へッ、良く言った。来い！
+EN Suzuki:
+EN "Heh, well said. Come on!"

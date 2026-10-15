@@ -1,0 +1,141 @@
+@ 000
+JP 俺はギガバトルトーナメントの翌日、
+JP #WS149さんに呼び出されて
+JP 事務所に来ていた。
+EN The day after the Mega Battle
+EN Tournament, Mr. Maeda called me in
+EN to the office.
+
+@ 001
+JP #MS：
+JP 「#MSです、来ました！
+EN #MS:
+EN "It's #MS, sir!"
+
+@ 002
+JP #WS149：
+JP 「よう来たな。まあ座れや。
+EN Maeda:
+EN "Glad ya came. Have a seat."
+
+@ 003
+JP #WS149：
+JP 「ギガバトルトーナメントも終わって
+JP 　一区切りついた。それで膝の手術に
+JP 　踏み切ろうかと思ってるんや。
+EN Maeda:
+EN "The tournament's over, so it's a good
+EN  time. I'm thinkin' of gettin' my knee
+EN  operated on."
+
+@ 004
+JP #MS：
+JP 「えっ！？
+EN #MS:
+EN "What!?"
+
+@ 005
+JP #WS149さんの古傷の膝・・・
+EN Mr. Maeda's bad knee...
+
+@ 006
+JP 治療するのは良い事だが、手術をするとなると
+JP プロレスラーの体力を持ってしても試合に
+JP 出れるようになるまでかなりの時間がかかる。
+EN Treating it is good, but after surgery,
+EN even a pro wrestler's body takes a
+EN long time to get back in the ring.
+
+@ 007
+JP #MS：
+JP 「長期欠場、と言う事ですか・・・・
+EN #MS:
+EN "So you'll be out a long time...."
+
+@ 008
+JP #WS149：
+JP 「そうや。その間お前らに留守を任せる。
+EN Maeda:
+EN "Right. I'm leavin' things to you guys
+EN  while I'm gone."
+
+@ 009
+JP #MS：
+JP 「・・・はい。
+EN #MS:
+EN "...Yes, sir."
+
+@ 010
+JP 責任重大だ。エースである#WS149さん
+JP 不在の興行で、お客さんを
+JP 満足させなければならないのだ。
+EN A heavy responsibility. We'd have to
+EN satisfy the fans at shows without our
+EN ace, Mr. Maeda.
+
+@ 011
+JP #WS149：
+JP 「それで次の大会で
+JP 　#WF171が
+JP 　来る事になってる。
+EN Maeda:
+EN "So at the next show, Maurice Smith
+EN  is comin'."
+
+@ 012
+JP 「その相手をお前にやってもらいたいと
+JP 　思ってるんや。
+EN "I want you to be the one to face
+EN  him."
+
+@ 013
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 014
+JP #WF171。
+JP キックボクサーとして数々のタイトルを獲得。
+JP 異種格闘技戦にも良く出場している。
+EN Maurice Smith. A kickboxer with a
+EN pile of titles, and a regular in
+EN mixed-style fights.
+
+@ 015
+JP #MS：
+JP 「やります！
+EN #MS:
+EN "I'll do it!"
+
+@ 016
+JP #WS149：
+JP 「そうか。お前ならそう言うと思ってたよ。
+EN Maeda:
+EN "Yeah. I figured you'd say that."
+
+@ 017
+JP 「頼むぞ！
+EN "I'm countin' on ya!"
+
+@ 018
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 019
+JP #WS149さん不在の中、日本人選手が何も
+JP 実績を残せなかったら#PS07の未来は
+JP 無いと言って良いだろう。
+EN With Mr. Maeda gone, if the Japanese
+EN fighters get no results, #PS07 has
+EN no future.
+
+@ 020
+JP 今の俺に勝てる相手かどうかは分からないが
+JP やるしかない。そしてこの状況をチャンスだと
+JP 考えて精一杯の闘いをしよう！
+EN I don't know if I can beat him right
+EN now, but I have to. I'll treat this as a
+EN chance and give it my all!

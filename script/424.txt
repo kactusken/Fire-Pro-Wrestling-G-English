@@ -1,0 +1,230 @@
+@ 000
+JP 俺は勝った。あの、無敵と言われた
+JP #WF100に
+JP 真っ向勝負で勝ったのだ。
+EN I won. I beat the "invincible" Bill
+EN Goldberg, head-on.
+
+@ 001
+JP 観客も、俺が日本人だと言うのに
+JP これだけ歓声を上げている。
+EN I'm Japanese, and still the crowd is
+EN roaring like this.
+
+@ 002
+JP 俺は勝った事も嬉しかったが、
+JP アメリカでこれだけ認められた事の方が
+JP もっと重要な事だと思った。
+EN Winning felt great, but being
+EN accepted like this in America meant
+EN even more.
+
+@ 003
+JP #WS100：
+JP 「ユーは強いな。負けた事は悔しいが
+JP 　素晴らしいライバルと出会えた
+JP 　喜びの方が大きい。
+EN Goldberg:
+EN "You're tough. Losing stings, but
+EN  finding a great rival makes me even
+EN  happier."
+
+@ 004
+JP 「また、ミーとハードなファイトをしよう！
+EN "Let's have another hard fight, you
+EN  and me!"
+
+@ 005
+JP #MS：
+JP 「ＯＫ。こちらこそ是非！
+EN #MS:
+EN "OK. I'd love to!"
+
+@ 006
+JP 俺達は握手をして別れた。
+EN We shook hands and parted ways.
+
+@ 007
+JP そして俺は#PS05世界ヘビー級の
+JP ベルトを腰に巻いて退場した。
+EN Then I left wearing the #PS05
+EN World Heavyweight belt.
+
+@ 008
+JP 俺は残念ながら負けてしまった。
+JP #WF100は
+JP やっぱり強かった。
+EN Sadly, I lost. Bill Goldberg was as
+EN strong as they said.
+
+@ 009
+JP #WS100：
+JP 「ユーは強いな。
+JP 　今回は勝てたが次にやったら
+JP 　もう１度勝てるかどうかは分からない。
+EN Goldberg:
+EN "You're tough. I won today, but I can't
+EN  say I'd win next time."
+
+@ 010
+JP 「そしてユーのような素晴らしいライバルと
+JP 　出会えた事が何より嬉しい。
+JP 　また、ミーとハードなファイトをしよう！
+EN "And above all, I'm glad I met a great
+EN  rival like you. Let's fight hard
+EN  again!"
+
+@ 011
+JP #MS：
+JP 「こちらこそ是非！
+EN #MS:
+EN "I'd love to!"
+
+@ 012
+JP 俺達は握手をして別れた。
+EN We shook hands and parted ways.
+
+@ 013
+JP マサ：
+JP 「で、どうだ？
+EN Masa:
+EN "So, what do you say?"
+
+@ 014
+JP #MS：
+JP 「・・・・・・・・
+EN #MS:
+EN "........"
+
+@ 015
+JP 俺は信じられない思いで呆然としてしまった。
+EN I couldn't believe it. I just stood there,
+EN stunned.
+
+@ 016
+JP マサ：
+JP 「おい、どうするんだ？
+JP 　イヤなのか？
+EN Masa:
+EN "Hey, what's it gonna be? You don't
+EN  want it?"
+
+@ 017
+JP #MS：
+JP 「まさか！お願いします！是非！
+EN #MS:
+EN "No way! Please! I'd love to!"
+
+@ 018
+JP マサ：
+JP 「そうか。じゃあ決定だな。
+EN Masa:
+EN "Good. Then it's settled."
+
+@ 019
+JP 「今度のドーム大会のセミファイナル、
+JP 　お前と#WS001のシングルマッチだ。
+EN "The semi-main at the next Dome
+EN  show: you and Hashimoto, one on
+EN  one."
+
+@ 020
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 021
+JP #PS00がドーム大会用に
+JP #PS05の大物を招聘する事になったが、
+JP 俺にその白羽の矢が立ったのだ。
+EN #PS00 wanted a big name from
+EN #PS05 for the Dome show, and I
+EN was the one they picked.
+
+@ 022
+JP マサさんも推薦してくれたのもあるらしいが、
+JP 最大の原因は他にあったらしい。
+EN Masa had recommended me, I
+EN heard, but the main reason was
+EN something else.
+
+@ 023
+JP 一部マスコミが俺と坂上のバックストーリーを
+JP 煽った事で、俺と言うレスラーに世間的にも
+JP 期待が高まったからだそうだ。
+EN Some of the press had hyped my
+EN history with Sakagami, and fans got
+EN curious about me as a wrestler.
+
+@ 024
+JP ちなみに一部マスコミ、と言うのは最近
+JP めっきり姿を見なくなった中岡さんの事らしい。
+EN "Some of the press" meant Nakaoka,
+EN  who'd hardly been seen around
+EN  lately.
+
+@ 025
+JP 自分の功績にもなるって言うんで
+JP 必死になって煽ってたそうだ。
+EN He'd hyped it like mad, since it would
+EN be a feather in his cap too.
+
+@ 026
+JP 坂上との対戦は今回は見送りになってしまったが
+JP 日本で俺の力を見せる絶好のチャンスだ、
+EN The Sakagami match was off for now,
+EN but this was my perfect chance to
+EN show Japan what I had.
+
+@ 027
+JP マサ：
+JP 「じゃあ頼むぞ。それと・・・
+EN Masa:
+EN "I'm counting on you, then. And..."
+
+@ 028
+JP #MS：
+JP 「はい？
+EN #MS:
+EN "Yes?"
+
+@ 029
+JP マサ：
+JP 「俺も期待してるからな。
+JP 　凄い試合、見せてくれよ！
+EN Masa:
+EN "I'm expecting a lot too. Show me one
+EN  hell of a match!"
+
+@ 030
+JP #MS：
+JP 「はい！！
+EN #MS:
+EN "Yes, sir!!"
+
+@ 031
+JP #WS001：
+JP 「お前が#MSか・・・いい目つきだ。
+JP 　今日は予想以上に面白い闘いに
+JP 　なるかもしれないな。
+EN Hashimoto:
+EN "So you're #MS... You've got
+EN  good eyes. This might be more fun
+EN  than I expected."
+
+@ 032
+JP #MS：
+JP 「今までアメリカでやってきた事を
+JP 　日本のファンに見せる時が来た・・・・
+JP 　俺の全てをぶつけます！
+EN #MS:
+EN "Time to show Japan's fans what I've
+EN  done in America... I'll give it
+EN  everything!"
+
+@ 033
+JP #WS001：
+JP 「来い！
+EN Hashimoto:
+EN "Bring it!"

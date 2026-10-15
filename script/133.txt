@@ -1,0 +1,125 @@
+@ 000
+JP 正に『死闘』と言っていいだろう。
+JP しかしそれを制したのは俺だった。
+EN It truly was a war to the death. But I
+EN was the one who came out on top.
+
+@ 001
+JP 控え室に辿り着いた俺はへたり込んでしまった。
+JP 体力的なものもあるが精神的な疲労も
+JP かなりのものだった。
+EN I made it to the locker room and
+EN collapsed. My body was spent, and my
+EN mind was just as drained.
+
+@ 002
+JP 勝利の代償は高かった。
+EN Victory came at a high price.
+
+@ 003
+JP 記者：
+JP 「#MS選手！
+EN Reporter:
+EN "#MS!"
+
+@ 004
+JP 「いよいよ三冠王座に挑戦ですね！
+EN "You finally get your Triple Crown
+EN  shot!"
+
+@ 005
+JP #MS：
+JP 「そうですね。
+EN #MS:
+EN "That's right."
+
+@ 006
+JP 「やっとここまで来たっていうのもあるし、
+JP 　決定戦で#WS041さんに
+JP 　勝って来たってのもあるんでね。
+EN "I finally made it this far, and I beat
+EN  Kobashi in the contender's match to
+EN  get here."
+
+@ 007
+JP 「#WS040さんは
+JP 　とてつもなく強いですけどね、
+JP 　絶対に負けられないですよ。
+EN "Misawa's incredibly strong, but I
+EN  absolutely can't lose."
+
+@ 008
+JP 記者：
+JP 「頑張って下さい！
+EN Reporter:
+EN "Good luck!"
+
+@ 009
+JP #WS040さん。
+JP 自他共に認める
+JP #PL01のエースだ。
+EN Misawa. #PL01's ace, and
+EN everyone, himself included, knows it.
+
+@ 010
+JP 命懸けの闘いになるだろう。
+EN This will be a fight to the death.
+
+@ 011
+JP #WS040：
+JP 「とうとうここまで来たか。
+JP 　ここ最近の成長ぶりは大したものだよ。
+EN Misawa:
+EN "So you finally made it here. You've
+EN  grown a lot lately."
+
+@ 012
+JP 「でも俺もね、エースとして
+JP 　今まで積み重ねて来たものがあるからね。
+JP 　簡単には負けられないよね。
+EN "But I've built up a lot as the ace too.
+EN  I can't lose easily."
+
+@ 013
+JP #MS：
+JP 「俺もやっと三冠王座に挑戦出来る所まで
+JP 　来ました。これも最高の先輩達あっての
+JP 　事だと思ってます。
+EN #MS:
+EN "I've finally made it to a Triple Crown
+EN  shot. I owe that to the best seniors
+EN  there are."
+
+@ 014
+JP 「その恩返しとして、これからは
+JP 　先輩達を越えて行きます！
+EN "To pay you back, I'm going to
+EN  surpass you all!"
+
+@ 015
+JP #WS040：
+JP 「その意気だよ。俺達もいつまでも
+JP 　高い壁でいるように頑張るよ。
+EN Misawa:
+EN "That's the spirit. We'll work hard to
+EN  stay a high wall for you."
+
+@ 016
+JP 「そしてお互いの凌ぎ合いが高レベルの闘いを
+JP 　生んで、#PL01の
+JP 　エネルギーになって行くだろう。
+EN "And our rivalry will make for
+EN  high-level fights and fuel
+EN  #PL01."
+
+@ 017
+JP #MS：
+JP 「行きます！
+EN #MS:
+EN "Here I come!"
+
+@ 018
+JP #WS040：
+JP 「来い！
+EN Misawa:
+EN "Come on!"

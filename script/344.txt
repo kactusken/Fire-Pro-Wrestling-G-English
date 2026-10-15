@@ -1,0 +1,291 @@
+@ 000
+JP #WS150さんとの試合が終わり、
+JP 俺は控え室に帰って来た。
+EN After my match with Fujiwara, I came
+EN back to the locker room.
+
+@ 001
+JP #WS151：
+JP 「#MSさん！大変ですよ！
+EN Ishikawa:
+EN "#MS! This is bad!"
+
+@ 002
+JP #MS：
+JP 「どうした、何かあったのか？
+EN #MS:
+EN "What is it? What happened?"
+
+@ 003
+JP #WS151：
+JP 「実は・・・・・・
+EN Ishikawa:
+EN "Well......"
+
+@ 004
+JP #WS151の話によると#WS150組の
+JP 社長がやって来て、#WS150さん以外の
+JP 全選手を解雇すると言い残して帰ったと言う。
+EN Ishikawa said the company president
+EN came, fired every wrestler but
+EN Fujiwara, and left.
+
+@ 005
+JP #MS：
+JP 「何だよ、それは！？
+EN #MS:
+EN "What the hell!?"
+
+@ 006
+JP #WS151：
+JP 「#WS150さん！
+EN Ishikawa:
+EN "Mr. Fujiwara!"
+
+@ 007
+JP #MS：
+JP 「どういう事なんですか？
+JP 　何か知りませんか？
+EN #MS:
+EN "What's going on? Do you know
+EN  anything?"
+
+@ 008
+JP #WS150：
+JP 「知ってる。
+EN Fujiwara:
+EN "I know."
+
+@ 009
+JP #WS151：
+JP 「えっ・・・・
+EN Ishikawa:
+EN "What...."
+
+@ 010
+JP #WS150：
+JP 「仕方ねぇんだ。お前らも知っての通り、
+JP 　今のままじゃ#WS150組はもたない。
+EN Fujiwara:
+EN "Can't be helped. As you know,
+EN  Fujiwara Gumi can't survive like
+EN  this."
+
+@ 011
+JP #MS：
+JP 「でも・・・
+EN #MS:
+EN "But..."
+
+@ 012
+JP #WS150：
+JP 「名前は#WS150組だし、実際に試合を
+JP 　提供するのも俺達だ。でもな、会社は
+JP 　あいつの・・・社長のものなんだよ。
+EN Fujiwara:
+EN "It's got my name, and we're the ones
+EN  in the ring. But the company belongs
+EN  to him... the president."
+
+@ 013
+JP 「ヤバくなったら何とかしなけりゃならない。
+JP 　今までもそういう時にはあいつが何とか
+JP 　してきてくれたんだ。
+EN "When things go south, someone has
+EN  to fix it. He's always been the one to
+EN  pull us through."
+
+@ 014
+JP 「その社長がこれだけの決断をしなきゃならない
+JP 　状況だったんだよ。怒らないでやってくれ。
+EN "Things were bad enough that he had
+EN  to make this call. Don't be mad at
+EN  him."
+
+@ 015
+JP #MS：
+JP 「・・・・・・・・・・
+EN #MS:
+EN ".........."
+
+@ 016
+JP 俺達はまた、居場所を失ったのだ・・・・
+EN Once again, we'd lost our home....
+
+@ 017
+JP #WS150組をクビになった俺達だが、
+JP #WS150さんと社長の厚意により
+JP 道場は使わせてもらえる事になった。
+EN Fired from Fujiwara Gumi, we were
+EN still allowed to use the dojo, thanks to
+EN Fujiwara and the president.
+
+@ 018
+JP 俺は今後の事を考えながら
+JP トレーニングに励んでいた。
+EN I was training hard, thinking about
+EN the future.
+
+@ 019
+JP #WS151：
+JP 「#MSさん！
+EN Ishikawa:
+EN "#MS!"
+
+@ 020
+JP #MS：
+JP 「よう。
+EN #MS:
+EN "Hey."
+
+@ 021
+JP #WS151：
+JP 「一緒に作りませんか？
+EN Ishikawa:
+EN "Want to build one with me?"
+
+@ 022
+JP #MS：
+JP 「何を？
+EN #MS:
+EN "Build what?"
+
+@ 023
+JP #WS151：
+JP 「俺達の居場所、新団体ですよ！
+EN Ishikawa:
+EN "A home for us, a new promotion!"
+
+@ 024
+JP #MS：
+JP 「えっ！？
+EN #MS:
+EN "What!?"
+
+@ 025
+JP 「お前、スポンサーでも見つかったのか？
+EN "Did you find a sponsor or
+EN  something?"
+
+@ 026
+JP #WS151：
+JP 「そんなのこれからですよ！
+JP 　まず必要なのは俺達がやるんだ、と言う
+JP 　強い気持ちじゃないですか！
+EN Ishikawa:
+EN "That comes later! First we need the
+EN  will to say 'we're doing this!' Right?"
+
+@ 027
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 028
+JP 「そうだな・・・そうだよな。
+JP 　ただ悩んでいても仕方無いよな。
+JP 　よし、やるか！
+EN "Right... you're right. No use just
+EN  worrying. All right, let's do it!"
+
+@ 029
+JP #WS151：
+JP 「やりましょう！みんなも集まってます！
+EN Ishikawa:
+EN "Let's do it! Everyone's gathering!"
+
+@ 030
+JP #MS：
+JP 「分かった！
+EN #MS:
+EN "Got it!"
+
+@ 031
+JP #WS151：
+JP 「やっと旗揚げに漕ぎ着けましたね！
+EN Ishikawa:
+EN "We finally made it to our first show!"
+
+@ 032
+JP #MS：
+JP 「そうだな。本当にお前は大した奴だよな。
+EN #MS:
+EN "Yeah. You really are something."
+
+@ 033
+JP #WS151：
+JP 「そんな事無いですよ。それよりこれからが
+JP 　本当の勝負です。頑張りましょう！
+EN Ishikawa:
+EN "Not really. Besides, the real fight
+EN  starts now. Let's give it our all!"
+
+@ 034
+JP #MS：
+JP 「おう！
+EN #MS:
+EN "You bet!"
+
+@ 035
+JP #WS151：
+JP 「#PL09、発進だ！
+EN Ishikawa:
+EN "#PL09, launch!"
+
+@ 036
+JP みんなの気持ちとは裏腹に
+JP #PL09の船出は
+JP 苦しいものとなった。
+EN Despite everyone's hopes, #PL09
+EN got off to a rough start.
+
+@ 037
+JP だがほんの少しずつだったが客足が
+JP 増えてきていた。それは他団体のリングで
+JP 闘ったのを見て興味を覚えてくれた人達だった。
+EN But bit by bit, crowds grew. People
+EN who'd seen us fight in other rings got
+EN curious.
+
+@ 038
+JP そう、希望を捨てずに頑張っていれば、
+JP いつか報われる時が来るのだ。
+EN Yes, if you never give up and keep at
+EN it, someday it pays off.
+
+@ 039
+JP #WS151：
+JP 「いよいよ今日からですね、
+JP 　ヤングレボリューションリーグ。
+EN Ishikawa:
+EN "The Young Revolution League starts
+EN  today."
+
+@ 040
+JP #MS：
+JP 「そうだな。社長業に忙しいお前や後輩達には
+JP 　負けられないからな。
+EN #MS:
+EN "Yep. I can't lose to you, with your
+EN  president job, or to the young guys."
+
+@ 041
+JP #WS151：
+JP 「俺だって『社長レスラー優勝』を
+JP 　目指してますから。
+EN Ishikawa:
+EN "I'm aiming to be the first wrestling
+EN  president to win it."
+
+@ 042
+JP 「まあでも決勝、また#MSさんと
+JP 　闘いたいですね。
+EN "But I'd love to face you in the final
+EN  again."
+
+@ 043
+JP #MS：
+JP 「ああ。お互い頑張ろう！
+EN #MS:
+EN "Yeah. Let's both give it our best!"

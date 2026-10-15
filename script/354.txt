@@ -1,0 +1,87 @@
+@ 000
+JP 坂上：
+JP 「俺は今#PS06で闘ってる！
+JP 　必ず！必ずまた来るからな！
+JP 　その時はシングルで勝負だ！
+EN Sakagami:
+EN "I'm fighting in #PS06 now! I'll be
+EN  back, count on it! And then it's
+EN  one-on-one!"
+
+@ 001
+JP 俺と坂上はしばし睨み合ってから別れた。
+EN Sakagami and I glared at each other a
+EN while, then parted.
+
+@ 002
+JP #WS151：
+JP 「この間は大変でしたね。
+EN Ishikawa:
+EN "That was crazy the other day."
+
+@ 003
+JP #MS：
+JP 「ああ、みんなには何か悪い事しちゃったな。
+EN #MS:
+EN "Yeah, I feel bad for everyone."
+
+@ 004
+JP #WS151：
+JP 「いえ、俺は盛り上がった上に
+JP 　新しい話題が出来て嬉しいですよ！
+EN Ishikawa:
+EN "Nah, the crowd went wild and we got
+EN  a new storyline. I'm thrilled!"
+
+@ 005
+JP #MS：
+JP 「そ、そうかな・・・・
+EN #MS:
+EN "O-oh, really...."
+
+@ 006
+JP #WS151：
+JP 「で、#MSさんには色々外からの
+JP 　話が来てるんですよ。
+EN Ishikawa:
+EN "So, #MS, you've been getting all
+EN  sorts of offers from outside."
+
+@ 007
+JP #MS：
+JP 「外から？
+EN #MS:
+EN "From outside?"
+
+@ 008
+JP #WS151：
+JP 「たぶんこれから忙しくなると思うんで
+JP 　今度俺とシングルやっておきましょう！
+EN Ishikawa:
+EN "You'll probably get busy, so let's
+EN  have our singles match before that!"
+
+@ 009
+JP #MS：
+JP 「え？
+EN #MS:
+EN "Huh?"
+
+@ 010
+JP #WS151：
+JP 「行きますよ！
+EN Ishikawa:
+EN "Here I come!"
+
+@ 011
+JP #MS：
+JP 「・・・・・
+EN #MS:
+EN "....."
+
+@ 012
+JP そして気がつくといつものように
+JP #WS151のペースに
+JP はまっていたのだった。
+EN Before I knew it, I'd fallen into
+EN Ishikawa's rhythm as always.

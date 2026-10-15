@@ -1,0 +1,95 @@
+@ 000
+JP #WS151：
+JP 「いやぁ、ワクワクしますねぇ！
+EN Ishikawa:
+EN "Man, I'm so excited!"
+
+@ 001
+JP #MS：
+JP 「何かお前最近いつもそう言ってるな。
+EN #MS:
+EN "You always say that lately."
+
+@ 002
+JP 「ま、今日は俺もそうだし
+JP 　みんなもそうだろうけどな。
+EN "Well, today I am too, and I bet
+EN  everyone is."
+
+@ 003
+JP そう、今日は久々の#WS150組の
+JP 自主興行なのだ。
+EN Yes, today was Fujiwara Gumi's first
+EN show of its own in ages.
+
+@ 004
+JP #WS150：
+JP 「#MS！
+EN Fujiwara:
+EN "#MS!"
+
+@ 005
+JP #MS：
+JP 「あ、#WS150さん！
+EN #MS:
+EN "Oh, Mr. Fujiwara!"
+
+@ 006
+JP #WS150：
+JP 「今日の試合、しっかり頼むぞ。
+EN Fujiwara:
+EN "I'm counting on you today."
+
+@ 007
+JP #MS：
+JP 「ええ、分かってます！
+EN #MS:
+EN "Yes, I know!"
+
+@ 008
+JP 今日はメインイベントで#WS150さんと
+JP 俺の試合があるのだ。
+EN Today's main event was Fujiwara
+EN against me.
+
+@ 009
+JP #WS150：
+JP 「じゃあな。
+EN Fujiwara:
+EN "Later."
+
+@ 010
+JP #WS151：
+JP 「何か様子が変でしたね。
+EN Ishikawa:
+EN "He seemed kind of off."
+
+@ 011
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 012
+JP #WS150：
+JP 「#MS、気合入れて来い！
+EN Fujiwara:
+EN "#MS, come at me fired up!"
+
+@ 013
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 014
+JP 確かに#WS150さんの様子が
+JP おかしい。何かあったのだろうか・・・
+EN Something really was off about
+EN Fujiwara. Did something happen...?
+
+@ 015
+JP だが俺は試合に集中する為、その思考を
+JP すぐに振り払った。
+EN But I shook off the thought to focus
+EN on the match.

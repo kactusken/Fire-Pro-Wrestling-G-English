@@ -1,0 +1,103 @@
+@ 000
+JP そんなある日の事だった。
+EN Then one day...
+
+@ 001
+JP ？：
+JP 「よう、#MS！
+EN ???:
+EN "Hey, #MS!"
+
+@ 002
+JP #MS：
+JP 「#WS149さん！？
+EN #MS:
+EN "Mr. Maeda!?"
+
+@ 003
+JP #WS149：
+JP 「久しぶりやな。
+EN Maeda:
+EN "Been a while, eh?"
+
+@ 004
+JP #MS：
+JP 「ご無沙汰してます！
+EN #MS:
+EN "It's been too long!"
+
+@ 005
+JP #WS149：
+JP 「で、どうや？ウチに来んか？
+EN Maeda:
+EN "So how 'bout it? Come with us?"
+
+@ 006
+JP #MS：
+JP 「えっ！？
+EN #MS:
+EN "What!?"
+
+@ 007
+JP #WS149：
+JP 「ゴチャゴチャやっとっても落ち着かんやろ。
+JP 　もっと腰据えて格闘に向かい合いたいと
+JP 　思わんか？
+EN Maeda:
+EN "All this chaos, you can't settle down.
+EN  Don't ya want to face fighting with
+EN  your feet planted?"
+
+@ 008
+JP #MS：
+JP 「確かに・・・・
+EN #MS:
+EN "That's true...."
+
+@ 009
+JP #WS149：
+JP 「ま、返事は急がんけどな。
+JP 　決心ついたら連絡してくれや。
+EN Maeda:
+EN "Well, no rush on an answer. Call me
+EN  when you've decided."
+
+@ 010
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes, sir."
+
+@ 011
+JP 俺は悩んだ。#PS07へ行くべきか、
+JP キャッスルへ行くべきか・・・・・
+EN I agonized. Should I go to #PS07,
+EN or to Kingdom.....
+
+@ 012
+JP そしてようやく、結論を出した。
+EN At last, I made up my mind.
+
+@ 013
+JP #MS：
+JP 「済みません！
+EN #MS:
+EN "Excuse me!"
+
+@ 014
+JP #WS149：
+JP 「おっ、来たか！
+EN Maeda:
+EN "Oh, here ya are!"
+
+@ 015
+JP #MS：
+JP 「はい！お世話になりたいと思います！
+EN #MS:
+EN "Yes! I'd like to join you!"
+
+@ 016
+JP #WS149：
+JP 「そうか・・・よし！
+EN Maeda:
+EN "Is that so... All right!"

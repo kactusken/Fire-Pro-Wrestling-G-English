@@ -1,0 +1,50 @@
+@ 000
+JP #WS035：
+JP 「・・・・・・・
+EN Goto:
+EN "......."
+
+@ 001
+JP あの大会後、#PS00の
+JP もう一つの反体制軍団の
+JP 倒幕軍が白羽の矢を俺に向けて来た。
+EN After that show, Heisei Ishingun,
+EN #PS00's other rebel faction, set
+EN their sights on me.
+
+@ 002
+JP この団体で話題の中心になっている
+JP 俺と絡んで、めっきり存在感の無くなった
+JP 倒幕軍を盛り上げるつもりだろう。
+EN Feuding with me, the talk of the
+EN company, would put the faded Heisei
+EN Ishingun back on the map.
+
+@ 003
+JP #MS：
+JP 「悪いけどな！俺はお前らみたいな
+JP 　存在感の無いのとやってる暇は無ぇんだよ！
+EN #MS:
+EN "Sorry, pal! I don't have time for
+EN  nobodies like you!"
+
+@ 004
+JP #WS035：
+JP 「何ぃっ！？
+EN Goto:
+EN "What!?"
+
+@ 005
+JP #MS：
+JP 「若手の踏み台に成り下がった奴には
+JP 　興味も無いし用も無いって事だよ！
+EN #MS:
+EN "I've got no interest in guys who got
+EN  reduced to stepping stones for
+EN  rookies!"
+
+@ 006
+JP #WS035：
+JP 「言わせておけば！後悔させてやる！
+EN Goto:
+EN "Keep talking! I'll make you regret it!"

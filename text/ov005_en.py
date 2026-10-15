@@ -1,0 +1,26 @@
+# Overlay 005 (logo / CG paint editor, its text-entry labels) translations.
+# JP text -> EN, applied to text/ov005.txt by tools/fill_text.py.
+EN = {
+    "左右反転": "Flip H",
+    "上下反転": "Flip V",
+    "サンプルＣＧロード": "Load Sample",
+    "消去": "Clear",
+    "取り消し": "Undo",
+    "ズーム": "Zoom",
+    "コピー": "Copy",
+    "塗りつぶし": "Fill",
+    "文字入力": "Text",
+    "ボックスフィル": "Box Fill",
+    "ボックス": "Box",
+    "ライン": "Line",
+    "ペン": "Pen",
+    "終了": "Exit",
+    "ＹＥＳ": "YES",
+    "ＮＯ": "NO",
+    "決定": "OK",
+    "記号": "!#",
+    "英数字": "ABC",
+    "漢字": "Kanji",
+    "カタカナ": "Kata",
+    "ひらがな": "Hira",
+}

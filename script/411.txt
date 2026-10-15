@@ -1,0 +1,123 @@
+@ 000
+JP #WS113：
+JP 「驚いたなんてもんじゃないよ、全く。
+EN Ultimo:
+EN "'Surprised' doesn't even cover it."
+
+@ 001
+JP #MS：
+JP 「まあ、本人も驚いてますから・・・・
+EN #MS:
+EN "Well, I'm surprised too...."
+
+@ 002
+JP #WS113：
+JP 「お前がブラックＦＷＯ入りか。
+JP 　本当に信じられないよ。
+EN Ultimo:
+EN "You, in nWo Hollywood. I really can't
+EN  believe it."
+
+@ 003
+JP 「ただこうなった以上、力つけてかないと
+JP 　置いてかれちまうぞ。
+EN "But now that it's happened, you've
+EN  got to get stronger or get left
+EN  behind."
+
+@ 004
+JP #MS：
+JP 「そうですね。
+JP 　今まで以上に頑張りますよ！
+EN #MS:
+EN "Right. I'll work harder than ever!"
+
+@ 005
+JP #WS113：
+JP 「そうそう、それと#WS010が
+JP 　日本に帰ったよ。
+EN Ultimo:
+EN "Oh yeah, and Nagata went back to
+EN  Japan."
+
+@ 006
+JP #MS：
+JP 「え？
+EN #MS:
+EN "Huh?"
+
+@ 007
+JP #WS113：
+JP 「お前によろしくってさ。
+EN Ultimo:
+EN "He said to tell you goodbye."
+
+@ 008
+JP #MS：
+JP 「よろしくって・・・・
+JP 　そんな事全然聞いてなかったですよ？
+EN #MS:
+EN "Goodbye...? He never said a word to
+EN  me!"
+
+@ 009
+JP #WS113：
+JP 「ああ。俺も直前に言われたからな。
+EN Ultimo:
+EN "Yeah. He only told me at the last
+EN  minute too."
+
+@ 010
+JP #MS：
+JP 「それならそうと言っておけばいいものを。
+JP 　そうすれば最後にもう１回スパーリングでも
+JP 　してやったのにな・・・・
+EN #MS:
+EN "He should've told me. I'd have
+EN  sparred with him one last time...."
+
+@ 011
+JP #WS113：
+JP 「まあその内また会えるさ。
+EN Ultimo:
+EN "Eh, you'll see him again someday."
+
+@ 012
+JP #MS：
+JP 「そうですね・・・・・
+EN #MS:
+EN "Yeah...."
+
+@ 013
+JP 今日の相手は#PS00で
+JP ジュニアヘビー級の選手として活躍していた
+JP #WF111。
+EN Today's opponent is Chris Benoit, who
+EN made his name as a junior
+EN heavyweight in #PS00.
+
+@ 014
+JP 最近では#WF110の
+JP フォー・ナイツのエース格として
+JP ヘビー級戦線で闘っている。
+EN Lately he's been fighting
+EN heavyweights as a top gun of Ric
+EN Flair's Four Horsemen.
+
+@ 015
+JP #WS111：
+JP 「・・・・・・・
+EN Benoit:
+EN "......."
+
+@ 016
+JP ジュニアヘビーの体格とは言え、
+JP 相手にとって不足は無い。
+EN He may have a junior's build, but he's
+EN a worthy opponent.
+
+@ 017
+JP #MS：
+JP 「行くぞ！
+EN #MS:
+EN "Let's go!"

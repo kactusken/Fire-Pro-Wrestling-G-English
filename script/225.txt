@@ -1,0 +1,94 @@
+@ 000
+JP 俺はいつものように試合前の
+JP ウォーミングアップをしていた。
+EN As usual, I was warming up before my
+EN match.
+
+@ 001
+JP ん？
+EN Hm?
+
+@ 002
+JP 何だ？凄い沸きようだな・・・・
+EN What's that? The crowd's going
+EN nuts....
+
+@ 003
+JP #WS088：
+JP 「大変だ！#PS00の坂上とか言うのが
+JP 　リングを占拠してるんだ！
+EN Fuji:
+EN "Trouble! Some guy from #PS00
+EN  called Sakagami has taken over the
+EN  ring!"
+
+@ 004
+JP #MS：
+JP 「坂上が！？
+EN #MS:
+EN "Sakagami!?"
+
+@ 005
+JP #WS088：
+JP 「お前の名前連呼してるぞ！
+EN Fuji:
+EN "He's calling out your name!"
+
+@ 006
+JP 俺は会場に向かって走り出していた。
+EN I was already running for the arena.
+
+@ 007
+JP リング上は大変な騒ぎになっていた。
+EN The ring was in total chaos.
+
+@ 008
+JP 正規軍だけでなくノーリストリクトの
+JP 面々までが出て来て、困惑の表情を
+JP 浮かべたまま睨み合っている。
+EN The regulars and even Team No
+EN Respect had come out, staring each
+EN other down with puzzled looks.
+
+@ 009
+JP 坂上：
+JP 「来たか、#MS！
+JP 　約束を果たす為に、
+JP 　こっちから来てやったぞ！
+EN Sakagami:
+EN "There you are, #MS! I came to
+EN  you, to keep our promise!"
+
+@ 010
+JP #MS：
+JP 「坂上・・・・
+EN #MS:
+EN "Sakagami...."
+
+@ 011
+JP 俺の頬に衝撃が走った。
+EN A shock ran across my cheek.
+
+@ 012
+JP 坂上：
+JP 「勝負だ、このヤロー！
+EN Sakagami:
+EN "Fight me, you bastard!"
+
+@ 013
+JP 俺もすかさず張り返した。
+EN I slapped him right back.
+
+@ 014
+JP #MS：
+JP 「上等だ！やってやるよ！
+EN #MS:
+EN "You're on! Let's do this!"
+
+@ 015
+JP 急きょ、坂上・#WS035組対
+JP 俺と#WS070さんのタッグマッチが
+JP 行われる事になった。
+EN Just like that, a tag match was set,
+EN Sakagami and Goto vs. me and Mr.
+EN Ohya.

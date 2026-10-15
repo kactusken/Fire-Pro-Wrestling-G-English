@@ -1,0 +1,143 @@
+@ 000
+JP 『すばる杯』での俺の最後の試合、
+JP #WS046戦は時間切れ引き分けの
+JP ドローに終わった。
+EN My last Asunaro Cup match, against
+EN Omori, ended in a time-limit draw.
+
+@ 001
+JP この試合自体は盛り上がったが、総合結果は
+JP #WS046の２勝０敗１引き分けでの
+JP 優勝が決まった。
+EN The match was a hit, but overall,
+EN Omori took the Cup with two wins, no
+EN losses and a draw.
+
+@ 002
+JP #MS：
+JP 「はぁ・・・
+EN #MS:
+EN "Sigh..."
+
+@ 003
+JP #WS059：
+JP 「#MS、いるか？
+EN Baba:
+EN "#MS, you here?"
+
+@ 004
+JP #MS：
+JP 「あ、#WS059社長！
+JP 　何かあったんですか？
+EN #MS:
+EN "Oh, Mr. Baba! Is something up?"
+
+@ 005
+JP #WS059：
+JP 「急な話なんだが、お前
+JP 　#WF094とシングル
+JP 　やってくれ。
+EN Baba:
+EN "It's short notice, but I want you to
+EN  face Jinsei Shinzaki one-on-one."
+
+@ 006
+JP #MS：
+JP 「#WF094、ですか？
+EN #MS:
+EN "Jinsei Shinzaki?"
+
+@ 007
+JP #WS059：
+JP 「ああ。本当はタッグの予定だったんだが
+JP 　パートナーの方がケガしちまったらしくてな。
+EN Baba:
+EN "Yeah. It was meant to be a tag, but
+EN  his partner got hurt."
+
+@ 008
+JP #MS：
+JP 「分かりました、やらせてもらいます！
+EN #MS:
+EN "Understood. I'll do it!"
+
+@ 009
+JP #WS059：
+JP 「任せたぞ。
+EN Baba:
+EN "It's in your hands."
+
+@ 010
+JP #WS043：
+JP 「#WS094とシングルだって？
+EN Taue:
+EN "You've got Shinzaki in a single?"
+
+@ 011
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 012
+JP #WS043：
+JP 「前によ、衛星放送で見たら、
+JP 　なかなか強かったぞ。俺よりは弱いけど。
+EN Taue:
+EN "I saw him on satellite TV a while
+EN  back. He's pretty tough. Not as tough
+EN  as me, though."
+
+@ 013
+JP #MS：
+JP 「実力者らしいですね。
+EN #MS:
+EN "I hear he's the real deal."
+
+@ 014
+JP #WS043：
+JP 「ま、頑張れよ。それなりに。
+EN Taue:
+EN "Well, do your best. Within reason."
+
+@ 015
+JP #MS：
+JP 「ありがとうございます！
+EN #MS:
+EN "Thank you, sir!"
+
+@ 016
+JP 今まで他団体との交流をかたくなに拒否してきた
+JP #PS01の重い扉が
+JP 徐々に開き始めたのだ。
+EN #PS01 had stubbornly refused to
+EN work with other promotions. Now that
+EN heavy door was slowly opening.
+
+@ 017
+JP それにしても#WS043さん、
+JP 何しに来たんだろ？
+EN Still, what did Taue even come here
+EN for?
+
+@ 018
+JP #WS094：
+JP 「・・・・・・
+EN Shinzaki:
+EN "......"
+
+@ 019
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 020
+JP お、拝まれてもな・・・・
+EN P-Praying at me won't help...
+
+@ 021
+JP とりあえず気を取りなおして
+JP 試合に臨む事にした。
+EN I pulled myself together and got ready
+EN for the match.

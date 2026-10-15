@@ -1,0 +1,235 @@
+@ 000
+JP この日#WS071軍とＪＥＮの、
+JP 互いの軍団解散を賭けた
+JP タッグマッチが行われた。
+EN That day, the Fuyuki-gun and ZEN
+EN had a tag match with each group's
+EN breakup on the line.
+
+@ 001
+JP カードは
+JP #WS076・#WS072組対
+JP #WS071・#WS075組だ。
+EN The card: Onita and Yamakawa vs.
+EN Fuyuki and Kanemura.
+
+@ 002
+JP 俺は控え室のモニターで
+JP 戦況を見つめていた。
+EN I watched the match on the locker
+EN room monitor.
+
+@ 003
+JP #WS088：
+JP 「さて、どういう結果になるか・・・
+EN Fuji:
+EN "Well, let's see how this turns out..."
+
+@ 004
+JP #MS：
+JP 「はい・・・
+EN #MS:
+EN "Yeah..."
+
+@ 005
+JP この試合は今後に様々な影響を
+JP 与えるだろう。
+EN This match was going to have all
+EN kinds of fallout.
+
+@ 006
+JP 結果は・・・
+EN The result...
+
+@ 007
+JP #WS088：
+JP 「#WS072の奴裏切りやがった！
+EN Fuji:
+EN "Yamakawa turned on him!"
+
+@ 008
+JP #WS076さんを
+JP ３人でメッタ打ちにしたのだ。
+EN The three of them beat Onita to a
+EN pulp.
+
+@ 009
+JP 言うまでも無くＪＥＮは負けた。
+EN Needless to say, ZEN lost.
+
+@ 010
+JP #WS088：
+JP 「#WS076さんも終ったな・・・
+EN Fuji:
+EN "That's the end of Onita..."
+
+@ 011
+JP 当然ＪＥＮは公約どおり解散した。
+EN As promised, ZEN disbanded.
+
+@ 012
+JP やがて#PS02は新機構の導入を決定。
+JP #WS071軍はノーリストリクトと改名し、
+JP 正規軍はチーム『ファイヤーバード』を結成。
+EN #PS02 then restructured. The
+EN Fuyuki-gun became Team No
+EN Respect, the regulars Team Firebird.
+
+@ 013
+JP そして#WS076さんが新たに編成した
+JP チームＺＥＲＵを加えた３チームによる
+JP 抗争が新たにスタートしたのだ。
+EN With the new Team Zero that Onita
+EN put together, a three-way team war
+EN began.
+
+@ 014
+JP 何故か俺はその結果が残念でならなかった。
+JP 邪魔者であったあの人が消えてくれそう
+JP だと言うのに・・・・
+EN Somehow, the outcome left me feeling
+EN bitter. Even though the man in our
+EN way was finally leaving...
+
+@ 015
+JP それは#WS076さんの復帰した気持ちが
+JP 何と無く分かりかけていたからなのだろうか。
+EN Maybe it was because I was starting
+EN to understand why he'd come back.
+
+@ 016
+JP 気がつくと俺は
+JP #WS076さんのところへ向かっていた。
+EN Before I knew it, I was heading to see
+EN Onita.
+
+@ 017
+JP #WS076：
+JP 「・・・・・・・・
+EN Onita:
+EN "........"
+
+@ 018
+JP #MS：
+JP 「#WS076さん！
+EN #MS:
+EN "Mr. Onita!"
+
+@ 019
+JP 「観客動員数が落ち込んだ
+JP 　#PS02を救う為の、
+JP 　誰よりも愛しているが故の復帰。
+EN "You came back to save #PS02 as
+EN  the crowds dried up, because you
+EN  love it more than anyone."
+
+@ 020
+JP 「例え自分が罵声を浴びる事になっても、
+JP 　ウソつきと蔑まれてもいい。それでお客が
+JP 　少しでも入るなら・・・・
+EN "Even if you got jeered and called a
+EN  liar. As long as it put a few more fans
+EN  in seats...."
+
+@ 021
+JP #WS076：
+JP 「・・・・・・・・・
+EN Onita:
+EN "........."
+
+@ 022
+JP #MS：
+JP 「違いますか？
+EN #MS:
+EN "Am I wrong?"
+
+@ 023
+JP #WS076：
+JP 「何の事だかさっぱり分からんよ。
+JP 　だがもしそんな事を考えた奴がいれば・・・
+EN Onita:
+EN "No idea what you're talkin' about.
+EN  But if anybody did think that way..."
+
+@ 024
+JP 「気づいてくれた奴が１人でもいた事を
+JP 　何よりうれしく感じるだろうな。
+EN "Knowing even one person caught on
+EN  would make him happier than
+EN  anything."
+
+@ 025
+JP #MS：
+JP 「俺は#WS076さんと
+JP 　一緒に頑張りたいんです！
+EN #MS:
+EN "I want to fight alongside you, Mr.
+EN  Onita!"
+
+@ 026
+JP #WS076：
+JP 「・・・・・・・・
+EN Onita:
+EN "........"
+
+@ 027
+JP 「ワシはウソつきじゃ！ファンも、マスコミも、
+JP 　レスラーも、みんな敵じゃ！
+JP 　それでもワシに、付いて来るのか！
+EN "I'm a liar! The fans, the press, the
+EN  wrestlers, they're all my enemies! You
+EN  still wanna follow me!?"
+
+@ 028
+JP 「出来るのか！出来るのかお前に！
+JP 　全てを敵に回す事になるんじゃ！
+JP 　それでも、それでも出来るのか！
+EN "Can you do it!? Can you!? You'll
+EN  make enemies of everyone! Can you
+EN  still do it!?"
+
+@ 029
+JP #MS：
+JP 「覚悟は出来てます！
+EN #MS:
+EN "I'm ready!"
+
+@ 030
+JP 俺の頬に痛みが走る。
+EN A slap stung my cheek.
+
+@ 031
+JP #WS076：
+JP 「よぉし！やるぞ、#MS！
+JP 　邪道の魂、見せつけてやるんじゃ！
+EN Onita:
+EN "All right! Let's do this, #MS!
+EN  We'll show 'em the outlaw soul!"
+
+@ 032
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 033
+JP やがて#PS02は新機構の導入を決定。
+JP #WS071軍はノーリストリクトと改名し、
+JP 正規軍はチーム『ファイヤーバード』を結成。
+EN #PS02 then restructured. The
+EN Fuyuki-gun became Team No
+EN Respect, the regulars Team Firebird.
+
+@ 034
+JP 俺達は#WS076さんを旗頭に、
+JP 新たに編成したチームＺＥＲＵとして
+JP やって行く事になった。
+EN We would carry on as the newly
+EN formed Team Zero, with Onita as our
+EN standard-bearer.
+
+@ 035
+JP こうして３チームによる抗争が
+JP 今再びスタートしたのだ。
+EN And so the three-team war started up
+EN once more.

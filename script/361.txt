@@ -1,0 +1,137 @@
+@ 000
+JP 歓声は鳴り止まない。
+JP 満員の観客たちから俺と坂上へのコールが
+JP 大合唱となり会場が揺れている。
+EN The cheers won't stop. The packed
+EN crowd chants for me and Sakagami,
+EN shaking the whole arena.
+
+@ 001
+JP 坂上：
+JP 「#PS09魂、見せてもらったよ。
+JP 　良くそこまで強くなったな。
+EN Sakagami:
+EN "You showed me #PS09's soul. You
+EN  got really strong."
+
+@ 002
+JP 「小さな団体だけに、そこまで辿り着くには
+JP 　色々と苦労しただろう。
+EN "Getting this far with a small
+EN  promotion must have been rough."
+
+@ 003
+JP #MS：
+JP 「確かに色々あったけど、
+JP 　苦労だとは思わなかったよ。
+JP 　ウチには凄い社長がいるんでね。
+EN #MS:
+EN "Sure, a lot happened, but it never felt
+EN  rough. We've got an amazing
+EN  president."
+
+@ 004
+JP 「それに色々やった分、勉強にもなったしな。
+EN "And I learned a lot from doing so
+EN  many things."
+
+@ 005
+JP 坂上：
+JP 「フフ・・・逞しくなった、って訳だ。
+EN Sakagami:
+EN "Heh... so you got tougher."
+
+@ 006
+JP #MS：
+JP 「お前もアメリカ渡り歩いて今や
+JP 　#PS06でトップスターだろ？
+JP 　大したもんだよ。
+EN #MS:
+EN "And you bounced around America,
+EN  and now you're a top star in
+EN  #PS06. Impressive."
+
+@ 007
+JP 坂上：
+JP 「ハハハ・・・こうして考えると俺達
+JP 　良くこうして試合が出来たよな。
+EN Sakagami:
+EN "Ha ha ha... when you think about it,
+EN  it's amazing we got to have this
+EN  match at all."
+
+@ 008
+JP #MS：
+JP 「ハハハ、確かにそうだな。
+EN #MS:
+EN "Ha ha, that's true."
+
+@ 009
+JP 坂上：
+JP 「また・・・・
+EN Sakagami:
+EN "Let's...."
+
+@ 010
+JP 「またいつか、闘いたいな。
+EN "Let's fight again someday."
+
+@ 011
+JP #MS：
+JP 「おう、必ずまたやろうぜ！
+EN #MS:
+EN "You bet. We'll do it again, for sure!"
+
+@ 012
+JP 会場からは惜しみ無い拍手が
+JP 送られ続けた・・・・・
+EN The arena kept up its generous
+EN applause.....
+
+@ 013
+JP 多くのインディー団体が潰れて行く中
+JP #PL09だけは
+JP 潰れるどころか益々勢いを増して行った。
+EN As indie after indie went under,
+EN #PL09 alone kept gaining
+EN momentum.
+
+@ 014
+JP #WS151社長もその発想や行動力から、
+JP ファンをあっと驚かせるような
+JP 事を次々と仕掛けて行った。
+EN With his ideas and drive, President
+EN Ishikawa pulled off one stunt after
+EN another to amaze the fans.
+
+@ 015
+JP そしてその仕掛けを実行する中核となったのが
+JP #MFである。
+EN And the man at the heart of those
+EN stunts was #MF.
+
+@ 016
+JP #MS：
+JP 「・・・・・まさか本当に
+JP 　引っ張り出して来るとはなぁ・・・・
+EN #MS:
+EN "..... Can't believe you actually
+EN  dragged him out here...."
+
+@ 017
+JP #WS151：
+JP 「苦労したんですから、頑張って下さいよ！
+EN Ishikawa:
+EN "It wasn't easy, so give it your all!"
+
+@ 018
+JP #MS：
+JP 「分かってるよ。
+EN #MS:
+EN "I know."
+
+@ 019
+JP #MS：
+JP 「行くぜ！
+EN #MS:
+EN "Let's go!"

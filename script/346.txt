@@ -1,0 +1,21 @@
+@ 000
+JP #WS151：
+JP 「今日は勝ちますよ。この試合の勝敗が
+JP 　決勝進出に大きく影響するでしょうからね。
+EN Ishikawa:
+EN "I'm winning today. This one will go a
+EN  long way toward deciding the final."
+
+@ 001
+JP #MS：
+JP 「それはこっちも同じ事だ。俺にとっても
+JP 　負けられない１戦だからな。
+EN #MS:
+EN "Same goes for me. I can't afford to
+EN  lose this one either."
+
+@ 002
+JP #WS151：
+JP 「行きますよ！
+EN Ishikawa:
+EN "Here I come!"

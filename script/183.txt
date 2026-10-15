@@ -1,0 +1,73 @@
+@ 000
+JP チーム『ノーリストリクト』として
+JP 最初の試合は正規軍とのタッグマッチだ。
+EN Our first match as Team No Respect: a
+EN tag bout against the regulars.
+
+@ 001
+JP #MS：
+JP 「オイオイオイ！始める前からお通夜みたいな
+JP 　顔してんじゃねぇぞ！
+EN #MS:
+EN "Hey, hey, hey! Don't look like you're
+EN  at a funeral before we even start!"
+
+@ 002
+JP #WS068：
+JP 「・・・・・・・・
+EN Hayabusa:
+EN "........"
+
+@ 003
+JP #MS：
+JP 「それとおい！そこのチビ！
+JP 　白星配給係ご苦労さん。
+JP 　今日もよろしく頼むぜ！
+EN #MS:
+EN "And hey! You, shorty! Thanks for
+EN  always handing out free wins. Count
+EN  on you again today!"
+
+@ 004
+JP #WS088：
+JP 「何だと！？
+EN Fuji:
+EN "What!?"
+
+@ 005
+JP 「言いやがったなこのヤロー！
+EN "You've got some nerve, you jerk!"
+
+@ 006
+JP #MS：
+JP 「あんたのお陰で俺達はやり易くて
+JP 　とっても助かってるんだよ！
+EN #MS:
+EN "You make things so easy for us. We
+EN  really appreciate it!"
+
+@ 007
+JP #WS088：
+JP 「ヘイ！あんまり他人をなめてると
+JP 　痛い目見るぜ！
+EN Fuji:
+EN "Hey! Look down on people too much
+EN  and you'll get hurt!"
+
+@ 008
+JP #MS：
+JP 「確かにあんたが痛い目見るかもな。
+EN #MS:
+EN "Yeah, you might get hurt, all right."
+
+@ 009
+JP #WS088：
+JP 「こいつ、どこまでも！
+EN Fuji:
+EN "Why, you little...!"
+
+@ 010
+JP #WS074：
+JP 「頼むぜ、兄弟！
+EN Jado:
+EN "Count on ya, brother!"

@@ -1,0 +1,53 @@
+@ 000
+JP 交流戦は各関係者からの評価も良く、
+JP 次々に試合が行われ、ドラマも生まれた。
+JP 次第に上位陣同士の試合も増えて行き・・・
+EN The series got great reviews. Match
+EN after match, drama was born, and
+EN more top guys started facing off...
+
+@ 001
+JP そして今、俺は夢の試合が待つ
+JP リングに向かって歩いている。
+EN And now I'm walking to the ring
+EN where my dream match awaits.
+
+@ 002
+JP #WS165：
+JP 「ＵＷＨの時に見た若いのがこんなに
+JP 　成長しているとはね。
+EN Takada:
+EN "That kid I saw in UWF has grown
+EN  this much, huh."
+
+@ 003
+JP 「今日はお前があれから歩んで来た道のりを、
+JP 　お前の生き様を俺にぶつけて来い！
+EN "Today, throw everything you've
+EN  lived since then right at me!"
+
+@ 004
+JP #MS：
+JP 「始めからからそのつもりです。
+JP 　お世話になったけど道の別れてしまった先輩に
+JP 　今こそ恩返しをしたい・・・・
+EN #MS:
+EN "That was my plan all along. You
+EN  helped me, then our paths split. Now I
+EN  want to repay you...."
+
+@ 005
+JP 「あなたを越える事で！
+EN "By surpassing you!"
+
+@ 006
+JP #WS165：
+JP 「よし、来い！
+EN Takada:
+EN "All right, come on!"
+
+@ 007
+JP #MS：
+JP 「行きます！
+EN #MS:
+EN "Here I come!"

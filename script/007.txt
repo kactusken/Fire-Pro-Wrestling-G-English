@@ -1,0 +1,162 @@
+@ 000
+JP デビュー以来多くの試合をこなし、
+JP 俺はヤングタイガーの中でも
+JP それなりに注目されるようになってきた。
+EN I'd had plenty of matches since my
+EN debut, and was starting to get noticed
+EN among the Young Lions.
+
+@ 001
+JP そんなある日、俺は
+JP #WS013さんから呼び出しを受けた。
+EN Then one day I was called in by
+EN Choshu.
+
+@ 002
+JP #MS：
+JP 「海外遠征、ですか。
+EN #MS:
+EN "An overseas tour?"
+
+@ 003
+JP #WS013：
+JP 「おう。最近頑張ってるようだからな。
+JP 　上の連中の方でも話が出たよ。
+JP 　行くだろう？
+EN Choshu:
+EN "Yep. You've been working hard. The
+EN  higher-ups brought it up. You'll go,
+EN  right?"
+
+@ 004
+JP #MS：
+JP 「もちろん、行かせてもらいます！
+EN #MS:
+EN "Of course, I'd love to!"
+
+@ 005
+JP #PS00のレスラーは、
+JP 必ずと言っていいほど海外遠征をする。
+EN #PS00 wrestlers almost always go
+EN on an overseas tour.
+
+@ 006
+JP 違った国、違ったリングで今までに無い
+JP 経験を積み、一回りも二回りも成長するためだ。
+EN New countries, new rings: to gain new
+EN experience and grow by leaps and
+EN bounds.
+
+@ 007
+JP 最近では#WS029が凱旋帰国後あっと言う間に
+JP トップグループに自分の地位を築いた。
+EN Recently, Tenzan came home in
+EN triumph and shot straight into the top
+EN group.
+
+@ 008
+JP この遠征はチャンスであり、
+JP 将来を左右する重要なものになるだろう。
+EN This tour is a chance, and could shape
+EN my whole future.
+
+@ 009
+JP #WS013：
+JP 「行き先は２、３日したら決定する。
+JP 　そうしたら連絡するから、支度だけ
+JP 　済ませておいてくれ。
+EN Choshu:
+EN "Where you're going gets decided in a
+EN  couple of days. I'll call you then, so
+EN  just get yourself packed."
+
+@ 010
+JP #MS：
+JP 「分かりました。
+EN #MS:
+EN "Understood."
+
+@ 011
+JP そして俺の遠征先は
+JP アメリカの#PS05に決定した。
+EN And my tour was set for #PS05 in
+EN America.
+
+@ 012
+JP アメリカに着いた俺は観光をする暇もなく、
+JP トレーニングを開始しなければならなかった。
+EN Once I got to America there was no
+EN time for sightseeing. I had to start
+EN training.
+
+@ 013
+JP 明日は早速アメリカでの
+JP 初試合が予定されているからだ。
+EN Because my first match in America
+EN was set for tomorrow.
+
+@ 014
+JP まさかお目見え試合の相手が
+JP この人だとは思わなかった。
+EN I never imagined my first opponent
+EN would be him.
+
+@ 015
+JP #WF103。
+JP 押しも押されぬ#PS05の
+JP トップスター。
+EN Sting. The undisputed top star of
+EN #PS05.
+
+@ 016
+JP プレッシャーも大きいがチャンスだ！
+EN The pressure's huge, but it's a chance!
+
+@ 017
+JP #WS103：
+JP 「ヘイ！ユーは、あの
+JP 　#WS028の後輩か？
+EN Sting:
+EN "Hey! Are you one of Mutoh's
+EN  juniors?"
+
+@ 018
+JP #WS028さんは
+JP ここのマットで人気を得て帰国後、
+JP #PS00のトップになった。
+EN Mutoh got popular on this mat, and
+EN after going home he became a top star
+EN in #PS00.
+
+@ 019
+JP しかもこの#WS103とは
+JP 最高のライバル同士だったのだ。
+EN And he and Sting were the greatest of
+EN rivals.
+
+@ 020
+JP #WS103：
+JP 「ユーもあのぐらい生きが良いといいがな。
+JP 　頼むぜ、ヤングボーイ。
+EN Sting:
+EN "Hope you're as lively as he was. Don't
+EN  let me down, young boy."
+
+@ 021
+JP #MS：
+JP 「いくらトップスターが相手でも、
+JP 　ナメられて引き下がる訳には行かない！
+EN #MS:
+EN "Top star or not, I can't back down
+EN  and let him look down on me!"
+
+@ 022
+JP 「俺の全てをぶつけてやる！
+EN "I'll throw everything I've got at
+EN  him!"
+
+@ 023
+JP #WS103：
+JP 「ＯＫ、そう来なくちゃな。
+EN Sting:
+EN "OK, that's what I like to hear."

@@ -1,0 +1,63 @@
+@ 000
+JP ディンク：
+JP 「会社的にもユーを売って行く事になった。
+EN McMahon:
+EN "The company has decided to push
+EN  you."
+
+@ 001
+JP #MS：
+JP 「え？
+EN #MS:
+EN "Huh?"
+
+@ 002
+JP ディンク：
+JP 「思っていたよりも客ウケが良くてな。
+JP 　#WS123のような格闘系路線で
+JP 　このまま行ってもらう。
+EN McMahon:
+EN "The crowd likes you more than I
+EN  expected. You'll stay a shooter type,
+EN  like Shamrock."
+
+@ 003
+JP #MS：
+JP 「本当ですか？
+EN #MS:
+EN "Really?"
+
+@ 004
+JP ディンク：
+JP 「嘘など言わんよ。これからユーには
+JP 　#WS123と#WS124の抗争に
+JP 　割って入ってもらう。
+EN McMahon:
+EN "I don't lie. From now on, you'll butt
+EN  into the feud between Shamrock and
+EN  Severn."
+
+@ 005
+JP 「サイドストーリーのプロットが書いてある。
+JP 　これを良く読んでおいてくれ。
+EN "Here's the plot for the side story.
+EN  Read it carefully."
+
+@ 006
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 007
+JP 俺はこれから#WS124と#WS123と
+JP 言う、グルーサムファイトの創成期に活躍した
+JP レスラーと闘って行くのだ。
+EN Now I'd take on Severn and Shamrock,
+EN stars from the early days of gruesome
+EN fighting.
+
+@ 008
+JP 俺は念入りにストレッチをして試合に備えた。
+EN I stretched carefully to get ready for
+EN the match.

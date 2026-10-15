@@ -1,0 +1,132 @@
+@ 000
+JP 俺は歓声に包まれていた。そう、俺は
+JP #WS149さん以外で初めて、
+JP #WS145に土をつけたのだ。
+EN Cheers surrounded me. That's right, I
+EN was the first besides Mr. Maeda to
+EN hand Volk Han a loss.
+
+@ 001
+JP #WS145：
+JP 「フフフ、やられたよ。決勝で
+JP 　ミスター#WS149に借りを返そうと
+JP 　思っていたのに、更に負債を抱えてしまった。
+EN Han:
+EN "Heh heh, you got me. I meant to
+EN  repay Mister Maeda in the final, and
+EN  now I owe even more."
+
+@ 002
+JP #MS：
+JP 「#WS145さん・・・
+EN #MS:
+EN "Mr. Han..."
+
+@ 003
+JP #WS145：
+JP 「この借りはまた次に返すとして、
+JP 　ミスター#WS149との決勝、
+JP 　頑張ってくれ。私も楽しみにしているよ。
+EN Han:
+EN "I'll repay this debt another time.
+EN  Good luck in the final with Mister
+EN  Maeda. I'll be watching."
+
+@ 004
+JP #MS：
+JP 「ええ。頑張りますよ。ここまでに倒して来た
+JP 　みんなの分まで・・・・
+EN #MS:
+EN "Yes. I'll do my best. For everyone I
+EN  beat to get here...."
+
+@ 005
+JP 次の日、#WS149さんと
+JP 食事に行った帰り・・・・
+EN The next day, on the way back from
+EN dinner with Mr. Maeda....
+
+@ 006
+JP #WS149：
+JP 「まさか本当に勝ち抜いて来るとは
+JP 　思わんかった。大したモンや。
+EN Maeda:
+EN "Never thought you'd really win your
+EN  way through. That's somethin'."
+
+@ 007
+JP #MS：
+JP 「そうですね・・・正直#WS145さんには
+JP 　負けるかと思いましたよ。
+JP 　でも研究した甲斐があって何とか・・・・
+EN #MS:
+EN "Yeah... Honestly I thought I'd lose to
+EN  Han. But my homework paid off,
+EN  somehow...."
+
+@ 008
+JP #WS149：
+JP 「あいつのテクはマジックやからな。
+JP 　ホンマ、ようやった。
+JP 　これで日本人による決勝の実現や。
+EN Maeda:
+EN "His technique's like magic. Ya really
+EN  did good. Now it's an all-Japanese
+EN  final."
+
+@ 009
+JP #MS：
+JP 「ええ。
+EN #MS:
+EN "Yes."
+
+@ 010
+JP #WS149：
+JP 「それでお前に言っておきたい事がある。
+EN Maeda:
+EN "So there's somethin' I wanna tell ya."
+
+@ 011
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes, sir."
+
+@ 012
+JP #WS149：
+JP 「ええか、死ぬ気でかかって来い。決勝戦と
+JP 　言う事は、その闘いが現在の#PS07の
+JP 　全てを表す、と言う事や。
+EN Maeda:
+EN "Listen, come at me like your life's on
+EN  it. The final shows the world
+EN  everything #PS07 is right now."
+
+@ 013
+JP 「ヘタな試合は出来へん。お前が
+JP 　不甲斐無い試合するようやったら
+JP 　遠慮無く叩き潰す。覚悟しとけや。
+EN "No sloppy matches. If you put on a
+EN  weak showing, I won't hold back. I'll
+EN  crush ya. Be ready."
+
+@ 014
+JP #MS：
+JP 「じゃあ#WS149さんが不甲斐無かったら、
+JP 　俺が叩き潰しますよ！
+EN #MS:
+EN "Then if you're the weak one, Mr.
+EN  Maeda, I'll crush you!"
+
+@ 015
+JP #WS149：
+JP 「・・・・・フッ、よう言った。
+JP 　その心意気、試合の最中も忘れんなよ！
+EN Maeda:
+EN "....Heh, well said. Don't forget that
+EN  spirit in the middle of the match!"
+
+@ 016
+JP そしてトーナメント決勝戦の日がやって来た。
+EN And the day of the tournament final
+EN arrived.

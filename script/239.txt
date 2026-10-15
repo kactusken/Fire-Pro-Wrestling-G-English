@@ -1,0 +1,105 @@
+@ 000
+JP #WS033との
+JP 試合後控え室に戻ろうとした時だった。
+EN It was after my match with
+EN Koshinaka, as I headed back to the
+EN locker room.
+
+@ 001
+JP 坂上：
+JP 「おい！#MS！
+JP 　これ以上#PS00のリングで
+JP 　好き勝手にはさせないぞ！
+EN Sakagami:
+EN "Hey! #MS! I won't let you run
+EN  wild in the #PS00 ring any
+EN  longer!"
+
+@ 002
+JP #MS：
+JP 「坂上！
+EN #MS:
+EN "Sakagami!"
+
+@ 003
+JP 坂上：
+JP 「俺は邪道を、#WS076を
+JP 　プロレスラーとしては認めない！
+EN Sakagami:
+EN "I don't accept outlaws, or Onita, as
+EN  pro wrestlers!"
+
+@ 004
+JP 「いい加減に目を覚ませ！あいつといても
+JP 　お前の為にはならない！俺達は２人で
+JP 　最高の試合をするんじゃなかったのか！？
+EN "Wake up already! Sticking with him
+EN  won't do you any good! Weren't we
+EN  gonna have the best match ever!?"
+
+@ 005
+JP #MS：
+JP 「坂上・・・・
+EN #MS:
+EN "Sakagami...."
+
+@ 006
+JP 坂上：
+JP 「小道具使わなきゃまともに試合出来ない奴が
+JP 　プロレスラーか！？お前が目指している
+JP 　プロレスラーはそういうものなのか！？
+EN Sakagami:
+EN "A guy who can't wrestle without
+EN  props is a pro wrestler!? Is that the
+EN  wrestler you want to be!?"
+
+@ 007
+JP #MS：
+JP 「違う！お前こそ分かってない！
+JP 　邪道の本当の意味を！
+EN #MS:
+EN "No! You're the one who doesn't get it!
+EN  What 'outlaw' really means!"
+
+@ 008
+JP 「確かに#WS076さんは火を使ったり
+JP 　している。でも邪道の本当の意味は
+JP 　そんな所にあるんじゃない！
+EN "Sure, Mr. Onita uses fire and stuff.
+EN  But that's not what the outlaw way is
+EN  really about!"
+
+@ 009
+JP 坂上：
+JP 「何が本当の意味だ！そんなものは
+JP 　どうでもいい！#WS076と組むのを
+JP 　やめろ！そうでないとお前であっても・・・
+EN Sakagami:
+EN "Who cares what it 'really' means!
+EN  Stop teaming with Onita! Or else,
+EN  even you..."
+
+@ 010
+JP #MS：
+JP 「分かった。お前に理解してもらうには
+JP 　やっぱりリングの上で闘うしかない！
+EN #MS:
+EN "Fine. If I want you to understand, I'll
+EN  just have to fight you in the ring!"
+
+@ 011
+JP 坂上：
+JP 「いいだろう！試合で、闘いでお前の気持ちを
+JP 　ぶつけてみろ！もしヤワな気持ちだったら
+JP 　お前を潰す！
+EN Sakagami:
+EN "Fine by me! Show me how you feel in
+EN  a match, in a fight! If it's
+EN  half-hearted, I'll crush you!"
+
+@ 012
+JP #MS：
+JP 「邪道の闘い・・・お前に教えてやる！
+EN #MS:
+EN "I'll teach you... what an outlaw's
+EN  fight is!"

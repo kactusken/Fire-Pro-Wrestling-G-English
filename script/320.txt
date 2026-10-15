@@ -1,0 +1,116 @@
+@ 000
+JP 記者：
+JP 「『王道』#PL01は
+JP 　いかがでしたか？
+EN Reporter:
+EN "How was #PL01 and the King's
+EN  Road?"
+
+@ 001
+JP #MS：
+JP 「やっぱりファイトスタイルの違いは
+JP 　凄く感じましたね。ただ対応して行ける
+JP 　範囲でしょう。後は経験ですよ。
+EN #MS:
+EN "I really felt the difference in style.
+EN  But I can adapt. The rest is
+EN  experience."
+
+@ 002
+JP 記者：
+JP 「じゃあこれからも戦場は#PS01を？
+EN Reporter:
+EN "So #PS01 will be your battlefield
+EN  from now on?"
+
+@ 003
+JP #MS：
+JP 「そうですね。これからも色々学んで、
+JP 　上に向かって闘いを
+JP 　仕掛けて行きたいですね。
+EN #MS:
+EN "That's right. I'll keep learning, and
+EN  keep picking fights higher up the
+EN  card."
+
+@ 004
+JP 記者：
+JP 「ありがとうございました！
+EN Reporter:
+EN "Thank you very much!"
+
+@ 005
+JP 参戦してから毎日のように試合が組まれ
+JP 激しいファイトを展開していった。
+EN Since joining, I was booked almost
+EN every day in brutal fights.
+
+@ 006
+JP 毎日のように試合があるという
+JP 初めての経験に始めは体が慣れなかったが、
+JP 最近ようやくペースを掴めて来たところだ。
+EN Wrestling nearly every day was new,
+EN and my body struggled at first. Lately
+EN I've finally found my pace.
+
+@ 007
+JP #WS040：
+JP 「お疲れさん。
+EN Misawa:
+EN "Good work."
+
+@ 008
+JP #MS：
+JP 「あ、お疲れ様です。
+EN #MS:
+EN "Oh, good work out there."
+
+@ 009
+JP #WS040：
+JP 「段々ペース、掴めて来たみたいだね。
+EN Misawa:
+EN "Looks like you're finding your pace."
+
+@ 010
+JP #MS：
+JP 「そうですね、何とか。
+EN #MS:
+EN "Yeah, more or less."
+
+@ 011
+JP #WS040：
+JP 「じゃあ、そろそろシングルも行けるかな。
+EN Misawa:
+EN "Then maybe you're ready for
+EN  singles."
+
+@ 012
+JP #MS：
+JP 「お願いします。たまにシングルもやらないと
+JP 　感覚鈍っちゃいますから。
+EN #MS:
+EN "Please. If I don't wrestle singles now
+EN  and then, I'll get rusty."
+
+@ 013
+JP #WS040：
+JP 「分かった。じゃあ社長と相談しておくよ。
+EN Misawa:
+EN "Okay. I'll talk to the boss."
+
+@ 014
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Thanks!"
+
+@ 015
+JP そして組まれたシングルは
+JP #WF047選手との
+JP 試合だった。
+EN The singles match they booked was
+EN against Tamon Honda.
+
+@ 016
+JP よし、やってやる！
+EN All right, let's do this!

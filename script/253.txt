@@ -1,0 +1,166 @@
+@ 000
+JP 俺はじっとしていられず、誰もいない道場で
+JP トレーニングに打ち込んでいた。
+EN I couldn't sit still, so I threw myself
+EN into training in the empty dojo.
+
+@ 001
+JP 実際まだ何も分からない。やっとデビューして
+JP 何試合かこなして、やっとリングの感触に
+JP 馴れて来たところなのに・・・・
+EN Truth is, I still don't know anything.
+EN I'd only just debuted, had a few
+EN matches, gotten a feel for the ring....
+
+@ 002
+JP #WS149：
+JP 「#MS。
+EN Maeda:
+EN "#MS."
+
+@ 003
+JP #MS：
+JP 「#WS149さん・・・
+EN #MS:
+EN "Mr. Maeda..."
+
+@ 004
+JP #WS149：
+JP 「どうや、身の振り考えたか？
+EN Maeda:
+EN "So, figured out where you're goin'?"
+
+@ 005
+JP #MS：
+JP 「いえ・・・・
+EN #MS:
+EN "No...."
+
+@ 006
+JP #WS149：
+JP 「そうか。じゃあ俺んとこに来んか？
+EN Maeda:
+EN "I see. Then why not come with me?"
+
+@ 007
+JP #MS：
+JP 「え？
+EN #MS:
+EN "Huh?"
+
+@ 008
+JP #WS149：
+JP 「俺はこれから格闘家の世界ネットワークを
+JP 　創ろうと思ってる。
+EN Maeda:
+EN "I'm plannin' to build a world network
+EN  of fighters."
+
+@ 009
+JP #MS：
+JP 「ネットワーク？
+EN #MS:
+EN "A network?"
+
+@ 010
+JP #WS149：
+JP 「色んな国の格闘家をネットワークに乗せて
+JP 　日本のリングに運んで来るんや。
+EN Maeda:
+EN "Link up fighters from all kinds of
+EN  countries and bring 'em to the ring in
+EN  Japan."
+
+@ 011
+JP 「日本では名が知られていなくても、
+JP 　凄い格闘家はたくさんいる。そう言う人材の
+JP 　発掘も一つの目的やな。
+EN "There's tons of great fighters nobody
+EN  in Japan's heard of. Diggin' up talent
+EN  like that is one goal."
+
+@ 012
+JP 「団体名は#PS07。
+EN "The name's #PS07."
+
+@ 013
+JP #MS：
+JP 「#PS07・・・・
+EN #MS:
+EN "#PS07...."
+
+@ 014
+JP #WS149：
+JP 「ま、今すぐとは言わん。
+JP 　近い内に返事くれや。
+EN Maeda:
+EN "Well, I ain't sayin' right now. Give me
+EN  an answer soon."
+
+@ 015
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes, sir."
+
+@ 016
+JP あの後#WS165さんや#WS150さん
+JP からも誘いをもらったが、
+JP 俺の気持ちは既に固まっていた。
+EN After that, Mr. Takada and Mr.
+EN Fujiwara both invited me too, but my
+EN mind was already made up.
+
+@ 017
+JP #WS149：
+JP 「いよいよやな。
+EN Maeda:
+EN "Here we go."
+
+@ 018
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 019
+JP 俺は#WS149さんの団体、#PS07に
+JP 参加する事にした。
+EN I decided to join Mr. Maeda's
+EN promotion, #PS07.
+
+@ 020
+JP 旗揚げ戦には間に合わず、２戦目からの参戦に
+JP なったものの、今日のコンディションは上々だ。
+EN I missed the debut show and joined
+EN from the second, but I'm in top shape
+EN today.
+
+@ 021
+JP #WS149：
+JP 「お前の相手は
+JP 　#WF146。
+JP 　オランダの最強の喧嘩ファイターだ。
+EN Maeda:
+EN "Your opponent's Dick Vrij. The
+EN  toughest street fighter in Holland."
+
+@ 022
+JP #WF146は
+JP 旗揚げ戦で#WS149さんと
+JP 闘って、非常に評価されたファイターだ。
+EN Dick Vrij fought Mr. Maeda at the
+EN debut show and earned high praise.
+
+@ 023
+JP #WS149：
+JP 「気圧されないように、気合入れてけや！
+EN Maeda:
+EN "Don't let him overwhelm ya. Get
+EN  fired up!"
+
+@ 024
+JP #MS：
+JP 「はい、頑張ります！
+EN #MS:
+EN "Yes, sir, I'll do my best!"

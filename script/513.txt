@@ -1,0 +1,67 @@
+@ 000
+JP ジュニア戦士達の史上最大のイベント、
+JP 『キング・オブ・ワールドジュニア』も
+JP 遂に決勝戦が行われる。
+EN The biggest junior event in history,
+EN the "King of World Juniors." At last,
+EN the final.
+
+@ 001
+JP トーナメントに敗れた俺は、
+JP ある男とのシングルマッチを組まれた。
+EN Out of the tournament, I was booked
+EN in a singles match against a certain
+EN man.
+
+@ 002
+JP その名は・・・・
+EN His name....
+
+@ 003
+JP #WF065。
+EN Masanobu Fuchi.
+
+@ 004
+JP #WS065：
+JP 「折角の舞台で俺なんかと当たるなんて
+JP 　お前も運が悪いよな。
+EN Fuchi:
+EN "Tough luck, drawing a guy like me
+EN  on a big stage like this."
+
+@ 005
+JP #MS：
+JP 「いいえ。俺は覚えています。
+EN #MS:
+EN "Not at all. I remember."
+
+@ 006
+JP 「#PS01のワールドジュニアヘビーの
+JP 　ベルトの連続防衛回数の、最大記録保持者が
+JP 　誰であるのか・・・・
+EN "Who holds the record for most
+EN  straight defenses of #PS01's
+EN  World Junior Heavyweight belt...."
+
+@ 007
+JP #WS065：
+JP 「何か過剰な期待をされてるよな。
+JP 　あの頃の俺に戻れって言うのか？
+EN Fuchi:
+EN "Somebody's expecting a bit much.
+EN  You want me to be my old self
+EN  again?"
+
+@ 008
+JP 「まあ仕方無いな。夢の大会だ。
+JP 　今日ぐらいはこの体に鞭打って、
+JP 　最高のファイトを見せるとしよう。
+EN "Well, can't be helped. It's a dream
+EN  event. Just for today, I'll push this
+EN  old body and give you my best fight."
+
+@ 009
+JP #MS：
+JP 「お願いします！
+EN #MS:
+EN "Please do!"

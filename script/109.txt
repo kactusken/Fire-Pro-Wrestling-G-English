@@ -1,0 +1,24 @@
+@ 000
+JP #WS049との抗争はタッグマッチで
+JP 終わるはずも無く、最終戦で
+JP シングルマッチを組まれる事になった。
+EN A tag match was never going to settle
+EN my feud with Takayama. A single was
+EN booked for the final night.
+
+@ 001
+JP #WS049：
+JP 「待ってたよ、お前とのシングルを。
+JP 　ここでお前を倒して、俺は更に上を目指す！
+EN Takayama:
+EN "I've been waiting for this. I'll beat
+EN  you here and keep climbing!"
+
+@ 002
+JP #MS：
+JP 「そのセリフ、そっくりそのまま返すぜ。
+JP 　俺もお前で足踏みしてる訳には行かない！
+JP 　ここで決着つけさせてもらうぜ！
+EN #MS:
+EN "Right back at you. I can't get stuck
+EN  on you either! We settle this here!"

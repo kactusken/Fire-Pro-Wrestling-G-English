@@ -1,0 +1,57 @@
+@ 000
+JP トーナメントで敗れた俺の今日の試合は
+JP #WS180とのシングルマッチだ。
+EN I lost in the tournament, so today I
+EN had a singles match with Kuroda.
+
+@ 001
+JP #WS074：
+JP 「おい！#MS！#WS180の野郎
+JP 　最近イキがってるからよ、ここで１発
+JP 　ガツン、とやっちゃってくれよ。
+EN Jado:
+EN "Hey! #MS! Kuroda's been actin'
+EN  tough lately, so hit him hard for us,
+EN  okay?"
+
+@ 002
+JP #MS：
+JP 「言われるまでも無いですよ。
+EN #MS:
+EN "You don't have to tell me."
+
+@ 003
+JP #WS087：
+JP 「何なら俺等が引っ掻き回して
+JP 　やっちまってもいいぜ。
+EN Gedo:
+EN "If ya want, we can stir things up and
+EN  help ya out."
+
+@ 004
+JP #MS：
+JP 「ちょっと待って下さいよ！あんなの相手に
+JP 　そんな事したら、俺が他人の手借りないと
+JP 　勝てないと思われちゃうじゃないっスか！
+EN #MS:
+EN "Hold on! If you do that against a guy
+EN  like him, people will think I can't win
+EN  without help!"
+
+@ 005
+JP 「そんな事になったら恥ずかしくて
+JP 　外歩けないっスよ！
+EN "I'd be too embarrassed to walk down
+EN  the street!"
+
+@ 006
+JP #WS074：
+JP 「そりゃそーだ！
+EN Jado:
+EN "Ain't that the truth!"
+
+@ 007
+JP みんな：
+JP 「アッハッハッハッハ！
+EN Everyone:
+EN "Ahahahahaha!"

@@ -1,0 +1,54 @@
+@ 000
+JP シリーズを重ねる毎に試合感を掴んでいった
+JP 俺達は、次第に上位陣との試合も増えてきた。
+EN Series after series, we found our
+EN match rhythm, and faced the top guys
+EN more and more.
+
+@ 001
+JP #WS042：
+JP 「・・・・・・
+EN Kawada:
+EN "......"
+
+@ 002
+JP #WS066：
+JP 「俺はジュニアだけど、外から来た君らには
+JP 　負けられない！久々にバクハツするっス！！
+EN Kikuchi:
+EN "I'm a junior, but I won't lose to you
+EN  outsiders! Time to explode, man!!"
+
+@ 003
+JP #MS：
+JP 「こっちだってここで負けていられない！
+JP 　意地を見せる！
+EN #MS:
+EN "We can't lose here either! We'll show
+EN  our pride!"
+
+@ 004
+JP #WS049：
+JP 「頼みますよ、#MSさん！
+EN Takayama:
+EN "Counting on you, #MS!"
+
+@ 005
+JP #MS：
+JP 「お前も相手が#WS042選手だからって
+JP 　入れ込み過ぎるなよ！
+EN #MS:
+EN "And don't get too worked up just
+EN  because it's Kawada!"
+
+@ 006
+JP #WS049：
+JP 「分かってますよ！
+EN Takayama:
+EN "I know!"
+
+@ 007
+JP #MS：
+JP 「行くぞ！
+EN #MS:
+EN "Let's go!"

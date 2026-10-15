@@ -1,0 +1,67 @@
+@ 000
+JP 記者：
+JP 「素晴らしい試合でした。そして
+JP 　初戴冠おめでとうございます！
+EN Reporter:
+EN "A fantastic match. And
+EN  congratulations on your first title!"
+
+@ 001
+JP #MS：
+JP 「やっぱり#WS107は強いよな。
+JP 　もう当分やりたくないね。
+EN #MS:
+EN "Norton sure is tough. I don't wanna
+EN  face him again for a while."
+
+@ 002
+JP 「ただ言えるのはな！
+JP 　俺の方が強かったって事だよ！
+JP 　お前ら、良く覚えとけ！
+EN "But I'll tell you this! I was stronger!
+EN  All of you, remember that!"
+
+@ 003
+JP 記者：
+JP 「今後は狙われる立場になる訳ですが？
+EN Reporter:
+EN "Now you'll be the one they're
+EN  gunning for."
+
+@ 004
+JP #MS：
+JP 「誰だ？誰が来るんだよ、え？
+JP 　今の俺から取れる奴なんているのか！
+JP 　来るなら来いって！みんな返り討ちだよ！
+EN #MS:
+EN "Who's next, huh? Who can take it
+EN  from me now?! Bring it! I'll send 'em
+EN  all packing!"
+
+@ 005
+JP #WS027：
+JP 「良くやったな！
+EN Chono:
+EN "Nice work!"
+
+@ 006
+JP #WS028：
+JP 「ブラザー！次は俺がチャレンジだ！
+JP 　そん次は#WS027、
+JP 　そん次が#WS029・・・
+EN Mutoh:
+EN "Brother! Next it's my turn to
+EN  challenge! Then Chono, then
+EN  Tenzan..."
+
+@ 007
+JP 「どうだ、いいだろ。どっちが勝っても
+JP 　ベルトはずっとＦＷＯのもんだ！
+EN "How's that? Whoever wins, the belt
+EN  stays in nWo forever!"
+
+@ 008
+JP 俺はとうとうＩＧＰのベルトを・・・
+JP 世界最強の称号を手に入れたのだ。
+EN At last I had the IWGP belt... The title
+EN of the strongest in the world.

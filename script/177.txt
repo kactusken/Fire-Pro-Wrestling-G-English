@@ -1,0 +1,128 @@
+@ 000
+JP 記者：
+JP 「どうですか？#WS071軍の
+JP 　一員としての試合は？
+EN Reporter:
+EN "How do you like fighting as a
+EN  member of the Fuyuki-gun?"
+
+@ 001
+JP #MS：
+JP 「やりたい放題で
+JP 　毎日が充実してるよ。
+EN #MS:
+EN "I do whatever I want. Every day's a
+EN  blast."
+
+@ 002
+JP 記者：
+JP 「#WS071選手がＪＥＮを解散させると
+JP 　意気込んでいますね？
+EN Reporter:
+EN "Fuyuki is fired up about breaking up
+EN  ZEN."
+
+@ 003
+JP #MS：
+JP 「当然だよ。#WS076の野郎は今更
+JP 　いらねぇんだよ！ただの邪魔者だろ！
+JP 　とっとと失せろってんだよ！
+EN #MS:
+EN "Damn right. Nobody needs Onita
+EN  now! He's just in the way! He oughta
+EN  get lost!"
+
+@ 004
+JP 記者：
+JP 「両軍団の解散を賭けた試合が
+JP 　行われる事になりました。
+EN Reporter:
+EN "A match has been set with the
+EN  breakup of both groups on the line."
+
+@ 005
+JP ・楽勝だとバカにする。
+JP ・#PS02の未来の為に潰すと言う。
+EN ・Scoff that it's an easy win.
+EN ・Crush them for #PS02's future.
+
+@ 006
+JP #MS：
+JP 「楽勝でしょ。問題無いよ。
+EN #MS:
+EN "Easy win. No problem."
+
+@ 007
+JP 「俺は組み込まれてないけど
+JP 　あんな壊れかけのポンコツ、
+JP 　#WS071さんが始末つけてくれるよ。
+EN "I'm not in it, but Fuyuki will finish
+EN  off that broken-down old wreck."
+
+@ 008
+JP #MS：
+JP 「さっさと解散してもらって、また
+JP 　#WS076には引退してもらわないと。
+EN #MS:
+EN "Gotta get 'em disbanded fast and
+EN  make Onita retire again."
+
+@ 009
+JP 「ダメなんだよ。あいつがいると
+JP 　#PS02が退化しちゃうから。
+JP 　未来の為にぶっ潰すしかないよ。
+EN "It's no good. With him around,
+EN  #PS02 goes backward. Gotta
+EN  crush him for the future."
+
+@ 010
+JP 記者：
+JP 「ありがとうございました！
+EN Reporter:
+EN "Thank you very much!"
+
+@ 011
+JP 今日の試合は#WS069とのシングルだ。
+JP 最近の頑張りは眼を見張るものがあり、
+JP 近々シングルのベルトに挑戦するらしい。
+EN Today: singles with Tanaka. He'd been
+EN on fire lately, and a singles title shot
+EN was coming.
+
+@ 012
+JP ここで俺が倒しておけば
+JP 俺の株も上がるだろう。
+EN If I beat him here, my stock would go
+EN up.
+
+@ 013
+JP #WS069：
+JP 「お前とは軍団の枠を越えた同期としての
+JP 　熱い闘いがしたい！
+EN Tanaka:
+EN "I want a hot fight with you as guys
+EN  from the same class, factions aside!"
+
+@ 014
+JP #MS：
+JP 「なーにをカッコつけた事言ってんだ！
+JP 　お前らのそう言うとこが
+JP 　気に入らねぇんだよ！
+EN #MS:
+EN "What's with the cool-guy act! That's
+EN  what I can't stand about you guys!"
+
+@ 015
+JP #WS069：
+JP 「・・・・何を言っても聞く気は無しか。
+JP 　ならその体に直接訴えかけてやるからな！
+EN Tanaka:
+EN ".... You won't listen to a word, huh?
+EN  Then I'll get through to your body
+EN  directly!"
+
+@ 016
+JP #MS：
+JP 「やれるもんならやってみろ！
+EN #MS:
+EN "Try it if you think you can!"

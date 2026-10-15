@@ -1,0 +1,218 @@
+@ 000
+JP 記者：
+JP 「次期シリーズでは遂に二冠統一王座に
+JP 　挑戦が決まりましたが？
+EN Reporter:
+EN "Next series, you finally get your shot
+EN  at the unified Double Championship."
+
+@ 001
+JP そう、俺は最近の活躍が認められ、
+JP 二冠統一王座への挑戦権を得たのだった。
+EN That's right. My recent showing had
+EN earned me a shot at the unified
+EN Double Championship.
+
+@ 002
+JP #MS：
+JP 「そうですね・・・・
+EN #MS:
+EN "That's right...."
+
+@ 003
+JP 記者：
+JP 「正規軍同士の闘いと言う事で
+JP 　微妙な部分もあるかと思いますが？
+EN Reporter:
+EN "It's regular against regular. Isn't that
+EN  a bit delicate?"
+
+@ 004
+JP ・個人闘争だから関係無い。
+JP ・正規軍同士にしか出来ない熱い試合をする。
+EN ・It's man vs. man; it doesn't matter.
+EN ・A hot match only regulars can have.
+
+@ 005
+JP #MS：
+JP 「最終的には個人闘争ですからね。
+JP 　あまり関係無いですよ。
+EN #MS:
+EN "In the end, it's man against man. It
+EN  doesn't really matter."
+
+@ 006
+JP 「むしろどちらが本当のエースに相応しいか
+JP 　決める、良いチャンスだと思ってますよ。
+EN "If anything, it's a good chance to
+EN  decide who really deserves to be the
+EN  ace."
+
+@ 007
+JP #MS：
+JP 「タイトルマッチと言う最高の場で、
+JP 　正規軍同士にしか出来ない熱い闘いを
+JP 　他の軍団の連中に見せ付けてやりますよ。
+EN #MS:
+EN "On the biggest stage, a title match,
+EN  we'll show the other factions a fight
+EN  only regulars can have."
+
+@ 008
+JP 「その上でベルトを巻けたら最高ですね。
+EN "And if I can wrap the belt around my
+EN  waist on top of that, all the better."
+
+@ 009
+JP 記者：
+JP 「シリーズ序盤に前哨戦も組まれていますが
+JP 　何か作戦などありますか？
+EN Reporter:
+EN "There's a preview match early in the
+EN  series. Any strategy?"
+
+@ 010
+JP ・脚を狙う。
+JP ・全力でぶつかるだけだ。
+JP ・相手の裏をかく。
+EN ・Go for the legs.
+EN ・Just hit him with everything.
+EN ・Outsmart him.
+
+@ 011
+JP #MS：
+JP 「動きが良い選手なんでね、
+JP 　脚を狙って動きを止めるつもりですよ。
+EN #MS:
+EN "He moves really well, so I plan to go
+EN  after his legs and slow him down."
+
+@ 012
+JP 記者：
+JP 「脚狙いですか。
+EN Reporter:
+EN "The legs, huh?"
+
+@ 013
+JP #MS：
+JP 「そう言っておいてやらない可能性も
+JP 　ありますけどね。
+EN #MS:
+EN "Of course, I might say that and not
+EN  do it."
+
+@ 014
+JP #MS：
+JP 「作戦は特に無いですよ。
+JP 　小細工しても仕方無いんで、
+JP 　正面から全力で行きます！
+EN #MS:
+EN "No real strategy. No point in tricks.
+EN  I'll come straight at him full force!"
+
+@ 015
+JP 記者：
+JP 「真っ向勝負、と言う事ですか。
+EN Reporter:
+EN "Head-on, then."
+
+@ 016
+JP #MS：
+JP 「ええ。魂と魂のぶつかり合いですよ！
+EN #MS:
+EN "Yeah. Soul against soul!"
+
+@ 017
+JP #MS：
+JP 「普段一緒に闘ってるんで、お互いの動きは
+JP 　知り尽くしてるんでね。
+JP 　あの人の裏をかきますよ。
+EN #MS:
+EN "We fight side by side, so we know
+EN  each other's moves inside out. I'll
+EN  outfox him."
+
+@ 018
+JP 記者：
+JP 「予想もしない攻撃をする、と言う事ですか？
+EN Reporter:
+EN "Meaning you'll hit him with
+EN  something unexpected?"
+
+@ 019
+JP #MS：
+JP 「そうですね。びっくりさせてやりますよ。
+EN #MS:
+EN "Right. I'll give him a surprise."
+
+@ 020
+JP 記者：
+JP 「いつになく気力が充実してる印象を受けます。
+EN Reporter:
+EN "You seem more fired up than ever."
+
+@ 021
+JP #MS：
+JP 「滅多に無いチャンスですから
+JP 　気合も入りますよ。
+EN #MS:
+EN "A chance like this doesn't come
+EN  often. Of course I'm fired up."
+
+@ 022
+JP 「見てて下さい。
+JP 　どう転ぶにせよ凄い試合にしますから。
+EN "Just watch. Either way, it'll be one
+EN  hell of a match."
+
+@ 023
+JP 口で言うほど実際は余裕は無い。
+JP しかしこのチャンスを逃す訳には行かない。
+JP 必ず取ってみせる！
+EN I wasn't as confident as I sounded.
+EN But I couldn't let this chance slip by.
+EN I'd take that belt!
+
+@ 024
+JP 今日は最終戦のタイトルマッチの前哨戦だ。
+EN Today was the preview for the title
+EN match at the final show.
+
+@ 025
+JP #WS068：
+JP 「・・・・・・・・・
+EN Hayabusa:
+EN "........."
+
+@ 026
+JP 無言のまま俺をグッ、と
+JP 睨みつけて来る#WS068さん・・・・
+JP 俺も負けじと睨み返す。
+EN Hayabusa glared hard at me in
+EN silence.... I glared right back.
+
+@ 027
+JP #WS069がなだめるように
+JP #WS068さんを下がらせた。
+EN Tanaka calmed him down and eased
+EN him back.
+
+@ 028
+JP #WS088：
+JP 「#MS、最初はスカせ。
+JP 　#WS068は必要以上に入れ込んでる。
+EN Fuji:
+EN "#MS, dodge him early.
+EN  Hayabusa's way too worked up."
+
+@ 029
+JP #WS088さんのアドバイスが心強い。
+JP 俺はそのお陰でリラックスする事が出来た。
+EN Fuji's advice was reassuring. Thanks
+EN to him, I could relax.
+
+@ 030
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Right!"

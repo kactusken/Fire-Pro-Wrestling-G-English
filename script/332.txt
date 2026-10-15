@@ -1,0 +1,135 @@
+@ 000
+JP 数多くの強豪が集った大会は
+JP 歴史に残る名勝負を数多く生んだ。
+EN The event, packed with top fighters,
+EN produced many classic bouts for the
+EN history books.
+
+@ 001
+JP その中でも俺と坂上の試合は、マスコミが
+JP 俺達のバックグラウンドを記事にした事もあって
+JP 日本格闘技界の歴史に残るものになった。
+EN Above all, my fight with Sakagami,
+EN our story told in the press, went down
+EN in Japanese combat history.
+
+@ 002
+JP #WS166：
+JP 「お前もすっかりスター選手だな。
+EN Anjoh:
+EN "You're a full-on star now."
+
+@ 003
+JP #MS：
+JP 「俺の目標は
+JP 　『#WF149を
+JP 　　越える事』ですから。
+EN #MS:
+EN "My goal is to surpass Akira Maeda."
+
+@ 004
+JP #WS166：
+JP 「おいおい、
+JP 　『#WF166』の
+JP 　間違いじゃないのか？
+EN Anjoh:
+EN "Whoa, whoa, don't you mean Yoji
+EN  Anjoh?"
+
+@ 005
+JP #MS：
+JP 「だってそれなら簡単そうじゃないですか。
+EN #MS:
+EN "But that seems too easy."
+
+@ 006
+JP #WS166：
+JP 「正直かつストレートに言うなっ！！
+EN Anjoh:
+EN "Don't be so honest and blunt about
+EN  it!!"
+
+@ 007
+JP #MS：
+JP 「#WS166さん、今
+JP 　マジで殴りませんでしたか？
+JP 　何かメチャメチャ痛いんですけど・・・・
+EN #MS:
+EN "Mr. Anjoh, did you just punch me for
+EN  real? 'Cause that really hurt...."
+
+@ 008
+JP #WS166：
+JP 「・・・・・・そう言えば坂上、だったっけ。
+JP 　あいつはどうした？
+EN Anjoh:
+EN "...... Sakagami, was it? What's he up
+EN  to?"
+
+@ 009
+JP #MS：
+JP 「あいつはまたアメリカに飛びました。
+JP 　今度はマイク・ベアーと闘うそうですよ。
+EN #MS:
+EN "He flew back to America. Says he's
+EN  fighting Mark Kerr next."
+
+@ 010
+JP #WS166：
+JP 「へぇ・・・こりゃ
+JP 　うかうかしてられないなぁ？
+EN Anjoh:
+EN "Huh... you can't sit around then, can
+EN  you?"
+
+@ 011
+JP #MS：
+JP 「そうですね・・・・また次の約束もあるし。
+JP 　俺も今日から毎日特訓ですよ！
+EN #MS:
+EN "Right.... And we made another
+EN  promise. Special training every day,
+EN  starting today!"
+
+@ 012
+JP #WS166：
+JP 「そうか。お前も俺みたいな変わり者に
+JP 　ずっとついて来てここまでになるとはな。
+JP 　大したもんだよな。
+EN Anjoh:
+EN "I see. To think you stuck with an
+EN  oddball like me and got this far.
+EN  Pretty impressive."
+
+@ 013
+JP #MS：
+JP 「#WS166さん・・・・
+EN #MS:
+EN "Mr. Anjoh...."
+
+@ 014
+JP #WS166：
+JP 「ま、これからも俺の素晴らしさに一歩でも
+JP 　近づけるように、努力するんだな。
+EN Anjoh:
+EN "Well, keep working hard to get one
+EN  step closer to my greatness."
+
+@ 015
+JP #MS：
+JP 「お断りします。
+EN #MS:
+EN "No, thanks."
+
+@ 016
+JP #WS166：
+JP 「お前・・・段々遠慮が無くなってきたよな。
+EN Anjoh:
+EN "You... you're getting less polite by
+EN  the day."
+
+@ 017
+JP #MS：
+JP 「そうですか？
+EN #MS:
+EN "Am I?"

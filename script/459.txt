@@ -1,0 +1,103 @@
+@ 000
+JP #WS092：
+JP 「まあデビュー戦にしては
+JP 　良くやったじゃないか。
+EN Sasuke:
+EN "Well, you did pretty good for a
+EN  debut."
+
+@ 001
+JP #MS：
+JP 「そうでしょうか・・・
+JP 　自分では全然思うように行かなくて。
+EN #MS:
+EN "Did I...? Nothing went the way I
+EN  wanted."
+
+@ 002
+JP #WS092：
+JP 「まあそれでいいんだよ。
+JP 　そう言う悔しさをバネにして
+JP 　今後の成長につなげて行ければさ。
+EN Sasuke:
+EN "That's fine. Use that frustration as a
+EN  springboard to grow."
+
+@ 003
+JP 「誰だって最初から上手くなんか
+JP 　出来ないもんだよ。
+EN "Nobody's any good right from the
+EN  start."
+
+@ 004
+JP #MS：
+JP 「そう、ですか・・・
+EN #MS:
+EN "I... see..."
+
+@ 005
+JP #WS092：
+JP 「それより若い奴は思い切って
+JP 　ぶつかり合った方がいいんだよ。
+EN Sasuke:
+EN "Besides, young guys should just go
+EN  all out and crash into each other."
+
+@ 006
+JP 「そして本気で気持ちがぶつけ合えたら
+JP 　きっとその気持ちはお客さんにも通じるよ。
+EN "And if you really pour your hearts
+EN  out, the fans will feel it too."
+
+@ 007
+JP #MS：
+JP 「気持ちを伝える闘いですか・・・
+EN #MS:
+EN "A fight that gets your feelings
+EN  across..."
+
+@ 008
+JP 「頑張ってみます！
+EN "I'll give it a shot!"
+
+@ 009
+JP #WS092：
+JP 「おう。
+EN Sasuke:
+EN "Good."
+
+@ 010
+JP 「あ、そうだ。今度の相手は
+JP 　思いっきりぶつかるタイプだからな。
+JP 　早速試してみたらどうだ？
+EN "Oh, right. Your next opponent's the
+EN  all-out, head-on type. Why not try it
+EN  right away?"
+
+@ 011
+JP #MS：
+JP 「誰ですか？
+EN #MS:
+EN "Who is it?"
+
+@ 012
+JP #WS092：
+JP 「#WS098だよ。
+EN Sasuke:
+EN "Hoshikawa."
+
+@ 013
+JP #WS098：
+JP 「デビュー間も無いお前でも俺は全力で行く！
+JP 　だからお前も遠慮せずに
+JP 　全力でぶつかって来い！
+EN Hoshikawa:
+EN "Rookie or not, I'm coming at you full
+EN  force! So don't hold back. Hit me with
+EN  everything!"
+
+@ 014
+JP #MS：
+JP 「はい！俺の魂をぶつけて行きます！
+EN #MS:
+EN "Yes! I'll throw my whole soul at you!"

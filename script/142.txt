@@ -1,0 +1,33 @@
+@ 000
+JP 俺は打ちひしがれていた。
+JP タイトルマッチで敗れ、
+JP タッグリーグで#WS051組に敗れた。
+EN I was crushed. I lost the title match,
+EN and then lost to Hansen's team in the
+EN Tag League.
+
+@ 001
+JP さすがにここまで結果が出ないと
+JP 俺でも気落ちしてしまう。
+EN With no results this long, even I was
+EN losing heart.
+
+@ 002
+JP #WS040：
+JP 「・・・・・・・・・
+EN Misawa:
+EN "........."
+
+@ 003
+JP さすがの#WS040さんも言葉が無いようだ。
+JP だがここで落ち込んでいても仕方ない。
+EN Even Misawa seemed lost for words.
+EN But moping around won't help.
+
+@ 004
+JP 俺は『今がどん底だと思えば怖いものなどない、
+JP 後は這い上がるだけだ』と自分に言い聞かせて
+JP もう一度立ち上がった。
+EN "If this is rock bottom, there's nothing
+EN  to fear. The only way is up." I told
+EN  myself that, and got back up.

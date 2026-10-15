@@ -1,0 +1,65 @@
+@ 000
+JP #WS151：
+JP 「で、前言ってた外の話って奴なんですけど。
+EN Ishikawa:
+EN "So, about those offers from outside I
+EN  mentioned."
+
+@ 001
+JP #MS：
+JP 「ああ、そう言えば。で、どこから？
+EN #MS:
+EN "Oh, right. So, from where?"
+
+@ 002
+JP #WS151：
+JP 「#PS02からです。
+EN Ishikawa:
+EN "From #PS02."
+
+@ 003
+JP #MS：
+JP 「なるほど・・・面白そうだな。
+EN #MS:
+EN "I see... sounds interesting."
+
+@ 004
+JP #WS151：
+JP 「行ってもらえますか？
+EN Ishikawa:
+EN "Will you go?"
+
+@ 005
+JP #MS：
+JP 「ああ、行く。後は相手がザコじゃなければ
+JP 　文句無いんだがな。
+EN #MS:
+EN "Yeah, I'll go. As long as my
+EN  opponent's not a nobody, I'm happy."
+
+@ 006
+JP #WS068：
+JP 「今日はよろしくお願いします。
+JP 　熱い闘いをしましょう！
+EN Hayabusa:
+EN "Thanks for having me today. Let's
+EN  have a red-hot fight!"
+
+@ 007
+JP #MS：
+JP 「よろしく！
+EN #MS:
+EN "Likewise!"
+
+@ 008
+JP 確かにザコではなかった。それにしても
+JP まさかエース直々のお出ましとは・・・
+EN He sure wasn't a nobody. Never
+EN thought their ace himself would show
+EN up...
+
+@ 009
+JP 敬意を表してこちらも１２０％の闘いを
+JP してやろうじゃないか！
+EN Out of respect, I'll give him 120
+EN percent!

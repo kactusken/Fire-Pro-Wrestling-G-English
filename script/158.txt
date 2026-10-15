@@ -1,0 +1,235 @@
+@ 000
+JP #PL02・・・・
+JP #WF076が平成元年に
+JP 資本金５万円で旗揚げした団体。
+EN #PL02.... Founded by Atsushi
+EN Onita in 1989 with just 50,000 yen in
+EN capital.
+
+@ 001
+JP 『邪道』の２文字を旗頭に
+JP 数々の危険なデスマッチを強行し
+JP プロレスの常識を覆した。
+EN Under the banner of "outlaw," its
+EN brutal deathmatches rewrote the rules
+EN of wrestling.
+
+@ 002
+JP そのスタイルは多くのファンを
+JP 魅了し続けている。
+EN Its style keeps winning over fans to
+EN this day.
+
+@ 003
+JP #WS088：
+JP 「ヘイ！どうだ、調子は。
+EN Fuji:
+EN "Hey! How ya doin'?"
+
+@ 004
+JP #MS：
+JP 「#WS088さん！
+EN #MS:
+EN "Mr. Fuji!"
+
+@ 005
+JP 「調子はいいっスよ。俺も早く
+JP 　#WS076さんのような、観客を
+JP 　魅了出来るレスラーになりたいっスからね。
+EN "Doin' great! I wanna hurry up and be
+EN  a guy who can win over a crowd like
+EN  Onita."
+
+@ 006
+JP 「その為にも日々頑張りますよ！
+EN "So I'm gonna keep grinding every
+EN  day!"
+
+@ 007
+JP #WS088：
+JP 「フゥ～～～～ッ！その心意気だぜ！
+JP 　そのロックなハートを忘れるんじゃないぜ！
+EN Fuji:
+EN "Whoooooo! That's the spirit! Don't
+EN  ever forget that rockin' heart!"
+
+@ 008
+JP #MS：
+JP 「・・・・・
+EN #MS:
+EN "....."
+
+@ 009
+JP 俺はどの辺がロックなハートなのか
+JP さっぱり分からなかった。
+EN I had no clue what part of it was a
+EN rockin' heart.
+
+@ 010
+JP #WS088：
+JP 「オゥ！忘れてたぜ！
+JP 　何しにここに来たかを！
+EN Fuji:
+EN "Oh! I almost forgot what I came here
+EN  for!"
+
+@ 011
+JP #MS：
+JP 「様子見に来た訳じゃないんですか？
+EN #MS:
+EN "You didn't just come to check on
+EN  me?"
+
+@ 012
+JP #WS088：
+JP 「まあそれもあるが、本命はこの、
+JP 　ロックンハートなニュースだ！
+EN Fuji:
+EN "Well, that too, but the main thing is
+EN  this rock 'n' heart news!"
+
+@ 013
+JP #WS088さんは１枚の紙を差し出した。
+JP どうやら若手だけのトーナメントが
+JP 開催される事になったらしい。
+EN He held out a sheet of paper. Looked
+EN like they were holding a tournament
+EN just for the young guys.
+
+@ 014
+JP #WS088：
+JP 「#WS076さんの引退以後、うちの団体は
+JP 　はっきりとしたエースが存在していない。
+EN Fuji:
+EN "Since Onita retired, this promotion
+EN  hasn't had a clear ace."
+
+@ 015
+JP 「この状況下でトーナメントを優勝すれば
+JP 　次期エースの呼び声高い、と言う訳だ。
+JP 　どうだ、ビッグなチャンスだろ！
+EN "Win the tournament now and you're
+EN  the hot pick for next ace. Big chance,
+EN  right!?"
+
+@ 016
+JP #MS：
+JP 「そうっスね！俺も頑張りますよ！！
+EN #MS:
+EN "You bet! I'll give it everything!!"
+
+@ 017
+JP #WS088：
+JP 「しかしお前も変わったよなぁ・・・
+JP 　始めは真面目な青年かと思ってたのに
+JP 　今やすっかり砕けちまって・・・
+EN Fuji:
+EN "You sure have changed, though... I
+EN  took you for a serious kid, and now
+EN  you're totally loose..."
+
+@ 018
+JP #MS：
+JP 「何言ってんスか！#WS088さんが
+JP 　言葉が固いとか言って
+JP 　直させたんじゃないっスか！
+EN #MS:
+EN "What're you talkin' about! You're the
+EN  one who said I talked too stiff and
+EN  made me change!"
+
+@ 019
+JP #WS088：
+JP 「フゥ～～～～ッ！ロックンロール！！
+EN Fuji:
+EN "Whoooooo! Rock and roll!!"
+
+@ 020
+JP #MS：
+JP 「あっ・・・
+EN #MS:
+EN "Ah..."
+
+@ 021
+JP #WS088さんは行ってしまった。
+JP 相変わらずあの人の行動は理解出来ない・・・
+EN And he was gone. I still can't figure
+EN out what that guy is doing...
+
+@ 022
+JP そしてトーナメントの日がやって来た。
+EN Then the day of the tournament came.
+
+@ 023
+JP #WS069：
+JP 「いよいよトーナメントだな。
+EN Tanaka:
+EN "Tournament time at last."
+
+@ 024
+JP #MS：
+JP 「おう。
+EN #MS:
+EN "Yeah."
+
+@ 025
+JP #WS069：
+JP 「お前と闘うとしたら・・・・・
+EN Tanaka:
+EN "If you and I are gonna fight....."
+
+@ 026
+JP #MS：
+JP 「お互い決勝まで行かないと無理だな。
+EN #MS:
+EN "We'll both have to make the final."
+
+@ 027
+JP #WS069の決勝進出は組み合わせ上
+JP ほぼ決まりだ。
+JP それに引き換え俺の方は激戦区だ。
+EN The bracket all but put Tanaka in the
+EN final. My side, on the other hand, was
+EN a war zone.
+
+@ 028
+JP １回戦の#WS072さん、そして何より
+JP 優勝候補の一人、#WS075がいる。
+EN Yamakawa in round one, and above all
+EN Kanemura, one of the favorites.
+
+@ 029
+JP #WS069：
+JP 「まあ頑張れや。
+JP 　#WS075と決着つけたい気もするし、
+JP 　お前とやり合ってみたい気もする。
+EN Tanaka:
+EN "Well, good luck. I kinda wanna settle
+EN  it with Kanemura, but I'd like a shot
+EN  at you too."
+
+@ 030
+JP #MS：
+JP 「俺もこれを機にガッ、と行くからな！
+JP 　必ず決勝でお前を倒して優勝してやるよ！
+EN #MS:
+EN "I'm gonna use this to break out! I'll
+EN  beat you in the final and win it all!"
+
+@ 031
+JP #WS069：
+JP 「まあ期待してるよ。
+EN Tanaka:
+EN "Well, I'll be watching."
+
+@ 032
+JP 口ではああ言っていたが#WS075と
+JP 決勝で闘いたいと思っている風だった。
+JP でもそうは行くものか。
+EN He said that, but he seemed to want
+EN Kanemura in the final. Like hell I'd let
+EN that happen.
+
+@ 033
+JP 何としても俺が決勝に出てやる！
+EN I'm making that final no matter what!

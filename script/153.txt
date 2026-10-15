@@ -1,0 +1,101 @@
+@ 000
+JP #MS：
+JP 「クソッ！
+EN #MS:
+EN "Damn it!"
+
+@ 001
+JP 俺は一人控え室で荒れていた。マッチメイクも、
+JP 自分も、全てが苛立たしい。
+EN I was raging alone in the locker room.
+EN The matchmaking, myself...
+EN everything got on my nerves.
+
+@ 002
+JP 今日も悪者協会とフレンドリー軍団の試合に
+JP 組み込まれた。俺はどうすればいいんだ・・・
+EN Once again I was stuck in the
+EN Akuyaku Shokai vs. Family Gundan
+EN bout. What was I supposed to do...
+
+@ 003
+JP #WS065：
+JP 「おい、どうした？
+EN Fuchi:
+EN "Hey, what's wrong?"
+
+@ 004
+JP #WS065：
+JP 「まあ、気持ちは分かったよ。でもな、
+JP 　自分の気持ちは自分自身でどうにか
+JP 　するしかないだろう？
+EN Fuchi:
+EN "Well, I get how you feel. But how you
+EN  feel is something only you can deal
+EN  with, right?"
+
+@ 005
+JP 「それにもしお前があの大会で満足してしまった
+JP 　としたら、お前はあれだけをやる為に
+JP 　プロレスを始めた事になるぞ。
+EN "And if that tournament was enough
+EN  for you, then that's all you got into
+EN  wrestling to do."
+
+@ 006
+JP 「お前はやり残してる事がまだまだたくさん
+JP 　あるだろう？
+EN "You've still got plenty left to do,
+EN  don't you?"
+
+@ 007
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 008
+JP #WS065：
+JP 「それともう一つ。厳しい事を言うようだが
+JP 　お前の闘いはどこか独り善がりな部分が
+JP 　あったんだろうな。
+EN Fuchi:
+EN "One more thing. Sounds harsh, but
+EN  there was something self-centered
+EN  about the way you fought."
+
+@ 009
+JP #MS：
+JP 「え？
+EN #MS:
+EN "Huh?"
+
+@ 010
+JP #WS065：
+JP 「もっと多くのファンに支持されるような
+JP 　闘いが出来ていれば、お前自身の気持ちも
+JP 　変わっていたかもしれないって事だよ。
+EN Fuchi:
+EN "If you'd fought in a way more fans
+EN  could get behind, maybe you'd feel
+EN  different now."
+
+@ 011
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 012
+JP #WS065：
+JP 「もう一度自分の試合を
+JP 　見つめ直すべきかもしれないな。
+EN Fuchi:
+EN "Maybe you oughta take another hard
+EN  look at your matches."
+
+@ 013
+JP #MS：
+JP 「見つめ直す・・・
+EN #MS:
+EN "A hard look..."

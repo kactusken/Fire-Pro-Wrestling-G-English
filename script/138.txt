@@ -1,0 +1,52 @@
+@ 000
+JP リーグ戦は圧倒的強さで暴れ回った
+JP #WS051、#WS122組が
+JP 全勝をキープ、優勝決定戦に駒を進めた。
+EN Hansen and Vader rampaged through
+EN the league with overwhelming power,
+EN unbeaten, and made the final.
+
+@ 001
+JP 俺のチームは予想外の苦戦をしつつも
+JP #WS041組との
+JP 試合に勝利し、優勝戦に滑り込んだ。
+EN My team had a tougher time than
+EN expected, but we beat Kobashi's team
+EN and squeaked into the final.
+
+@ 002
+JP #WS051：
+JP 「ヘイ！ミーと#WS122が組んだ以上
+JP 　最後まで勝利で突っ走るぜ！
+JP 　例え相手がユー達でもな！
+EN Hansen:
+EN "Hey! With me and Vader together,
+EN  we're running the table to the end!
+EN  Even against you!"
+
+@ 003
+JP 「ウィィィィィィッ！
+EN "WHEEEEEEE!"
+
+@ 004
+JP #WS122の巨体を活かしたパワー殺法。
+JP それに呼応するかのように
+JP 往年の強さが蘇えった#WS051。
+EN Vader's power offense, built on his
+EN huge frame. And Hansen, his old
+EN strength revived as if in answer.
+
+@ 005
+JP とてつもなく恐ろしいタッグチームだ。
+JP しかし全勝のまま終わらせる訳には行かない。
+EN A terrifying tag team. But we can't let
+EN them finish unbeaten.
+
+@ 006
+JP #MS：
+JP 「そうは行くか！
+JP 　本戦の屈辱を晴らして
+JP 　俺達が優勝してみせる！
+EN #MS:
+EN "Not a chance! We'll avenge that
+EN  league loss and win the whole thing!"

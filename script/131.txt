@@ -1,0 +1,159 @@
+@ 000
+JP 坂上：
+JP 「#MS・・・
+JP 　今日は最高の試合だったぜ。
+EN Sakagami:
+EN "#MS... That was one hell of a
+EN  match today."
+
+@ 001
+JP #MS：
+JP 「そうだな。
+EN #MS:
+EN "Yeah."
+
+@ 002
+JP 坂上：
+JP 「ただ、これで終わらせちゃダメだ。
+JP 　ここから始めるんだ、俺達の闘いを！
+JP 　実現させよう、シングルを！
+EN Sakagami:
+EN "But we can't let it end here. Our
+EN  fight starts now! Let's make the
+EN  single happen!"
+
+@ 003
+JP #MS：
+JP 「ああ、必ずな！
+EN #MS:
+EN "Yeah, no matter what!"
+
+@ 004
+JP この大会は記録的な盛り上がりの中幕を閉じ、
+JP 話題性も高い上に白熱した俺達の試合は
+JP 高い評価を受けた。
+EN The show closed amid record
+EN excitement, and our hyped-up,
+EN red-hot match drew rave reviews.
+
+@ 005
+JP #WS059：
+JP 「この間は良くやってくれたな。
+EN Baba:
+EN "You did well the other day."
+
+@ 006
+JP #MS：
+JP 「いえ、#WS059社長が
+JP 　実現させてくれたからこそ、
+JP 　出来た試合ですから。
+EN #MS:
+EN "No, sir. That match only happened
+EN  because you made it happen."
+
+@ 007
+JP #WS059：
+JP 「フフ、そう言ってくれると俺も
+JP 　やった甲斐があると思えるよ。
+EN Baba:
+EN "Heh, hearing that makes it feel worth
+EN  it."
+
+@ 008
+JP 「で、本題だが、次期シリーズの最終戦で
+JP 　三冠戦をやるんだが、挑戦者が
+JP 　まだ決まってない。
+EN "Now, to business. Next series closes
+EN  with a Triple Crown match, and
+EN  there's no challenger yet."
+
+@ 009
+JP 「勢いを買ってお前か、実績をとって
+JP 　#WS041か・・・・だから中盤で
+JP 　挑戦者決定戦をやってもらう。
+EN "You, for your momentum, or Kobashi,
+EN  for his record.... So we'll hold a No. 1
+EN  contender's match midway."
+
+@ 010
+JP #MS：
+JP 「挑戦者決定戦・・・
+EN #MS:
+EN "A No. 1 contender's match..."
+
+@ 011
+JP それに勝てば遂に三冠王座に挑戦出来るのか！
+JP しかし・・・・
+EN Win it, and I finally get a Triple
+EN Crown shot! But....
+
+@ 012
+JP #WS059：
+JP 「もし勢いだけでも#WS041に
+JP 　勝つ事が出来れば誰も文句は言わんだろう。
+EN Baba:
+EN "If you can beat Kobashi, even on
+EN  momentum alone, nobody will
+EN  complain."
+
+@ 013
+JP そう、相手はあの#WS041さんだ。
+JP 果たして今の俺に勝てるのだろうか・・・
+EN That's right, it's Kobashi. Can I really
+EN beat him as I am now...
+
+@ 014
+JP #WS059：
+JP 「どうした、もう尻込みしてるのか？
+EN Baba:
+EN "What's wrong? Getting cold feet
+EN  already?"
+
+@ 015
+JP #MS：
+JP 「いえ！三冠初挑戦目指して、頑張ります！
+EN #MS:
+EN "No, sir! I'll fight for my first Triple
+EN  Crown shot!"
+
+@ 016
+JP #WS059：
+JP 「そうだ。若いうちってのはそうでなきゃ
+JP 　ダメだよ。負けたらどうの、なんて
+JP 　考えないで思いっきりやればいい。
+EN Baba:
+EN "That's it. That's how the young
+EN  should be. Don't worry about losing.
+EN  Just go all out."
+
+@ 017
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 018
+JP #WS041：
+JP 「遂にここまで来たか、#MS。
+JP 　お前とこういう舞台でシングルマッチ・・・
+JP 　とても楽しみだよ。
+EN Kobashi:
+EN "So you've made it this far, #MS.
+EN  A single with you on a stage like
+EN  this... I can't wait."
+
+@ 019
+JP #MS：
+JP 「今日は俺の全てをあなたにぶつけて・・・
+JP 　そして勝ちます！
+EN #MS:
+EN "Today I'll throw everything I have at
+EN  you... and win!"
+
+@ 020
+JP #WS041：
+JP 「俺も、俺の持てる全てをもって
+JP 　その思いに応えよう・・・・・来い！
+EN Kobashi:
+EN "And I'll answer you with everything
+EN  I have..... Come on!"

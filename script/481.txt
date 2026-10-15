@@ -1,0 +1,77 @@
+@ 000
+JP #WS088：
+JP 「随分派手にやったな？
+EN Fuji:
+EN "Pretty wild match, huh?"
+
+@ 001
+JP #MS：
+JP 「そうですかね・・・
+EN #MS:
+EN "I guess..."
+
+@ 002
+JP #WS088：
+JP 「股押さえて言う事じゃないぞ。
+EN Fuji:
+EN "Hard to look cool holding your
+EN  crotch."
+
+@ 003
+JP #MS：
+JP 「だってあいつ２回も３回も・・・・
+EN #MS:
+EN "He got me there two, three times...."
+
+@ 004
+JP #WS088：
+JP 「まあ、ああいう連中もいるって事だよ。
+JP 　勉強にはなっただろ。
+EN Fuji:
+EN "Well, there are guys like that. Call it
+EN  a lesson."
+
+@ 005
+JP #MS：
+JP 「はい・・・・
+EN #MS:
+EN "Yes...."
+
+@ 006
+JP 今日の相手は#WS087選手だ。
+EN Today's opponent is Gedo.
+
+@ 007
+JP #WS071軍の一員としてヒールぶりを
+JP 発揮している。
+EN He's been showing his heel colors as
+EN part of Fuyuki-gun.
+
+@ 008
+JP 個人としてもテクニックと
+JP インサイドワークに長けており
+JP 簡単に勝てる相手ではないだろう。
+EN On his own he's skilled at technique
+EN and ring smarts. He won't be easy to
+EN beat.
+
+@ 009
+JP #WS087：
+JP 「お前なんかには#WS089あたりが
+JP 　お似合いなんだよ。
+EN Gedo:
+EN "A guy like you is about Orihara's
+EN  level."
+
+@ 010
+JP 「本当なら相手になんかしてやらない
+JP 　ところなんだからな。ありがたく思えよ。
+EN "Normally I wouldn't even give you
+EN  the time of day. Be grateful."
+
+@ 011
+JP #MS：
+JP 「勝って、そんな口聞けなくしてやる！
+EN #MS:
+EN "I'll win and shut that mouth of
+EN  yours!"

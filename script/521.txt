@@ -1,0 +1,213 @@
+@ 000
+JP #WL026：
+JP 「良いだろう。面倒見てやる。
+JP 　だが果たしていつまで耐えられるか・・・
+EN Yamamoto:
+EN "Fine. I'll take you on. But how long
+EN  you'll last..."
+
+@ 001
+JP 「『根性を見てくれ』等とぬかす輩は
+JP 　いくらでもいる。だが・・・
+EN "Plenty of punks come in here saying
+EN  'just let me show you my guts.' But..."
+
+@ 002
+JP 「本当の根性を持っている奴は
+JP 　ほんの一握りしかいない。
+EN "Only a handful of them have real
+EN  guts."
+
+@ 003
+JP 「見せてみろ、お前の根性を！
+EN "So show me. Show me your guts!"
+
+@ 004
+JP 坂上：
+JP 「なあ。
+EN Sakagami:
+EN "Hey."
+
+@ 005
+JP 「良く考えたら、お前とも
+JP 　ここで一旦お別れだな。
+EN "Come to think of it, this is goodbye
+EN  for us too, for now."
+
+@ 006
+JP 「いつか・・・・
+EN "Someday..."
+
+@ 007
+JP 「いつか俺達２人がビッグになって、
+JP 　どこかの大会場のメインイベントで
+JP 　ぶつかりあえたら・・・・
+JP 　最高だよな。
+EN "Someday, if we both make it big and
+EN  clash in a main event at some huge
+EN  arena.... That'd be the best."
+
+@ 008
+JP 「へっ、それまでにちゃんと
+JP 　ビッグになっとけよ！
+EN "Heh, make sure you've made it big by
+EN  then!"
+
+@ 009
+JP 「へへへ・・・じゃあな。
+EN "Heh heh... See ya."
+
+@ 010
+JP #WS101：
+JP 「ヘイ！
+JP 　この#WS101様にここまでして
+JP 　ただで済むとは思っていないだろうな！
+EN Hogan:
+EN "Hey! You don't think you can do this
+EN  to the great Hogan and get away with
+EN  it, do ya!"
+
+@ 011
+JP 「さっきは不意をつかれたが今度は
+JP 　そうは行かないぜ。
+EN "You caught me off guard before, but
+EN  not this time."
+
+@ 012
+JP 「それとヤングボーイ！よくもこの
+JP 　#WS101様を殴ってくれたな！
+EN "And you, young boy! How dare you
+EN  hit the great Hogan!"
+
+@ 013
+JP 「次のペイ・パー・ビュー大会、
+JP 　ユーとやってやる！
+JP 　首を洗って待っているんだな！
+EN "At the next pay-per-view, I'm
+EN  taking you on! Get ready, brother!"
+
+@ 014
+JP #WS076：
+JP 「何を言ってるんじゃ！
+JP 　お前がついて来てどうする！
+EN Onita:
+EN "What're you sayin'! What good is it if
+EN  you come with me!"
+
+@ 015
+JP 「ワシは・・・ワシはなぁ！
+JP 　死に場所を求めて出て行くんじゃ！
+JP 　若いお前を道連れにする訳には行かん！
+EN "I... I'm leavin' to find a place to die! I
+EN  can't drag a young guy like you down
+EN  with me!"
+
+@ 016
+JP 「本気か！お前は本気なのか！？
+JP 　それでいいのか！？
+EN "You mean it! You really mean it!?
+EN  You're okay with that!?"
+
+@ 017
+JP 「オイ#MS！#MS！お前は、
+JP 　お前はバカじゃ！本物のバカじゃ！
+EN "Hey, #MS! #MS! You're...
+EN  you're an idiot! A real, honest idiot!"
+
+@ 018
+JP #WS151：
+JP 「この間は大変でしたね。
+EN Ishikawa:
+EN "That was rough the other day."
+
+@ 019
+JP 「俺は盛り上がった上に
+JP 　新しい話題が出来て嬉しいですよ！
+EN "For me, it got the crowd going and
+EN  gave us new buzz. I'm happy!"
+
+@ 020
+JP 「で、#MSさんには色々外からの
+JP 　話が来てるんですよ。
+EN "So, #MS, you've been getting all
+EN  kinds of offers from outside."
+
+@ 021
+JP 「たぶんこれから忙しくなると思うんで
+JP 　今度俺とシングルやっておきましょう！
+EN "You'll probably get busy from here,
+EN  so let's have a singles match soon!"
+
+@ 022
+JP #WS165：
+JP 「そうか。じゃあ俺んとこに来ないか？
+EN Takada:
+EN "I see. Then why not come with me?"
+
+@ 023
+JP 「俺は昔の#WS012さんのような、
+JP 　緊張感や殺気を感じさせるような試合を
+JP 　やって行きたいと思ってる。
+EN "I want to put on matches with the
+EN  tension and killer vibe Inoki used to
+EN  have."
+
+@ 024
+JP 「それと異種格闘技戦をやって
+JP 　プロレスが最強の格闘技である事を
+JP 　証明して行きたいんだ。
+EN "And I want to do mixed fights and
+EN  prove pro wrestling is the strongest
+EN  fighting art."
+
+@ 025
+JP 「団体名はＵＷＨインテグラル。
+EN "The promotion's called UWF
+EN  International."
+
+@ 026
+JP 「今すぐとは言わないから、
+JP 　近い内に返事をくれ。
+EN "I don't need it now. Give me an
+EN  answer soon."
+
+@ 027
+JP #WS171：
+JP 「正直言って私はかなり驚いているよ。
+JP 　まさかユーとこう言う形で再会するとはね。
+EN Smith:
+EN "Honestly, I'm quite surprised. I never
+EN  thought we'd meet again like this."
+
+@ 028
+JP 「以前の発言を改めよう。ユーはヤングボーイ
+JP 　では無い。ミーのリスペクトに値する
+JP 　立派なファイターだ。
+EN "I take back what I said before. You're
+EN  no young boy. You're a fine fighter
+EN  worthy of my respect."
+
+@ 029
+JP 「ユーの実力を認めた以上、ミーも始めから
+JP 　１００％で行く。前と同じと思うなよ！
+EN "Now that I know your strength, I'm
+EN  going 100% from the start. Don't think
+EN  it'll be like last time!"
+
+@ 030
+JP #WS172：
+JP 「遂にこの日が来た訳や。
+EN Satake:
+EN "So this day's finally come."
+
+@ 031
+JP 「ハハハ、遠慮なんぞしとるようなら
+JP 　秒殺でっせ！
+EN "Ha ha ha, hold back and you'll get
+EN  KO'd in seconds!"
+
+@ 032
+JP 「へへ、何かワクワクして来よったで。
+JP 　ほんじゃま、行きまっせ！
+EN "Heh heh, I'm gettin' all excited. Well
+EN  then, here I come!"

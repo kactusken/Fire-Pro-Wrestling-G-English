@@ -1,0 +1,114 @@
+@ 000
+JP 記者：
+JP 「どうですか？
+JP 　ＪＥＮの一員としての試合は？
+EN Reporter:
+EN "How do you like fighting as a
+EN  member of ZEN?"
+
+@ 001
+JP #MS：
+JP 「何処からもかなり敵視されてるんで
+JP 　大変ですけど、毎日充実してますよ。
+EN #MS:
+EN "Everybody's got it in for us, so it's
+EN  tough, but every day's rewarding."
+
+@ 002
+JP 記者：
+JP 「#WS071軍がＪＥＮを解散させると
+JP 　意気込んでいますね？
+EN Reporter:
+EN "The Fuyuki-gun is fired up about
+EN  breaking up ZEN."
+
+@ 003
+JP #MS：
+JP 「そうみたいですね。
+EN #MS:
+EN "Looks like it."
+
+@ 004
+JP 記者：
+JP 「両軍団の解散を賭けた試合が
+JP 　行われる事になりました。
+EN Reporter:
+EN "A match has been set with the
+EN  breakup of both groups on the line."
+
+@ 005
+JP ・あんな奴等相手にしたくない。
+JP ・やってやりますよ！
+EN ・"I don't want to deal with them."
+EN ・"Bring it on!"
+
+@ 006
+JP #MS：
+JP 「あんなおふざけ軍団、
+JP 　相手にしたく無いですよ。
+EN #MS:
+EN "I don't even want to deal with a
+EN  bunch of clowns like that."
+
+@ 007
+JP 「自分達の闘いを茶化されてるみたいで
+JP 　不愉快なんですよね。
+EN "It feels like they're mocking how we
+EN  fight. It's insulting."
+
+@ 008
+JP #MS：
+JP 「いつでも良いですよ。
+JP 　やってやりますよ！
+EN #MS:
+EN "Anytime. Bring it on!"
+
+@ 009
+JP 「いつまでも
+JP 　ガタガタぬかしてるみたいだから
+JP 　キッチリとカタつけますよ！
+EN "They just keep running their
+EN  mouths, so we'll settle it once and for
+EN  all!"
+
+@ 010
+JP 記者：
+JP 「ありがとうございました！
+EN Reporter:
+EN "Thank you very much!"
+
+@ 011
+JP 今日の試合は#WS069とのシングルだ。
+JP 最近の頑張りは眼を見張るものがあり、
+JP 近々シングルのベルトに挑戦するらしい。
+EN Today: singles with Tanaka. He'd been
+EN on fire lately, and a singles title shot
+EN was coming.
+
+@ 012
+JP ここで俺が倒しておけば
+JP 俺の株も上がるだろう。
+EN If I beat him here, my stock would go
+EN up.
+
+@ 013
+JP #WS069：
+JP 「お前とは軍団の枠を越えた同期としての
+JP 　熱い闘いがしたい！
+EN Tanaka:
+EN "I want a hot fight with you as guys
+EN  from the same class, factions aside!"
+
+@ 014
+JP #MS：
+JP 「望むところだよ！個人として、
+JP 　ＪＥＮの一員として、お前をここで倒す！
+EN #MS:
+EN "You're on! As myself, and as a
+EN  member of ZEN, I'll beat you here!"
+
+@ 015
+JP #WS069：
+JP 「よし、来い！！
+EN Tanaka:
+EN "All right, come on!!"

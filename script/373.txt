@@ -1,0 +1,47 @@
+@ 000
+JP 俺にチャンスが訪れた。
+EN My chance had come.
+
+@ 001
+JP キング・オブ・#PS10の
+JP 挑戦者決定戦に出る事になったのだ。
+EN I'm in the match to decide the next
+EN challenger for the King of #PS10.
+
+@ 002
+JP そう、相手は#WS155さんだ。
+JP 最近では殺気を感じさせるようになった。
+EN Yes, against Suzuki. Lately he's been
+EN giving off real bloodlust.
+
+@ 003
+JP ファンもその危険な香りに魅力を感じて
+JP 熱い声援を送っている。
+EN The fans love that scent of danger
+EN and cheer him on like crazy.
+
+@ 004
+JP #WS155：
+JP 「俺のスタイルは#WS154さんの言う
+JP 　ハイブリッドレスリングとは少し違うかも
+JP 　しれない。
+EN Suzuki:
+EN "My style may be a little different
+EN  from the 'hybrid wrestling' Funaki
+EN  talks about."
+
+@ 005
+JP 「だが今の俺のスタイルこそが、今まで
+JP 　求め続けて来たものだ。だから俺は
+JP 　このスタイルで勝ってみせる！
+EN "But my style now is what I've always
+EN  been searching for. And I'll win with
+EN  it!"
+
+@ 006
+JP #MS：
+JP 「なら俺も自分の全てをもって
+JP 　それに応えて見せましょう！
+EN #MS:
+EN "Then I'll answer it with everything
+EN  I've got!"

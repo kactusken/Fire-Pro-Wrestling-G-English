@@ -1,0 +1,189 @@
+@ 000
+JP 俺達は今シリーズ、タッグを中心とした
+JP 闘いをする事になっていた。
+EN This series, we were set to fight
+EN mainly as a tag team.
+
+@ 001
+JP 坂上：
+JP 「なあ、#MS。
+EN Sakagami:
+EN "Hey, #MS."
+
+@ 002
+JP #MS：
+JP 「何だ？
+EN #MS:
+EN "What?"
+
+@ 003
+JP 坂上：
+JP 「俺達が今シリーズ暴れまくるだろ？
+JP 　それで最高の結果を出したとして、
+JP 　最後に何が残る？
+EN Sakagami:
+EN "Say we tear it up this series and get
+EN  the best possible result. What do we
+EN  have at the end?"
+
+@ 004
+JP #MS：
+JP 「まあ新設されるタッグ王座のベルトかな・・・
+EN #MS:
+EN "Well, the belts for the new tag titles,
+EN  I guess..."
+
+@ 005
+JP 坂上：
+JP 「どう思う？
+EN Sakagami:
+EN "What do you think?"
+
+@ 006
+JP #MS：
+JP 「確かに・・・・俺達の目標から考えると
+JP 　獲物は小さ過ぎるかもしれないな。
+EN #MS:
+EN "Yeah.... Considering our goals, that
+EN  might be too small a prize."
+
+@ 007
+JP 坂上：
+JP 「他にもっと何かビッグな事を
+JP 　やりたいと思わないか？
+EN Sakagami:
+EN "Don't you want to do something
+EN  bigger?"
+
+@ 008
+JP #MS：
+JP 「確かにそうだな・・・・
+EN #MS:
+EN "You've got a point...."
+
+@ 009
+JP 坂上：
+JP 「何が良いと思う？
+EN Sakagami:
+EN "What do you think would work?"
+
+@ 010
+JP #MS：
+JP 「#PS01四天王と対戦、ってのはどうだ？
+EN #MS:
+EN "How about taking on #PS01's
+EN  Four Pillars?"
+
+@ 011
+JP 坂上：
+JP 「そうだな・・・それなら完全に不可能ではない
+JP 　上に俺達の目的にもマッチしてる。
+EN Sakagami:
+EN "Yeah... That's not totally impossible,
+EN  and it fits our goals."
+
+@ 012
+JP #MS：
+JP 「決まりだな！
+EN #MS:
+EN "Then it's settled!"
+
+@ 013
+JP 俺達は統一機構を通し、#PS01に
+JP 対戦要求を出す事にした。
+EN Through the commission, we sent
+EN #PS01 a challenge.
+
+@ 014
+JP #WS059：
+JP 「まあ、ウチとしても色々検討したけど、
+JP 　とりあえず来るものは拒まないと言う事でね。
+JP 　始めはＧＯサインを出しましょう、と。
+EN Baba:
+EN "Well, we gave it a lot of thought, but
+EN  we don't turn away challengers. So
+EN  we'll give it the go-ahead, to start."
+
+@ 015
+JP 「その後どうなって行くかは
+JP 　お前達次第と言う事だよ。
+EN "Where it goes from there is up to you
+EN  two."
+
+@ 016
+JP #MS：
+JP 「はい！頑張らせてもらいます！
+EN #MS:
+EN "Yes, sir! We'll give it our all!"
+
+@ 017
+JP 坂上：
+JP 「頑張ります！
+EN Sakagami:
+EN "We'll do our best!"
+
+@ 018
+JP #WS059：
+JP 「期待はしているよ。
+JP 　対戦カードも近い内に決めよう。
+JP 　一応希望に添った形にはするつもりだ。
+EN Baba:
+EN "I have high hopes. We'll set the card
+EN  soon. I intend to give you what you
+EN  asked for."
+
+@ 019
+JP #MS＆坂上：
+JP 「ありがとうございます！
+EN #MS & Sakagami:
+EN "Thank you very much!"
+
+@ 020
+JP 俺達を待っていたのは異例の好カードだった。
+EN What awaited us was an unusually
+EN great matchup.
+
+@ 021
+JP #WS041・#WS056組
+JP #WS056はともかく#WS041さんは、
+JP #PS01の看板レスラーだ。
+EN Kobashi and Mossman. Mossman aside,
+EN Kobashi was one of #PS01's top
+EN stars.
+
+@ 022
+JP #WS041：
+JP 「君達の活躍は聞いているよ。
+JP 　軍団どうこうを超えた、素晴らしい試合を
+JP 　するらしいじゃないか。
+EN Kobashi:
+EN "I've heard about you two. They say
+EN  you have great matches that go
+EN  beyond faction lines."
+
+@ 023
+JP 「期待しているよ。
+EN "I'm looking forward to it."
+
+@ 024
+JP #MS：
+JP 「俺達はプロレス界に革命を起こす為の闘いを
+JP 　仕掛けて行きます！
+EN #MS:
+EN "We're fighting to start a revolution
+EN  in wrestling!"
+
+@ 025
+JP 「だから例え#PS01のリングの上でも、
+JP 　相手が誰であっても、アッと驚くような
+JP 　試合をしてみせますよ！
+EN "So even in the #PS01 ring,
+EN  whoever we face, we'll knock
+EN  everyone's socks off!"
+
+@ 026
+JP #WS041：
+JP 「よし！その熱い心を試合でぶつけて来い！
+EN Kobashi:
+EN "All right! Bring that burning heart
+EN  into the ring!"

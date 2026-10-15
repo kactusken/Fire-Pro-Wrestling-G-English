@@ -1,0 +1,406 @@
+@ 000
+JP #WL026：
+JP 「まあ初めてではこんなものか。
+EN Yamamoto:
+EN "Well, about what I'd expect for a
+EN  first time."
+
+@ 001
+JP 「期待はしていなかったがやはりまだまだだな。
+EN "I didn't expect much, and you've still
+EN  got far to go."
+
+@ 002
+JP 「近い内に公開スパーリングでもう一度
+JP 　やらせる。それまでに今日の自分の問題を
+JP 　少しでも直しておけ。
+EN "I'll have you do it again soon in an
+EN  open sparring session. Fix whatever
+EN  went wrong today before then."
+
+@ 003
+JP #MS＆坂上：
+JP 『はいっ！
+EN #MS & Sakagami:
+EN "Yes, sir!"
+
+@ 004
+JP #MS：
+JP 「ふう・・・・
+EN #MS:
+EN "Phew..."
+
+@ 005
+JP 坂上：
+JP 「相変わらず
+JP 　#WL026先生の
+JP 　評価は厳しいな。
+EN Sakagami:
+EN "Coach Yamamoto's as tough a grader
+EN  as ever."
+
+@ 006
+JP #MS：
+JP 「まあな。でも・・・
+EN #MS:
+EN "Yeah. But..."
+
+@ 007
+JP ・「いつか評価を変えて見せるさ！
+JP ・「割といい試合だったと思ったんだけどな。
+JP ・「ちょっと辛口過ぎだろ。
+EN ・"One day I'll change his mind!"
+EN ・"I thought that match went well."
+EN ・"He's being way too harsh."
+
+@ 008
+JP 坂上：
+JP 「そうだな。頑張らないとな。
+EN Sakagami:
+EN "Yeah. We'd better work hard."
+
+@ 009
+JP 「史上最低の弟子じゃ格好悪いもんな。
+EN "Being his worst student ever would
+EN  be pretty lame."
+
+@ 010
+JP #MS：
+JP 「おう。
+EN #MS:
+EN "Yeah."
+
+@ 011
+JP 坂上：
+JP 「まあ俺もそうは思ってるけどな。
+EN Sakagami:
+EN "Well, I feel the same way."
+
+@ 012
+JP 「でもプロってのはそれだけ厳しいって事だろ。
+EN "But that just shows how tough it is
+EN  to be a pro."
+
+@ 013
+JP #MS：
+JP 「そうだな。
+EN #MS:
+EN "I guess so."
+
+@ 014
+JP 坂上：
+JP 「そう言うなよ。
+EN Sakagami:
+EN "Don't say that."
+
+@ 015
+JP 「プロでやって行くってのはそれだけ
+JP 　大変な事だって事だろ。
+EN "It just means making it as a pro is
+EN  that hard."
+
+@ 016
+JP #MS：
+JP 「まあ、そうなんだろうけどな。
+EN #MS:
+EN "Well, I suppose so."
+
+@ 017
+JP 坂上：
+JP 「へへへ・・・
+EN Sakagami:
+EN "Heh heh heh..."
+
+@ 018
+JP 「今回は負けたけど次は勝つぜ。
+EN "You won this time, but I'll win next."
+
+@ 019
+JP #MS：
+JP 「へっ、返り討ちだな。
+EN #MS:
+EN "Heh, I'll just beat you again."
+
+@ 020
+JP 坂上：
+JP 「ちきしょう、覚えてろよ。
+EN Sakagami:
+EN "Dammit, you'll pay for this."
+
+@ 021
+JP #MS：
+JP 「今日寝るまでならな。
+EN #MS:
+EN "Sure. I'll remember till bedtime."
+
+@ 022
+JP 「俺の勝ちだな。
+EN "I win."
+
+@ 023
+JP #MS：
+JP 「今度は絶対勝ってやるからな。
+EN #MS:
+EN "Next time I'm beating you for sure."
+
+@ 024
+JP 坂上：
+JP 「へへっ、連勝記録作ってやるさ。
+EN Sakagami:
+EN "Heh, I'll start a winning streak."
+
+@ 025
+JP #MS：
+JP 「そうは行かねえぞ、ちくしょう。
+EN #MS:
+EN "Not a chance, dammit."
+
+@ 026
+JP 坂上：
+JP 「しかし・・・・
+EN Sakagami:
+EN "Still..."
+
+@ 027
+JP 「#WL026先生、
+JP 　公開スパーリングとか言ってなかったか？
+EN "Didn't Coach Yamamoto say
+EN  something about open sparring?"
+
+@ 028
+JP #MS：
+JP 「言ってたな。誰に公開するんだ？
+EN #MS:
+EN "He did. Open to who, though?"
+
+@ 029
+JP 坂上：
+JP 「入門希望者とかじゃないのか？
+JP 　俺達のスパーリング見に来る奴なんて
+JP 　いないだろ。
+EN Sakagami:
+EN "People who want to join, maybe?
+EN  Nobody's gonna come watch the two
+EN  of us spar."
+
+@ 030
+JP #MS：
+JP 「そうだな。
+EN #MS:
+EN "Guess not."
+
+@ 031
+JP だが俺達は、
+JP この時の自分の考えが間違っていた事を
+JP 数日後に知る事になったのだ・・・
+EN But a few days later, we would find
+EN out how wrong we were...
+
+@ 032
+JP 坂上：
+JP 「#WL026先生の
+JP 　車の音じゃないぞ？
+EN Sakagami:
+EN "That's not the sound of Coach
+EN  Yamamoto's car."
+
+@ 033
+JP ？：
+JP 「こんちわー。
+EN ???:
+EN "Hello-o."
+
+@ 034
+JP #MS＆坂上：
+JP 『え！？
+EN #MS & Sakagami:
+EN "Huh!?"
+
+@ 035
+JP 何とそこに現れたのは、
+JP 先日現役を退いたばかりの
+JP #WF013さんだった。
+EN Standing there, of all people, was Riki
+EN Choshu, who had only just retired.
+
+@ 036
+JP #WS013：
+JP 「何だ、まだ#WS026さん
+JP 　来てないのか？
+EN Choshu:
+EN "What, Mr. Yamamoto isn't here yet?"
+
+@ 037
+JP マサ：
+JP 「ちょっと早かったか。
+EN Masa:
+EN "Guess we're a bit early."
+
+@ 038
+JP その後ろに控えていたのはあの
+JP ゾンビ・マサさんだ。
+EN And behind him was none other than
+EN Masa Saito.
+
+@ 039
+JP 坂上：
+JP 「ど、どどどどうなってるんだ？
+EN Sakagami:
+EN "Wh-wh-wh-what's going on?"
+
+@ 040
+JP #WS013：
+JP 「おう、お前等か。例の２人ってのは。
+EN Choshu:
+EN "Oh, it's you. You're the two guys."
+
+@ 041
+JP #MS＆坂上：
+JP 『は！？
+EN #MS & Sakagami:
+EN "Huh!?"
+
+@ 042
+JP #WS013：
+JP 「今日の公開スパーやるの、お前等だろ？
+EN Choshu:
+EN "You're the ones in today's open spar,
+EN  right?"
+
+@ 043
+JP #MS：
+JP 「あ、あの・・・
+EN #MS:
+EN "Um, well..."
+
+@ 044
+JP #WL026：
+JP 「おう、来とったか。
+EN Yamamoto:
+EN "Oh, you made it."
+
+@ 045
+JP #WS013：
+JP 「こんちわ。
+JP 　２人には何も言ってないんですか？
+EN Choshu:
+EN "Hello. You didn't tell them
+EN  anything?"
+
+@ 046
+JP #WL026：
+JP 「内容に関してはな。
+EN Yamamoto:
+EN "Not about this, no."
+
+@ 047
+JP 「この程度で緊張して何も出来なかったら
+JP 　そこまでの連中だと言う事だ。
+EN "If something like this rattles them so
+EN  they can't do a thing, then that's all
+EN  they are."
+
+@ 048
+JP #WS013：
+JP 「フフッ、相変わらず厳しいですね。
+EN Choshu:
+EN "Heh, tough as ever."
+
+@ 049
+JP その後も大変だった。
+EN And it only got worse.
+
+@ 050
+JP #PL01の
+JP #WF060さん。
+EN From #PL01, Jumbo Tsuruta.
+
+@ 051
+JP #PL02の
+JP #WF088さん。
+EN From #PL02, Ricky Fuji.
+
+@ 052
+JP #PL04の
+JP #WF092さん。
+EN From #PL04, The Great Sasuke.
+
+@ 053
+JP ＵＷＨの
+JP #WF149さん。
+EN From UWF, Akira Maeda.
+
+@ 054
+JP 挙句の果てにはマスコミの人まで
+JP 来ていた。
+EN To top it all off, even the press had
+EN shown up.
+
+@ 055
+JP 呆然とする俺と坂上を尻目に、「お客さん」達は
+JP それぞれリングの方を向いて待っている。
+EN While Sakagami and I stood stunned,
+EN the "guests" all turned to the ring and
+EN waited.
+
+@ 056
+JP #WL026：
+JP 「そろそろ始めるぞ。
+EN Yamamoto:
+EN "Time to start."
+
+@ 057
+JP #MS：
+JP 「・・・・・・・・・
+EN #MS:
+EN "........."
+
+@ 058
+JP 坂上：
+JP 「・・・・・・・・・
+EN Sakagami:
+EN "........."
+
+@ 059
+JP #WL026：
+JP 「呆然としとる場合か！
+JP 　ここで自分の全てを見せてみろ！
+EN Yamamoto:
+EN "This is no time to stand there gaping!
+EN  Show them everything you've got!"
+
+@ 060
+JP 「そして立ち居並ぶプロ達の目に
+JP 　自分を焼き付けてみせろ！
+EN "And burn yourselves into the eyes of
+EN  all the pros lined up here!"
+
+@ 061
+JP 「この#WF026の
+JP 　しごきにここまで耐えてきたお前達になら
+JP 　出来るはずだ！
+EN "You two survived the drilling of
+EN  Kotetsu Yamamoto this long. You can
+EN  do it!"
+
+@ 062
+JP 「さあ、行ってこい！！
+EN "Now get in there!!"
+
+@ 063
+JP #MS＆坂上：
+JP 『は・・・はいっ！！
+EN #MS & Sakagami:
+EN "Y... Yes, sir!!"
+
+@ 064
+JP 坂上：
+JP 「よし、行くぜ#MS。
+EN Sakagami:
+EN "All right, let's go, #MS."
+
+@ 065
+JP #MS：
+JP 「おう。今までの成果、見せてやろうぜ！
+EN #MS:
+EN "Yeah. Let's show 'em our stuff!"

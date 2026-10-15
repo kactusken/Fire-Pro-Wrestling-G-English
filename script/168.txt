@@ -1,0 +1,46 @@
+@ 000
+JP 次の試合はＪＥＮとのタッグ戦だ。
+JP 新しいインディーの為には
+JP #WS076をぶっ潰すしかない！
+EN Next up was a tag match against ZEN.
+EN For a new indie scene, I had to crush
+EN Onita!
+
+@ 001
+JP #MS：
+JP 「おい！#WS076！
+JP 　お前みたいな旧世紀の遺物はな、
+JP 　この俺がぶっ潰してやるよ！
+EN #MS:
+EN "Hey! Onita! I'll crush a relic of the
+EN  last century like you myself!"
+
+@ 002
+JP #WS076：
+JP 「お前みたいな、お前みたいな
+JP 　青二才に、俺のぉ、俺の
+JP 　首が取れるのか！おい！
+EN Onita:
+EN "A greenhorn, a greenhorn like you
+EN  thinks you can take my head, my
+EN  head!? Huh!?"
+
+@ 003
+JP #MS：
+JP 「うるせぇポンコツ野郎！
+JP 　俺がもう一度引退させてやるよ！
+EN #MS:
+EN "Shut up, you old wreck! I'll retire you
+EN  all over again!"
+
+@ 004
+JP #WS074：
+JP 「頼むぜ、兄弟！
+EN Jado:
+EN "Count on ya, brother!"
+
+@ 005
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "You got it!"

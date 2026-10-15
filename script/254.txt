@@ -1,0 +1,242 @@
+@ 000
+JP 記者：
+JP 「#WS146選手、どうでしたか？
+EN Reporter:
+EN "How was Vrij?"
+
+@ 001
+JP #MS：
+JP 「そうですね。噂に違わぬ強さでした。
+EN #MS:
+EN "Well, he was every bit as strong as
+EN  they say."
+
+@ 002
+JP 記者：
+JP 「#PS07でのデビュー戦を
+JP 　白星で飾りました。
+EN Reporter:
+EN "You won your #PS07 debut!"
+
+@ 003
+JP #MS：
+JP 「今は素直に嬉しいですね。
+JP 　これからも頑張って行きますんで、
+JP 　よろしくお願いします！
+EN #MS:
+EN "Right now I'm just happy. I'll keep
+EN  working hard, so please keep
+EN  supporting me!"
+
+@ 004
+JP #WS149：
+JP 「よーやった！ホンマに勝ちよったか！
+EN Maeda:
+EN "Nice work! Ya really went and won!"
+
+@ 005
+JP #MS：
+JP 「何とか結果出せました。
+EN #MS:
+EN "I managed to pull it off."
+
+@ 006
+JP #WS149：
+JP 「よし！これからも
+JP 　この調子で行ったれや！
+EN Maeda:
+EN "All right! Keep it up just like this!"
+
+@ 007
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 008
+JP 記者：
+JP 「下馬評以上に
+JP 　#WS146選手を
+JP 　追い詰めましたね。
+EN Reporter:
+EN "You pushed Vrij harder than anyone
+EN  expected."
+
+@ 009
+JP #MS：
+JP 「正直勝ちたかったですけど、
+JP 　やれるだけの事はやったんで。
+JP 　そう言う部分での満足はしてます。
+EN #MS:
+EN "Honestly, I wanted to win, but I did
+EN  all I could. I'm satisfied with that
+EN  much."
+
+@ 010
+JP 「ただ全てはこれからなんでね。これから
+JP 　もっと#PS07を盛り上げて行って、
+JP 　素晴らしい団体にしたいと思ってます。
+EN "But it all starts now. I want to keep
+EN  building up #PS07 into a great
+EN  promotion."
+
+@ 011
+JP 「これからも頑張って行きますんで、
+JP 　よろしくお願いします！
+EN "I'll keep working hard, so please keep
+EN  supporting me!"
+
+@ 012
+JP その後の#PS07は
+JP その規模を徐々に拡大していった。
+EN After that, #PS07 slowly grew in
+EN size.
+
+@ 013
+JP レギュラーのオランダ勢に加え
+JP ロシア勢、グルジア勢等、どんどん人材を発掘。
+JP 試合もそれにつれてヒートアップして行った。
+EN Along with the Dutch regulars, it kept
+EN finding talent from Russia, Georgia
+EN and more. The matches heated up too.
+
+@ 014
+JP #WS141：
+JP 「#MSさん！
+EN Y. Yamamoto:
+EN "#MS!"
+
+@ 015
+JP #MS：
+JP 「ん？
+EN #MS:
+EN "Hm?"
+
+@ 016
+JP #MS：
+JP 「#WS141か。
+EN #MS:
+EN "Oh, Yamamoto."
+
+@ 017
+JP こいつは
+JP #WF141。
+EN This is Yoshihisa Yamamoto.
+
+@ 018
+JP 俺より半年遅れでデビューした。
+JP 今最も勢いのある若手と言って良いだろう。
+EN He debuted half a year after me. He's
+EN the hottest young guy around right
+EN now.
+
+@ 019
+JP #WS141：
+JP 「ギガバトルトーナメントが
+JP 　近づいて来ましたね！
+EN Y. Yamamoto:
+EN "The Mega Battle Tournament's
+EN  coming up!"
+
+@ 020
+JP #MS：
+JP 「そうだな・・・・
+EN #MS:
+EN "Yeah...."
+
+@ 021
+JP ギガバトルトーナメントとは、
+JP #PS07最強を決めるトーナメント戦だ。
+EN The Mega Battle Tournament decides
+EN the strongest in #PS07.
+
+@ 022
+JP #WS141：
+JP 「言っておきますけど、トーナメントと
+JP 　次期エースの座は俺が貰います。
+JP 　#MSさんには負けませんよ。
+EN Y. Yamamoto:
+EN "I'm telling you now, the tournament
+EN  and the next ace spot are mine. I
+EN  won't lose to you."
+
+@ 023
+JP #MS：
+JP 「気合が入ってるな。
+EN #MS:
+EN "You're fired up."
+
+@ 024
+JP #WS141：
+JP 「必ず俺と当たるまで上がって来て下さいよ。
+JP 　直接あなたを倒して俺の強さを証明します！
+EN Y. Yamamoto:
+EN "Make sure you win till you face me.
+EN  I'll prove my strength by beating you
+EN  myself!"
+
+@ 025
+JP #MS：
+JP 「俺だってそう簡単に負ける訳には行かないさ。
+JP 　お前こそ俺と当たるまで勝って来いよ。
+EN #MS:
+EN "I'm not losing that easily either. You
+EN  keep winning till you face me."
+
+@ 026
+JP #WS141：
+JP 「分かってますよ。それじゃあ。
+EN Y. Yamamoto:
+EN "I know. See you."
+
+@ 027
+JP そしていよいよトーナメントの日がやって来た。
+EN And at last, tournament day arrived.
+
+@ 028
+JP #WS149：
+JP 「どうや、今日の調子は？
+EN Maeda:
+EN "How ya feelin' today?"
+
+@ 029
+JP #MS：
+JP 「バッチリです。
+EN #MS:
+EN "Perfect."
+
+@ 030
+JP #WS149：
+JP 「そうか。相手は#WS168やからな。
+JP 　お前等の意地を見せてもらおうと思ってる。
+EN Maeda:
+EN "Good. You've got Nagai. I wanna see
+EN  what you two are made of."
+
+@ 031
+JP #MS：
+JP 「そうですね。
+EN #MS:
+EN "Right."
+
+@ 032
+JP #WS168は俺より少し前にデビューした
+JP 先輩ではあるが、ほとんど同期と言って
+JP 良いだろう。お互いライバル視し合う仲である。
+EN Nagai debuted a bit before me, but
+EN we're practically classmates, and we
+EN see each other as rivals.
+
+@ 033
+JP #WS149：
+JP 「出来ればお前か#WS168に決勝に
+JP 　出て来て欲しいもんやな。
+EN Maeda:
+EN "If I can, I'd like to see you or Nagai
+EN  in the final."
+
+@ 034
+JP #MS：
+JP 「頑張ります！
+EN #MS:
+EN "I'll do my best!"

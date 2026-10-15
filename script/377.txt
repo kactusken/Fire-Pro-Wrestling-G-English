@@ -1,0 +1,25 @@
+@ 000
+JP 俺は#WS155さんに敗れ、王座挑戦の
+JP チャンスを失ってしまった。残念だが仕方無い。
+JP チャンスはまた来るだろう。
+EN I lost to Suzuki and my title shot with
+EN it. It's a shame, but it happens.
+EN Another chance will come.
+
+@ 001
+JP 仕切り直しとなる今日の対戦相手は
+JP #WF157。
+JP #PS10最強の外人レスラーだ。
+EN To start fresh, today's opponent is Bas
+EN Rutten, the strongest foreigner in
+EN #PS10.
+
+@ 002
+JP #WN157の異名を持つ彼は
+JP #WS154さんにも勝っている実力者だ。
+EN The man they call "Instant-KO
+EN Soldier" has even beaten Funaki.
+
+@ 003
+JP 相手にとって不足は無い。
+EN He's a worthy opponent.

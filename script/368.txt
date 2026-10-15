@@ -1,0 +1,32 @@
+@ 000
+JP #WS155：
+JP 「トーナメントには負けちまったけど
+JP 　お前との試合なら悪くはないな。
+EN Suzuki:
+EN "I lost the tournament, but a match
+EN  with you isn't so bad."
+
+@ 001
+JP #MS：
+JP 「そう言っていただいて光栄ですよ。
+JP 　#WS155さんとの試合は久々ですから
+JP 　凄く楽しみです。
+EN #MS:
+EN "I'm honored you'd say that. It's been
+EN  a while since I faced you, so I'm
+EN  really looking forward to it."
+
+@ 002
+JP 「俺の成長ぶりを体で感じてもらいます！
+EN "I'll make you feel how much I've
+EN  grown!"
+
+@ 003
+JP #WS155：
+JP 「へへへ、言うじゃねぇか。
+EN Suzuki:
+EN "Heh heh heh, big talk."
+
+@ 004
+JP 「行くぜ！
+EN "Let's go!"

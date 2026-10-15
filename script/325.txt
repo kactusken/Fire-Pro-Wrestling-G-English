@@ -1,0 +1,303 @@
+@ 000
+JP #WS042：
+JP 「・・・・・・
+EN Kawada:
+EN "......"
+
+@ 001
+JP 試合後#WS042さんがまた
+JP 手を差し出して来た。俺も握り返す。
+EN After the match, Kawada held out his
+EN hand again. I took it.
+
+@ 002
+JP #MS：
+JP 「ありがとう・・・ございました。
+EN #MS:
+EN "Thank you... for the match."
+
+@ 003
+JP #WS042：
+JP 「・・・・またやろう。
+EN Kawada:
+EN ".... Let's do it again."
+
+@ 004
+JP #WS042選手にこのセリフを
+JP 言わせただけでも今回の収穫は
+JP あったと言えるだろう・・・
+EN Just getting those words out of
+EN Kawada made it all worth it...
+
+@ 005
+JP この一戦は本当に勉強になった。
+JP Ｕと言う一つのスタイルだけにこだわっていた
+JP 自分の視野の狭さを実感した。
+EN I learned so much from that one
+EN match. I realized how narrow I'd been,
+EN sticking only to the U style.
+
+@ 006
+JP それから俺は『Ｕ』と『王道』を上手く
+JP ミックスさせたスタイルを模索し始めた。
+EN After that, I began searching for a
+EN style blending "U" and the King's
+EN Road.
+
+@ 007
+JP 俺は#WS059社長に呼び出されていた。
+EN President Baba called me in.
+
+@ 008
+JP #WS059：
+JP 「別に悪い話じゃないんだから
+JP 　そんなに固くなる事無いだろう。
+EN Baba:
+EN "It's not bad news, so no need to be so
+EN  stiff."
+
+@ 009
+JP #MS：
+JP 「ハハハ、そうですね・・・で、
+JP 　今日は何のお話ですか？
+EN #MS:
+EN "Ha ha, right... So, what did you want
+EN  to talk about?"
+
+@ 010
+JP #WS059：
+JP 「お前、坂上と言うのを知ってるか？
+EN Baba:
+EN "Do you know someone named
+EN  Sakagami?"
+
+@ 011
+JP #MS：
+JP 「さ、坂上ですか？
+EN #MS:
+EN "S-Sakagami?"
+
+@ 012
+JP #WS059：
+JP 「知らんのか？
+EN Baba:
+EN "You don't?"
+
+@ 013
+JP #MS：
+JP 「いえ、坂上浩一なら知ってますけど・・・
+JP 　あいつがどうかしたんですか？
+EN #MS:
+EN "No, I know Koichi Sakagami... What
+EN  about him?"
+
+@ 014
+JP #WS059：
+JP 「実はウチに参戦して来たいと言ってるんだよ。
+EN Baba:
+EN "Actually, he says he wants to wrestle
+EN  for us."
+
+@ 015
+JP #MS：
+JP 「えっ・・・あいつは今何してるんです？
+EN #MS:
+EN "What... What's he doing now?"
+
+@ 016
+JP #WS059：
+JP 「ウチと提携してる#PS06にいる。
+EN Baba:
+EN "He's in #PS06, which works with
+EN  us."
+
+@ 017
+JP #MS：
+JP 「#PS06ですか！？
+JP 　確かにアメリカに行くって
+JP 　言ったきりだったけど・・・・
+EN #MS:
+EN "#PS06!? He did say he was going
+EN  to America, but then nothing...."
+
+@ 018
+JP #WS059：
+JP 「それでお前の事を聞いたらしくてな。
+EN Baba:
+EN "Seems he heard about you."
+
+@ 019
+JP #MS：
+JP 「そうですか・・・・・
+EN #MS:
+EN "I see....."
+
+@ 020
+JP 坂上は#WL026道場での
+JP 約束を果たしたいと考えているのだろう。
+EN Sakagami must want to keep the
+EN promise we made at the Yamamoto
+EN dojo.
+
+@ 021
+JP #WS059：
+JP 「その調子だと相手の近況は知らないようだな。
+JP 　どんな選手か参考意見を聞こうと
+JP 　思ったんだがな。
+EN Baba:
+EN "Sounds like you don't know how he's
+EN  doing. I wanted your take on what
+EN  kind of wrestler he is."
+
+@ 022
+JP #MS：
+JP 「済みません・・・・
+EN #MS:
+EN "Sorry...."
+
+@ 023
+JP #WS059：
+JP 「別に謝る事じゃないだろう。今度あっちに
+JP 　行くからその時に見て来るよ。
+EN Baba:
+EN "Nothing to apologize for. I'm going
+EN  over there soon. I'll have a look
+EN  then."
+
+@ 024
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes, sir."
+
+@ 025
+JP 俺はあれから坂上の事が気になって
+JP 落ち着かなかった。あいつはどんなレスラーに
+JP なっているのか、どんな技をぶつけて来るのか。
+EN Sakagami was all I could think about.
+EN What kind of wrestler was he now?
+EN What would he hit me with?
+
+@ 026
+JP 練習にも知らず知らず力がこもっていた。
+EN Without realizing it, I trained harder
+EN and harder.
+
+@ 027
+JP #WS040：
+JP 「ここにいたのか。
+EN Misawa:
+EN "There you are."
+
+@ 028
+JP #MS：
+JP 「あっ、#WS040さん。
+EN #MS:
+EN "Oh, Mr. Misawa."
+
+@ 029
+JP #WS040：
+JP 「随分力が入ってるな。
+EN Misawa:
+EN "You're really pushing yourself."
+
+@ 030
+JP #MS：
+JP 「い、いえ・・・・
+EN #MS:
+EN "N-no, not really...."
+
+@ 031
+JP #WS040：
+JP 「で、その原因であろう人物の参戦が
+JP 　決定したそうだ。
+EN Misawa:
+EN "Well, the guy who's probably the
+EN  reason just got booked."
+
+@ 032
+JP #MS：
+JP 「本当ですか！？
+EN #MS:
+EN "Really!?"
+
+@ 033
+JP #WS040：
+JP 「ああ。社長が早くお前に教えてやれ、って
+JP 　アメリカから電話をくれたよ。
+EN Misawa:
+EN "Yeah. The boss called from America
+EN  to tell you ASAP."
+
+@ 034
+JP #MS：
+JP 「そうですか・・・・・
+EN #MS:
+EN "I see....."
+
+@ 035
+JP #WS040：
+JP 「ま、気合入れ過ぎてケガするなよ。
+EN Misawa:
+EN "Just don't overdo it and get hurt."
+
+@ 036
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "I won't!"
+
+@ 037
+JP 坂上との再会は、
+JP タッグマッチのリングの上だった。
+EN My reunion with Sakagami came in
+EN the ring, in a tag match.
+
+@ 038
+JP カードは#WS044・坂上組対
+JP #MS・#WS049組。
+EN The card: Akiyama & Sakagami vs.
+EN #MS & Takayama.
+
+@ 039
+JP #MS：
+JP 「坂上！
+EN #MS:
+EN "Sakagami!"
+
+@ 040
+JP 坂上：
+JP 「#MS！久しぶりだな。
+EN Sakagami:
+EN "#MS! Long time no see."
+
+@ 041
+JP 「ＵＷＨとアメリカ・・・・全く違う方向に
+JP 　向かった俺達が、そのどちらでもない
+JP 　リングの上で闘う事が出来るなんてな。
+EN "UWF and America... we went
+EN  opposite ways, and now we get to
+EN  fight in a ring that's neither."
+
+@ 042
+JP 「俺は運命とやらを信じてみたくなったよ。
+EN "Makes me want to believe in fate."
+
+@ 043
+JP #MS：
+JP 「そうだな！こうしてお前とまた
+JP 　向かい合えるんだからな。
+EN #MS:
+EN "Yeah! Here I am, facing you again."
+
+@ 044
+JP 「今日はタッグだけど、今のお前の全てを
+JP 　俺にぶつけて来い！
+EN "It's a tag today, but hit me with
+EN  everything you've got now!"
+
+@ 045
+JP 坂上：
+JP 「望むところだ！行くぜ！
+EN Sakagami:
+EN "You're on! Here I come!"

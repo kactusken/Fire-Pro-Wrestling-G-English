@@ -1,0 +1,53 @@
+@ 000
+JP 交流戦が盛んになると同時に#PS10は
+JP ノールール系の試合に意欲的に取り組み始め、
+JP 大会でも必ず何試合か組まれるようになった。
+EN As the series boomed, #PS10 took
+EN on no-rules fights in earnest, with a
+EN few on every card.
+
+@ 001
+JP #WS154：
+JP 「#MS、バーリトゥードニッポンから
+JP 　お前に出場要請が来たぞ。
+EN Funaki:
+EN "#MS, Vale Tudo Japan wants
+EN  you on their card."
+
+@ 002
+JP #MS：
+JP 「えっ？
+EN #MS:
+EN "Huh?"
+
+@ 003
+JP #WS154：
+JP 「対戦相手は
+JP 　#WF170で
+JP 　どうか、と聞いてきてる。
+EN Funaki:
+EN "They're asking how you'd feel about
+EN  Gerard Gordeau."
+
+@ 004
+JP #MS：
+JP 「これまたビッグネームですね。
+JP 　分かりました、出ます！
+EN #MS:
+EN "Another big name. All right, I'm in!"
+
+@ 005
+JP #WS154：
+JP 「そうか。じゃあ返事をしておく。
+EN Funaki:
+EN "Okay. I'll let them know."
+
+@ 006
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Thanks!"
+
+@ 007
+JP そして試合当日・・・
+EN Then, fight day...

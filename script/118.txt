@@ -1,0 +1,89 @@
+@ 000
+JP 五番勝負も残すは二番。
+JP 俺は次の相手、#WS052の事を考えていた。
+EN Two matches left in the series. I was
+EN thinking about my next opponent,
+EN Ace.
+
+@ 001
+JP #WS041：
+JP 「次、#WL052と
+JP 　シングルなんだって？
+EN Kobashi:
+EN "I hear you've got Johnny Ace
+EN  one-on-one next?"
+
+@ 002
+JP #MS：
+JP 「あ、#WS041さん。
+EN #MS:
+EN "Oh, Mr. Kobashi."
+
+@ 003
+JP #WS041：
+JP 「俺も楽しみにしてるから、頑張ってくれよ。
+EN Kobashi:
+EN "I'm looking forward to it too, so give
+EN  it your best."
+
+@ 004
+JP #WS041さんは俺の肩を叩くと
+JP 去って行った。
+EN Kobashi patted me on the shoulder
+EN and left.
+
+@ 005
+JP 自分の出番前にわざわざ来てくれたのか。
+JP 期待されてるって事か？
+EN He came all this way before his own
+EN match? Does that mean he expects
+EN something from me?
+
+@ 006
+JP ・・・・・・・頑張ろう。
+EN .......I'll do my best.
+
+@ 007
+JP #WS052：
+JP 「ミーはガイジンによるムーブメントを
+JP 　成功させてみせる！
+JP 　ユーに負けている場合じゃない！
+EN Ace:
+EN "Me, I'll make the gaijin Movement a
+EN  success! I've got no time to lose to
+EN  you!"
+
+@ 008
+JP #MS：
+JP 「あんたは間違ってる。
+EN #MS:
+EN "You've got it wrong."
+
+@ 009
+JP #WS052：
+JP 「ホワット！？
+EN Ace:
+EN "WHAT!?"
+
+@ 010
+JP #MS：
+JP 「やりたい事は分からなくもないが
+JP 　あんたは力、実績、主張においても
+JP 　全部中途半端なんだよ！
+EN #MS:
+EN "I get what you want to do, but your
+EN  power, your record, your message,
+EN  they're all half-baked!"
+
+@ 011
+JP 「そんな中途半端な奴が起こした
+JP 　ムーブメントじゃ誰にも何も
+JP 　伝わりはしない！
+EN "A movement started by a half-baked
+EN  guy won't get through to anybody!"
+
+@ 012
+JP #WS052：
+JP 「ガッデム！！
+EN Ace:
+EN "GODDAMN!!"

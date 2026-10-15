@@ -1,0 +1,38 @@
+@ 000
+JP #MS：
+JP 「ベストバウト賞ですか！
+EN #MS:
+EN "Best Bout of the Year?!"
+
+@ 001
+JP #WS013：
+JP 「ああ。表彰式やるから来いってよ。
+EN Choshu:
+EN "Yeah. They want you at the awards
+EN  ceremony."
+
+@ 002
+JP #MS：
+JP 「そうですか。ありがとうございます！
+EN #MS:
+EN "Really? Thank you!"
+
+@ 003
+JP しかしその後#MSは低迷期を迎える。
+EN But after that, #MS hit a slump.
+
+@ 004
+JP 坂上戦でレスラーとしてのエネルギーを
+JP 全て使い果たしてしまったかのような
+JP 落ち込み様だった。
+EN It was as if he'd burned up all his
+EN energy as a wrestler in the Sakagami
+EN match.
+
+@ 005
+JP やがて#MSは引退。
+JP どこかの道場を引き継いだと言う噂を最後に、
+JP 彼の名はプロレス界から消えたのだった・・・
+EN #MS soon retired. After a last
+EN rumor that he'd taken over a dojo, his
+EN name faded from wrestling...

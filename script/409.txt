@@ -1,0 +1,309 @@
+@ 000
+JP #MS：
+JP 「クッ！
+EN #MS:
+EN "Ngh!"
+
+@ 001
+JP #WS101：
+JP 「ヌッ！？
+EN Hogan:
+EN "Hngh!?"
+
+@ 002
+JP #MS：
+JP 「クソッ！
+EN #MS:
+EN "Damn it!"
+
+@ 003
+JP #WS101：
+JP 「オウッ！？
+EN Hogan:
+EN "OWW!?"
+
+@ 004
+JP 俺と#WS101は
+JP 試合が終わっても殴り合っていた。
+JP お互い、意地になっていた。
+EN Hogan and I kept slugging it out even
+EN after the match. Neither of us would
+EN back down.
+
+@ 005
+JP お互いの仲間が間に割って入って
+JP ようやく俺達は別れた。
+EN Only when our partners got between
+EN us were we finally pulled apart.
+
+@ 006
+JP #WS103：
+JP 「落ち着け、#MS。
+EN Sting:
+EN "Calm down, #MS."
+
+@ 007
+JP #MS：
+JP 「・・・・・
+EN #MS:
+EN "....."
+
+@ 008
+JP 俺達が引き揚げようとした時だった。
+EN We were heading to the back when...
+
+@ 009
+JP #WS101：
+JP 「ヘイ、#MS！
+JP 　この#WS101様にここまでして
+JP 　ただで済むとは思っていないだろうな！
+EN Hogan:
+EN "Hey, #MS! You don't think
+EN  you'll get away with doing this to the
+EN  great Hogan, do you!?"
+
+@ 010
+JP 「次のペイ・パー・ビュー大会、
+JP 　ユーとやってやる！
+JP 　首を洗って待っているんだな！
+EN "At the next pay-per-view, I'm
+EN  taking you on! Better start saying
+EN  your prayers!"
+
+@ 011
+JP #MS：
+JP 「・・・・・
+EN #MS:
+EN "....."
+
+@ 012
+JP ペイ・パー・ビュー（ＰＰＶ）と言うのは
+JP 通常の放送枠とは別に、
+JP 番組別の視聴料金を取る放送形態だ。
+EN Pay-per-view (PPV) is broadcasting
+EN where you pay for each show, apart
+EN from regular TV.
+
+@ 013
+JP そしてＰＰＶで行われる大会は、当然
+JP 別料金を払う価値のあるビッグマッチなのだ。
+JP 日本で言うドーム大会のようなものか。
+EN So PPV events are big matches worth
+EN paying extra for. Like dome shows
+EN back in Japan, I guess.
+
+@ 014
+JP そんなビッグマッチで、あの#WS101と
+JP シングル戦・・・・・
+EN A singles match with Hogan, at a
+EN show that big.....
+
+@ 015
+JP #WS103：
+JP 「#MS。
+EN Sting:
+EN "#MS."
+
+@ 016
+JP 「どうした？
+EN "What's wrong?"
+
+@ 017
+JP #MS：
+JP 「いや、その・・・・
+EN #MS:
+EN "Oh, it's just...."
+
+@ 018
+JP 「ＰＰＶのビッグマッチであの#WS101と
+JP 　シングルなのかと思うと、
+JP 　俺もここまで来たんだなぁ・・・と思って。
+EN "Singles with Hogan in a big PPV
+EN  match... I just thought, wow, I've
+EN  come this far."
+
+@ 019
+JP #WS103：
+JP 「ハハハハ・・・そうか。でもユーはここまで、
+JP 　自分の力で頑張って来たはずだ。
+JP 　自信を持ってぶつかって行けばいい。
+EN Sting:
+EN "Ha ha ha ha... I see. But you got here
+EN  on your own. Just believe in yourself
+EN  and go for it."
+
+@ 020
+JP #MS：
+JP 「・・・はい！
+EN #MS:
+EN "...Right!"
+
+@ 021
+JP #WS113：
+JP 「レッドＦＷＯ入りも驚いたけど、あの
+JP 　#WS101と一騎打ちとはね。
+EN Ultimo:
+EN "Joining the Wolfpac was one thing,
+EN  but going one-on-one with Hogan?"
+
+@ 022
+JP 「もう俺なんかが口出し出来る
+JP 　レベルじゃないよなぁ・・・・
+EN "You're way past the level where I can
+EN  give you advice...."
+
+@ 023
+JP #MS：
+JP 「ここまで来れたのも
+JP 　正井さんのおかげですから、
+JP 　そんな事言わないで下さい。
+EN #MS:
+EN "I got this far thanks to you, Mr. Asai.
+EN  Please don't say that."
+
+@ 024
+JP #WS113：
+JP 「そうか？うーん・・・
+JP 　まぁそれならそう思っておこう。
+EN Ultimo:
+EN "You think? Hmm... Well, if you say
+EN  so, I'll take it."
+
+@ 025
+JP 「お前はＰＰＶまで少し間があるんだろう？
+JP 　スパーリングならいつでも
+JP 　付き合ってやるからな。
+EN "You've got some time before the PPV,
+EN  right? I'll spar with you any time."
+
+@ 026
+JP #MS：
+JP 「ありがとうございます。
+EN #MS:
+EN "Thank you."
+
+@ 027
+JP 俺は久々に正井さんのコーチを受けながら
+JP ＰＰＶへ向けて調整して行った。
+EN For the first time in a while, I trained
+EN under Asai to get ready for the PPV.
+
+@ 028
+JP そして・・・
+EN And then...
+
+@ 029
+JP 俺は#WS101と対峙していた。
+EN I stood face to face with Hogan.
+
+@ 030
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 031
+JP #WS101：
+JP 「マサの連れて来たヤングボーイが
+JP 　ここまでになるとはな。
+EN Hogan:
+EN "Never thought the young boy Masa
+EN  brought in would get this far."
+
+@ 032
+JP #MS：
+JP 「！？
+EN #MS:
+EN "!?"
+
+@ 033
+JP #WS101：
+JP 「ユーの成長ぶり、
+JP 　敵ながら嬉しく思っているよ。
+EN Hogan:
+EN "Enemy or not, I'm happy to see how
+EN  much you've grown."
+
+@ 034
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 035
+JP 俺は最初罠かと思ったがそうではなかった。
+JP その眼は笑っていない・・・・
+EN At first I thought it was a trick, but
+EN no. His eyes weren't smiling....
+
+@ 036
+JP #WS101：
+JP 「アメリカにはアメリカのレスリングがある。
+JP 　ギミックやサイドストーリーも欠かせない。
+EN Hogan:
+EN "America has its own kind of
+EN  wrestling. Gimmicks and side stories
+EN  are a must."
+
+@ 037
+JP 「だがミーの中に流れているファイターの魂、
+JP 　それはユーの故郷であるジャパンで
+JP 　育ったものだ。
+EN "But the fighter's soul in my veins
+EN  was raised in Japan, your homeland."
+
+@ 038
+JP 「そのジャパンに恩返しをするとしたら、
+JP 　それはユーのようなジャパニーズ・ヤング・
+JP 　ファイターに魂を伝授する事だろう・・・
+EN "If I'm to repay Japan, it's by passing
+EN  that soul on to young Japanese
+EN  fighters like you..."
+
+@ 039
+JP 「今日はユーの全てをぶつけて来い。
+JP 　ミーはあの#WS012から受け継いだ
+JP 　トウコンをもってユーのファイトに応えよう。
+EN "Give me everything you've got
+EN  today. I'll answer with the fighting
+EN  spirit Inoki passed down to me."
+
+@ 040
+JP #MS：
+JP 「#WS101・・・・
+EN #MS:
+EN "Hogan...."
+
+@ 041
+JP そこにいたのは子供の頃テレビで見た、
+JP スーパースター・
+JP #WF101だった。
+EN There stood the superstar I saw on TV
+EN as a kid: Hollywood Hogan.
+
+@ 042
+JP #WS101：
+JP 「その上でユーに勝って、ミーが
+JP 　『イチバン』である事を証明しよう。
+EN Hogan:
+EN "And then I'll beat you, and prove I'm
+EN  'Ichiban.'"
+
+@ 043
+JP 俺は握手をしたかったがここはアメリカだ。
+JP 俺はレッドＦＷＯで向こうはブラックＦＷＯの
+JP 頭領・・・それは許される事では無い。
+EN I wanted to shake his hand, but this is
+EN America. I'm Wolfpac, and he leads
+EN Hollywood... It isn't allowed.
+
+@ 044
+JP だから俺は#WS101にだけ
+JP 聞こえるように言った。
+EN So I spoke so only Hogan could hear.
+
+@ 045
+JP #MS：
+JP 「お願いします！
+EN #MS:
+EN "Let's do this!"

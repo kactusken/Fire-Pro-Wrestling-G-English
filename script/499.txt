@@ -1,0 +1,142 @@
+@ 000
+JP ディンク：
+JP 「ユー達のレギュラー番組用試合への
+JP 　出場が決定した。
+EN McMahon:
+EN "You've been booked for matches on
+EN  our regular TV show."
+
+@ 001
+JP #MS：
+JP 「本当ですか！？
+EN #MS:
+EN "Really!?"
+
+@ 002
+JP ディンク：
+JP 「ああ。ただしまだテストマッチの
+JP 　意味合いも兼ねての事だ。
+JP 　視聴者の反応を広く見るつもりなのだ。
+EN McMahon:
+EN "Yes. But these are still partly test
+EN  matches. We want to gauge the
+EN  viewers' reaction."
+
+@ 003
+JP #MS：
+JP 「なるほど・・・・
+EN #MS:
+EN "I see...."
+
+@ 004
+JP ディンク：
+JP 「ただ問題なのが対戦相手だ。
+JP 　ユー達の体格に合ったスーパースターが
+JP 　ほとんどいないのだ。
+EN McMahon:
+EN "The problem is opponents. We have
+EN  hardly any superstars your size."
+
+@ 005
+JP 「だから始めはお前達２人と、残る
+JP 　サイレンターイのメンバーで抗争を
+JP 　繰り広げてもらう。
+EN "So at first, you two will feud with
+EN  the rest of Kai-En-Tai."
+
+@ 006
+JP #MS：
+JP 「えっ！そうなんですか。
+EN #MS:
+EN "What! Really?"
+
+@ 007
+JP ディンク：
+JP 「その内ライトヘビー部門を強化するつもりだが
+JP 　それまでは仕方あるまい。
+EN McMahon:
+EN "We plan to build up the light
+EN  heavyweight division, but until then,
+EN  it can't be helped."
+
+@ 008
+JP 「お互いの為に、
+JP 　素晴らしい試合を期待しているよ。
+EN "For both our sakes, I expect great
+EN  matches."
+
+@ 009
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 010
+JP #MS：
+JP 「#WS134さん、全然しゃべらなかったけど
+JP 　どうかしたんですか？
+EN #MS:
+EN "TAKA, you didn't say a word. What's
+EN  wrong?"
+
+@ 011
+JP 「痛っ！
+EN "Ow!"
+
+@ 012
+JP #WS134：
+JP 「お前が１人で返事してるから俺が
+JP 　しゃべる用が無かったんだよ！
+EN TAKA:
+EN "You were answering everything, so I
+EN  had nothing to say!"
+
+@ 013
+JP #MS：
+JP 「な、何も殴らなくても・・・
+EN #MS:
+EN "Y-you didn't have to hit me..."
+
+@ 014
+JP #WS134：
+JP 「あんまり身内対決は好きじゃねぇんだがな。
+JP 　仕方無いか・・・
+EN TAKA:
+EN "I don't much like fighting my own
+EN  guys. Can't be helped..."
+
+@ 015
+JP #MS：
+JP 「まあその内人員強化するような事
+JP 　言ってましたから、それまで待ちましょう。
+EN #MS:
+EN "Well, he said they'd add more guys
+EN  eventually. Let's wait till then."
+
+@ 016
+JP #WS134：
+JP 「お気楽な野郎だな。お前なら意外と
+JP 　#WS092と意気が合いそうだな。
+EN TAKA:
+EN "Carefree guy, aren't you. You'd
+EN  actually get along great with
+EN  Sasuke."
+
+@ 017
+JP #MS：
+JP 「そうですかね？
+EN #MS:
+EN "You think so?"
+
+@ 018
+JP #WS134：
+JP 「そうだよ。
+EN TAKA:
+EN "I know so."
+
+@ 019
+JP その日#WS134さんは#WS137さんと、
+JP 俺は#WS135さんとシングルマッチを
+JP 行う事になった。
+EN That day, TAKA faced Funaki, and I
+EN faced Togo, in singles matches.

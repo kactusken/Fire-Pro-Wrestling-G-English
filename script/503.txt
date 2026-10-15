@@ -1,0 +1,107 @@
+@ 000
+JP ジュニア戦士達の史上最大のイベント、
+JP 『キング・オブ・ワールドジュニア』が
+JP 遂に始まった。
+EN The biggest junior event in history,
+EN the "King of World Juniors," had
+EN finally begun.
+
+@ 001
+JP 自由枠を手に入れた俺の１回戦の相手、
+JP それは・・・・・・
+EN My first-round opponent, after
+EN claiming an open slot, was......
+
+@ 002
+JP #MS：
+JP 「まさか１回戦で#WS092さんと
+JP 　当たるなんて・・・・・
+EN #MS:
+EN "I can't believe I drew you in the first
+EN  round, Sasuke....."
+
+@ 003
+JP #WS092：
+JP 「残念だが仕方無い事だ。
+JP 　クジ運ばかりはどうしようもない。
+EN Sasuke:
+EN "Too bad, but it can't be helped.
+EN  Nobody controls the luck of the
+EN  draw."
+
+@ 004
+JP 「だが俺はこれでも良かったと思ってる。
+EN "But honestly, I think this is fine."
+
+@ 005
+JP #MS：
+JP 「え？
+EN #MS:
+EN "Huh?"
+
+@ 006
+JP #WS092：
+JP 「お前とこういう記念すべき大会で
+JP 　試合が出来るんだ。
+JP 　俺は勝っても負けても本望だよ。
+EN Sasuke:
+EN "I get to wrestle you at a historic
+EN  event like this. Win or lose, I'm
+EN  satisfied."
+
+@ 007
+JP #MS：
+JP 「#WS092さん・・・
+EN #MS:
+EN "Sasuke..."
+
+@ 008
+JP #WS092：
+JP 「そして勝った方が優勝すれば、
+JP 　それでいい事だろ？違うか？
+EN Sasuke:
+EN "And if the winner goes on to take it
+EN  all, that's good enough. Right?"
+
+@ 009
+JP #MS：
+JP 「はい・・・そうです。
+EN #MS:
+EN "Yes... You're right."
+
+@ 010
+JP 「俺はここで#WS092さん！
+JP 　あなたに勝って、必ずトーナメントに
+JP 　優勝してみせます！
+EN "Sasuke! I'll beat you here, and I
+EN  swear I'll win the tournament!"
+
+@ 011
+JP 「それが今の俺に出来る、最大の恩返しです！
+EN "That's the best way I can repay you
+EN  right now!"
+
+@ 012
+JP #WS092：
+JP 「良く言った！
+EN Sasuke:
+EN "Well said!"
+
+@ 013
+JP 「だがな、俺も１人のレスラーとして、
+JP 　#WF092として、
+JP 　負ける訳には行かないんだよ！
+EN "But as a wrestler, as The Great
+EN  Sasuke, I can't afford to lose either!"
+
+@ 014
+JP 「だから全力でお前を倒す！
+EN "So I'll beat you with everything I've
+EN  got!"
+
+@ 015
+JP #MS：
+JP 「俺も・・・全力で行きます！
+EN #MS:
+EN "And I'll come at you with everything
+EN  too!"

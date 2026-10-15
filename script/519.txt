@@ -1,0 +1,33 @@
+@ 000
+JP #WS068：
+JP 「俺はこの#PL01で
+JP 　是非#WS041さんと闘いたい。
+EN Hayabusa:
+EN "Here in #PL01, I really want to
+EN  fight Kobashi."
+
+@ 001
+JP 「その希望を叶える為にもこの闘い、
+JP 　負ける訳にはいかない！
+EN "To make that wish come true, I can't
+EN  lose this fight!"
+
+@ 002
+JP #MS：
+JP 「悪いけど俺も『負けました』じゃ
+JP 　済まないんでね。譲る気は毛頭無い。
+EN #MS:
+EN "Sorry, but I can't just say 'I lost'
+EN  either. I'm not giving an inch."
+
+@ 003
+JP #WS068：
+JP 「では思いっきり行かせてもらう！
+EN Hayabusa:
+EN "Then I'm coming at you full blast!"
+
+@ 004
+JP #MS：
+JP 「来い！思いっきりヒートしようぜ！
+EN #MS:
+EN "Bring it! Let's turn up the heat!"

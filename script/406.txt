@@ -1,0 +1,121 @@
+@ 000
+JP #WS010：
+JP 「そう言えばな・・・#PS00から
+JP 　#WS027さんと#WS029が
+JP 　短期遠征に来てるそうだ。
+EN Nagata:
+EN "Oh, by the way... Chono and Tenzan
+EN  are here from #PS00 on a short
+EN  tour."
+
+@ 001
+JP #MS：
+JP 「へぇ・・・
+EN #MS:
+EN "Huh..."
+
+@ 002
+JP #WS010：
+JP 「何でも今空位になってる#PS05の
+JP 　タッグ王座決定戦に出るらしいぞ。
+EN Nagata:
+EN "Word is they're in the match for the
+EN  vacant #PS05 tag titles."
+
+@ 003
+JP #MS：
+JP 「そうなのか・・・いる間に
+JP 　試合してみたいもんだな。
+EN #MS:
+EN "Really... I'd like to face them while
+EN  they're here."
+
+@ 004
+JP #WS010：
+JP 「そうだな。
+JP 　お前なら面白い試合が出来るかもな。
+EN Nagata:
+EN "Yeah. You could have an interesting
+EN  match with them."
+
+@ 005
+JP #MS：
+JP 「うーん・・・会社に頼めるかな？
+EN #MS:
+EN "Hmm... Think I can ask the office?"
+
+@ 006
+JP #WS103：
+JP 「ヘイ、#MS！
+JP 　今日はビッグニュースを持って来たぜ！
+EN Sting:
+EN "Hey, #MS! I've got big news
+EN  today!"
+
+@ 007
+JP #MS：
+JP 「ビッグニュース？
+EN #MS:
+EN "Big news?"
+
+@ 008
+JP #WS103の持って来た
+JP ビッグニュースとは・・・・・
+EN The big news Sting brought was.....
+
+@ 009
+JP #WS027：
+JP 「わざわざアメリカまで
+JP 　来てやったんだ、エーッ！
+EN Chono:
+EN "We came all the way to America for
+EN  this, huh!?"
+
+@ 010
+JP 「ベルトは貰って帰るからな、エーッ！
+EN "We're taking those belts home, huh!?"
+
+@ 011
+JP #WS029：
+JP 「オイ、#MS！坂上のバカの
+JP 　お友達らしいな、オェッ！
+EN Tenzan:
+EN "Hey, #MS! You're that idiot
+EN  Sakagami's buddy, oeh!"
+
+@ 012
+JP 「お前もあいつと
+JP 　同じようにのしてやるからな！
+JP 　覚悟しとけ、オラ！
+EN "I'll flatten you just like him! Get
+EN  ready, ora!"
+
+@ 013
+JP #MS：
+JP 「アメリカでずっとやって来て、初めて
+JP 　ベルトに挑戦するチャンスを得たんだ！
+EN #MS:
+EN "I've been grinding in America all this
+EN  time, and finally I get a title shot!"
+
+@ 014
+JP 「日本から来たお前達にみすみすベルトを
+JP 　渡してたまるか！
+EN "No way I'm just handing the belts to
+EN  you guys from Japan!"
+
+@ 015
+JP #WS103：
+JP 「そうだ、#MS。
+JP 　ユーとミーのチャンスだ。
+JP 　必ずベルトをゲットだ！
+EN Sting:
+EN "That's right, #MS. It's your
+EN  chance and mine. We're getting those
+EN  belts!"
+
+@ 016
+JP #MS：
+JP 「ＯＫ！
+EN #MS:
+EN "OK!"

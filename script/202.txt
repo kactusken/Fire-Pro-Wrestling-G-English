@@ -1,0 +1,135 @@
+@ 000
+JP 俺はいつものように試合前の
+JP ウォーミングアップをしていた。
+EN I was warming up before my match as
+EN usual.
+
+@ 001
+JP ん？
+EN Hm?
+
+@ 002
+JP 何だ？凄い沸きようだな・・・・
+EN What's going on? The crowd's going
+EN nuts....
+
+@ 003
+JP #WS075：
+JP 「大変や！#PS00の坂上とか言うのが
+JP 　リングを占拠しとるんや！
+EN Kanemura:
+EN "Big trouble! Some guy from #PS00
+EN  called Sakagami's taken over the
+EN  ring!"
+
+@ 004
+JP #MS：
+JP 「坂上が！？
+EN #MS:
+EN "Sakagami!?"
+
+@ 005
+JP #WS075：
+JP 「お前の名前連呼しとるで！
+EN Kanemura:
+EN "He's yellin' your name over and
+EN  over!"
+
+@ 006
+JP 俺は会場に向かって走り出していた。
+EN I took off running for the arena.
+
+@ 007
+JP リング上は大変な騒ぎになっていた。
+JP #WS071さんや正規軍の面々までが出て来て
+JP 困惑の表情を浮かべたまま睨み合っている。
+EN The ring was in an uproar. Even
+EN Fuyuki and the regulars had come
+EN out, glaring at each other, baffled.
+
+@ 008
+JP 坂上：
+JP 「来たか、#MS！
+JP 　約束を果たす為に、
+JP 　こっちから来てやったぞ！
+EN Sakagami:
+EN "There you are, #MS! I came to
+EN  you myself to keep our promise!"
+
+@ 009
+JP #MS：
+JP 「坂上・・・・
+EN #MS:
+EN "Sakagami...."
+
+@ 010
+JP 俺の頬に衝撃が走った。
+EN A blow snapped across my cheek.
+
+@ 011
+JP 坂上：
+JP 「勝負だ、このヤロー！
+EN Sakagami:
+EN "Fight me, you bastard!"
+
+@ 012
+JP 俺は殴り返そうと思ったが、
+JP ふと１つのアイデアを思い付いた。
+EN I was about to hit him back when an
+EN idea hit me.
+
+@ 013
+JP #MS：
+JP 「坂上！お前がここまで来た根性は認めてやる！
+JP 　ついでにもうちょっと根性見せてみろ！
+EN #MS:
+EN "Sakagami! I'll give you credit for the
+EN  guts to come here! Now show me a
+EN  little more!"
+
+@ 014
+JP 坂上：
+JP 「何っ？
+EN Sakagami:
+EN "What?"
+
+@ 015
+JP #MS：
+JP 「もしお前が負けたら、
+JP 　チーム『ノーリストリクト』に入れ！
+EN #MS:
+EN "If you lose, you join Team No
+EN  Respect!"
+
+@ 016
+JP さすがの坂上も一瞬言葉を失った。
+EN Even Sakagami was speechless for a
+EN moment.
+
+@ 017
+JP 「当然受ける受けないは自由だけどな！
+JP 　どうするんだ、坂上！！
+EN "Of course, it's your call whether you
+EN  accept! What'll it be, Sakagami!!"
+
+@ 018
+JP 坂上：
+JP 「上等だ！やってやるよ！
+JP 　その代わりお前が負けたら
+JP 　俺の付き人やってもらうぞ！
+EN Sakagami:
+EN "You're on! But if you lose, you're
+EN  gonna be my valet!"
+
+@ 019
+JP #MS：
+JP 「上等だぜ！
+EN #MS:
+EN "You're on!"
+
+@ 020
+JP 急きょ、坂上・#WS035組対
+JP 俺と#WS075のタッグマッチが
+JP 行われる事になった。
+EN A tag match was hastily set: Sakagami
+EN and Goto vs. me and Kanemura.

@@ -1,0 +1,131 @@
+@ 000
+JP ディンク：
+JP 「ユーの次の展開が決まった。
+EN McMahon:
+EN "Your next storyline is set."
+
+@ 001
+JP #MS：
+JP 「えっ？次の？
+EN #MS:
+EN "Huh? Next?"
+
+@ 002
+JP ディンク：
+JP 「ユーは#WS128と
+JP 　チームを組んでもらう。
+EN McMahon:
+EN "You'll be teaming with Mankind."
+
+@ 003
+JP #MS：
+JP 「でも今は魔界同盟ですよね？
+EN #MS:
+EN "But I'm in the Ministry now, right?"
+
+@ 004
+JP ディンク：
+JP 「今度ユーは魔界同盟として#WS128と
+JP 　シングルマッチを行う。
+EN McMahon:
+EN "You'll wrestle Mankind one on one as
+EN  a Ministry member."
+
+@ 005
+JP 「試合自体はどう転んでも構わんが、
+JP 　必ず最後にユーはあの『サッコ』を
+JP 　口に突っ込まれるのだ。
+EN "The match can go either way, but at
+EN  the end, you WILL get Mr. Socko
+EN  shoved in your mouth."
+
+@ 006
+JP #MS：
+JP 「ええっ！？
+EN #MS:
+EN "Whaaat!?"
+
+@ 007
+JP 『サッコ』とは、彼が必殺技である
+JP マンディブル・クローを放つ際に手にはめる、
+JP 顔の落書きがしてある靴下の事である。
+EN Mr. Socko is the sock with a face
+EN drawn on it that he wears for his
+EN finisher, the Mandible Claw.
+
+@ 008
+JP ちなみにマンディブル・クローとは
+JP 口に手を突っ込んで、上下から顎を挟むように
+JP 絞め上げる技である。
+EN The Mandible Claw, by the way,
+EN means jamming your hand in a guy's
+EN mouth and squeezing his jaw.
+
+@ 009
+JP つまり#WS128は靴下を手にはめて
+JP 相手の口に手を突っ込むのだ。
+EN In other words, Mankind puts a sock
+EN on his hand and sticks it in your
+EN mouth.
+
+@ 010
+JP ディンク：
+JP 「そのショックで洗脳が解けるのだ。
+EN McMahon:
+EN "The shock breaks your
+EN  brainwashing."
+
+@ 011
+JP #MS：
+JP 「解けるのだ、って・・・・
+EN #MS:
+EN "'Breaks your brainwashing,' he
+EN  says..."
+
+@ 012
+JP あれだけは・・・あれだけは
+JP やられたくなかったのに・・・・
+EN Anything but that... Anything but
+EN that...
+
+@ 013
+JP それに・・・
+EN Besides...
+
+@ 014
+JP #MS：
+JP 「あの、それって展開が
+JP 　イマイチバカっぽくないですか？
+EN #MS:
+EN "Um, isn't that storyline kind of...
+EN  dumb?"
+
+@ 015
+JP ディンク：
+JP 「・・・・・・・
+EN McMahon:
+EN "......."
+
+@ 016
+JP 「・・・・いいか、#MS。人間誰しも
+JP 　試練の時があるものだ。そしてそれを
+JP 　乗り越えた者のみが栄光を手に入れるのだ。
+EN "...Listen, #MS. Everyone faces
+EN  trials in life. And only those who
+EN  overcome them win glory."
+
+@ 017
+JP 「分かるな？
+EN "You understand?"
+
+@ 018
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 019
+JP 俺はイマイチ納得出来なかったが、
+JP 後々の為に我慢する事にした。
+EN I wasn't really convinced, but I bit my
+EN tongue for the sake of the future.

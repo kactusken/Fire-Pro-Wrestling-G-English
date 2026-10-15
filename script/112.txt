@@ -1,0 +1,44 @@
+@ 000
+JP タッグでヒートアップした俺と
+JP #WS044は最終戦で
+JP シングルマッチを組まれる事になった。
+EN Things got heated in the tag, so
+EN Akiyama and I were booked
+EN one-on-one on the final night.
+
+@ 001
+JP 言ってみれば『第五の男』の座を賭けた闘いだ。
+JP お互い負けられない。
+EN You could call it a fight for the spot
+EN of "the Fifth Man." Neither of us can
+EN lose.
+
+@ 002
+JP #WS044：
+JP 「これが俺とお前の闘いの本当の始まりだな。
+EN Akiyama:
+EN "This is where our real fight begins."
+
+@ 003
+JP #MS：
+JP 「おう。『四天王』なんて言葉を無くす為の
+JP 　闘いの・・・・第１歩だ。
+EN #MS:
+EN "Yeah. The first step... in the fight to
+EN  kill off the words 'Four Pillars.'"
+
+@ 004
+JP #WS044：
+JP 「お前が#WS046達との闘いで
+JP 　培って来たものを全てぶつけてみろ！
+EN Akiyama:
+EN "Throw everything you built fighting
+EN  Omori and the rest at me!"
+
+@ 005
+JP #MS：
+JP 「そうやって自分が上にいると思えるのも
+JP 　今日までだからな！見てろよ！
+EN #MS:
+EN "Today's the last day you get to think
+EN  you're above me! Watch!"

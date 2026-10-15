@@ -1,0 +1,108 @@
+@ 000
+JP １回戦敗退はショックだった。
+JP まさか#WS011に負けるなんて・・・
+JP 油断したつもりもなかったが。
+EN Losing in round one was a shock. To
+EN Yasuda, of all people... And I didn't
+EN think I'd gotten careless.
+
+@ 001
+JP #MS：
+JP 「あ、#WS028さん・・・・・
+EN #MS:
+EN "Oh, Mutoh..."
+
+@ 002
+JP #WS028：
+JP 「おい#MS、気にするな。
+JP 　勢いがあっても、負ける事もあるさ。
+EN Mutoh:
+EN "Hey #MS, don't sweat it. Even
+EN  on a roll, you can still lose."
+
+@ 003
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Right."
+
+@ 004
+JP #WS028：
+JP 「そんなことよりさ、
+JP 　アメリカでは凄かったらしいじゃん。
+JP 　#WS103がお前の事誉めてたよ。
+EN Mutoh:
+EN "Anyway, sounds like you were great
+EN  in America. Sting was praising you."
+
+@ 005
+JP #MS：
+JP 「そうなんですか？
+EN #MS:
+EN "Really?"
+
+@ 006
+JP #WS028：
+JP 「元気出せよ！
+JP 　そんなんでいちいちしょげてたら
+JP 　無駄に疲れちまうぞ。
+EN Mutoh:
+EN "Cheer up! If you mope over every
+EN  loss, you'll just wear yourself out."
+
+@ 007
+JP 「今度倍にして返してやればいいだろ。
+EN "Just pay him back double next time."
+
+@ 008
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Right."
+
+@ 009
+JP 俺は気を取りなおして普段どおりに
+JP 試合をこなしていこうと決めた。
+EN I pulled myself together and decided
+EN to keep wrestling as usual.
+
+@ 010
+JP しかし次に組まれたカードは・・・・
+EN But the next match they booked was...
+
+@ 011
+JP #MS：
+JP 「どうして同じＦＷＯのメンバー同士が
+JP 　無意味に試合組まれるんですかね？
+EN #MS:
+EN "Why do they keep booking pointless
+EN  matches between nWo members?"
+
+@ 012
+JP #WS030：
+JP 「#WS027が言ってるのはこういう事さ。
+EN Hiro:
+EN "That's what Chono's talking about."
+
+@ 013
+JP #MS：
+JP 「会社の取り決めでは選手は
+JP 　やらざるを得ないですからね。
+EN #MS:
+EN "Company rules mean the wrestlers
+EN  have no choice."
+
+@ 014
+JP #WS030：
+JP 「今日のところは仕方が無いが、
+JP 　これからこの体制を
+JP 　変えていこうじゃないか。
+EN Hiro:
+EN "Nothing to be done about today, but
+EN  let's change this setup from here on."
+
+@ 015
+JP #MS：
+JP 「そうですね。
+EN #MS:
+EN "Yeah."

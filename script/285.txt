@@ -1,0 +1,27 @@
+@ 000
+JP 今日の相手は#WS143さん。
+JP #PS07ジャパンの出世争いで
+JP 最強の敵と言っていいだろう。
+EN Today's opponent: Mr. Tamura. My
+EN toughest rival in the race to the top
+EN of #PS07 Japan.
+
+@ 001
+JP #WS143：
+JP 「遂に#WS149さんが去った
+JP 　このリング・・・お前とのこの闘いが
+JP 　今後の流れを左右する事になるだろうな。
+EN Tamura:
+EN "This ring, with Mr. Maeda finally
+EN  gone... Our fight here will decide
+EN  where things go next."
+
+@ 002
+JP #MS：
+JP 「認めてもらって光栄です。
+JP 　俺もあなたに勝って#PS07ジャパン
+JP 　最強の座を手に入れますよ！
+EN #MS:
+EN "I'm honored you think so. I'll beat
+EN  you and claim the title of #PS07
+EN  Japan's strongest!"

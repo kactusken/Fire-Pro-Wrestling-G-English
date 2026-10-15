@@ -1,0 +1,58 @@
+@ 000
+JP #WS068：
+JP 「噂では聞いてましたけど
+JP 　本当に強いですね。完敗です。
+EN Hayabusa:
+EN "I'd heard the rumors, but you really
+EN  are strong. I was outclassed."
+
+@ 001
+JP #MS：
+JP 「いや、今回はたまたまでしょう。
+JP 　次にやったら分からない。
+EN #MS:
+EN "No, I just got lucky this time. Next
+EN  time, who knows."
+
+@ 002
+JP #WS068：
+JP 「でもこれで新たな目標が出来ました。
+JP 　また、対戦して下さい！
+EN Hayabusa:
+EN "But now I've got a new goal. Please
+EN  face me again!"
+
+@ 003
+JP #MS：
+JP 「喜んで。またやりましょう！
+EN #MS:
+EN "Gladly. Let's do it again!"
+
+@ 004
+JP #WS068：
+JP 「噂では聞いてましたけど
+JP 　本当に強いですね。
+JP 　勝ちましたけど紙一重でした。
+EN Hayabusa:
+EN "I'd heard the rumors, but you really
+EN  are strong. I won, but only by a hair."
+
+@ 005
+JP #MS：
+JP 「エースの意地、見せてもらいました。
+EN #MS:
+EN "You showed me an ace's pride."
+
+@ 006
+JP #WS068：
+JP 「でもこれで新たな楽しみが出来ました。
+JP 　是非また、対戦して下さい！
+EN Hayabusa:
+EN "Now I've got something new to look
+EN  forward to. Please face me again!"
+
+@ 007
+JP #MS：
+JP 「喜んで。またやりましょう！
+EN #MS:
+EN "Gladly. Let's do it again!"

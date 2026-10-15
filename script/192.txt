@@ -1,0 +1,40 @@
+@ 000
+JP #WS068：
+JP 「いよいよだな。
+JP 　今日は単なるラフファイトじゃない、
+JP 　お前の本当の実力を見せてみろ！
+EN Hayabusa:
+EN "This is it. No mere rough brawl
+EN  today. Show me what you can really
+EN  do!"
+
+@ 001
+JP 「俺は#WS071軍の一員じゃない、
+JP 　お前個人と闘いたいんだ！
+EN "I don't want to fight the
+EN  Fuyuki-gun. I want to fight you!"
+
+@ 002
+JP #MS：
+JP 「安心しろって。納得行く試合できっちりと
+JP 　お前を負かしてやるからよ！
+EN #MS:
+EN "Relax. I'll beat you in a match you
+EN  can't argue with!"
+
+@ 003
+JP #WS068：
+JP 「このベルトは渡す訳には行かない・・・・
+JP 　#PS02の未来を作る為に！
+EN Hayabusa:
+EN "I can't hand over this belt.... Not
+EN  when #PS02's future is at stake!"
+
+@ 004
+JP #MS：
+JP 「それはこっちのセリフだぜ・・・・
+JP 　#PS02の未来の為に、
+JP 　俺がベルトを貰い受ける！
+EN #MS:
+EN "That's my line.... For #PS02's
+EN  future, that belt is mine!"

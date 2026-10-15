@@ -1,0 +1,109 @@
+@ 000
+JP #WS166：
+JP 「よ！
+EN Anjoh:
+EN "Yo!"
+
+@ 001
+JP #MS：
+JP 「どうも・・・
+EN #MS:
+EN "Hey..."
+
+@ 002
+JP #WS166：
+JP 「まさかお前が#WS148に
+JP 　負けちまうとはな。
+EN Anjoh:
+EN "Can't believe you lost to Kenichi
+EN  Yamamoto."
+
+@ 003
+JP #MS：
+JP 「あいつも成長してるって事ですよ。
+JP 　甘く見てた訳じゃないんですけど・・・・
+EN #MS:
+EN "Guess he's grown too. Not that I took
+EN  him lightly...."
+
+@ 004
+JP #WS166：
+JP 「これで俺が負けられなくなったな。
+EN Anjoh:
+EN "Now I really can't lose."
+
+@ 005
+JP #MS：
+JP 「#WS166さん・・・・そうですね、
+JP 　キャッスルのトーナメントで招待選手に
+JP 　優勝されたら恥ずかしいですからね！
+EN #MS:
+EN "Mr. Anjoh.... Right. It'd be
+EN  embarrassing if an invited guest won
+EN  Kingdom's tournament!"
+
+@ 006
+JP 「頑張って下さい！
+EN "Good luck!"
+
+@ 007
+JP #WS166：
+JP 「恥ずかしい、って何が？
+EN Anjoh:
+EN "Embarrassing? What is?"
+
+@ 008
+JP #MS：
+JP 「は？
+EN #MS:
+EN "Huh?"
+
+@ 009
+JP 「・・・・・・・
+EN "......."
+
+@ 010
+JP 「いや、分かりました。#WS166さんは
+JP 　賞金持っていかれるのがイヤなんですね。
+EN "No, I get it. You just don't want
+EN  someone else walking off with the
+EN  prize money."
+
+@ 011
+JP #WS166：
+JP 「当たり前だろ。他に何か理由があるのか？
+EN Anjoh:
+EN "Obviously. What other reason is
+EN  there?"
+
+@ 012
+JP #MS：
+JP 「いえ、もういいです・・・・・
+EN #MS:
+EN "No, never mind....."
+
+@ 013
+JP #WS166：
+JP 「おかしな奴だな。
+EN Anjoh:
+EN "You're a weird one."
+
+@ 014
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 015
+JP 俺は『あんたの方がよっぽどおかしな奴だよ！』
+JP と言うセリフをグッ、と飲み込んで
+JP 試合に備える事にした。
+EN I swallowed the words "YOU'RE the
+EN weird one!" and got ready for the
+EN match.
+
+@ 016
+JP トーナメントを敗退した俺は
+JP #WS050さんとの消化試合に臨んだ。
+EN Out of the tournament, I faced
+EN Kakihara in a filler match.

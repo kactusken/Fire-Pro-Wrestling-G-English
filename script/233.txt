@@ -1,0 +1,112 @@
+@ 000
+JP #WF071に勝った。
+JP #WS068さんですら
+JP 勝てなかった相手に・・・
+EN I beat Kodo Fuyuki. A man even
+EN Hayabusa couldn't beat...
+
+@ 001
+JP #WS071：
+JP 「今日はわざと負けてやったんだよ！
+JP 　それとノーリストリクトは解散なんか
+JP 　しねぇからな！
+EN Fuyuki:
+EN "I let you win today on purpose! And
+EN  No Respect ain't disbanding!"
+
+@ 002
+JP 「俺は約束なんかしてねぇんだからよ！
+EN "I never promised nothin'!"
+
+@ 003
+JP 「でもまあ、あれだな。お前も強くなったよ。
+JP 　それは認めてやるよ！でも次やったら
+JP 　俺が勝つからな！
+EN "But, well, y'know. You got strong. I'll
+EN  give you that! But next time, I win!"
+
+@ 004
+JP 何とあの#WS071が俺を認める発言をした。
+JP 俺が同等のライバルとして目に入ったと
+JP 言う事だろう。
+EN Fuyuki, of all people, had admitted I
+EN was good. It meant he finally saw me
+EN as a rival on his level.
+
+@ 005
+JP これから・・・ここからが、
+JP 本当の闘いなのかもしれない。
+EN From now on... maybe this is where
+EN the real fight begins.
+
+@ 006
+JP #WS071：
+JP 「どうだぁ！
+JP 　俺はまだお前なんかには負けないんだよ！
+EN Fuyuki:
+EN "How about that! You still can't beat
+EN  me!"
+
+@ 007
+JP #WS071は強かった。
+JP 俺は全てを出し切ったが勝てなかった。
+EN Fuyuki was strong. I gave it
+EN everything I had, but I couldn't win.
+
+@ 008
+JP #WS071：
+JP 「それとなぁ！お前とは当分試合しねぇぞ！
+JP 　こんなキツイ試合ばっかりやってたら
+JP 　体がもたないからな！
+EN Fuyuki:
+EN "And another thing! I ain't wrestling
+EN  you for a while! Matches this tough'll
+EN  wreck my body!"
+
+@ 009
+JP それはあの人なりの
+JP 誉め言葉だったのかもしれない・・・
+EN Maybe that was his way of paying a
+EN compliment...
+
+@ 010
+JP その後、#PS02は
+JP 軌道に乗ったかに見えた。
+EN After that, #PS02 seemed to be
+EN back on track.
+
+@ 011
+JP しかし・・・・
+EN But....
+
+@ 012
+JP #WS068の故障、
+JP #WS071の離脱が重なり、
+JP みるみるうちに衰退していった。
+EN Hayabusa's injury and Fuyuki's
+EN departure hit at once, and the
+EN promotion fell into rapid decline.
+
+@ 013
+JP エースとして団体の窮地に立ち上がった
+JP #MSであったが、自分の力の無さを
+JP 思い知らされただけだった。
+EN #MS stood up as the ace in its
+EN hour of need, but only learned how
+EN little he could do.
+
+@ 014
+JP 強いだけでは無い、
+JP もっと大事なものが欠けていたのだろう。
+JP 客足は遠のいて行くばかり。
+EN Strength alone wasn't enough;
+EN something more important was
+EN missing. The crowds kept shrinking.
+
+@ 015
+JP やがて#PS02と#MSの名は
+JP 日本プロレス界から
+JP 消えて行ったのだった・・・・
+EN In time, the names #PS02 and
+EN #MS faded from Japanese
+EN wrestling....

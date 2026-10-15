@@ -1,0 +1,67 @@
+@ 000
+JP 記者：
+JP 「優勝おめでとうございます。
+JP 　師弟対決、素晴らしい試合でした。
+EN Reporter:
+EN "Congratulations! Teacher vs.
+EN  student, and what a match it was."
+
+@ 001
+JP #MS：
+JP 「ありがとうございます！
+EN #MS:
+EN "Thank you!"
+
+@ 002
+JP 記者：
+JP 「ギガバトルトーナメント優勝で
+JP 　#PS07最強の名称を
+JP 　手にしました。
+EN Reporter:
+EN "Winning the Mega Battle Tournament
+EN  makes you the strongest in
+EN  #PS07."
+
+@ 003
+JP #MS：
+JP 「そうですね。このメンバーのトーナメントで
+JP 　優勝したって言うのは大きいです。
+JP 　自分にとって自信になりますよ。
+EN #MS:
+EN "Yes. Winning a tournament with this
+EN  lineup is huge. It gives me real
+EN  confidence."
+
+@ 004
+JP 記者：
+JP 「#WS149越えを果たした心境は？
+EN Reporter:
+EN "How does it feel to surpass Maeda?"
+
+@ 005
+JP #MS：
+JP 「越えたなんてまだまだ・・・
+JP 　ただ１回勝っただけですよ。
+EN #MS:
+EN "Surpass him? Far from it... I just beat
+EN  him once."
+
+@ 006
+JP 「あの人を越える闘いが
+JP 　ようやく今始まったんです。
+EN "The fight to surpass him has only
+EN  just begun."
+
+@ 007
+JP 俺は嘘をついた訳では無い。勝ったのは運も
+JP あったのだと思う。あの人の懐の深さ・・・・
+JP 俺にはまだまだ追いつけそうも無い。
+EN I wasn't lying. Luck played a part in
+EN my win. The depth of that man.... I'm
+EN nowhere near catching up yet.
+
+@ 008
+JP そう、#WS149越えの闘いは
+JP これからなのだ。
+EN That's right, the fight to surpass
+EN Maeda starts now.

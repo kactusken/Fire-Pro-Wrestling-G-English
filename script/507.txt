@@ -1,0 +1,54 @@
+@ 000
+JP ジュニア戦士達の史上最大のイベント、
+JP 『キング・オブ・ワールドジュニア』も
+JP ３日目、準決勝戦が行われる。
+EN The biggest junior event in history,
+EN the "King of World Juniors." Day
+EN three: the semifinals.
+
+@ 001
+JP トーナメントに敗れた俺は、
+JP 同じ敗者である他団体の選手との
+JP 消化試合に臨んだ。
+EN Out of the tournament, I took on a
+EN consolation match with a loser from
+EN another promotion.
+
+@ 002
+JP その相手とは２回戦で坂上に敗れた
+JP #WF111。
+EN My opponent: Chris Benoit, who lost
+EN to Sakagami in round two.
+
+@ 003
+JP そう、坂上は準決勝に進出したのだ。
+EN Yes, Sakagami had made the
+EN semifinals.
+
+@ 004
+JP 俺は無念の思いを強く感じながらも
+JP 試合に備えた。
+EN Deeply frustrated, I still got ready for
+EN the match.
+
+@ 005
+JP #WS111：
+JP 「これはまた興味深い相手との試合を
+JP 　組まれたものだな。
+EN Benoit:
+EN "They've matched me with a very
+EN  interesting opponent."
+
+@ 006
+JP 「トーナメントで会えなかったのが
+JP 　残念だが、今はユーとの全力ファイトを
+JP 　楽しむ事にしよう。
+EN "Too bad we didn't meet in the
+EN  tournament, but I'll enjoy an all-out
+EN  fight with you now."
+
+@ 007
+JP #MS：
+JP 「行くぞ！
+EN #MS:
+EN "Here I come!"

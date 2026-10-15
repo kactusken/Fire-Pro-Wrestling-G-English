@@ -1,0 +1,114 @@
+@ 000
+JP 記者：
+JP 「おめでとうございます。
+JP 　まずは今の心境をお聞かせ下さい。
+EN Reporter:
+EN "Congratulations. First, how do you
+EN  feel right now?"
+
+@ 001
+JP #MS：
+JP 「ホッとしてますよ。
+JP 　負ける訳には行かなかったんでね。
+EN #MS:
+EN "Relieved. I just couldn't afford to
+EN  lose."
+
+@ 002
+JP 記者：
+JP 「立ち技に対してかなり特訓
+JP 　なされたんですか？
+EN Reporter:
+EN "Did you train hard against strikers?"
+
+@ 003
+JP #MS：
+JP 「多少はやりましたけどね。
+JP 　ただ大体いつも通りですよ。普段も
+JP 　立ち技関係のトレーニングもしてますから。
+EN #MS:
+EN "A bit. But mostly the usual. I train
+EN  stand-up regularly anyway."
+
+@ 004
+JP 「まあこちらはルール飲んでもらって、
+JP 　基本的に有利だったんでね。今度は
+JP 　#PS08ルールでやってみたいですね。
+EN "He accepted our rules, so I had the
+EN  edge. Next time I'd like to try
+EN  #PS08 rules."
+
+@ 005
+JP 記者：
+JP 「今日は残念でした。
+JP 　今の心境をお聞かせ下さい。
+EN Reporter:
+EN "Tough luck today. How do you feel
+EN  right now?"
+
+@ 006
+JP #MS：
+JP 「単純に俺の方が弱かっただけですよ。
+JP 　ルール的にはこちらが有利だったんで
+JP 　負けられないと思ってたんですけどね。
+EN #MS:
+EN "I was just weaker, plain and simple.
+EN  The rules favored me, so I didn't
+EN  think I could lose."
+
+@ 007
+JP 記者：
+JP 「今後、リベンジマッチ等は考えていますか？
+EN Reporter:
+EN "Any thoughts of a rematch?"
+
+@ 008
+JP #MS：
+JP 「いつかもう一度出たいですね。ただ
+JP 　今後は#PS08だけじゃなく他の色んな
+JP 　所で闘って行きたいですね。
+EN #MS:
+EN "I'd like another shot someday. But
+EN  from now on I want to fight in lots of
+EN  places, not just #PS08."
+
+@ 009
+JP 記者：
+JP 「ファンに一言お願いします。
+EN Reporter:
+EN "A word for the fans, please."
+
+@ 010
+JP #MS：
+JP 「#PS09、団体は小さいですけど
+JP 　でっかい事やって行きますので
+JP 　応援よろしくお願いします！
+EN #MS:
+EN "#PS09 is a small promotion, but
+EN  we'll do big things, so please support
+EN  us!"
+
+@ 011
+JP #PL09の人気はその後も
+JP 衰える事は無かったが、
+JP #MSは大一番で腰を負傷。
+EN #PL09 stayed popular after that,
+EN but #MS hurt his back in a big
+EN match.
+
+@ 012
+JP その後は大した試合も出来ず、
+JP 表舞台から次第に姿を消して行った。
+EN After that he couldn't put on a decent
+EN match, and slowly faded from the
+EN spotlight.
+
+@ 013
+JP もう、限界だろうか・・・・
+EN Is this my limit....
+
+@ 014
+JP 坂上、済まない。お前との約束を・・・・
+JP 俺は果たせそうにないよ・・・・・
+EN Sakagami, I'm sorry. Our promise... I
+EN don't think I can keep it.....

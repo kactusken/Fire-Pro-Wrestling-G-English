@@ -1,0 +1,79 @@
+@ 000
+JP チームノーリストリクトの同門タッグマッチは
+JP 大好評のうちに終了した。
+EN Team No Respect's stablemate tag
+EN match was a smash hit.
+
+@ 001
+JP #WS071：
+JP 「良くやったぞ、お前達！これでお客の心は
+JP 　ガッチリ掴んだ！俺達ノーリストリクトの
+JP 　時代の幕開けだよ！
+EN Fuyuki:
+EN "Great job, guys! We've got the fans'
+EN  hearts locked up! The No Respect era
+EN  starts now!"
+
+@ 002
+JP この後インディー団体#PS02はメジャー
+JP ２団体と肩を並べる程に成長。プロレス界
+JP そのものの活性化に貢献した。
+EN The indie #PS02 grew to rival the
+EN two majors, and helped revive
+EN wrestling itself.
+
+@ 003
+JP その原動力となった
+JP チームノーリストリクトの中心にはいつも
+JP #MFがいた。
+EN And at the heart of Team No Respect,
+EN the driving force behind it all, was
+EN always #MF.
+
+@ 004
+JP 彼は後に単身#PS00に乗り込み、
+JP 坂上と再会、シングル対決実現の為に
+JP 動き出したのだった・・・・・
+EN He later stormed #PS00 alone,
+EN found Sakagami, and set out to make
+EN their singles match happen.....
+
+@ 005
+JP チームノーリストリクトの
+JP 同門タッグマッチは終わった。
+EN Team No Respect's stablemate tag
+EN match was over.
+
+@ 006
+JP #WS071：
+JP 「まあこんなもんだろ。
+JP 　でもこれで終わりじゃないぞ！
+JP 　これからもっとガンガン行くからな！
+EN Fuyuki:
+EN "Well, that's about it. But this ain't
+EN  the end! We're gonna push even
+EN  harder!"
+
+@ 007
+JP だがその後のノーリストリクトは勢いを
+JP 失って行った。ファンの支持も得られず、
+JP チーム自体もバラバラになってしまった。
+EN But No Respect lost its momentum
+EN after that. The fans never got behind
+EN it, and the team fell apart.
+
+@ 008
+JP 所在の無くなった#MSは休憩前の試合が
+JP 定番となり、若いながらも若手の第１関門として
+JP 見られるようになってしまった。
+EN Adrift, #MS became a fixture in
+EN the pre-intermission bout, a first
+EN hurdle for young guys.
+
+@ 009
+JP そのポストを抜け出す事が出来ないまま、
+JP #MSの名はプロレス界から
+JP 消えて行った・・・
+EN Never able to break out of that slot,
+EN #MS's name faded from the
+EN wrestling world...

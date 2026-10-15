@@ -1,0 +1,83 @@
+@ 000
+JP 俺は遂にチーム・カンパニーと
+JP 闘う事になった。
+EN At last, I was going to war with the
+EN Corporation.
+
+@ 001
+JP #MS：
+JP 『#WS123！
+JP 　よくもまた俺を裏切ってくれたな！
+EN #MS:
+EN "Shamrock! You betrayed me again!"
+
+@ 002
+JP やっぱり導入は#WS123との
+JP ストーリーだった。
+EN Sure enough, the angle kicked off
+EN with a Shamrock storyline.
+
+@ 003
+JP #WS123：
+JP 『違うな、裏切ったんじゃない。
+JP 　俺はより高いギャラを得られる道を
+JP 　選んだだけだ。
+EN Shamrock:
+EN "Wrong. I didn't betray you. I just
+EN  took the path that pays better."
+
+@ 004
+JP 『チーム・カンパニーの素晴らしさに
+JP 　気付かない愚か者め。
+EN "You fool, blind to how great the
+EN  Corporation is."
+
+@ 005
+JP #MS：
+JP 『チーム・カンパニー？
+JP 　そんなもの、クソ食らえだ！
+EN #MS:
+EN "The Corporation? To hell with it!"
+
+@ 006
+JP ？：
+JP 『ノー、ノー、ノー、ノー。
+JP 　それじゃあダメだ、#MS。
+EN ???:
+EN "No, no, no, no. That won't do,
+EN  #MS."
+
+@ 007
+JP ディンク：
+JP 『#WS123は正しい道を選んだだけだ。
+EN McMahon:
+EN "Shamrock simply chose the right
+EN  path."
+
+@ 008
+JP #MS：
+JP 『企業の飼い犬が正しい道なのか！
+EN #MS:
+EN "Being a corporate lapdog is the right
+EN  path!?"
+
+@ 009
+JP ディンクは大袈裟に首を左右に振った。
+EN McMahon shook his head theatrically.
+
+@ 010
+JP ディンク：
+JP 『いくら言っても
+JP 　分かってもらえないようだな。
+EN McMahon:
+EN "It seems you'll never understand."
+
+@ 011
+JP 『#WS123、お仕置きしてあげなさい。
+EN "Shamrock, teach him a lesson."
+
+@ 012
+JP #WS123：
+JP 『ＯＫ、ボス。
+EN Shamrock:
+EN "OK, boss."

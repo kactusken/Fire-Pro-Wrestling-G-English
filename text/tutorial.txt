@@ -1,0 +1,175 @@
+# FPG 017: dojo tutorial (overlay 000). One message per @; \n = new line.
+# {} marks a button icon (in JP: [n] = icon n: 0 weak, 1 medium, 2 strong, 3 run/whip);
+# icons are placed over the gaps in the order they appear.
+
+@ 00
+JP 今日から、厳しい特訓が始まる。\n覚悟しておけよ。
+EN Your training starts today.\nAnd it'll be tough.
+
+@ 01
+JP 最初は、基本中の基本、組み技だ。\n３回成功しないと次に進めないからな！\n気合入れていけ！
+EN First, the basics: grapples.\nSucceed 3 times to move on!\nGive it everything!
+
+@ 02
+JP まずは小技だ。\n相手にある程度近づくと組み始めるから\n組んだ瞬間にタイミングよく[0]を押せ。
+EN First, a weak move.\nGet close to lock up, then\npress {} as you grab him.
+
+@ 03
+JP よし、次は中技だ。\n今度は、タイミングよく[1]を押せ。
+EN Good. Now a medium move.\nTime it and press {}.
+
+@ 04
+JP 組み技は、方向キーの方向との\n組み合わせで、技が変化するから、\nやってみろ！
+EN Grapples change with the\ndirection you hold.\nTry it out!
+
+@ 05
+JP よし、次は大技だ。\n今度は、タイミングよく[2]を押せ。
+EN Good. Now a strong move.\nTime it and press {}.
+
+@ 06
+JP ただ、実戦でいきなり大技を繰り出すと\n返し技をくらう事が多い、よく覚えておけ！
+EN But open with a big move\nin a real match and you'll\noften get reversed. Got it?
+
+@ 07
+JP よし！次は力比べだ！
+EN Good! Test of strength!
+
+@ 08
+JP 試合の序盤で相手と同時にボタン入力を\nすると、力比べになる。
+EN Press a button with your foe\nearly in the match and you\nget a test of strength.
+
+@ 09
+JP その時は落ち着いて方向キーをグリグリ\n押しまくれ！
+EN When it happens, stay calm\nand mash the D-pad!
+
+@ 10
+JP 次は、バック組みだ。
+EN Next, grapples from behind.
+
+@ 11
+JP 相手に後ろから近づくと組み始めるから\n組んだ瞬間にタイミングよくボタンを押せ
+EN Get close from behind to lock\nup, then time a button press.
+
+@ 12
+JP 使うボタンやコツは正面の組み技と同じだ\nさあ、やってみろ！
+EN Same buttons and timing as a\nfront grapple. Try it!
+
+@ 13
+JP 次はバック組みの返し方だ。
+EN Next, escaping from behind.
+
+@ 14
+JP いつも攻めていられるわけではない。\nもしも相手にバックを取られたら\nタイミングよく[0]か[1]を押せ！
+EN You can't always attack.\nIf he gets behind you, time\nit and press {} or {}!
+
+@ 15
+JP ではいくぞ！！
+EN Here we go!!
+
+@ 16
+JP 次はハンマースルー後のカウンター技だ。\nここからは少し難しくなるが、\n気合入れていけ！
+EN Next, counters after an\nIrish whip. It gets harder,\nso give it everything!
+
+@ 17
+JP まずは相手と組んで[3]でハンマースルーしろ！\nそしてロープから返ってきた相手にタイミング\nよく[0]か[1]を押せ！
+EN Lock up, whip him with {}!\nAs he comes off the ropes,\ntime it: {} or {}!
+
+@ 18
+JP 次は走り技だ。
+EN Next, running moves.
+
+@ 19
+JP 方向キーと[3]で走って、タイミングよく\n[0]か[1]を押せ！
+EN Run with D-pad + {}, then\ntime it: {} or {}!
+
+@ 20
+JP 狙いを定めやすいように、相手を\nハンマースルーした後に走って技を\n仕掛けてみろ！
+EN For easier aim, whip your\nfoe first, then run in\nwith a move!
+
+@ 21
+JP 次は相手をコーナーマットにモタレさせて\nからの走り技だ。
+EN Next, running moves on a\nfoe slumped in the corner.
+
+@ 22
+JP 左右のコーナーの対角線上にいる相手を、\n方向キー左右と[3]でコーナーマットに\nハンマースルーして相手をモタレさせる。
+EN Foe diagonal to a corner:\nD-pad left/right + {} whips\nhim into the turnbuckle.
+
+@ 23
+JP そして相手に向かって[3]で走り、\n[2]を押したままにしろ！
+EN Then run at him with {}\nand hold {}!
+
+@ 24
+JP 次はコーナーでの組み技だ！
+EN Next, corner grapples!
+
+@ 25
+JP まずコーナーマットにモタレている\n相手にすばやく組みに行く。
+EN First, quickly lock up with\na foe slumped in the corner.
+
+@ 26
+JP そして組みついたら[2]だ！\n普通の組み技のように方向キーとの\n組み合わせで技が変わるからな！
+EN Once locked up, press {}!\nAs with normal grapples, the\nD-pad changes the move!
+
+@ 27
+JP 次はダウンしている相手への攻撃だ！
+EN Next, hitting a downed foe!
+
+@ 28
+JP まず組み技などで相手をダウンさせて、\nダウンしている相手の近くで[1]か[2]を\n押せ！
+EN Knock him down, then get\nclose and press {} or {}!
+
+@ 29
+JP 相手のダウン中の向きや、上半身\n下半身などの仕掛ける場所などで\n技が変化するからな！
+EN The move depends on how\nhe's lying and if you aim\nhigh or low on his body!
+
+@ 30
+JP さあ、やってみろ！
+EN Now, try it!
+
+@ 31
+JP よし、次は関節技やストレッチ技の\n返し方だ。
+EN Good. Next, escaping\nsubmissions and stretches.
+
+@ 32
+JP 相手に関節技などを掛けられたら、\n落ち着いて方向キーをグリグリ\n押しまくれ！
+EN When he locks on a hold,\nstay calm and mash\nthe D-pad!
+
+@ 33
+JP 次はフォールの返し方だ！\n関節技などとは違うから注意しろ！！
+EN Next, kicking out of a pin!\nIt's not like a submission!!
+
+@ 34
+JP 相手にフォールされたら[1]を押せ！\n連打した方が気力で返しやすいぞ！\nさあ、いくぞ！
+EN If he pins you, press {}!\nMash it to kick out on spirit!\nHere we go!
+
+@ 35
+JP 次はコーナー上からダウンしている\n相手へのダイビング攻撃だ！
+EN Next, diving from the top\nonto a downed foe!
+
+@ 36
+JP まず相手をコーナー付近でダウンさせる\nこのとき[1]技が有効的だ。\nその後すばやくコーナーに登れ！
+EN Down him near a corner.\nA {} move works well here.\nThen climb up quickly!
+
+@ 37
+JP そしてコーナーに登ったら、[0]だ！\nさあ、やってみろ！
+EN Once you're up, press {}!\nNow, try it!
+
+@ 38
+JP 次はコーナー上から立ってフラフラ\nしている相手へのダイビング攻撃だ！
+EN Next, diving from the top\nonto a groggy, standing foe!
+
+@ 39
+JP まず相手をコーナー付近でダウンさせる\nこのとき[2]技を使うのがポイントだ！\nその後すばやくコーナーに登れ！
+EN Down him near a corner.\nThe key is a {} move.\nThen climb up quickly!
+
+@ 40
+JP そしてコーナーに登って相手がフラフラ\nなのを確認して[2]だ。\nさあ、やってみろ！
+EN Climb up, check he's groggy,\nthen press {}.\nNow, try it!
+
+@ 41
+JP よし！その調子だ！！！
+EN Good! Keep it up!!!
+
+@ 42
+JP よし！よく頑張った。\n今日はこれまでだ。
+EN Good! You worked hard.\nThat's all for today.

@@ -1,0 +1,119 @@
+@ 000
+JP メキシコでの修行期間を終えた俺は
+JP #WS092社長に挨拶に来たのだ。
+EN My training stint in Mexico over, I
+EN came to report to our president,
+EN Sasuke.
+
+@ 001
+JP #WS092：
+JP 「おう、久しぶりだな。
+EN Sasuke:
+EN "Hey, long time no see."
+
+@ 002
+JP #MS：
+JP 「はい、すっかりご無沙汰で・・・・
+EN #MS:
+EN "Yes, it's been far too long...."
+
+@ 003
+JP #WS092：
+JP 「それでな。お前、もう少し
+JP 　メキシコでの修行を続ける気は無いか？
+EN Sasuke:
+EN "So, listen. Would you like to keep
+EN  training in Mexico a while longer?"
+
+@ 004
+JP #MS：
+JP 「え？
+EN #MS:
+EN "Huh?"
+
+@ 005
+JP #WS092：
+JP 「実は意外と評判が良くてな。
+JP 　向こうからもうちょっとどうだ、って
+JP 　言って来たんだよ。
+EN Sasuke:
+EN "Turns out you made a good
+EN  impression. They asked if you could
+EN  stay a bit longer."
+
+@ 006
+JP #MS：
+JP 「そうなんですか！？
+EN #MS:
+EN "Really!?"
+
+@ 007
+JP #WS092：
+JP 「何でも#WS162がお前の事を
+JP 　かなり買ってるそうだぞ。
+EN Sasuke:
+EN "Apparently Wagner thinks pretty
+EN  highly of you."
+
+@ 008
+JP #MS：
+JP 「#WS162が・・・・
+EN #MS:
+EN "Wagner...."
+
+@ 009
+JP 俺の事を認めてくれたのか！
+EN He acknowledged me!
+
+@ 010
+JP ヘタな誉め言葉よりも
+JP よっぽど嬉しい事だった。
+EN That meant more to me than any
+EN compliment.
+
+@ 011
+JP #WS092：
+JP 「で、どうする？
+EN Sasuke:
+EN "So, what'll it be?"
+
+@ 012
+JP #MS：
+JP 「行っても、いいんですか？
+EN #MS:
+EN "Are you sure it's okay for me to go?"
+
+@ 013
+JP #WS092：
+JP 「俺はお前の気持ちを聞いてるんだぞ。
+JP 　行かせる気が無いんなら
+JP 　わざわざ聞かないさ。
+EN Sasuke:
+EN "I'm asking what you want. If I didn't
+EN  mean to let you go, I wouldn't ask."
+
+@ 014
+JP #MS：
+JP 「それじゃあ、是非お願いします！
+EN #MS:
+EN "Then, yes, please!"
+
+@ 015
+JP #WS092：
+JP 「分かった。先方にはそう伝えておく。
+EN Sasuke:
+EN "Got it. I'll tell them."
+
+@ 016
+JP 「頑張って来いよ！
+EN "Give it your all!"
+
+@ 017
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 018
+JP そして俺は再びメキシコへと飛んだ。
+EN And so I flew back to Mexico.

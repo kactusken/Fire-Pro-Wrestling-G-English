@@ -1,0 +1,24 @@
+@ 000
+JP 俺は敗れた。#WL169の不敗伝説の
+JP 新たな犠牲者になっただけだった。
+EN I lost. Just one more victim of the
+EN Gracie legend of invincibility.
+
+@ 001
+JP お客もまたか、と言う顔をしている。
+JP 俺は静かにリングを降りるしかなかった。
+EN The crowd's faces said, "Again?" All I
+EN could do was quietly leave the ring.
+
+@ 002
+JP 俺は悔しかった。こんなに悔しかったのは
+JP 初めてかもしれない。
+EN It was so frustrating. Maybe the most
+EN frustrating thing I've ever felt.
+
+@ 003
+JP だから俺は毎日燃え尽きるまで練習した。
+JP 必ずあの男にリベンジする為に・・・・
+EN So every day I trained until I burned
+EN out. To get revenge on that man, no
+EN matter what....

@@ -1,0 +1,73 @@
+@ 000
+JP 記者：
+JP 「惜しくも敗れましたが？
+EN Reporter:
+EN "A narrow loss today?"
+
+@ 001
+JP #WS076：
+JP 「#WS090！#WS033！
+JP 　ワシらはな、邪道は、このぐらいじゃ
+JP 　死なんのじゃ！
+EN Onita:
+EN "Tenryu! Koshinaka! We outlaws don't
+EN  die from a little thing like this!"
+
+@ 002
+JP #MS：
+JP 「俺達は何度でも立ち上がるよ！
+JP 　あいつらも次やったら必ず倒す！
+JP 　邪道の魂は消えないからな！
+EN #MS:
+EN "We'll get up as many times as it
+EN  takes! Next time we'll beat them! The
+EN  outlaw spirit never dies!"
+
+@ 003
+JP 記者：
+JP 「試合後、突然#WS010選手が
+JP 　シングル戦を要求してましたが？
+EN Reporter:
+EN "After the match, Nagata suddenly
+EN  demanded a singles bout?"
+
+@ 004
+JP #MS：
+JP 「喧嘩売って来るなら受けて立つよ！
+JP 　邪道の生き様見せてやる！
+EN #MS:
+EN "If he's picking a fight, I'll take it! I'll
+EN  show him how an outlaw lives!"
+
+@ 005
+JP #WS010：
+JP 「お前達みたいなレスラーが増えると
+JP 　プロレス界がダメになってしまう！
+JP 　俺がこの場で退治してやるよ！
+EN Nagata:
+EN "More wrestlers like you will ruin pro
+EN  wrestling! I'll exterminate you right
+EN  here!"
+
+@ 006
+JP #MS：
+JP 「人を害虫みたいに言うんじゃない！
+JP 　俺達は邪道でも立派なプロレスラーだ！
+EN #MS:
+EN "Don't talk about us like pests!
+EN  Outlaws or not, we're real pro
+EN  wrestlers!"
+
+@ 007
+JP #WS010：
+JP 「プロレスラーだと胸を張って言うのなら、
+JP 　俺の攻撃を受け止めてみろ！
+EN Nagata:
+EN "If you're proud to be a pro wrestler,
+EN  then take my best shots!"
+
+@ 008
+JP #MS：
+JP 「受けてやるよ！その上で・・・・勝つ！
+EN #MS:
+EN "I'll take them! And then.... I'll win!"

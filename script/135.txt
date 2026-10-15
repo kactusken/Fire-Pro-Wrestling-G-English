@@ -1,0 +1,205 @@
+@ 000
+JP 正に『死闘』と言っていいだろう。
+JP しかしそれを制したのは俺達だった。
+EN It truly was a war to the death. But
+EN we were the ones who came out on
+EN top.
+
+@ 001
+JP 控え室に辿り着いた俺はへたり込んでしまった。
+JP 体力的なものもあるが精神的な疲労も
+JP かなりのものだった。
+EN I made it to the locker room and
+EN collapsed. My body was spent, and my
+EN mind was just as drained.
+
+@ 002
+JP 勝利の代償は高かった。
+EN Victory came at a high price.
+
+@ 003
+JP 俺がしばらくへたり込んでいると
+JP #WS040さんはもう着替えていた。
+EN While I sat slumped for a while,
+EN Misawa had already changed.
+
+@ 004
+JP #WS040：
+JP 「お疲れさん、良くやったな。
+EN Misawa:
+EN "Good work. Well done."
+
+@ 005
+JP #MS：
+JP 「いえ、まだまだですよ。
+EN #MS:
+EN "No, I've still got a long way to go."
+
+@ 006
+JP #WS041：
+JP 「タフな試合だった。
+JP 　熱い心を感じたよ。
+EN Kobashi:
+EN "That was a tough match. I felt your
+EN  fire."
+
+@ 007
+JP 「良いレスラーになったな。
+EN "You've become a good wrestler."
+
+@ 008
+JP #MS：
+JP 「ありがとうございました。
+JP 　本当に勉強になりましたよ。
+EN #MS:
+EN "Thank you, sir. I really learned a
+EN  lot."
+
+@ 009
+JP #WS041：
+JP 「#WS044は悔しがっていたけど
+JP 　嬉しそうにもしてたよ。
+EN Kobashi:
+EN "Akiyama was frustrated, but he
+EN  looked happy too."
+
+@ 010
+JP 「たぶん#MSのような
+JP 　ライバルと熱い闘いが出来た事を
+JP 　喜んでたんだと思う。
+EN "I think he was glad to have a hot
+EN  fight with a rival like you."
+
+@ 011
+JP #MS：
+JP 「#WS044が・・・
+EN #MS:
+EN "Akiyama..."
+
+@ 012
+JP #WS041：
+JP 「タッグタイトル戦、頑張れよ。
+JP 　確かに#WS042さん達は
+JP 　半端じゃない。
+EN Kobashi:
+EN "Good luck in the tag title match.
+EN  Kawada and his partner are no joke."
+
+@ 013
+JP 「でも#WS040さんと
+JP 　今のお前が組めば必ず勝機は見出せるだろう。
+EN "But with Misawa and you as you are
+EN  now, you'll find a way to win."
+
+@ 014
+JP #WS042・#WS043組。
+JP 実績、キャリア共に文句無しのタッグチームだ。
+EN Kawada and Taue. In record and in
+EN career, there's no better tag team.
+
+@ 015
+JP #WS041：
+JP 「自分達の熱い心を信じて闘うんだ！
+EN Kobashi:
+EN "Believe in your fire and fight!"
+
+@ 016
+JP #MS：
+JP 「はい！自分の持てる力全てをぶつけます！
+EN #MS:
+EN "Yes, sir! I'll throw everything I've got
+EN  at them!"
+
+@ 017
+JP #WS041さんは俺の返事に
+JP 満足そうに頷くと控え室を出て行った。
+EN Kobashi nodded, satisfied with my
+EN answer, and left the locker room.
+
+@ 018
+JP #WS040：
+JP 「そうだな、また頼むぞ。
+EN Misawa:
+EN "Right. I'm counting on you again."
+
+@ 019
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 020
+JP 記者：
+JP 「#MS選手！
+EN Reporter:
+EN "#MS!"
+
+@ 021
+JP 「いよいよワールドタッグ王座に挑戦ですね！
+EN "You finally get your World Tag title
+EN  shot!"
+
+@ 022
+JP #MS：
+JP 「そうですね。
+EN #MS:
+EN "That's right."
+
+@ 023
+JP 「やっとここまで来たっていうのもあるし、
+JP 　決定戦で#WS041さんのチームに
+JP 　勝って来たってのもあるんでね。
+EN "We finally made it this far, and we
+EN  beat Kobashi's team in the
+EN  contender's match to get here."
+
+@ 024
+JP 「#WS042さんのチームは
+JP 　とてつもなく強いですけどね、
+JP 　絶対に負けられないですよ。
+EN "Kawada's team is incredibly strong,
+EN  but we absolutely can't lose."
+
+@ 025
+JP 記者：
+JP 「頑張って下さい！
+EN Reporter:
+EN "Good luck!"
+
+@ 026
+JP #WS042：
+JP 「・・・・・・・
+EN Kawada:
+EN "......."
+
+@ 027
+JP #WS043：
+JP 「相棒は喋らないから俺が言っとくけどさー。
+JP 　絶対負けねーよ。なあ。
+EN Taue:
+EN "My partner doesn't talk, so I'll say it.
+EN  We ain't losin'. Right?"
+
+@ 028
+JP #WS042：
+JP 「・・・・・・・・・・
+EN Kawada:
+EN ".........."
+
+@ 029
+JP #MS：
+JP 「俺達も負けませんよ！
+EN #MS:
+EN "We won't lose either!"
+
+@ 030
+JP #WS040：
+JP 「頼むぞ。
+EN Misawa:
+EN "I'm counting on you."
+
+@ 031
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"

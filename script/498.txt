@@ -1,0 +1,196 @@
+@ 000
+JP #MS：
+JP 「結局どうなったんですかね？
+JP 　専属契約の話は。
+EN #MS:
+EN "So what happened in the end? With
+EN  the exclusive deal?"
+
+@ 001
+JP #WS092：
+JP 「すぐに返事が来るものでもないさ。
+JP 　向こうは今色々検討中だろうよ。
+EN Sasuke:
+EN "You don't get an answer right away.
+EN  They're still weighing things."
+
+@ 002
+JP 「ただ俺はもう日本に帰らなきゃならない。
+JP 　返事は日本で聞く事になるだろう。
+EN "But I have to head back to Japan. I'll
+EN  probably hear their answer there."
+
+@ 003
+JP #MS：
+JP 「そうなんですか・・・
+JP 　で、俺も一緒に帰るんですよね？
+EN #MS:
+EN "I see... So I'm going back with you,
+EN  right?"
+
+@ 004
+JP #WS092：
+JP 「いや。実はお前は西連隊の連中に
+JP 　預けて行こうかと思ってる。
+EN Sasuke:
+EN "No. Actually, I'm thinking of leaving
+EN  you with the Kaientai guys."
+
+@ 005
+JP #MS：
+JP 「え？
+EN #MS:
+EN "Huh?"
+
+@ 006
+JP #WS092：
+JP 「おっ、ここだな。
+EN Sasuke:
+EN "Oh, this is the place."
+
+@ 007
+JP #WS092：
+JP 「よう！
+EN Sasuke:
+EN "Yo!"
+
+@ 008
+JP #WS134：
+JP 「おう、何だよ。
+EN TAKA:
+EN "Hey, what's up?"
+
+@ 009
+JP #WS092：
+JP 「話はしてあるだろう？
+JP 　こいつをしばらく
+JP 　預かってやって欲しいんだよ。
+EN Sasuke:
+EN "We talked about this, right? I want
+EN  you to look after this guy for a
+EN  while."
+
+@ 010
+JP #WS134：
+JP 「チェッ、仕方ねぇな。
+JP 　分かったよ。
+EN TAKA:
+EN "Tch, fine. Got it."
+
+@ 011
+JP #WS092：
+JP 「じゃあ頼むぞ。
+JP 　俺はこのまま日本へ帰るからな。
+EN Sasuke:
+EN "Then he's all yours. I'm heading
+EN  straight back to Japan."
+
+@ 012
+JP 「#MS、お前は連絡するまで
+JP 　ここで試合に出してもらえ。頑張れよ！
+EN "#MS, wrestle here till you hear
+EN  from me. Good luck!"
+
+@ 013
+JP #MS：
+JP 「・・・・・・・・
+EN #MS:
+EN "........"
+
+@ 014
+JP #WS134：
+JP 「相変わらずだな、あの社長はよぉ。
+JP 　おめぇも苦労してそうだな？
+EN TAKA:
+EN "Same as ever, that boss of yours.
+EN  Looks like he's a handful for you
+EN  too."
+
+@ 015
+JP #MS：
+JP 「ハハ・・・ま、まあ慣れですよ。
+JP 　たぶん・・・
+EN #MS:
+EN "Ha ha... W-well, you get used to it.
+EN  Probably..."
+
+@ 016
+JP 「ところであの、他のメンバーの人達は
+JP 　どこにいるんですか？
+EN "By the way, um, where are the other
+EN  members?"
+
+@ 017
+JP #WS134：
+JP 「他のメンバーはまだ日本と行ったり来たりで
+JP 　やってるんだよ。だからここには俺だけ。
+EN TAKA:
+EN "They're still going back and forth to
+EN  Japan. So it's just me here."
+
+@ 018
+JP #MS：
+JP 「そうですか・・・
+EN #MS:
+EN "I see..."
+
+@ 019
+JP #WS134：
+JP 「それよりお前、顔は見た事あるけど
+JP 　話するのは初めてだよな。
+EN TAKA:
+EN "Anyway, I've seen your face, but this
+EN  is our first real talk, huh."
+
+@ 020
+JP #MS：
+JP 「あ、ええ。改めて、#MSです。
+JP 　よろしくお願いします。
+EN #MS:
+EN "Oh, yes. Let me introduce myself. I'm
+EN  #MS. Nice to meet you."
+
+@ 021
+JP #WS134：
+JP 「まあ堅っ苦しい挨拶はいいよ、別に。
+JP 　それよりお前聞いてるか？今日の夜
+JP 　試合があるぞ。
+EN TAKA:
+EN "Skip the stiff greetings. More
+EN  importantly, did you hear? You've
+EN  got a match tonight."
+
+@ 022
+JP #MS：
+JP 「え？初耳ですけど・・・
+EN #MS:
+EN "Huh? That's news to me..."
+
+@ 023
+JP #WS134：
+JP 「・・・・#WS092の奴、何やってんだ？
+JP 　まあそういう訳だからよ。
+EN TAKA:
+EN "....What's Sasuke doing? Well, that's
+EN  how it is."
+
+@ 024
+JP 「夜までに#WS136が来て、
+JP 　お前とシングルやる事になってるぞ。
+EN "Teioh's coming by tonight, and
+EN  you're wrestling him one-on-one."
+
+@ 025
+JP #MS：
+JP 「分かりました！
+JP 　試合では専属契約してもらえるよう、
+JP 　頑張ります！
+EN #MS:
+EN "Got it! I'll fight hard so they give us
+EN  that exclusive deal!"
+
+@ 026
+JP #WS134：
+JP 「はいはい。
+EN TAKA:
+EN "Yeah, yeah."

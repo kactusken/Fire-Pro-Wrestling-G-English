@@ -1,0 +1,95 @@
+@ 000
+JP 記者：
+JP 「おめでとうございます！
+EN Reporter:
+EN "Congratulations!"
+
+@ 001
+JP #MS：
+JP 「ありがとうございます。
+EN #MS:
+EN "Thank you."
+
+@ 002
+JP 記者：
+JP 「大物、#WL002選手を
+JP 　撃破しました！心境はいかがですか？
+EN Reporter:
+EN "You took down the big man, Kensuke
+EN  Sasaki! How do you feel?"
+
+@ 003
+JP #MS：
+JP 「始まる前からね、あの人達には何だかんだと
+JP 　言われてましたけど、俺達の闘いは
+JP 　間違っちゃいなかったって事ですよ。
+EN #MS:
+EN "Those guys ran their mouths about
+EN  us from the start. But it shows our
+EN  way of fighting wasn't wrong."
+
+@ 004
+JP 「この勝利でそれが証明出来たのが
+JP 　１番の収穫ですよ。
+EN "Proving that with this win is the
+EN  biggest prize."
+
+@ 005
+JP 記者：
+JP 「いわゆる『Ｕ系』の闘いの証明、と
+JP 　言う事ですか？
+EN Reporter:
+EN "Proof of the so-called 'U-style'
+EN  fight, then?"
+
+@ 006
+JP #MS：
+JP 「そうですね。『Ｕ』の名は俺達が
+JP 　守り抜いてみせますよ！
+EN #MS:
+EN "That's right. We'll defend the name
+EN  'U' to the end!"
+
+@ 007
+JP 記者：
+JP 「大物、#WL002選手を
+JP 　相手に玉砕・・・純プロレスとの闘い、
+JP 　いかがでしたか？
+EN Reporter:
+EN "You went down fighting against the
+EN  big man, Kensuke Sasaki... How was
+EN  pure pro wrestling?"
+
+@ 008
+JP #MS：
+JP 「始まる前からあの人達には何だかんだと
+JP 　言われてたんでね、勝って見返して
+JP 　やりたかったんですけどね。
+EN #MS:
+EN "Those guys ran their mouths from
+EN  the start, so I wanted to win and shut
+EN  them up."
+
+@ 009
+JP 「でもこれじゃ終われませんよ。俺達の闘いが
+JP 　間違っていた訳じゃないってのを
+JP 　あいつらに教えてやります！
+EN "But it can't end like this. I'll show
+EN  them our way of fighting wasn't
+EN  wrong!"
+
+@ 010
+JP 記者：
+JP 「いわゆる『Ｕ系』の闘いの証明、と
+JP 　言う事ですか？
+EN Reporter:
+EN "Proof of the so-called 'U-style'
+EN  fight, then?"
+
+@ 011
+JP #MS：
+JP 「そうですね。『Ｕ』の名は俺達が
+JP 　守り抜いてみせますよ！
+EN #MS:
+EN "That's right. We'll defend the name
+EN  'U' to the end!"

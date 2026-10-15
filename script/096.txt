@@ -1,0 +1,156 @@
+@ 000
+JP デビュー後、若さに任せて突き進んだ俺は、
+JP 同期の中では一番の元気者として
+JP 認知されるようになっていた。
+EN After my debut, I charged ahead on
+EN youthful energy and became known
+EN as the liveliest of my class.
+
+@ 001
+JP #WS065：
+JP 「おう、どうだ調子は。
+EN Fuchi:
+EN "So, how are you doing?"
+
+@ 002
+JP #MS：
+JP 「はい、絶好調です。
+EN #MS:
+EN "I'm in top shape, sir."
+
+@ 003
+JP #WS065さん。今でこそ一線は退いているが
+JP 元ワールドジュニアヘビー級のチャンピオン。
+JP しかもタイトル最長保持記録の持ち主だ。
+EN Fuchi's off the front line now, but
+EN he's an ex-World Junior champ with
+EN the longest reign ever.
+
+@ 004
+JP #WS065：
+JP 「ハハハ、確かに目に余る元気ぶりだな。
+EN Fuchi:
+EN "Hahaha, you're lively, all right. A
+EN  little too lively."
+
+@ 005
+JP 「じゃあ一丁俺とやるか。
+EN "So how about a match with me?"
+
+@ 006
+JP #MS：
+JP 「え！？
+EN #MS:
+EN "Huh!?"
+
+@ 007
+JP #WS065：
+JP 「どうだ？
+EN Fuchi:
+EN "Well?"
+
+@ 008
+JP #MS：
+JP 「はい、是非！
+EN #MS:
+EN "Yes, please!"
+
+@ 009
+JP #WS065：
+JP 「じゃあ社長には俺から言っておこう。
+EN Fuchi:
+EN "Then I'll tell the boss."
+
+@ 010
+JP #MS：
+JP 「元ジュニアヘビー級チャンピオンの
+JP 　#WS065さんと試合が出来るなんて
+JP 　楽しみです！
+EN #MS:
+EN "A match with Fuchi, the former
+EN  Junior Heavyweight champ! I can't
+EN  wait!"
+
+@ 011
+JP #WS065：
+JP 「フフ、そうか。俺も楽しみにしてるよ。
+EN Fuchi:
+EN "Heh, is that so. I'm looking forward
+EN  to it too."
+
+@ 012
+JP #WS066：
+JP 「お前、デビュー戦はガチガチだったくせに
+JP 　もうそんな事言ってるのか？
+JP 　いい根性してるよな。
+EN Kikuchi:
+EN "You froze up at your debut, and now
+EN  you talk like that? You've got guts."
+
+@ 013
+JP #MS：
+JP 「へへ・・・
+EN #MS:
+EN "Heh heh..."
+
+@ 014
+JP #WS066：
+JP 「けど#WS065さんは
+JP 　怖い人だぜ。気を付けな。
+EN Kikuchi:
+EN "But Fuchi's a scary guy. Watch
+EN  yourself."
+
+@ 015
+JP 俺はまさか、と冗談を切り返すつもりだったが、
+JP #WS066さんは笑っていなかった。
+EN I was about to laugh it off, but
+EN Kikuchi wasn't smiling.
+
+@ 016
+JP #WS065：
+JP 「・・・・・・・・
+EN Fuchi:
+EN "........"
+
+@ 017
+JP #MS：
+JP 「！？
+EN #MS:
+EN "!?"
+
+@ 018
+JP 俺はドキッとした。見た目は何も変わらないのに
+JP 何故か今は#WS065さんが
+JP とてつもなく恐ろしい人に見えた。
+EN My heart skipped. He looked the same
+EN as ever, yet Fuchi suddenly seemed
+EN terrifying.
+
+@ 019
+JP これが#WS066さんの言っていた事なのか？
+EN Is this what Kikuchi meant?
+
+@ 020
+JP しかし・・・ここで引く訳にはいかない。
+JP 俺はこの人を乗り越えて行かなければ
+JP ならないのだ！
+EN But... I can't back down now. I have to
+EN get past this man!
+
+@ 021
+JP #WS065：
+JP 「どうした、#MS。
+EN Fuchi:
+EN "What's wrong, #MS?"
+
+@ 022
+JP #WS065さんがニヤッと笑う。
+EN Fuchi grinned.
+
+@ 023
+JP #MS：
+JP 「いえ！よろしくお願いします！
+EN #MS:
+EN "Nothing, sir! Let's have a good
+EN  match!"

@@ -1,0 +1,83 @@
+@ 000
+JP #WS052：
+JP 「ユーのおかげで遂にここまで来た。
+EN Ace:
+EN "Thanks to you, we've finally made it
+EN  this far."
+
+@ 001
+JP #MS：
+JP 「別に俺１人の功績じゃないですよ。
+EN #MS:
+EN "It wasn't just me."
+
+@ 002
+JP そう、俺達は遂に
+JP ワールドワンタッグリーグ戦の
+JP 決勝戦に駒を進めたのだ。
+EN That's right. We'd finally made it to
+EN the final of the Real World Tag
+EN League.
+
+@ 003
+JP #WS052：
+JP 「しかし相手が相手だからな・・・・
+EN Ace:
+EN "But look who we're up against..."
+
+@ 004
+JP 相手は#WS051・#WS122組。
+JP 本戦では俺達も敗れている相手だ。
+EN Our opponents: Hansen and Vader.
+EN They'd beaten us in the league.
+
+@ 005
+JP #MS：
+JP 「弱気になってどうするんですか！
+JP 　キッチリ借りを返した上で
+JP 　優勝してやろうじゃないですか！
+EN #MS:
+EN "Don't go soft on me now! Let's pay
+EN  them back in full and win the whole
+EN  thing!"
+
+@ 006
+JP #WS052：
+JP 「フフフ・・・そうだな。ユーの言う通りだ。
+JP 　よし、思いっきり行くぞ！
+EN Ace:
+EN "Heh heh... You're right. All right,
+EN  let's go all out!"
+
+@ 007
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yeah!"
+
+@ 008
+JP #WS051：
+JP 「ウィーーーーッ！！
+EN Hansen:
+EN "Weeeeeee!!"
+
+@ 009
+JP #WS051がいつもの雄叫びを上げている。
+JP 俺はその間もずっと相手を睨み続けていた。
+EN Hansen let out his usual war cry. All
+EN the while, I kept glaring at our
+EN opponents.
+
+@ 010
+JP そして俺の視線に気付いた#WS051が
+JP こちらを向いて、睨み返して来た。
+EN Hansen noticed my stare, turned my
+EN way, and glared right back.
+
+@ 011
+JP 俺達はお互い１歩も引かずに睨み合った。
+EN Neither of us gave an inch.
+
+@ 012
+JP そして決勝戦のゴングが鳴る・・・・
+EN And then the bell for the final rang...

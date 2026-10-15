@@ -1,0 +1,35 @@
+@ 000
+JP 記者：
+JP 「トーナメント敗退、残念でした。
+EN Reporter:
+EN "Too bad about the tournament loss."
+
+@ 001
+JP #MS：
+JP 「思うように結果が出せなくて悔しいですね。
+JP 　ただこれを糧に次の闘いに
+JP 　向かって行きますよ。
+EN #MS:
+EN "It's frustrating not to get the result I
+EN  wanted. But I'll use it as fuel for the
+EN  next fight."
+
+@ 002
+JP 記者：
+JP 「今後の見通しは？
+EN Reporter:
+EN "What's next for you?"
+
+@ 003
+JP #MS：
+JP 「バーリトゥードを始めとして色々な闘いに
+JP 　出向いて行きたいですね。
+EN #MS:
+EN "I want to take on all kinds of fights,
+EN  starting with vale tudo."
+
+@ 004
+JP 記者：
+JP 「ありがとうございました！
+EN Reporter:
+EN "Thank you very much!"

@@ -1,0 +1,72 @@
+@ 000
+JP 俺は久々に#WS059社長に
+JP 呼び出されていた。
+EN For the first time in a while, Mr. Baba
+EN called me in.
+
+@ 001
+JP #WS059：
+JP 「実は#WS126が
+JP 　#PS06に移籍する事が決まった。
+EN Baba:
+EN "The thing is, Williams is moving to
+EN  #PS06."
+
+@ 002
+JP #MS：
+JP 「えっ、そうなんですか？
+EN #MS:
+EN "What, really?"
+
+@ 003
+JP #WS059：
+JP 「２９日の大阪で壮行試合を
+JP 　やる事になっとる。
+EN Baba:
+EN "He'll have a send-off match in Osaka
+EN  on the 29th."
+
+@ 004
+JP 「それと#PS02のエース、
+JP 　#WS068のポイント参戦が決まった。
+EN "Also, #PS02's ace, Hayabusa, will
+EN  be making some appearances."
+
+@ 005
+JP #MS：
+JP 「#WS068・・・
+EN #MS:
+EN "Hayabusa..."
+
+@ 006
+JP #WS059：
+JP 「３日の遊楽園でタッグ、２９日の大阪で
+JP 　シングルを組むつもりだ。
+EN Baba:
+EN "I plan to book him in a tag at
+EN  Korakuen on the 3rd and a single in
+EN  Osaka on the 29th."
+
+@ 007
+JP 「それでお前に、２９日の大阪でやる
+JP 　どちらかとの試合を任せようと思う。
+EN "And I'm giving you one of those two
+EN  matches in Osaka on the 29th."
+
+@ 008
+JP 「お前と#WS044、どっちをどっちに当てるか、
+JP 　シリーズ中の状況を見て答えを出す。
+EN "Which of them you and Akiyama
+EN  each get, I'll decide based on how the
+EN  series goes."
+
+@ 009
+JP 「どう転んでも良いように
+JP 　覚悟はしておいてくれ。
+EN "Either way, be ready."
+
+@ 010
+JP #MS：
+JP 「分かりました。
+EN #MS:
+EN "Understood."

@@ -1,0 +1,212 @@
+@ 000
+JP 試合後、大勢の仲間や報道陣に囲まれた。
+EN After the match, I was swarmed by
+EN friends and reporters.
+
+@ 001
+JP 記者：
+JP 「素晴らしい試合でした。
+JP 　そして優勝おめでとうございます！
+EN Reporter:
+EN "What a match. And congratulations
+EN  on winning!"
+
+@ 002
+JP #MS：
+JP 「だから言ったろ、優勝するってよ！
+JP 　#WS001も強かったよ！けどな！
+JP 　俺の方が強いんだよ！良く覚えとけ！
+EN #MS:
+EN "Told you I'd win it, didn't I!
+EN  Hashimoto was tough! But guess
+EN  what! I'm tougher! Don't forget it!"
+
+@ 003
+JP 記者：
+JP 「これで、ＩＧＰのタイトルへの
+JP 　挑戦権を得ました。
+JP 　初挑戦への意気込みは？
+EN Reporter:
+EN "You've earned a shot at the IWGP
+EN  title. Any thoughts on your first
+EN  challenge?"
+
+@ 004
+JP #MS：
+JP 「他に誰がいるんだよ！
+JP 　今ベルトが一番似合うのは
+JP 　俺しかいないだろ！
+EN #MS:
+EN "Who else is there? Nobody looks
+EN  better with that belt than me!"
+
+@ 005
+JP 「チャンピオン誰だよ！#WS000？
+JP 　ちょうどいいじゃねえか！
+EN "Who's the champ? Fujinami?
+EN  Perfect!"
+
+@ 006
+JP 「そんな年寄りはな！
+JP 　ベルト貰うついでに
+JP 　俺が引導渡してやるよ！
+EN "An old-timer like him? While I'm
+EN  taking the belt, I'll put him out to
+EN  pasture too!"
+
+@ 007
+JP #WS027：
+JP 「お前らも当たり前の事
+JP 　聞いてんじゃねーぞ、エー！
+JP 　#MSしかいねぇだろ！
+EN Chono:
+EN "And you guys quit asking dumb
+EN  questions, huh!? It's #MS, who
+EN  else!?"
+
+@ 008
+JP #WS028：
+JP 「こいつの勢いは本物だよ！
+EN Mutoh:
+EN "This guy's momentum is the real
+EN  deal!"
+
+@ 009
+JP #WS027：
+JP 「良く聞け！これは始まりだ！
+JP 　この勢いで、乗っ取ってやるよ！
+JP 　#PL00を！
+EN Chono:
+EN "Listen up! This is just the start! We'll
+EN  ride this and take over #PL00!"
+
+@ 010
+JP #MS：
+JP 「#WS000に言っとけ！
+JP 　引退セレモニーの日取り決めとけってな！
+EN #MS:
+EN "Tell Fujinami to go book his
+EN  retirement ceremony!"
+
+@ 011
+JP #WS028：
+JP 「そういう事だ！
+JP 　見てろよ！こいつは本当にやるからな！
+EN Mutoh:
+EN "That's right! Just watch! This guy's
+EN  really gonna do it!"
+
+@ 012
+JP #WS027：
+JP 「これで終りだ、出てけオラ！
+EN Chono:
+EN "That's it, now get out, punks!"
+
+@ 013
+JP #WS030：
+JP 「いよいよだな。
+EN Hiro:
+EN "This is it."
+
+@ 014
+JP #WS027：
+JP 「全てをぶつけて来い！
+EN Chono:
+EN "Hit him with everything!"
+
+@ 015
+JP #WS029：
+JP 「次は俺がお前に挑戦するからな！
+JP 　ちゃんと勝って来いよ！オェッ！
+EN Tenzan:
+EN "Next, I'm challenging you! So make
+EN  sure you win! Oeh!"
+
+@ 016
+JP #WS028：
+JP 「いいか、おい！やって来い！見せてやれ！
+JP 　ベルト取って来い！
+EN Mutoh:
+EN "Listen up! Go get him! Show 'em!
+EN  Bring back that belt!"
+
+@ 017
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 018
+JP 俺は顔を両手でパン、パンと叩いて
+JP 気合を入れる。
+EN I slap my face with both hands,
+EN smack, smack, to psych myself up.
+
+@ 019
+JP #MS：
+JP 「行くぞオラ！！
+EN #MS:
+EN "Let's go, dammit!!"
+
+@ 020
+JP この勢いで必ずベルトを奪って見せる！
+EN I'll ride this momentum and take that
+EN belt!
+
+@ 021
+JP #WS000：
+JP 「この衰えた身体がどこまでお前達の攻撃に
+JP 　耐えられるか・・・
+JP 　しかし精神は簡単に屈したりはしない！
+EN Fujinami:
+EN "How long this worn-out body can
+EN  take your attacks... I don't know. But
+EN  my spirit won't break so easily!"
+
+@ 022
+JP 「このＩＧＰのベルトの重さの意味が分かるか？
+JP 　この重さにお前の心は耐えられるか？
+EN "Do you know what the weight of this
+EN  IWGP belt means? Can your heart
+EN  bear that weight?"
+
+@ 023
+JP #MS：
+JP 「やかましいってんだよ！いいか！
+JP 　俺がここで取らなきゃ何も変わらねえ！
+EN #MS:
+EN "Shut up already! Listen! If I don't
+EN  take it here, nothing will change!"
+
+@ 024
+JP 「それじゃダメなんだよ！#PS00を
+JP 　新しい力で動かさなきゃいけねえんだよ！
+EN "That's no good! #PS00 needs new
+EN  blood to move it forward!"
+
+@ 025
+JP 「だからやってやるよ！#WS000！
+JP 　ベルトは俺がもらう！
+JP 　お前は安心して引退しとけ！
+EN "So I'll do it! Fujinami! The belt's
+EN  mine! You can retire in peace!"
+
+@ 026
+JP #WS000：
+JP 「フフフ・・・頼もしいな。
+EN Fujinami:
+EN "Heh heh heh... Spoken boldly."
+
+@ 027
+JP 「でもプロレスとは奥深いもの。
+JP 　若さと勢いでどうにもならない事もある。
+JP 　それを教えてやろう。
+EN "But pro wrestling runs deep. Some
+EN  things youth and momentum can't
+EN  overcome. Let me teach you that."
+
+@ 028
+JP #MS：
+JP 「行くぞ！
+EN #MS:
+EN "Here I come!"

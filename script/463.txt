@@ -1,0 +1,87 @@
+@ 000
+JP 俺達は試合後も睨み合っていた。
+EN Even after the match, we kept glaring
+EN at each other.
+
+@ 001
+JP #WS017：
+JP 「・・・・・・・・
+EN Kanemoto:
+EN "........"
+
+@ 002
+JP #MS：
+JP 「・・・・・・・・・
+EN #MS:
+EN "........."
+
+@ 003
+JP #WS015：
+JP 「落ち着け、#MS。
+JP 　#WS017、お前もだ。
+EN Liger:
+EN "Calm down, #MS. You too,
+EN  Kanemoto."
+
+@ 004
+JP 俺達は#WS015さんが間に入ったので
+JP 退場する事にした。
+EN With Liger stepping between us, we
+EN headed to the back.
+
+@ 005
+JP だがまだ収まっていない俺は、
+JP 隙を見て#WS017選手めがけて突進。
+JP 相手もこっちに突っ込んで来た。
+EN But I wasn't done. When I saw an
+EN opening, I charged at Kanemoto. He
+EN charged right back.
+
+@ 006
+JP #WS015：
+JP 「お前達いい加減にしろ！
+JP 　そんなにやりたきゃシングルでやれ！
+JP 　レスラーの闘いの場はリングの上だろう！
+EN Liger:
+EN "Knock it off, you two! If you want it
+EN  that bad, do it one on one! A wrestler
+EN  fights in the ring!"
+
+@ 007
+JP そして俺と#WS017選手の
+JP シングルマッチが組まれた。
+EN And so Kanemoto and I were booked
+EN in a singles match.
+
+@ 008
+JP #WS017：
+JP 「俺にここまで突っ掛かって来るとは
+JP 　ホンマにいい度胸や。
+EN Kanemoto:
+EN "Pickin' a fight with me this hard...
+EN  You really got guts."
+
+@ 009
+JP 「けど今日はシングルや。
+JP 　#WS015さんの助けは無いで。
+EN "But today it's singles. No Liger to
+EN  bail ya out."
+
+@ 010
+JP #MS：
+JP 「そんな事分かってる！
+JP 　俺は１人でも、自分の闘いをするまで！
+EN #MS:
+EN "I know that! Even alone, I'll fight my
+EN  own fight!"
+
+@ 011
+JP 「行くぞ！
+EN "Let's go!"
+
+@ 012
+JP #WS017：
+JP 「潰されてもええんなら・・・・来いや！
+EN Kanemoto:
+EN "If ya don't mind gettin' crushed...
+EN  come on!"

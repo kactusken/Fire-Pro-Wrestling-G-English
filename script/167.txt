@@ -1,0 +1,213 @@
+@ 000
+JP その日俺はいつものように道場で
+JP 練習をしていた。
+EN That day I was training at the dojo as
+EN usual.
+
+@ 001
+JP #WS076：
+JP 「おう、#MS！
+EN Onita:
+EN "Hey, #MS!"
+
+@ 002
+JP #MS：
+JP 「#WS076さん！？
+EN #MS:
+EN "Mr. Onita!?"
+
+@ 003
+JP 「どうしてここに？
+EN "What are you doing here?"
+
+@ 004
+JP #WS076：
+JP 「お前に話があって来た。
+EN Onita:
+EN "I came to talk to you."
+
+@ 005
+JP #MS：
+JP 「復帰するって本当なんですか！
+EN #MS:
+EN "Is it true you're coming back!?"
+
+@ 006
+JP #WS076：
+JP 「おいおい、質問攻めか？
+EN Onita:
+EN "Whoa, whoa, what's with the third
+EN  degree?"
+
+@ 007
+JP #MS：
+JP 「答えて下さい！
+EN #MS:
+EN "Answer me!"
+
+@ 008
+JP #WS076：
+JP 「・・・・・・・
+EN Onita:
+EN "......."
+
+@ 009
+JP 「ああ。本当だ。その事で話があるんだ。
+EN "Yeah. It's true. That's what I came to
+EN  talk about."
+
+@ 010
+JP #MS：
+JP 「何で今更・・・
+EN #MS:
+EN "Why now, of all times..."
+
+@ 011
+JP #WS076：
+JP 「まあ待て。文句は話を聞いてからに
+JP 　してくれんか。
+EN Onita:
+EN "Hold on. Hear me out before you
+EN  start complaining."
+
+@ 012
+JP #MS：
+JP 「・・・・・分かりました。
+EN #MS:
+EN "..... All right."
+
+@ 013
+JP #WS076：
+JP 「お前は・・・お前は５年後の
+JP 　#PS02の事を考えた事があるか？
+EN Onita:
+EN "Have you... have you ever thought
+EN  about #PS02 five years from
+EN  now?"
+
+@ 014
+JP #MS：
+JP 「５年・・・後？
+EN #MS:
+EN "Five years... from now?"
+
+@ 015
+JP #WS076：
+JP 「#PS02には５年後にライバルとして
+JP 　直接闘う相手がいないんだよ。
+EN Onita:
+EN "In five years, #PS02 won't have a
+EN  rival to fight head-on."
+
+@ 016
+JP 「確かに#WS068達は良くやってるよ。
+JP 　でもダメなんだよ。ライバル不在じゃ
+JP 　いつか行き詰まる時が来る。
+EN "Sure, Hayabusa and the boys do fine.
+EN  But without a rival, they'll hit a wall
+EN  someday."
+
+@ 017
+JP 「俺はさ、そのライバルとして
+JP 　新団体『ＪＥＮ』を
+JP 　旗揚げしようと思うんだよ。
+EN "So I'm gonna launch a new
+EN  promotion, "ZEN," to be that rival."
+
+@ 018
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 019
+JP #WS076：
+JP 「分かってるよ。それで俺が出て行く必要が
+JP 　あるのか、って言うんだろ？
+EN Onita:
+EN "I know. You're gonna ask if I really
+EN  need to step in myself, right?"
+
+@ 020
+JP 「ただ『ＪＥＮ』の形が出来るまでは
+JP 　戦力として出にゃあならんだろ。
+EN "But until ZEN takes shape, I've gotta
+EN  fight on the roster."
+
+@ 021
+JP 「その為にはな、ワシは、ワシはな、
+JP 　ウソつきでも、嫌われ者でもいいんじゃ！
+EN "And for that... I don't care, I don't
+EN  care if they call me a liar or hate me!"
+
+@ 022
+JP 「ウソつき結構！今日からワシは
+JP 　『ミスター・ウソつき』じゃー！！
+EN "Call me a liar! From today, I'm "Mr.
+EN  Liar"!!"
+
+@ 023
+JP 「おい、おい#MS！
+JP 　お前には、#WS068のライバルになる
+JP 　素質がある！
+EN "Hey, hey, #MS! You've got what
+EN  it takes to be Hayabusa's rival!"
+
+@ 024
+JP 「ワシと、ワシと一緒に！『ＪＥＮ』で
+JP 　頑張ってくれんか！どうじゃ！
+EN "Come with me, with me to ZEN, and
+EN  give it your all! How about it!"
+
+@ 025
+JP まさかそう言うつもりだったとは・・・
+EN So that was what he had in mind...
+
+@ 026
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 027
+JP #WS076さんと共に
+JP ＪＥＮのメンバーとして
+JP 闘って行く事になった。
+EN I'd fight alongside Onita as a member
+EN of ZEN.
+
+@ 028
+JP そして記念すべき第一戦の日がやって来た。
+EN And the day of our memorable first
+EN match arrived.
+
+@ 029
+JP #WS074：
+JP 「何でおめぇは#WS076なんかと
+JP 　手を組んでるんだよ！
+EN Jado:
+EN "Why the hell are you teamin' up with
+EN  Onita!?"
+
+@ 030
+JP #MS：
+JP 「俺達は理想の為に闘う！お前達のような
+JP 　おふざけ軍団とは訳が違うんだよ！
+EN #MS:
+EN "We fight for our ideals! We're
+EN  nothing like a bunch of clowns like
+EN  you!"
+
+@ 031
+JP #WS074：
+JP 「バァーカ！おふざけじゃねえ、
+JP 　エンターテイメントだよ！
+EN Jado:
+EN "Idiot! It ain't clowning, it's
+EN  entertainment!"
+
+@ 032
+JP 「おふざけ軍団だと思ってると
+JP 　痛い目に合うぜ、気をつけな！
+EN "Keep thinkin' we're clowns and you'll
+EN  get hurt. Watch yourself!"

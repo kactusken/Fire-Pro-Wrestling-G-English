@@ -1,0 +1,431 @@
+@ 000
+JP 俺はデビュー戦を終え、控え室に戻って来た。
+EN My debut over, I came back to the
+EN locker room.
+
+@ 001
+JP #WS113：
+JP 「良くやったな。
+EN Ultimo:
+EN "Nice work."
+
+@ 002
+JP #MS：
+JP 「そうですか？
+EN #MS:
+EN "You think so?"
+
+@ 003
+JP マサ：
+JP 「デビュー戦にしちゃ上出来だったよ。
+EN Masa:
+EN "Not bad at all for a debut."
+
+@ 004
+JP #MS：
+JP 「マサさん！来てたんですか！
+EN #MS:
+EN "Masa! You came!"
+
+@ 005
+JP マサ：
+JP 「お前のデビュー戦ぐらい
+JP 　しっかり見ないとな。
+EN Masa:
+EN "I had to see your debut with my own
+EN  eyes."
+
+@ 006
+JP 「飛行機が遅れてどうなるかと思ったけど
+JP 　試合には何とか間に合ったよ。
+EN "My flight was late and I got worried,
+EN  but I made it in time for the match."
+
+@ 007
+JP #MS：
+JP 「ありがとうございます！
+EN #MS:
+EN "Thank you!"
+
+@ 008
+JP マサ：
+JP 「でも本当に大変なのはこれからだし、
+JP 　試合の評価を決めるのはお客さんだからな。
+EN Masa:
+EN "But the real work starts now, and it's
+EN  the fans who judge your matches."
+
+@ 009
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 010
+JP 記者：
+JP 「済みませーん！
+EN Reporter:
+EN "Excuse me!"
+
+@ 011
+JP 「インタビュー、よろしいですか？
+EN "Could I get an interview?"
+
+@ 012
+JP #MS：
+JP 「あっ、道場に来た雑誌社の人！
+EN #MS:
+EN "Oh, the magazine guy who came to
+EN  the dojo!"
+
+@ 013
+JP 記者：
+JP 「覚えていてくれて嬉しいよ。
+JP 　で、いいですか？インタビュー。
+EN Reporter:
+EN "Glad you remember me. So, how
+EN  about that interview?"
+
+@ 014
+JP #WS113：
+JP 「じゃあ俺達はあっちに行ってるよ。
+EN Ultimo:
+EN "We'll be over there, then."
+
+@ 015
+JP 記者：
+JP 「じゃあ顔も覚えていてくれた事だし、
+JP 　正式に・・・・
+EN Reporter:
+EN "Since you remember my face, let me
+EN  introduce myself properly...."
+
+@ 016
+JP そう言って記者の人は名刺を差し出した。
+EN With that, the reporter handed me his
+EN business card.
+
+@ 017
+JP #MS：
+JP 「中岡さん、ですか。
+EN #MS:
+EN "Mr. Nakaoka, is it?"
+
+@ 018
+JP 中岡記者：
+JP 「実はあれからアメリカ駐在記者になってね。
+EN Nakaoka:
+EN "I got posted to America after that."
+
+@ 019
+JP 「そうしたらちょうど君がこっちに来ていて
+JP 　今日デビューだって言うからさ。
+EN "And then you showed up here,
+EN  debuting today, so..."
+
+@ 020
+JP 「で、どう？アメリカでのデビュー戦は？
+EN "So, how was your American debut?"
+
+@ 021
+JP ・とにかく緊張した。
+JP ・記念すべき第１歩なので感動した。
+JP ・落ち着いて試合出来た。
+EN ・I was so nervous.
+EN ・I was moved. A big first step.
+EN ・I kept my cool.
+
+@ 022
+JP #MS：
+JP 「やっぱりプロデビュー戦ですからね。
+JP 　もうとにかく緊張しましたよ。
+EN #MS:
+EN "It was my pro debut, after all. I was
+EN  just so nervous."
+
+@ 023
+JP 「それと会場の雰囲気が日本とは全然
+JP 　違いますし、観客のニーズがまだ
+JP 　掴みきれて無いですからね。
+EN "And the crowd's vibe is totally
+EN  different from Japan. I still don't get
+EN  what the fans want."
+
+@ 024
+JP 「これからも勉強して行かないと。
+EN "I've got a lot more to learn."
+
+@ 025
+JP #MS：
+JP 「緊張もしましたけどそれ以上にようやく
+JP 　デビュー出来たって言う感動の方が
+JP 　強かったですね。
+EN #MS:
+EN "I was nervous, but even more, I was
+EN  moved to finally debut."
+
+@ 026
+JP 「これからもドンドン試合して、
+JP 　早くアメリカのお客さんに
+JP 　認めてもらえるようになりたいです！
+EN "I want to keep wrestling a lot and
+EN  earn the American fans' respect
+EN  quickly!"
+
+@ 027
+JP #MS：
+JP 「不思議と緊張は無かったですね。
+JP 　落ち着いて試合出来ました。
+EN #MS:
+EN "Funny, I wasn't nervous. I wrestled
+EN  calmly."
+
+@ 028
+JP 「お客さんの反応を見て、
+JP 　何を求められているかを
+JP 　研究して行きたいですね。
+EN "I want to watch the crowd's
+EN  reactions and study what they want."
+
+@ 029
+JP 中岡記者：
+JP 「なるほど。
+EN Nakaoka:
+EN "I see."
+
+@ 030
+JP 「アメリカで日本人と言えば
+JP 　大体ヒールだけど、やっぱりヒールで
+JP 　行くのかな？
+EN "In America, Japanese wrestlers are
+EN  mostly heels. Will you go heel too?"
+
+@ 031
+JP ・やっぱりヒールがいい。
+JP ・ベビーフェイスで行ってみたい。
+JP ・どっちでもいいからビッグになりたい。
+EN ・Heel is the way to go.
+EN ・I want to try babyface.
+EN ・Either way, I want to make it big.
+
+@ 032
+JP #MS：
+JP 「まあやっぱりヒールじゃないですかね。
+JP 　その方がアメリカのお客さんも
+JP 　分かり易いでしょうし。
+EN #MS:
+EN "Yeah, probably heel. It's easier for
+EN  American fans to understand."
+
+@ 033
+JP #MS：
+JP 「敢えてベビーフェイスで
+JP 　行ってみたいと思いますね。
+EN #MS:
+EN "I'd like to dare to go babyface."
+
+@ 034
+JP 「難しいでしょうけどその分
+JP 　やり甲斐があるんじゃないですか？
+EN "It'll be hard, but that makes it all the
+EN  more worthwhile, right?"
+
+@ 035
+JP #MS：
+JP 「それはまあ状況とお客のニーズ次第で
+JP 　どっちでも・・・とにかく今は早く
+JP 　大舞台で試合出来るようになりたいですね。
+EN #MS:
+EN "Either, depending on the situation
+EN  and the fans... Right now I just want
+EN  to get on the big stage fast."
+
+@ 036
+JP 中岡記者：
+JP 「ふんふん・・・なるほどね。
+JP 　で、これからどうするの？当分アメリカで？
+EN Nakaoka:
+EN "Hmm... I see. So what's next? Staying
+EN  in America for a while?"
+
+@ 037
+JP #MS：
+JP 「そうですね。
+JP 　やっぱり来たからにはここで結果
+JP 　出したいですし。
+EN #MS:
+EN "Yeah. Now that I'm here, I want to
+EN  get results here."
+
+@ 038
+JP 「それとアメリカのプロレスって言うと今まで
+JP 　単なるショーだと思ってたんですけど、
+JP 　もっと奥深いものがありますよね。
+EN "Also, I used to think American
+EN  wrestling was just a show, but there's
+EN  a lot more depth to it."
+
+@ 039
+JP 「何かその良さ・・・面白さが分かって来て
+JP 　アメプロが好きになって来たんで、
+JP 　楽しく頑張れるんじゃないかと思います。
+EN "I'm starting to see what's good,
+EN  what's fun about it. I like it now, so I
+EN  can enjoy the grind."
+
+@ 040
+JP 中岡記者：
+JP 「ほほう・・・アメプロの面白さに気付いた？
+EN Nakaoka:
+EN "Oho... You've caught on to what
+EN  makes American wrestling fun?"
+
+@ 041
+JP #MS：
+JP 「はい。それでいて自分の中の
+JP 　ジャパニーズスタイルと上手く融合させて
+JP 　行ければいいんじゃないかと。
+EN #MS:
+EN "Yes. And I hope I can blend it well
+EN  with the Japanese style in me."
+
+@ 042
+JP 中岡記者：
+JP 「そうだね。アメリカで成功してる
+JP 　日本人レスラーと言うのはそれが
+JP 　出来た人達だからね。
+EN Nakaoka:
+EN "Right. The Japanese wrestlers who
+EN  make it in America are the ones who
+EN  can do that."
+
+@ 043
+JP 「うん。君なら出来るんじゃないかな。
+EN "Yeah. I think you can do it."
+
+@ 044
+JP #MS：
+JP 「そうですか？
+EN #MS:
+EN "You think so?"
+
+@ 045
+JP 中岡記者：
+JP 「頑張ってよ、期待してるから。
+EN Nakaoka:
+EN "Go get 'em. I'm counting on you."
+
+@ 046
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 047
+JP 俺は今日も試合に備えて会場入りした。
+EN I arrived at the arena for today's
+EN match.
+
+@ 048
+JP あれ？あれは・・・・
+EN Huh? Is that....
+
+@ 049
+JP #MS：
+JP 「おはようございます！
+EN #MS:
+EN "Good morning!"
+
+@ 050
+JP #WS113：
+JP 「おっ、噂の人物が来たな。
+EN Ultimo:
+EN "Oh, speak of the devil."
+
+@ 051
+JP #MS：
+JP 「何です？噂って・・・
+EN #MS:
+EN "What? Speak of what..."
+
+@ 052
+JP 中岡記者：
+JP 「それはそうと、君の今日の相手、
+JP 　あのテリー・ネベロだそうだよ。
+EN Nakaoka:
+EN "Anyway, I hear today's opponent is
+EN  none other than Eddy Guerrero."
+
+@ 053
+JP #MS：
+JP 「テリー・ネベロって・・・
+EN #MS:
+EN "Eddy Guerrero..."
+
+@ 054
+JP 中岡記者：
+JP 「#PS00に来てる
+JP 　#WF112の
+JP 　事だよ。
+EN Nakaoka:
+EN "You know, the guy who wrestles
+EN  masked as Black Tiger in #PS00."
+
+@ 055
+JP #MS：
+JP 「あ、そうか。
+JP 　こっちでは素顔なんでしたっけ。
+EN #MS:
+EN "Oh, right. He goes unmasked over
+EN  here."
+
+@ 056
+JP 「でもまたジュニアヘビー級の人なんですね？
+EN "But another junior heavyweight?"
+
+@ 057
+JP #WS113：
+JP 「こっちでは普通にヘビーに混じって
+JP 　試合をする事も多いからな。別に
+JP 　不思議じゃないさ。
+EN Ultimo:
+EN "Here they often mix it up with the
+EN  heavyweights. Nothing strange about
+EN  it."
+
+@ 058
+JP #MS：
+JP 「確かにテリー・ネベロは百戦錬磨のベテラン
+JP 　ですからね・・・ヘタなヘビー級なら
+JP 　食っちゃうでしょうね。
+EN #MS:
+EN "True, he's a battle-tested veteran...
+EN  He'd eat a sloppy heavyweight alive."
+
+@ 059
+JP 「俺もその『ヘタなヘビー級』にならないように
+JP 　頑張らないと！
+EN "I'd better work hard so I'm not that
+EN  'sloppy heavyweight'!"
+
+@ 060
+JP 中岡記者：
+JP 「その意気だよ。
+JP 　プレス席から見てるから頑張って！
+EN Nakaoka:
+EN "That's the spirit. I'll be watching
+EN  from press row. Good luck!"
+
+@ 061
+JP #WS113：
+JP 「勝ち負けよりも、
+JP 　自分の試合をキッチリして来いよ。
+EN Ultimo:
+EN "Forget winning or losing. Just go
+EN  wrestle your match right."
+
+@ 062
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"

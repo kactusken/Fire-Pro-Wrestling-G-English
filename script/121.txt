@@ -1,0 +1,123 @@
+@ 000
+JP #WS065：
+JP 「よう、調子はどうだ？
+EN Fuchi:
+EN "Hey, how are you doing?"
+
+@ 001
+JP #MS：
+JP 「ええ、相変わらず良い感じです！
+EN #MS:
+EN "Good as ever, sir!"
+
+@ 002
+JP #WS065：
+JP 「五番勝負中だってのに緊張してるってより
+JP 　生き生きしてるよな。
+EN Fuchi:
+EN "You're in the middle of the trial
+EN  series, and you look more lively than
+EN  nervous."
+
+@ 003
+JP #MS：
+JP 「まあ性分ですから。
+EN #MS:
+EN "Well, that's just how I am."
+
+@ 004
+JP #WS065：
+JP 「そうでなきゃトップは務まらないよな。
+EN Fuchi:
+EN "You'd have to be, to make it at the
+EN  top."
+
+@ 005
+JP 「知ってるか？五番勝負みたいな事をやった
+JP 　レスラーはみんなトップに上りつめてるんだ。
+EN "You know what? Every wrestler who
+EN  did a series like this made it to the
+EN  top."
+
+@ 006
+JP #MS：
+JP 「そうなんですか？
+EN #MS:
+EN "Really?"
+
+@ 007
+JP #WS065：
+JP 「#WS060さんだろ、#WS040に
+JP 　#WS041もそうだな。
+EN Fuchi:
+EN "Tsuruta, sure, and Misawa and
+EN  Kobashi too."
+
+@ 008
+JP #MS：
+JP 「へぇ～。
+EN #MS:
+EN "Wow~."
+
+@ 009
+JP #WS065：
+JP 「まあだからお前も
+JP 　その可能性が高い、って訳だ。
+EN Fuchi:
+EN "So, odds are you'll make it too."
+
+@ 010
+JP #MS：
+JP 「なるほど！
+EN #MS:
+EN "I see!"
+
+@ 011
+JP #WS065：
+JP 「逆にもしかしたら
+JP 　『史上初、五番勝負をやってもトップに
+JP 　立てなかった男』になるかもしれないけどな。
+EN Fuchi:
+EN "Then again, maybe you'll be the first
+EN  man ever to do the series and NOT
+EN  make it to the top."
+
+@ 012
+JP #MS：
+JP 「そんな！
+EN #MS:
+EN "Come on!"
+
+@ 013
+JP #WS065：
+JP 「ま、そうならないように頑張れや。
+EN Fuchi:
+EN "Well, work hard so that doesn't
+EN  happen."
+
+@ 014
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes, sir."
+
+@ 015
+JP ・・・・・・何か遊ばれた気がする・・・・・
+EN ......I feel like he was toying with
+EN me.....
+
+@ 016
+JP 五番勝負第二戦は#WS053。
+JP 元ＵＷＨインテグラルの
+JP スープレックス・モンスターだ。
+EN Match two of the series is Albright,
+EN the ex-UWF International Suplex
+EN Monster.
+
+@ 017
+JP 決まれば勝率１００％の
+JP フルネルソン・スープレックスは
+JP 何としても食らう訳には行かない！
+EN His full nelson suplex has never failed
+EN to win. I can't let him hit it, no matter
+EN what!

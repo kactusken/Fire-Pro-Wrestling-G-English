@@ -1,0 +1,174 @@
+@ 000
+JP #WS001：
+JP 「おい！#MS！
+JP 　海外はどうだった？
+EN Hashimoto:
+EN "Hey! #MS! How was overseas?"
+
+@ 001
+JP #MS：
+JP 「あ、はい！いい勉強になりました！
+EN #MS:
+EN "Oh, yes! I learned a lot!"
+
+@ 002
+JP #WS001：
+JP 「そうか。確かに目つきも違うよな。
+JP 　よし！これからその経験を活かせよ！
+EN Hashimoto:
+EN "I bet. Even your eyes look different.
+EN  All right! Put that experience to use!"
+
+@ 003
+JP #MS：
+JP 「はい！#WS001さん達のように必ず！
+EN #MS:
+EN "Yes, sir! I'll be like you, I swear!"
+
+@ 004
+JP #WS001：
+JP 「その意気だ。
+JP 　勢いに乗ってるうちにガーッっと行け！
+JP 　鉄は熱いうちに打てだ！
+EN Hashimoto:
+EN "That's the spirit. Ride that
+EN  momentum and charge! Strike while
+EN  the iron's hot!"
+
+@ 005
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 006
+JP #WS001：
+JP 「#PS00を、そしてプロレスを
+JP 　もっと高める為にも俺達がもっと
+JP 　頑張らなくちゃならない。
+EN Hashimoto:
+EN "To make #PS00, and pro
+EN  wrestling, even better, guys like us
+EN  have to work even harder."
+
+@ 007
+JP 「そう思うだろ？
+EN "Don't you think?"
+
+@ 008
+JP #MS：
+JP 「その通りです。
+EN #MS:
+EN "Absolutely."
+
+@ 009
+JP #WS001：
+JP 「俺はな、お前なら俺達と
+JP 　上を目指して行けると思ったんだよ。
+EN Hashimoto:
+EN "I figured you could aim for the top
+EN  together with us."
+
+@ 010
+JP 「一緒に本当のプロレスってものを
+JP 　造って行こうじゃないか。
+EN "Let's build real pro wrestling
+EN  together."
+
+@ 011
+JP 俺は#WS001さんの意見に同感だった。
+JP 今のままでは#PS00は徐々に
+JP 衰えて行くだろう。
+EN I agreed with Hashimoto. As things
+EN are, #PS00 will slowly decline.
+
+@ 012
+JP そしてそれは日本マット界そのものの
+JP 衰退につながる。
+JP それ程#PS00の影響力は大きいのだ。
+EN And that would mean the decline of
+EN all Japanese wrestling. That's how big
+EN #PS00's influence is.
+
+@ 013
+JP 若くて勢いのある俺が#PS00を
+JP 引っ張って行くぐらいのものを
+JP 見せなきゃならない。
+EN A young, rising guy like me has to
+EN show he can carry #PS00 on his
+EN back.
+
+@ 014
+JP #MS：
+JP 「はい！よろしくお願いします！
+EN #MS:
+EN "Yes, sir! Count me in!"
+
+@ 015
+JP #WS001：
+JP 「よーし！#PS00を
+JP 　もっといい団体にするぞ！
+EN Hashimoto:
+EN "All right! Let's make #PS00 an
+EN  even better promotion!"
+
+@ 016
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 017
+JP 俺はその日、早速カマしてやった。
+EN That very day, I made my move.
+
+@ 018
+JP 帰国の挨拶の場で
+JP ＦＷＯの連中に喧嘩を売ったのだ。
+EN At my homecoming speech, I picked a
+EN fight with the nWo guys.
+
+@ 019
+JP ＦＷＯに喧嘩を売った事で一時的に俺は
+JP 注目を浴びた。今みんなが見ている時に、
+JP 実績を残さなければならない。
+EN Picking a fight with nWo put me in
+EN the spotlight for now. I have to get
+EN results while everyone's watching.
+
+@ 020
+JP そんな中俺の凱旋帰国マッチが決まった。
+EN Then my homecoming match was set.
+
+@ 021
+JP 相手は俺の売った喧嘩にいち早く反応した
+JP #WS029だ。
+EN My opponent: Tenzan, the first to
+EN answer the fight I picked.
+
+@ 022
+JP #WS029：
+JP 「オラ！お前なんか顔じゃねーんだよ、オェッ！
+JP 　今ここで潰してやるよ、オェッ！
+EN Tenzan:
+EN "Hey! You're nobody, oeh! I'll crush
+EN  you right here, oeh!"
+
+@ 023
+JP #MS：
+JP 「お前の活躍は認めるけどな！
+JP 　俺だって遊んでた訳じゃないんだよ！
+EN #MS:
+EN "I'll give you credit for what you've
+EN  done! But I haven't been goofing off
+EN  either!"
+
+@ 024
+JP 「お前を倒して、俺はその先へ行く！
+EN "I'll beat you and move on up!"
+
+@ 025
+JP #WS029：
+JP 「いい気になってんじゃねえぞ、オェッ！
+EN Tenzan:
+EN "Don't get cocky, oeh!"

@@ -1,0 +1,210 @@
+@ 000
+JP #WS092：
+JP 「来たか。
+EN Sasuke:
+EN "There you are."
+
+@ 001
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes."
+
+@ 002
+JP #WS092：
+JP 「今回の大会で経営上最悪の危機は脱したよ。
+EN Sasuke:
+EN "This event got us past the worst of
+EN  our money crisis."
+
+@ 003
+JP #MS：
+JP 「最悪・・・そこまで悪かったんですか！
+EN #MS:
+EN "The worst... Was it really that bad!?"
+
+@ 004
+JP #WS092：
+JP 「ああ。でもこの調子で頑張って行けば・・・・
+JP 　次第に持ち直して来るだろう。
+EN Sasuke:
+EN "Yeah. But if we keep at it like this....
+EN  we'll gradually recover."
+
+@ 005
+JP #MS：
+JP 「みんなで盛り立てて行きましょう！
+EN #MS:
+EN "Let's all pull together!"
+
+@ 006
+JP #WS092：
+JP 「そうだな。
+EN Sasuke:
+EN "Yeah."
+
+@ 007
+JP 「ところでだな。
+JP 　今度#PS00さんが主催でジュニアの
+JP 　ビッグマッチを行う事になった。
+EN "By the way. #PS00 is going to
+EN  host a big junior show."
+
+@ 008
+JP 「しかもただのビッグマッチじゃない。
+JP 　ジュニアのオールスター戦だ。
+EN "And not just any big show. A junior
+EN  all-star event."
+
+@ 009
+JP #MS：
+JP 「へぇ～、凄いですね。
+JP 　『チャンプ・オブ・ザ・ハイパージュニア』の
+JP 　第３回大会ですか？
+EN #MS:
+EN "Wow, amazing. Is it the third Super
+EN  J-Cup?"
+
+@ 010
+JP #WS092：
+JP 「いや、これの凄い所は何と、
+JP 　#PS01さんも参加するって事なんだよ。
+EN Sasuke:
+EN "No, the amazing part is that
+EN  #PS01 is taking part too."
+
+@ 011
+JP #MS：
+JP 「本当ですか！？
+JP 　じゃあ本当のオールスターが
+JP 　実現するんですね！
+EN #MS:
+EN "Really!? So it'll be a true all-star
+EN  event!"
+
+@ 012
+JP #WS092：
+JP 「そうだ。形式は１６人参加のトーナメント戦。
+JP 　団体別に出場枠が決まっていて、
+JP 　ウチの出場枠は２枠ある。
+EN Sasuke:
+EN "Right. A 16-man tournament. Each
+EN  promotion gets a set number of slots,
+EN  and we've got two."
+
+@ 013
+JP 「その他に自由枠ってのが３枠あって、
+JP 　この分は予選をやるそうだ。
+EN "There are also three open slots, and
+EN  those go through qualifiers."
+
+@ 014
+JP 「とは言っても団体内予選で負けた
+JP 　メジャーの選手が来るから、弱い選手は
+JP 　やっぱり出れないだろうけどな。
+EN "Still, guys from the majors who lost
+EN  their own qualifiers will enter, so
+EN  weak guys won't make it."
+
+@ 015
+JP #MS：
+JP 「じゃあウチも出場権を賭けた試合を
+JP 　する訳ですね？
+EN #MS:
+EN "So we'll have matches to decide our
+EN  entrants too, right?"
+
+@ 016
+JP #WS092：
+JP 「そうだな。早い内にやらないといけないな。
+EN Sasuke:
+EN "Right. We'd better do it soon."
+
+@ 017
+JP #MS：
+JP 「俺・・・・自由枠の予選に出ます。
+EN #MS:
+EN "I.... I'll enter the open qualifiers."
+
+@ 018
+JP #WS092：
+JP 「え？何言ってんだ、今のお前なら
+JP 　ウチの枠でも狙えるのに。
+EN Sasuke:
+EN "Huh? What're you saying? The way
+EN  you are now, you could get one of
+EN  ours."
+
+@ 019
+JP #MS：
+JP 「でも、もし俺が自由枠で出て勝ち上がれば
+JP 　#PS04の出場者の数は増えますよ。
+EN #MS:
+EN "But if I enter on an open slot and
+EN  win, #PS04 gets more entrants."
+
+@ 020
+JP #WS092：
+JP 「そりゃあ、そうだが・・・
+EN Sasuke:
+EN "Well, sure, but..."
+
+@ 021
+JP #MS：
+JP 「それに俺、自分を試してみたいんです。
+JP 　俺が並み居るジュニア戦士の中で
+JP 　どこまで通じるのか・・・・・
+EN #MS:
+EN "Plus, I want to test myself. To see
+EN  how I measure up among all these
+EN  junior warriors....."
+
+@ 022
+JP #WS092：
+JP 「そうか・・・分かった、行って来い！
+EN Sasuke:
+EN "I see... Got it. Go for it!"
+
+@ 023
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 024
+JP 俺はこうして３つの自由枠を賭けた
+JP 予選に出場した。
+EN And so I entered the qualifiers for the
+EN three open slots.
+
+@ 025
+JP 名も知らぬインディーの選手、
+JP 海外の隠れた強豪、そして自分の団体の
+JP 予選に敗れた日本人レスラー・・・
+EN Nameless indie guys, hidden aces from
+EN abroad, Japanese who lost their own
+EN promotions' qualifiers...
+
+@ 026
+JP 俺は勝ち抜き、３つのイスの１つを
+JP 手にする事が出来た。
+EN I won through and claimed one of the
+EN three seats.
+
+@ 027
+JP ちなみに海外遠征から帰って来た坂上は
+JP #PS00枠での出場が決定したらしい。
+JP うまく行けば対戦が実現するかもしれない。
+EN Sakagami, back from abroad, got a
+EN #PS00 slot, I heard. With luck, we
+EN might face each other.
+
+@ 028
+JP 俺は自分の力と勢いを
+JP はっきりと感じていた。
+EN I could clearly feel my strength and
+EN momentum.
+
+@ 029
+JP だが・・・・
+EN But....

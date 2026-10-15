@@ -1,0 +1,56 @@
+@ 000
+JP #WS002：
+JP 「オイ、コラ！
+JP 　シングルだ！シングル！
+JP 　シングルで潰してやるよ！
+EN Sasaki:
+EN "Hey, you! Singles! A singles match!
+EN  I'll crush you one-on-one!"
+
+@ 001
+JP #MS：
+JP 「受けてやるよ！やれるもんなら
+JP 　やってみろこの野郎！
+EN #MS:
+EN "You're on! Try it if you think you
+EN  can, you bastard!"
+
+@ 002
+JP #WS090：
+JP 「いいよ。
+JP 　そのギラギラした眼がな。
+EN Tenryu:
+EN "I like it. That burning look in your
+EN  eyes."
+
+@ 003
+JP #MS：
+JP 「もう後には引けないですから！
+EN #MS:
+EN "There's no backing down now!"
+
+@ 004
+JP #WS090：
+JP 「前進あるのみだ！
+JP 　ガンガン行くぞ、このチームで！
+EN Tenryu:
+EN "Forward is the only way! This team's
+EN  going full throttle!"
+
+@ 005
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 006
+JP 革命の始まりに相応しい
+JP #WS002戦・・・
+EN Sasaki... a fitting opponent to kick off
+EN the revolution...
+
+@ 007
+JP ここで勝って一気に
+JP 勢いに乗りたいところだ。
+EN I wanted to win here and build some
+EN momentum.

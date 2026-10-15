@@ -1,0 +1,95 @@
+@ 000
+JP 激闘の末、俺は玉砕した。
+JP どうしようもなく悔しかった。
+JP 全力を出し尽くしての敗北・・・
+EN After a fierce battle, I went down
+EN fighting. It hurt like nothing else. I
+EN gave everything and lost...
+
+@ 001
+JP しかし悔しさと同じぐらいの
+JP 爽快感が俺の心を包んでいた。
+EN But as bitter as it was, I felt just as
+EN refreshed.
+
+@ 002
+JP チャンスはまた来る。
+JP お客さんを感動させるような試合を
+JP していれば、必ず。
+EN My chance will come again. As long as
+EN I keep having matches that move the
+EN fans, it will.
+
+@ 003
+JP #WS040：
+JP 「よろしく頼むぞ。
+EN Misawa:
+EN "I'm counting on you."
+
+@ 004
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 005
+JP 今シリーズは年末恒例の
+JP 『ワールドワンタッグ決定リーグ戦』だ。
+EN This series is the annual year-end
+EN Real World Tag League.
+
+@ 006
+JP 俺は#WS040さんとのチームで
+JP 出場する事が決定した。
+EN I've been entered as Misawa's partner.
+
+@ 007
+JP 初戦の相手は
+JP #WS052・#WS184組。
+EN Our first opponents: Ace and Burton.
+
+@ 008
+JP #WF184は
+JP #PS06所属のレスラーで、今シリーズに
+JP 向けて#WS052が呼び寄せた。
+EN Mike Burton is from #PS06. Ace
+EN called him in for this series.
+
+@ 009
+JP #WS184は#PS06のグローブマッチで
+JP あのタフな#WS126をＫＯした男だ。
+JP そのパンチ力は侮れない。
+EN Burton KO'd the tough Williams in a
+EN #PS06 glove match. His punching
+EN power is no joke.
+
+@ 010
+JP #WS052：
+JP 「ヘイ、#MS！ミーの
+JP 　ガイジンムーブメントは
+JP 　まだ始まったばかりだ。
+EN Ace:
+EN "Hey, #MS! My gaijin Movement
+EN  has only just begun."
+
+@ 011
+JP 「ユー達のチームには
+JP 　そのステップになってもらう！
+EN "Your team will be our stepping
+EN  stone!"
+
+@ 012
+JP #MS：
+JP 「そうは行かない。こちらも
+JP 　『ワールドワンタッグ』初参加で初優勝を
+JP 　狙ってるんでね！
+EN #MS:
+EN "Not happening. We're going for the
+EN  win in our first Real World Tag
+EN  League!"
+
+@ 013
+JP #WS040：
+JP 「・・・・・・・・
+EN Misawa:
+EN "........"

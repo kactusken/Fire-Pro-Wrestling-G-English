@@ -1,0 +1,366 @@
+@ 000
+JP 場内には
+JP #MSコールが鳴り響いている。
+JP 俺は何時の間にかマイクを握っていた。
+EN "#MS" chants echoed through
+EN  the hall. Before I knew it, I had the
+EN  mic in my hand.
+
+@ 001
+JP #MS：
+JP 「プロレスラー#MS、
+JP 　勝ちましたあぁぁぁっ！！
+EN #MS:
+EN "Pro wrestler #MS... has
+EN  WOOOOON!!"
+
+@ 002
+JP 「プロレスファンの皆さん・・・
+JP 　色々ありましたけど、これで終わりです！
+EN "Pro wrestling fans... a lot has
+EN  happened, but it's over now!"
+
+@ 003
+JP 「#WL169不敗伝説は
+JP 　終わったんです！！
+EN "Gracie's unbeaten legend is OVER!!"
+
+@ 004
+JP 「俺も不安でしたけど、仲間が、そして
+JP 　ファンの皆さんが支えてくれたお陰で
+JP 　勝てたんです！ありがとうございました！
+EN "I was scared too, but I won thanks to
+EN  my friends, and to all of you fans!
+EN  Thank you!"
+
+@ 005
+JP #WS149：
+JP 「ようやった、ホンマにようやったな！
+EN Maeda:
+EN "Ya did it, ya really did it!"
+
+@ 006
+JP #WS166：
+JP 「やったな！大した奴だよ、お前は！
+EN Anjoh:
+EN "You did it! You're something else!"
+
+@ 007
+JP いつしか俺は仲間に胴上げされていた。
+JP 大きな歓声の渦に包まれながら・・・・
+EN Before I knew it, my friends were
+EN tossing me in the air, amid a
+EN whirlwind of cheers....
+
+@ 008
+JP 俺は敗れた。#WL169の不敗伝説の
+JP 新たな犠牲者になっただけだった。
+EN I lost. Just another victim of Gracie's
+EN unbeaten legend.
+
+@ 009
+JP お客もまたか、と言う顔をしている。
+JP 俺は静かにリングを降りるしかなかった。
+EN The crowd's faces said "Again?" All I
+EN could do was quietly leave the ring.
+
+@ 010
+JP 俺は悔しかった。こんなに悔しかったのは
+JP 初めてかもしれない。
+EN I was frustrated. Maybe more than
+EN ever before in my life.
+
+@ 011
+JP だから俺は毎日燃え尽きるまで練習した。
+JP 必ずあの男にリベンジする為に・・・・
+EN So I trained every day until I burned
+EN out. To get my revenge on that man,
+EN no matter what....
+
+@ 012
+JP #WS166戦が終わった俺は
+JP #WS149さんに誘われて食事に行った。
+JP その帰り・・・
+EN After my match with Anjoh, Maeda
+EN took me out to eat. On the way back...
+
+@ 013
+JP #WS149：
+JP 「衰える事を知らんな、
+JP 　バーリトゥード人気は。
+EN Maeda:
+EN "Vale tudo's popularity just won't
+EN  quit."
+
+@ 014
+JP あの大会以来、その規模は様々ではあったが
+JP 各地で頻繁にバーリトゥードの大会が
+JP 行われるようになっていた。
+EN Since that event, vale tudo shows of
+EN all sizes were being held all over.
+
+@ 015
+JP この状態を知った海外の大物選手達は
+JP 『格闘技王国日本』と呼び、続々と
+JP 日本の大会に参戦するようになっていた。
+EN Big-name foreign fighters heard of it,
+EN called Japan "the Kingdom of
+EN Combat," and flocked to its events.
+
+@ 016
+JP #MS：
+JP 「そうですね。
+JP 　とくに外人選手は大物が多いし、
+JP 　盛り上がりますよね。
+EN #MS:
+EN "Right. Especially with so many
+EN  big-name foreigners, it really heats
+EN  up."
+
+@ 017
+JP #WS149：
+JP 「まあ、海外ではバーリトゥードへの
+JP 　反対運動が盛んになって来てるからな。
+JP 　当然と言えば当然かもしれんな。
+EN Maeda:
+EN "Well, overseas the movement against
+EN  vale tudo's gettin' strong. No
+EN  surprise, really."
+
+@ 018
+JP 現在海外では過激な試合シーンが問題になり
+JP バーリトゥード反対運動が高まっている。
+EN Overseas, the brutal fights had
+EN become an issue, and opposition to
+EN vale tudo was growing.
+
+@ 019
+JP しかし日本では反対運動は少なく
+JP 海外の選手にとっては、格好の
+JP 出稼ぎ国になった事も理由の１つである。
+EN In Japan there was little opposition,
+EN which made it the perfect place for
+EN foreigners to earn.
+
+@ 020
+JP #WS149：
+JP 「今度、大物選手を一同に集めた大会が
+JP 　開かれるそうやないか。
+EN Maeda:
+EN "Heard there's a show comin' up
+EN  gatherin' all the big names."
+
+@ 021
+JP #MS：
+JP 「はい。その実行委員会から俺の所にも
+JP 　参戦要請が来ました。
+EN #MS:
+EN "Yes. The organizers asked me to
+EN  enter too."
+
+@ 022
+JP #WS149：
+JP 「そうか。もうお前も日本を代表する
+JP 　ファイターだからな。
+EN Maeda:
+EN "I see. You're one of Japan's top
+EN  fighters now."
+
+@ 023
+JP 「やるからには勝って来いや！
+EN "If you're doin' it, go win it!"
+
+@ 024
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "I will!"
+
+@ 025
+JP そして大会の詳細が送られて来た。
+EN Then the event details were sent to
+EN me.
+
+@ 026
+JP 大会は何とドーム２ヶ所で同時に
+JP トーナメントを行い、各々のベスト４を
+JP 決勝大会で戦わせる大掛かりなものであった。
+EN It was huge: tournaments held at two
+EN domes at once, with each one's final
+EN four meeting in a finals event.
+
+@ 027
+JP #WS166：
+JP 「随分デカイ大会だなぁ、おい。
+EN Anjoh:
+EN "Man, that's one huge show."
+
+@ 028
+JP #MS：
+JP 「そうですね・・・・あっ！？
+EN #MS:
+EN "Sure is.... Huh!?"
+
+@ 029
+JP 俺は思わず声を上げていた。
+EN I let out a cry without thinking.
+
+@ 030
+JP #WS166：
+JP 「どうした？
+EN Anjoh:
+EN "What's up?"
+
+@ 031
+JP #MS：
+JP 「坂上浩一って・・・・・
+EN #MS:
+EN "Koichi Sakagami....."
+
+@ 032
+JP そう、出場選手の欄に坂上の名前があったのだ。
+EN Yes, Sakagami's name was on the list
+EN of entrants.
+
+@ 033
+JP #WS166：
+JP 「ああ、坂上って確か、アメリカで
+JP 　純プロレスから総合格闘技に転向して
+JP 　今大活躍らしいな。
+EN Anjoh:
+EN "Oh, Sakagami. He switched from pro
+EN  wrestling to MMA in America and
+EN  he's a big hit, I hear."
+
+@ 034
+JP #MS：
+JP 「そうなんですか？
+EN #MS:
+EN "Is that right?"
+
+@ 035
+JP #WS166：
+JP 「日本じゃまだ知名度は低いけどあっちでは
+JP 　売れてきてるらしいぞ。そう言えば
+JP 　お前の知り合いだっけ？
+EN Anjoh:
+EN "Not well known in Japan yet, but he's
+EN  selling big over there. He's a friend of
+EN  yours, right?"
+
+@ 036
+JP #MS：
+JP 「ええ。
+EN #MS:
+EN "Yeah."
+
+@ 037
+JP #WS166：
+JP 「でもこの調子だと・・・・
+JP 　決勝出るしか無いみたいだな。
+EN Anjoh:
+EN "But from the looks of it... only way
+EN  you'll meet is in the finals."
+
+@ 038
+JP そう、坂上がエントリーされているのは俺と
+JP 別のブロック。決勝まで進まないと対戦の
+JP 機会は得られない、と言う訳だ。
+EN Right. Sakagami was in the other
+EN block. We'd only face each other if we
+EN both made the finals.
+
+@ 039
+JP #MS：
+JP 「坂上・・・・・
+EN #MS:
+EN "Sakagami....."
+
+@ 040
+JP あいつもきっと俺と同じ気持ちに違いない。
+JP #WL026道場での約束を
+JP 大会決勝で果たすのだと・・・・・
+EN He must feel the same way. That we'll
+EN keep our Yamamoto dojo promise in
+EN the finals.....
+
+@ 041
+JP 待ってろ、坂上！決勝で会おう！
+EN Wait for me, Sakagami! See you in the
+EN finals!
+
+@ 042
+JP そして大会が始まり
+JP 俺は１試合１試合勝ち進んで行った。
+EN The tournament began, and I won
+EN match after match.
+
+@ 043
+JP 苦戦しながらも決勝に駒を進めた俺を
+JP 待っていたのは・・・・・・
+EN I struggled, but made the finals.
+EN Waiting for me there was......
+
+@ 044
+JP #MS：
+JP 「いよいよだな。
+EN #MS:
+EN "This is it."
+
+@ 045
+JP 坂上：
+JP 「ああ。
+EN Sakagami:
+EN "Yeah."
+
+@ 046
+JP #MS：
+JP 「どれだけこの日を待ちわびた事か・・・
+EN #MS:
+EN "I've waited so long for this day..."
+
+@ 047
+JP 坂上：
+JP 「俺もそうだ。その為に俺は
+JP 　色んな試練を乗り越えて来た。
+EN Sakagami:
+EN "Me too. I've been through all kinds of
+EN  trials for it."
+
+@ 048
+JP #MS：
+JP 「同じ道場で同期の２人が
+JP 　今や日本を代表する格闘家になって
+JP 　この大舞台で激突する。夢みたいだな。
+EN #MS:
+EN "Two guys from the same dojo class,
+EN  now top fighters in Japan, clashing
+EN  on this big stage. It's like a dream."
+
+@ 049
+JP 坂上：
+JP 「へへへ・・・まさにドリームマッチって訳だ。
+EN Sakagami:
+EN "Heh heh... a real dream match."
+
+@ 050
+JP #MS：
+JP 「ああ、本気で来いよ！
+JP 　思い出にふけって
+JP 　手を抜いたら承知しないぜ！
+EN #MS:
+EN "Yeah, so come at me for real! Get
+EN  nostalgic and hold back, and I won't
+EN  forgive you!"
+
+@ 051
+JP 坂上：
+JP 「それはこっちのセリフだ！
+JP 　腰抜かすなよ！俺の成長ぶりに！
+EN Sakagami:
+EN "That's my line! Don't fall over at how
+EN  much I've grown!"
+
+@ 052
+JP そして運命のゴングが鳴った・・・・
+EN And then the bell of fate rang....

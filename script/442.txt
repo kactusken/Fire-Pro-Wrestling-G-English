@@ -1,0 +1,251 @@
+@ 000
+JP ディンク：
+JP 「ユーは#PS05の
+JP 　#WF100を
+JP 　知っているか？
+EN McMahon:
+EN "Do you know #PS05's Bill
+EN  Goldberg?"
+
+@ 001
+JP #MS：
+JP 「ええ、知ってますよ。１６０連勝中
+JP 　でしたっけ？それで『次は誰だ！？』って
+JP 　キャッチで売ってる・・・・
+EN #MS:
+EN "Sure. He's on a 160-match win streak,
+EN  right? They sell him with 'Who's
+EN  next!?'..."
+
+@ 002
+JP ディンク：
+JP 「ああ、もう解説はいい。
+JP 　知っていればいいのだ。
+EN McMahon:
+EN "Yes, yes, spare me the rundown. As
+EN  long as you know him."
+
+@ 003
+JP #MS：
+JP 「で、彼が何か？
+JP 　ウチに移籍ですか？
+EN #MS:
+EN "So what about him? Is he jumping to
+EN  us?"
+
+@ 004
+JP ディンク：
+JP 「まさか！奴は事もあろうに#WS117に
+JP 　挑戦を表明したのだよ。
+EN McMahon:
+EN "Hardly! He's had the gall to challenge
+EN  Austin."
+
+@ 005
+JP #MS：
+JP 「挑戦！？
+EN #MS:
+EN "Challenge!?"
+
+@ 006
+JP ディンク：
+JP 「そうだ。
+JP 　しかも#PS05に来いと来たもんだ。
+EN McMahon:
+EN "Yes. And he wants Austin to come to
+EN  #PS05, no less."
+
+@ 007
+JP 「そうでもしなければ視聴率戦争に
+JP 　勝てない事を悟ったのかもしれないがね。
+EN "Maybe they realized it's the only way
+EN  they'll win the ratings war."
+
+@ 008
+JP #MS：
+JP 「で、どうするんです？
+EN #MS:
+EN "So what will you do?"
+
+@ 009
+JP ディンク：
+JP 「問題はそこだ。
+JP 　#WS117をただ出したのでは意味が無い。
+JP 　そこでだ。
+EN McMahon:
+EN "That's the problem. Just sending
+EN  Austin over is pointless. So..."
+
+@ 010
+JP #MS：
+JP 「もしかしてそれで俺が呼ばれてるんですね？
+EN #MS:
+EN "So that's why you called me in?"
+
+@ 011
+JP ディンク：
+JP 「オゥ！何故分かったのだ？
+EN McMahon:
+EN "Oh! How did you know?"
+
+@ 012
+JP #MS：
+JP 「そりゃあこれだけ色々あればね・・・・
+EN #MS:
+EN "Well, after everything that's
+EN  happened..."
+
+@ 013
+JP ディンク：
+JP 「そう、奴に条件を出すのだ。ユーに勝ったら
+JP 　#WS117に挑戦させてやろう、とな。
+EN McMahon:
+EN "Yes, we give him a condition. If he
+EN  beats you, he gets his shot at
+EN  Austin."
+
+@ 014
+JP #MS：
+JP 「それで俺の試合は#PS05でやって、
+JP 　もし俺が負けたらこっちの興行で
+JP 　#WS117の試合をするんですね？
+EN #MS:
+EN "So my match is on #PS05, and if I
+EN  lose, Austin's match happens on our
+EN  show?"
+
+@ 015
+JP ディンクは目を見張って言った。
+EN McMahon's eyes went wide.
+
+@ 016
+JP ディンク：
+JP 「ユーはエスパーか！？
+EN McMahon:
+EN "Are you psychic!?"
+
+@ 017
+JP #MS：
+JP 「いや、そうじゃないですけど・・・
+JP 　それなら大した損も無く、むしろこっちが
+JP 　儲けられるじゃないですか。
+EN #MS:
+EN "No, but... that way we risk very
+EN  little, and we might even come out
+EN  ahead."
+
+@ 018
+JP ディンク：
+JP 「そうだ。ユーは商才があるな。
+JP 　引退したらオフィスで雇ってやろうか？
+EN McMahon:
+EN "Exactly. You've a head for business.
+EN  Want an office job when you retire?"
+
+@ 019
+JP #MS：
+JP 「それはともかく、
+JP 　向こうが受けたら俺が行くんですね？
+EN #MS:
+EN "Anyway, if they accept, I'm the one
+EN  who goes?"
+
+@ 020
+JP ディンク：
+JP 「そうだ。だがここで
+JP 　忘れてはならない事がある。
+EN McMahon:
+EN "Yes. But there's one thing you
+EN  mustn't forget."
+
+@ 021
+JP 「もしユーが見事奴に勝ったら、
+JP 　#PS06世界ヘビー級王座への
+JP 　挑戦権を与えよう。
+EN "If you beat him, you get a shot at the
+EN  #PS06 World Heavyweight title."
+
+@ 022
+JP #MS：
+JP 「本当ですか！？
+EN #MS:
+EN "Really!?"
+
+@ 023
+JP ディンク：
+JP 「これでユーにもリスクに見合ったリターンが
+JP 　与えられただろう？
+EN McMahon:
+EN "There. Now the reward matches the
+EN  risk, no?"
+
+@ 024
+JP #MS：
+JP 「はい！俺は向こうが受けてくれる事を
+JP 　祈ってますよ！
+EN #MS:
+EN "Yes! I'll be praying they accept!"
+
+@ 025
+JP 「あっ、そう言えば・・・・
+EN "Oh, by the way..."
+
+@ 026
+JP ディンク：
+JP 「何だ？
+EN McMahon:
+EN "What is it?"
+
+@ 027
+JP #MS：
+JP 「魔界同盟の一員として行くんですか？
+EN #MS:
+EN "Do I go as a member of the
+EN  Ministry?"
+
+@ 028
+JP ディンク：
+JP 「ノープロブレム。ユーの洗脳は
+JP 　来週解ける事になっている。
+EN McMahon:
+EN "No problem. Your brainwashing
+EN  wears off next week."
+
+@ 029
+JP #MS：
+JP 「そ、そうですか・・・・
+EN #MS:
+EN "I-I see..."
+
+@ 030
+JP 変な会話だ。
+EN What a weird conversation.
+
+@ 031
+JP 結局両団体で話し合いが行われ、
+JP ディンクの思惑通りに全てが進んだ。
+EN In the end, the two promotions talked,
+EN and it all went exactly as McMahon
+EN planned.
+
+@ 032
+JP #WS100：
+JP 「ウォォォォォォォッ！
+EN Goldberg:
+EN "Raaaaaaaagh!"
+
+@ 033
+JP 「ユーを倒し、#WS117を倒して、
+JP 　ＵＳＡ、いや、世界で１番強いレスラーが
+JP 　誰であるか、証明してみせる！
+EN "I'll beat you, then Austin, and prove
+EN  who's the strongest wrestler in the
+EN  USA... no, the world!"
+
+@ 034
+JP #MS：
+JP 「あんたの首にはエサがぶら下がってるんでね。
+JP 　俺も必ず勝って帰る！
+EN #MS:
+EN "There's a prize hanging on your
+EN  head. I'm going home with a win too!"

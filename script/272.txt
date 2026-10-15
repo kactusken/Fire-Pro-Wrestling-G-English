@@ -1,0 +1,62 @@
+@ 000
+JP 記者：
+JP 「優勝おめでとうございます。
+JP 　素晴らしい試合でした。
+EN Reporter:
+EN "Congratulations on the win. A
+EN  wonderful fight."
+
+@ 001
+JP #MS：
+JP 「ありがとうございます。
+EN #MS:
+EN "Thank you."
+
+@ 002
+JP 記者：
+JP 「バーリトゥード大会での日本人優勝は
+JP 　世界で初めてですが？
+EN Reporter:
+EN "You're the first Japanese ever to win
+EN  a vale tudo tournament?"
+
+@ 003
+JP #MS：
+JP 「日本人ってのもありますけどね。
+JP 　こういう大会でプロレスラーが勝ったって
+JP 　言う方を皆さんには感じて欲しいですね。
+EN #MS:
+EN "There's the Japanese part, sure. But I
+EN  want people to feel that a pro
+EN  wrestler won this kind of event."
+
+@ 004
+JP 記者：
+JP 「こうなって来ますとファンの期待は
+JP 　打倒#WL169に
+JP 　集まるんじゃないですか？
+EN Reporter:
+EN "Now fans will be hoping you take
+EN  down the Gracies, won't they?"
+
+@ 005
+JP #MS：
+JP 「そうですね。やっぱりこう言う世界に
+JP 　身を投じた以上、倒さなきゃならない
+JP 　相手である事は確かですね。
+EN #MS:
+EN "Yes. Once you throw yourself into
+EN  this world, they're definitely the ones
+EN  you have to beat."
+
+@ 006
+JP 「色々問題はありますけど、実現の方向へ向けて
+JP 　努力して行きたいですね。
+EN "There are lots of hurdles, but I want
+EN  to work toward making it happen."
+
+@ 007
+JP 記者：
+JP 「ありがとうございました！
+EN Reporter:
+EN "Thank you very much!"

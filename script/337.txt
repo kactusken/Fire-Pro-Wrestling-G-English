@@ -1,0 +1,229 @@
+@ 000
+JP 俺はじっとしていられず、誰もいない道場で
+JP トレーニングに打ち込んでいた。
+EN Unable to sit still, I threw myself into
+EN training in the empty dojo.
+
+@ 001
+JP 実際まだ何も分からない。やっとデビューして
+JP 何試合かこなして、やっとリングの感触に
+JP 馴れて来たところなのに・・・・
+EN I still knew nothing. I'd just debuted,
+EN and was only now getting a feel for
+EN the ring...
+
+@ 002
+JP #WS150：
+JP 「#MS。
+EN Fujiwara:
+EN "#MS."
+
+@ 003
+JP #MS：
+JP 「#WS150さん・・・
+EN #MS:
+EN "Mr. Fujiwara..."
+
+@ 004
+JP #WS150：
+JP 「どうだ、身の振り方、考えたか？
+EN Fujiwara:
+EN "Well? Figured out where you're
+EN  headed?"
+
+@ 005
+JP #MS：
+JP 「いえ・・・・
+EN #MS:
+EN "No..."
+
+@ 006
+JP #WS150：
+JP 「そうか。じゃあ俺んとこに来るか？
+EN Fujiwara:
+EN "I see. Then want to come with me?"
+
+@ 007
+JP #MS：
+JP 「え？
+EN #MS:
+EN "Huh?"
+
+@ 008
+JP #WS150：
+JP 「俺はこれから#WS177さんの手を借りて
+JP 　新団体を作るんだよ。
+EN Fujiwara:
+EN "I'm starting a new promotion with
+EN  Karl Gotch's help."
+
+@ 009
+JP #MS：
+JP 「新団体？
+EN #MS:
+EN "A new promotion?"
+
+@ 010
+JP #WS150：
+JP 「ああ。今んとこ#WS154や#WS155が
+JP 　一緒に来る事になってる。
+EN Fujiwara:
+EN "Yeah. So far Funaki and Suzuki are
+EN  coming along."
+
+@ 011
+JP 「お前なら多少は見込みがありそうだからな。
+JP 　どうだ、来ないか？
+EN "You look like you've got a little
+EN  promise. So, coming?"
+
+@ 012
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 013
+JP 俺は正直戸惑っていた。#WS150さんが
+JP 俺を誘ってくれるなんて。結構厳しく
+JP 見られていたと思って・・・・
+EN Honestly, I was baffled. Fujiwara
+EN inviting me? I thought he was pretty
+EN hard on me....
+
+@ 014
+JP そこで俺はふとある人の事を思い出した。
+JP そう、#WS026先生だ。考えて見れば
+JP 何か似てる所があるのかもしれない。
+EN Then I suddenly thought of someone.
+EN Yes, Coach Yamamoto. Come to think
+EN of it, they're kind of alike.
+
+@ 015
+JP #WS150：
+JP 「何笑ってんだ？おめぇ・・・
+EN Fujiwara:
+EN "What're you grinning at, punk..."
+
+@ 016
+JP #MS：
+JP 「えっ？
+EN #MS:
+EN "Huh?"
+
+@ 017
+JP どうやら知らず知らず顔が笑っていたらしい。
+EN Apparently I'd been smiling without
+EN realizing.
+
+@ 018
+JP #WS150：
+JP 「気色悪い野郎だな・・・まあいい。
+JP 　すぐにとは言わねぇから、近い内に
+JP 　返事くれよ。
+EN Fujiwara:
+EN "Creepy little... whatever. I don't need
+EN  it now. Give me an answer soon."
+
+@ 019
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes, sir."
+
+@ 020
+JP あの後#WS149さんや#WS165さん
+JP からも誘いをもらったが、
+JP 俺の気持ちは既に固まっていた。
+EN Maeda and Takada also invited me
+EN after that, but my mind was already
+EN made up.
+
+@ 021
+JP #WS150：
+JP 「いよいよだな。
+EN Fujiwara:
+EN "This is it."
+
+@ 022
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 023
+JP 俺は#WS150さんの団体、
+JP 『#WS150組』に
+JP 参加する事にしたのだ。
+EN I decided to join Fujiwara's
+EN promotion, Fujiwara Gumi.
+
+@ 024
+JP #WS154：
+JP 「おっ、来てるな。
+EN Funaki:
+EN "Oh, you're here."
+
+@ 025
+JP #MS：
+JP 「#WS154さん！
+JP 　おはようございます！
+EN #MS:
+EN "Mr. Funaki! Good morning!"
+
+@ 026
+JP #WS154：
+JP 「そう言えば#MSの相手って
+JP 　#WS155だっけ？
+EN Funaki:
+EN "#MS, your opponent's Suzuki,
+EN  right?"
+
+@ 027
+JP #MS：
+JP 「ええ。先輩越えを果たすべく、
+JP 　今日は思いっきり行きます！
+EN #MS:
+EN "Yeah. I'm going all out today to top
+EN  my senior!"
+
+@ 028
+JP #WS154：
+JP 「元気なのはいいけどケガするんじゃないぞ。
+EN Funaki:
+EN "Energy's good, but don't get hurt."
+
+@ 029
+JP #MS：
+JP 「分かってます。
+EN #MS:
+EN "I won't."
+
+@ 030
+JP #WS150：
+JP 「まあこいつなら多少の事があっても
+JP 　大丈夫だろ。
+JP 　やるだけやって来い！
+EN Fujiwara:
+EN "Eh, this one can take a few knocks.
+EN  Go do what you can!"
+
+@ 031
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 032
+JP #WS155：
+JP 「#WS150組第１戦だからな。
+JP 　ヘタな試合するんじゃねぇぞ！
+EN Suzuki:
+EN "It's Fujiwara Gumi's first show. Don't
+EN  you dare put on a lousy match!"
+
+@ 033
+JP #MS：
+JP 「当然です！行きます！
+EN #MS:
+EN "Of course not! Here I come!"

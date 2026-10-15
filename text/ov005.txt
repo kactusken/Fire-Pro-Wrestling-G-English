@@ -1,0 +1,97 @@
+# overlay 005: strings in 0x8005a71c..0x8005ac10
+
+@ 8005aa04 len=12 refs=p1,c0
+JP 左右反転
+EN Flip H
+
+@ 8005aa10 len=12 refs=p1,c0
+JP 上下反転
+EN Flip V
+
+@ 8005aa1c len=20 refs=p1,c0
+JP サンプルＣＧロード
+EN Load Sample
+
+@ 8005aa30 len=8 refs=p1,c0
+JP 消去
+EN Clear
+
+@ 8005aa38 len=12 refs=p1,c0
+JP 取り消し
+EN Undo
+
+@ 8005aa44 len=8 refs=p1,c0
+JP ズーム
+EN Zoom
+
+@ 8005aa4c len=8 refs=p1,c0
+JP コピー
+EN Copy
+
+@ 8005aa54 len=12 refs=p1,c0
+JP 塗りつぶし
+EN Fill
+
+@ 8005aa60 len=12 refs=p1,c0
+JP 文字入力
+EN Text
+
+@ 8005aa6c len=16 refs=p1,c0
+JP ボックスフィル
+EN Box Fill
+
+@ 8005aa7c len=12 refs=p1,c0
+JP ボックス
+EN Box
+
+@ 8005aa88 len=8 refs=p1,c0
+JP ライン
+EN Line
+
+@ 8005aa90 len=8 refs=p1,c0
+JP ペン
+EN Pen
+
+@ 8005aa98 len=8 refs=p1,c0
+JP 終了
+EN Exit
+
+@ 8005ab28 len=48 refs=p0,c1
+# added by hand: merged into the pointer table before it (lui at a branch target, 0x80061404)
+JP エディット中の画像データに上書していいですか？
+EN Overwrite the image you're editing?
+
+@ 8005ab58 len=8 refs=p0,c1
+JP ＹＥＳ
+EN YES
+
+@ 8005ab60 len=8 refs=p0,c1
+JP ＮＯ
+EN NO
+
+@ 8005abdc len=8 refs=p1,c0
+JP 決定
+EN OK
+
+@ 8005abe4 len=4 refs=p1,c0
+JP 　
+
+@ 8005abe8 len=8 refs=p1,c0
+JP 記号
+EN !#
+
+@ 8005abf0 len=8 refs=p1,c0
+JP 英数字
+EN ABC
+
+@ 8005abf8 len=8 refs=p1,c0
+JP 漢字
+EN Kanji
+
+@ 8005ac00 len=12 refs=p1,c0
+JP カタカナ
+EN Kata
+
+@ 8005ac0c len=9 refs=p1,c0
+JP ひらがな
+EN Hira

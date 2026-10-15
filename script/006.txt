@@ -1,0 +1,70 @@
+@ 000
+JP 今日の対戦相手は
+JP #WF030さん。
+EN Today's opponent is Hiro Saito.
+
+@ 001
+JP インサイドワークには定評があり、
+JP タッグやチームのサポート役としての
+JP 活躍が目覚しい。
+EN He's known for his ring smarts, and
+EN shines as a supporting player in tags
+EN and team matches.
+
+@ 002
+JP だが個人としても元ジュニアの世界王者であり、
+JP 硬軟自在の食わせ者だ。
+EN But he's a former junior world champ
+EN on his own too, a cunning vet.
+
+@ 003
+JP #WS001：
+JP 「おう、元気か#MS。
+EN Hashimoto:
+EN "Hey there, #MS."
+
+@ 004
+JP #MS：
+JP 「はい、おかげさまで何とかやってます。
+EN #MS:
+EN "Hello. I'm getting by, thanks to you."
+
+@ 005
+JP #WS001：
+JP 「最近頑張ってるみたいじゃないか。
+EN Hashimoto:
+EN "Looks like you've been working
+EN  hard."
+
+@ 006
+JP #MS：
+JP 「精一杯やらせてもらってます。
+EN #MS:
+EN "I'm doing my very best."
+
+@ 007
+JP #WS001：
+JP 「ま、頑張れや。
+JP 　もしかしたらそのうちに良い知らせが
+JP 　来るかもしれないしな。
+EN Hashimoto:
+EN "Well, keep at it. Maybe some good
+EN  news will come your way soon."
+
+@ 008
+JP #MS：
+JP 「良い知らせ？
+EN #MS:
+EN "Good news?"
+
+@ 009
+JP #WS001さんは
+JP 俺の疑問に答える前に行ってしまった。
+EN Hashimoto left before answering my
+EN question.
+
+@ 010
+JP #MS：
+JP 「何だろう・・・
+EN #MS:
+EN "I wonder what that's about..."

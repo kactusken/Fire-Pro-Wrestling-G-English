@@ -1,0 +1,274 @@
+@ 000
+JP #MS：
+JP 「やっぱり今度はシングルでやりたいですよ。
+EN #MS:
+EN "Next time I really want it to be
+EN  singles."
+
+@ 001
+JP #WS006：
+JP 「まあ、とは言えすぐ次って事もないだろ。
+JP 　色々難しそうだからな。
+EN Iizuka:
+EN "Well, don't expect it right away.
+EN  Looks like there's a lot in the way."
+
+@ 002
+JP #MS：
+JP 「そうですね・・・
+EN #MS:
+EN "I guess..."
+
+@ 003
+JP #WS006：
+JP 「何だ？騒がしいな。
+EN Iizuka:
+EN "What's that? Pretty noisy out there."
+
+@ 004
+JP #MS：
+JP 「ちょっと見て来ます。
+EN #MS:
+EN "I'll go take a look."
+
+@ 005
+JP #MS：
+JP 「一体何が・・・
+EN #MS:
+EN "What on earth..."
+
+@ 006
+JP 「あの・・・・
+EN "Um...."
+
+@ 007
+JP 「何だ？
+EN "What is it?"
+
+@ 008
+JP 「あ、ちょっと！
+EN "Hey, wait!"
+
+@ 009
+JP 記者：
+JP 「何です？急がないと・・・
+EN Reporter:
+EN "What? I'm in a hurry..."
+
+@ 010
+JP #MS：
+JP 「何かあったんですか？
+EN #MS:
+EN "Did something happen?"
+
+@ 011
+JP 記者：
+JP 「出場するしないでもめたらしくて
+JP 　ＵＬＯの#WS173が
+JP 　坂内さん殴ったんですよ！
+EN Reporter:
+EN "There was a fight over whether he'd
+EN  compete, and UFO's Ogawa punched
+EN  Mr. Sakaguchi!"
+
+@ 012
+JP #MS：
+JP 「え？
+EN #MS:
+EN "What?"
+
+@ 013
+JP 記者：
+JP 「じゃ、これで！
+EN Reporter:
+EN "Gotta go!"
+
+@ 014
+JP 俺も思わず走り出していた。
+EN I took off running too.
+
+@ 015
+JP 俺がついた時には事態はほぼ終わっていた。
+JP 上半身裸になった#WS173が
+JP 出て行くところだった。
+EN By the time I got there, it was almost
+EN over. Ogawa, stripped to the waist,
+EN was on his way out.
+
+@ 016
+JP #MS：
+JP 「#WS013さん！どうなったんです？
+JP 　坂内さんにケガは？
+EN #MS:
+EN "Choshu! What happened? Is Mr.
+EN  Sakaguchi hurt?"
+
+@ 017
+JP #WS013：
+JP 「ああ、ケガは無いよ。大丈夫だ。
+JP 　突き飛ばされただけだからな。
+EN Choshu:
+EN "No, he's not hurt. He's fine. He just
+EN  got shoved."
+
+@ 018
+JP #MS：
+JP 「どうしてこんな事に？
+EN #MS:
+EN "How did this happen?"
+
+@ 019
+JP #WS013：
+JP 「説明は後でする。マスコミ連中を
+JP 　先に下がらせないとな。
+EN Choshu:
+EN "I'll explain later. First we've gotta
+EN  get the press out of here."
+
+@ 020
+JP この一件で#PS00対ＵＬＯの図式が出来、
+JP リングの外でのやり合いが激しくなった。
+EN That incident set up #PS00 vs.
+EN UFO, and the war outside the ring
+EN heated up.
+
+@ 021
+JP そしてその流れから#WS001さんが
+JP #WS173と試合で決着をつける事になった。
+EN And out of that, Hashimoto was set to
+EN settle things with Ogawa in the ring.
+
+@ 022
+JP 俺は坂内さんに手を上げた#WS173の
+JP 非常識さに腹が立っていた。#WS001さん
+JP なら何とかしてくれるだろう。
+EN Ogawa hitting Mr. Sakaguchi made me
+EN furious. Hashimoto would take care of
+EN him.
+
+@ 023
+JP 俺は坂上とのシングルマッチ実現に向けての
+JP 話し合いがしたかった。ＵＬＯ問題に揺れている
+JP 今、無駄に等しいとは思いつつも・・・
+EN I wanted to push for the Sakagami
+EN singles match. Pointless amid the UFO
+EN mess, maybe, but still...
+
+@ 024
+JP #MS：
+JP 「すいませーん。
+EN #MS:
+EN "Excuse me."
+
+@ 025
+JP ？：
+JP 「何だと！？お前、選手会長だろ！
+JP 　そのお前がそんな事言って
+JP 　いいと思ってるのか！
+EN ???:
+EN "What!? You're the head of the
+EN  wrestlers' union! You think you can
+EN  say that?!"
+
+@ 026
+JP 「しばらく頭冷やせ！当分出場停止だ！
+EN "Go cool your head off! You're
+EN  suspended until further notice!"
+
+@ 027
+JP 何だ？
+EN What's going on?
+
+@ 028
+JP #MS：
+JP 「あ・・・・
+EN #MS:
+EN "Ah...."
+
+@ 029
+JP #WS001さんだった。
+JP 出場停止、って・・・
+JP #WS001さんの事か？
+EN It was Hashimoto. Suspended? Did
+EN they mean Hashimoto?
+
+@ 030
+JP その後ぞろぞろと人が出て来た。
+JP どうも上役連中のようだ。坂内社長や
+JP #WS013さんもいる。
+EN More people filed out after him. The
+EN top brass, it looked like. President
+EN Sakaguchi and Choshu were there too.
+
+@ 031
+JP #WS013：
+JP 「どうしてお前がいるんだ？
+EN Choshu:
+EN "What are you doing here?"
+
+@ 032
+JP #MS：
+JP 「ちょっと話があって来たんですけど・・・
+JP 　それより#WS001さん、
+JP 　どうしたんですか？
+EN #MS:
+EN "I came to talk about something... But
+EN  what happened with Hashimoto?"
+
+@ 033
+JP #WS013：
+JP 「#WS173戦のルール交渉でゴタゴタ
+JP 　しててな。あいつもカッとなったんだろ。
+JP 　会社批判的な事を言っちまったんだ。
+EN Choshu:
+EN "The rules talks for the Ogawa match
+EN  got messy. He lost his temper and
+EN  said things against the company."
+
+@ 034
+JP #MS：
+JP 「それで出場停止なんですか？
+EN #MS:
+EN "And so he's suspended?"
+
+@ 035
+JP #WS013：
+JP 「おい、盗み聞きか？
+EN Choshu:
+EN "Hey, were you eavesdropping?"
+
+@ 036
+JP #MS：
+JP 「いえ、来てドア開けたら
+JP 　そこだけ聞こえたんですよ。
+EN #MS:
+EN "No, I just opened the door and heard
+EN  that part."
+
+@ 037
+JP #WS013：
+JP 「発表してる#WS173戦以外はな・・・
+EN Choshu:
+EN "Except for the Ogawa match we've
+EN  announced..."
+
+@ 038
+JP #MS：
+JP 「そう、ですか・・・・
+EN #MS:
+EN "Is that so...."
+
+@ 039
+JP 結局話は出来なかった。
+JP 何か会社に対して不信感を抱いてしまう。
+JP いくら何でも出場停止なんて・・・
+EN I never got to talk. I started to
+EN distrust the company. Suspending
+EN him, of all things...
+
+@ 040
+JP そして対抗戦の日、俺は#WS010との
+JP シングルマッチを組まれた。
+EN On the day of the interpromotional
+EN show, I was booked in a singles match
+EN with Nagata.

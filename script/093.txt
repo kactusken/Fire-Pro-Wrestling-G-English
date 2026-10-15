@@ -1,0 +1,161 @@
+@ 000
+JP 外敵撃退に失敗し、
+JP 会場は静まり返っていた。
+EN We had failed to drive off the
+EN invaders, and the arena fell silent.
+
+@ 001
+JP #WS076：
+JP 「おい聞け、#MS。
+EN Onita:
+EN "Hey, listen up, #MS."
+
+@ 002
+JP 這いつくばったままの#WS076が
+JP マイクを持っていた。
+EN Still sprawled on the mat, Onita had a
+EN mic in his hand.
+
+@ 003
+JP 「俺の、最後の、大仕事が、終わった。
+EN "My last... big job... is done."
+
+@ 004
+JP #MS：
+JP 「・・・・・
+EN #MS:
+EN "....."
+
+@ 005
+JP #WS076：
+JP 「おい、#MS！
+EN Onita:
+EN "Hey, #MS!"
+
+@ 006
+JP 「いいか、お前は、お前は、
+JP 　これから日本マットを背負って行く、
+JP 　その器がある。
+EN "Listen. You... you've got what it
+EN  takes to carry Japanese wrestling on
+EN  your back."
+
+@ 007
+JP 「俺が、邪道が、お前らメジャーに
+JP 　見せた、最後の、邪道プロレスを、
+JP 　心に、魂に、刻んでおけ！
+EN "The last outlaw match... this outlaw
+EN  showed you majors... Burn it into
+EN  your heart, your soul!"
+
+@ 008
+JP 「俺は、#WF076は、
+JP 　今日、ここで、死んだ。
+EN "I... Atsushi Onita... died here today."
+
+@ 009
+JP 「しかし、その、遺伝子は！
+JP 　#MS！お前の、中に引き継がれた！
+EN "But my... DNA! #MS! It lives
+EN  on... in you!"
+
+@ 010
+JP 「さらば！プロレス！
+EN "Farewell! Pro wrestling!"
+
+@ 011
+JP そう言うと#WS076は
+JP ばったりと倒れ伏した。
+JP ・・・・何、勝手な事言ってるんだこの野郎。
+EN With that, Onita collapsed flat.
+EN ....What the hell is this guy going on
+EN about?
+
+@ 012
+JP だが俺は何か心に引っ掛かるものを
+JP 感じていた。クソ、何だこの感じは・・・
+EN But something stuck with me. Damn
+EN it, what is this feeling...
+
+@ 013
+JP この後、俺は正規軍を離脱。
+JP そして１人での革命に動き出した。
+EN After that, I left the regulars and set
+EN out on a one-man revolution.
+
+@ 014
+JP 記者：
+JP 「#MS革命、始まりですね！
+EN Reporter:
+EN "So the #MS Revolution begins!"
+
+@ 015
+JP #MS：
+JP 「そうだよ、見てろ！１人の人間で
+JP 　ここまで出来るのか、って
+JP 　驚かせてやるからな！
+EN #MS:
+EN "That's right, watch me! I'll show you
+EN  all what one man can do!"
+
+@ 016
+JP 記者：
+JP 「最近、生き様と言いますか、そう言った
+JP 　部分が#WS076さんに似て来たと言う
+JP 　声が多いんですが、いかがですか？
+EN Reporter:
+EN "Many say your way of life is starting
+EN  to look like Onita's. Any thoughts?"
+
+@ 017
+JP #MS：
+JP 「別に真似ちゃいない。
+JP 　ただ・・・・
+EN #MS:
+EN "I'm not copying him. It's just..."
+
+@ 018
+JP 記者：
+JP 「ただ？
+EN Reporter:
+EN "Just?"
+
+@ 019
+JP #MS：
+JP 「俺は邪道を取り込んだ！
+JP 　そしてそれを消化した上で、
+JP 　新しいスタイルを築いて行く！
+EN #MS:
+EN "I took in the outlaw way! I digested
+EN  it, and now I'll build a new style!"
+
+@ 020
+JP 「メジャーと邪道の両方の力を発揮してな！
+EN "Using the power of both the majors
+EN  and the outlaws!"
+
+@ 021
+JP その後、#MSは自分の新たなスタイルを
+JP 確立し、団体の枠を越えて革命の輪を
+JP 広げて行った。
+EN #MS went on to establish a new
+EN style, spreading the revolution
+EN beyond promotion lines.
+
+@ 022
+JP その革命はプロレス界に嵐を巻き起こし、
+JP 一見無秩序に見えながらも、
+JP １つの大きな流れを築いた。
+EN It stirred up a storm in wrestling.
+EN Chaotic as it looked, it became one
+EN great current.
+
+@ 023
+JP そして・・・・
+EN And then....
+
+@ 024
+JP 後にこの時代が、第三次プロレス黄金時代と
+JP 呼ばれるようになったのだった。
+EN This era would later be called the
+EN Third Golden Age of Pro Wrestling.

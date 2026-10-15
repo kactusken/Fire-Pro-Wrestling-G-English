@@ -1,0 +1,90 @@
+@ 000
+JP #WS141：
+JP 「クッ・・・・
+EN Y. Yamamoto:
+EN "Ngh...."
+
+@ 001
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 002
+JP #WS141：
+JP 「・・・・・・・今回は俺の負けです。
+JP 　でも、次は必ず勝ちます！
+EN Y. Yamamoto:
+EN ".......You win this time. But next time,
+EN  I'll win for sure!"
+
+@ 003
+JP #MS：
+JP 「ああ。いつでもやってやるさ。
+EN #MS:
+EN "Sure. Anytime."
+
+@ 004
+JP #WS141：
+JP 「それと・・・・
+EN Y. Yamamoto:
+EN "And...."
+
+@ 005
+JP #MS：
+JP 「？
+EN #MS:
+EN "?"
+
+@ 006
+JP #WS141：
+JP 「トーナメント、俺や#WS168さんの分まで
+JP 　頑張って下さいよ！
+EN Y. Yamamoto:
+EN "Win the tournament for me and
+EN  Nagai too!"
+
+@ 007
+JP #MS：
+JP 「おう。
+EN #MS:
+EN "You got it."
+
+@ 008
+JP ３回戦の相手は#PS07ロシアの
+JP #WF145。
+JP コマンドサンボの達人だ。
+EN My third-round opponent is #PS07
+EN Russia's Volk Han, a master of Combat
+EN Sambo.
+
+@ 009
+JP その技術は#WS145マジックと呼ばれ
+JP ファンを魅了し、対戦相手を恐れさせている。
+EN His skills, called "Han Magic," dazzle
+EN the fans and terrify his opponents.
+
+@ 010
+JP #WS145：
+JP 「若さを良い意味で勢いに変えているな、君は。
+JP 　闘うのが楽しみで仕方無かったよ。
+EN Han:
+EN "You turn your youth into drive, in a
+EN  good way. I could hardly wait to
+EN  fight you."
+
+@ 011
+JP #MS：
+JP 「そこまで言ってもらえると嬉しいですよ。
+JP 　でも俺の目標は決勝へ出て#WS149さんと
+JP 　闘う事。ここで負ける訳には行かない！
+EN #MS:
+EN "I'm glad to hear that. But my goal is
+EN  to reach the final and face Mr.
+EN  Maeda. I can't lose here!"
+
+@ 012
+JP #WS145：
+JP 「では始めるとしよう。
+EN Han:
+EN "Then let us begin."

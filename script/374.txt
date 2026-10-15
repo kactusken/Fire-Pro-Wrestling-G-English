@@ -1,0 +1,26 @@
+@ 000
+JP 俺は遂に王座から転落してしまった。
+JP 残念だが仕方無い。チャンスはまた来るだろう。
+EN I finally lost the title. It's a shame,
+EN but it happens. Another chance will
+EN come.
+
+@ 001
+JP 仕切り直しとなる今日の対戦相手は
+JP #WF157。
+JP #PS10最強の外人レスラーだ。
+EN To start fresh, today's opponent is Bas
+EN Rutten, the strongest foreigner in
+EN #PS10.
+
+@ 002
+JP 初対戦だが、
+JP #WN157の異名を持つ彼は
+JP #WS154さんにも勝っている実力者だ。
+EN We've never met, but the man they
+EN call "Instant-KO Soldier" has even
+EN beaten Funaki.
+
+@ 003
+JP 相手にとって不足は無い。
+EN He's a worthy opponent.

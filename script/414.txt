@@ -1,0 +1,195 @@
+@ 000
+JP 俺達は試合に勝利し、
+JP #PS05世界タッグ王座についた。
+EN We won the match and became
+EN #PS05 World Tag Team
+EN Champions.
+
+@ 001
+JP #WS107：
+JP 「ナイスファイトだ、#MS！
+EN Norton:
+EN "Nice fight, #MS!"
+
+@ 002
+JP #MS：
+JP 「ありがとう、#WS107！
+EN #MS:
+EN "Thanks, Norton!"
+
+@ 003
+JP リング上で観客に勝利のアピールをしていた。
+JP すると・・・・
+EN We were celebrating with the crowd
+EN in the ring. Then....
+
+@ 004
+JP #WS101：
+JP 「ハッハッハッハァ！
+EN Hogan:
+EN "HA HA HA HAAA!"
+
+@ 005
+JP 「ナイスファイトだ。
+JP 　２人共良くやってくれたな。
+EN "Nice fight. You both did great,
+EN  brother."
+
+@ 006
+JP #MS：
+JP 「えっ・・・・
+EN #MS:
+EN "Huh...."
+
+@ 007
+JP #WS101は
+JP #WS107のベルトを取り上げて、
+JP 自分の腰に巻いて悦に入っている。
+EN Hogan took Norton's belt, wrapped it
+EN around his own waist, and gloated.
+
+@ 008
+JP まさか自分の物にする気なのか？
+JP だが#WS107は諦め顔だ・・・・
+EN Is he keeping it for himself? But
+EN Norton looks resigned....
+
+@ 009
+JP 気になった俺はこっそり#WS107に
+JP 話を聞いてみる事にした。
+EN Curious, I decided to quietly ask
+EN Norton about it.
+
+@ 010
+JP #MS：
+JP 「#WS107！
+EN #MS:
+EN "Norton!"
+
+@ 011
+JP #WS107：
+JP 「どうした？#MS。
+EN Norton:
+EN "What's up, #MS?"
+
+@ 012
+JP #MS：
+JP 「あの、ベルトの事なんだけど・・・・
+EN #MS:
+EN "Um, about the belt...."
+
+@ 013
+JP #WS107：
+JP 「ははぁ、言いたい事は分かったよ。
+JP 　#WS101に渡してしまっていいのか、
+JP 　ミーはそれでもいいと思っているか、だな？
+EN Norton:
+EN "Ah, I know what you're asking. Is it
+EN  okay to hand it to Hogan, am I really
+EN  fine with that, right?"
+
+@ 014
+JP #MS：
+JP 「・・・・・うん。
+EN #MS:
+EN ".....Yeah."
+
+@ 015
+JP #WS107：
+JP 「ジャパンでは考えられない事かもしれないが
+JP 　アメリカではこんな事もある。
+EN Norton:
+EN "Maybe it's unthinkable in Japan, but
+EN  this kind of thing happens in
+EN  America."
+
+@ 016
+JP 「ミーはアメリカではまだ、ジャパンほど
+JP 　認められていないからな。仕事を１つ１つ
+JP 　こなして認められるように頑張るだけさ。
+EN "Here I'm not as respected as in Japan
+EN  yet. I just do each job and work to
+EN  earn that respect."
+
+@ 017
+JP #MS：
+JP 「・・・・そういうものなのかな？
+EN #MS:
+EN "....Is that how it works?"
+
+@ 018
+JP #WS107：
+JP 「そういうものさ。
+EN Norton:
+EN "That's how it works."
+
+@ 019
+JP 俺は釈然としない部分があったが
+JP 本人が気にしていないようだったので
+JP それ以上追求しなかった。
+EN Something didn't sit right, but he
+EN didn't seem to mind, so I let it go.
+
+@ 020
+JP #WS002：
+JP 「ウォォォォォォッ！
+EN Sasaki:
+EN "WOOOOOOOOH!"
+
+@ 021
+JP 勝った#WL002さんが
+JP 雄叫びを上げ観客にアピールしている時だった。
+EN Sasaki had won and was roaring to
+EN the crowd when it happened.
+
+@ 022
+JP ブラックＦＷＯ軍が乱入して来た。
+EN nWo Hollywood stormed the ring.
+
+@ 023
+JP #WS101：
+JP 「ユー達にベルトは渡さない。
+JP 　このベルトはブラックＦＷＯのものだ。
+EN Hogan:
+EN "You're not getting these belts. They
+EN  belong to nWo Hollywood."
+
+@ 024
+JP #WS101は悦に入ったように
+JP タッグベルトを腰に巻いている・・・
+EN Hogan gleefully wrapped the tag belt
+EN around his waist...
+
+@ 025
+JP #WS101：
+JP 「ハッハッハァ！
+EN Hogan:
+EN "HA HA HAAA!"
+
+@ 026
+JP #WS101は#WS010の持っていた
+JP ベルトを俺の肩に掛け、一緒にＴＶカメラに
+JP 向かってポーズを取るように促した。
+EN Hogan draped the belt Nagata had on
+EN my shoulder and urged me to pose
+EN with him for the TV cameras.
+
+@ 027
+JP #WS101：
+JP 「Ｆ・Ｗ・Ｏ！ハァァァァァ！
+EN Hogan:
+EN "N-W-O! HAAAAAH!"
+
+@ 028
+JP 結局ベルトはブラックＦＷＯが
+JP 強奪した形になった。
+EN In the end, nWo Hollywood had
+EN basically stolen the belts.
+
+@ 029
+JP 今日は#PS05正規軍の
+JP #WF182との
+JP シングルマッチだ。
+EN Today it's singles against Diamond
+EN Dallas Page, one of the #PS05
+EN loyalists.

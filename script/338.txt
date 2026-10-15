@@ -1,0 +1,172 @@
+@ 000
+JP #WS150組はその後も順調に興行を
+JP 重ね、新人のデビュー、入団志願者の増加など、
+JP 団体の規模は次第に大きくなっていった。
+EN Fujiwara Gumi kept running shows
+EN smoothly. Rookies debuted, applicants
+EN poured in, and it steadily grew.
+
+@ 001
+JP そしてある時・・・・
+EN And then one day....
+
+@ 002
+JP #MS：
+JP 「えっ、ドームですか！？
+EN #MS:
+EN "What, the Dome!?"
+
+@ 003
+JP #WS154：
+JP 「ああ。初のドーム興行が決定したよ。
+EN Funaki:
+EN "Yeah. Our first Dome show is set."
+
+@ 004
+JP #WS151：
+JP 「凄いじゃないですか！
+EN Ishikawa:
+EN "That's amazing!"
+
+@ 005
+JP こいつは後輩の#WS151。
+JP #WS150組デビュー第１号だ。
+EN This is my junior, Ishikawa. Fujiwara
+EN Gumi's very first debut.
+
+@ 006
+JP #MS：
+JP 「でもいくら#WS150組が好調でも
+JP 　ドームなんて・・・大丈夫なんですかね？
+EN #MS:
+EN "But even with Fujiwara Gumi doing
+EN  well, the Dome... is that really okay?"
+
+@ 007
+JP #WS154：
+JP 「まあもちろん#PS00みたいには
+JP 　行かないさ。ただ経営の事より俺達は
+JP 　他に気にする事があるだろう？
+EN Funaki:
+EN "Well, of course it won't be like
+EN  #PS00. But we've got more to
+EN  worry about than business, right?"
+
+@ 008
+JP #MS：
+JP 「そうですね・・・・お客さんに
+JP 　来てもらえる試合をしないと。
+EN #MS:
+EN "Right.... We have to put on matches
+EN  that bring the fans in."
+
+@ 009
+JP #WS154：
+JP 「そうだ。それでカードだけどな・・・・
+JP 　メインは俺と#MSになった。
+EN Funaki:
+EN "Exactly. Now about the card.... The
+EN  main event is me and you."
+
+@ 010
+JP #MS：
+JP 「えっ！？
+EN #MS:
+EN "What!?"
+
+@ 011
+JP #WS154：
+JP 「始めは俺が#WS150さんに挑戦する予定
+JP 　だったんだけど、若い力をアピールしよう、
+JP 　と言う事で#WS150さんと決めた。
+EN Funaki:
+EN "I was going to challenge Fujiwara,
+EN  but we decided to showcase young
+EN  blood instead."
+
+@ 012
+JP #MS：
+JP 「そ、そうですか・・・・
+EN #MS:
+EN "I-I see...."
+
+@ 013
+JP 俺は突然の話に半ば呆然としていた。
+EN The sudden news left me half
+EN stunned.
+
+@ 014
+JP #WS154：
+JP 「頼むぞ。
+EN Funaki:
+EN "I'm counting on you."
+
+@ 015
+JP #WS151：
+JP 「凄いじゃないですか、#MSさん！
+EN Ishikawa:
+EN "That's amazing, #MS!"
+
+@ 016
+JP 想像を絶する重大な責任・・・・
+JP でもやるしかない。俺は必死で
+JP トレーニングに打ち込んだ。
+EN An unimaginable responsibility.... But
+EN there was no choice. I trained like
+EN crazy.
+
+@ 017
+JP そしていよいよその時が来た。
+EN And at last the time came.
+
+@ 018
+JP お客さんの数を見ると
+JP 思わず溜息が出てしまう。
+EN One look at the crowd and I couldn't
+EN help sighing.
+
+@ 019
+JP #WS154：
+JP 「そんな事でどうする！
+EN Funaki:
+EN "What's with that!?"
+
+@ 020
+JP 気持ちが顔に出ていたらしい。
+EN My feelings must have shown on my
+EN face.
+
+@ 021
+JP #MS：
+JP 「済みません！気持ち切り替えます！
+EN #MS:
+EN "Sorry! I'll get my head straight!"
+
+@ 022
+JP #WS154：
+JP 「少ないとは言え来てくれたお客さんには
+JP 　喜んで帰ってもらう試合をしないとな。
+EN Funaki:
+EN "The crowd's small, but we owe the
+EN  ones who came a match that sends
+EN  them home happy."
+
+@ 023
+JP #MS：
+JP 「来なかった人には来れば良かったと思わせる
+JP 　試合をしましょう！
+EN #MS:
+EN "And one that makes the no-shows
+EN  wish they'd come!"
+
+@ 024
+JP #WS154：
+JP 「フフ・・・そうだな。行くぞ！
+EN Funaki:
+EN "Heh... right. Let's go!"
+
+@ 025
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"

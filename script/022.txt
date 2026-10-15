@@ -1,0 +1,62 @@
+@ 000
+JP #WS006：
+JP 「お前、#WS003さんとは
+JP 　シングル初対決なんだって？
+EN Iizuka:
+EN "I hear it's your first singles match
+EN  with Yamazaki?"
+
+@ 001
+JP #MS：
+JP 「ええ。
+EN #MS:
+EN "Yeah."
+
+@ 002
+JP #WS006：
+JP 「#WS003さん、何だか
+JP 　凄く楽しみにしてるみたいだぞ。
+EN Iizuka:
+EN "Yamazaki seems really excited about
+EN  it."
+
+@ 003
+JP #MS：
+JP 「そうなんですか？
+EN #MS:
+EN "Really?"
+
+@ 004
+JP #WS006：
+JP 「朝からえらく気合が入ってたからな。
+EN Iizuka:
+EN "He's been fired up since this
+EN  morning."
+
+@ 005
+JP #MS：
+JP 「俺も楽しみにしてます。
+JP 　でも、俺の目標は優勝ですから！
+EN #MS:
+EN "I'm excited too. But my goal is to win
+EN  it all!"
+
+@ 006
+JP #WS003：
+JP 「・・・・・・・・・
+EN Yamazaki:
+EN "........."
+
+@ 007
+JP #WS003さんから
+JP 無言のプレッシャーを感じる。
+JP 殺気に近い・・・凄い集中力だ。しかし！
+EN I can feel silent pressure from
+EN Yamazaki. It's close to killing intent...
+EN Incredible focus. But still!
+
+@ 008
+JP #MS：
+JP 「やってやる！
+EN #MS:
+EN "Bring it on!"

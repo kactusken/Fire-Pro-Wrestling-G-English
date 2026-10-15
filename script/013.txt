@@ -1,0 +1,153 @@
+@ 000
+JP 記者：
+JP 「お疲れ様です。
+JP 　どうでしたか#WS010選手は？
+EN Reporter:
+EN "Good work out there. How was
+EN  Nagata?"
+
+@ 001
+JP #MS：
+JP ・「あぁ？もっと強い奴連れて来い、コラ！
+JP ・「調子に乗ってんじゃねぇぞ、この野郎！
+JP ・「あんなのとやってられっか、ボケ！
+EN #MS:
+EN ・"Bring me someone tougher, punk!"
+EN ・"Don't get cocky, jerk!"
+EN ・"He's not worth my time, dumbass!"
+
+@ 002
+JP 記者：
+JP 「ＦＷＯの一員として
+JP 　今後の目標みたいなものは？
+EN Reporter:
+EN "As a member of nWo, what are your
+EN  goals from here?"
+
+@ 003
+JP #MS：
+JP 「トップ連中の首に決まってんだろ！
+JP 　くだらねぇ質問は止めろコラ！」
+EN #MS:
+EN "The heads of the guys on top, duh!
+EN  Quit asking dumb questions, punk!"
+
+@ 004
+JP 記者：
+JP 「それでは次期シリーズから開幕する
+JP 　Ｖ１－ＴＲＹＭＡＸトーナメントに
+JP 　ついては？
+EN Reporter:
+EN "Then what about the G1 CLIMAX
+EN  tournament starting next series?"
+
+@ 005
+JP #MS：
+JP 「決まってんだろーが、優勝だよ！優勝！
+JP 　全員叩き潰してやるから見とけコラ！
+EN #MS:
+EN "Isn't it obvious? I'm winning it!
+EN  Watch me smash every one of 'em,
+EN  punk!"
+
+@ 006
+JP 本来ならあんな言い回しをする必要は
+JP 無いのだが、レスラーにとっては
+JP キャラクターも大事だ。
+EN I don't really need to talk like that,
+EN but for a wrestler, character matters
+EN too.
+
+@ 007
+JP 今の俺はＦＷＯの一員だからな。
+EN Right now, I'm part of nWo.
+
+@ 008
+JP #WS027：
+JP 「だいぶ板について来たじゃないか。
+EN Chono:
+EN "You're getting the hang of it."
+
+@ 009
+JP #MS：
+JP 「そ、そうですか？
+EN #MS:
+EN "R-Really?"
+
+@ 010
+JP #WS027：
+JP 「ハハハ、まあ最初はそんなもんだろ。
+EN Chono:
+EN "Ha ha ha, that's how it is at first."
+
+@ 011
+JP #WS030：
+JP 「今のところ良い流れが出来てるからな。
+JP 　ここで１発、Ｖ１で実績を
+JP 　残したいところだな。
+EN Hiro:
+EN "We've got good momentum going.
+EN  You'll want to make your mark in the
+EN  G1."
+
+@ 012
+JP #MS：
+JP 「そうですね。頑張ります！
+EN #MS:
+EN "Right. I'll do my best!"
+
+@ 013
+JP #WS030：
+JP 「いいか、勢いのある時期ってのは
+JP 　誰にでも来る。でもそれをどういう形で
+JP 　残すかで差が出るんだ。
+EN Hiro:
+EN "Listen. Everyone gets a hot streak.
+EN  What sets you apart is what you
+EN  leave behind with it."
+
+@ 014
+JP #MS：
+JP 「・・・・・・・・
+EN #MS:
+EN "........"
+
+@ 015
+JP #WS030：
+JP 「頑張れよ。
+EN Hiro:
+EN "Go get 'em."
+
+@ 016
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 017
+JP ＦＷＯもチーム内ではみんな良い人達だ。
+JP 特にリングの上でも下でもこのチームにとって
+JP #WS030さんの存在は大きい。
+EN Inside nWo, everyone's a good guy. In
+EN the ring and out of it, Hiro especially
+EN means a lot to this team.
+
+@ 018
+JP #WS030：
+JP 「今日は飯でも食ってくか？
+EN Hiro:
+EN "Want to grab a bite tonight?"
+
+@ 019
+JP #MS：
+JP 「ええ、行きましょう！
+EN #MS:
+EN "Sure, let's go!"
+
+@ 020
+JP そして#PL00の
+JP 頂点を決定するトーナメント戦、
+JP 『Ｖ１－ＴＲＹＭＡＸ』がスタートする。
+EN And so #PL00's tournament to
+EN decide who's on top, the "G1 CLIMAX",
+EN began.

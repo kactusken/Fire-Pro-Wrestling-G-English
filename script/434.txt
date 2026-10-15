@@ -1,0 +1,178 @@
+@ 000
+JP 俺は試合後、控え室に向かっていた。
+EN After the match, I was heading to the
+EN locker room.
+
+@ 001
+JP ？：
+JP 「ヘイ！
+EN ???:
+EN "Hey!"
+
+@ 002
+JP #WS126：
+JP 「タフなファイトだった、#MS。
+EN Williams:
+EN "Tough fight, #MS."
+
+@ 003
+JP #MS：
+JP 「どうも・・・
+EN #MS:
+EN "Thanks..."
+
+@ 004
+JP #WS126：
+JP 「実はユーに話があって来た。
+EN Williams:
+EN "Actually, I came to talk to you."
+
+@ 005
+JP #MS：
+JP 「話？
+EN #MS:
+EN "Talk?"
+
+@ 006
+JP #WS126：
+JP 「そうだ。ミーは今、扱い的には
+JP 　中堅という感じだ。だが実力では
+JP 　もっと上にいてもいいと思ってる。
+EN Williams:
+EN "Right. They treat me like an
+EN  midcarder. But I think I belong
+EN  higher."
+
+@ 007
+JP #MS：
+JP 「確かに。
+EN #MS:
+EN "You do."
+
+@ 008
+JP #WS126：
+JP 「ハハハ、サンキュー。で、実力を会社側に
+JP 　見せ付ける為に、実績も実力も持っている
+JP 　奴と闘う事にした。
+EN Williams:
+EN "Ha ha, thanks. So, to prove it to the
+EN  office, I'll fight guys with real
+EN  credentials and skill."
+
+@ 009
+JP #MS：
+JP 「実績も、実力も・・・・誰です？
+EN #MS:
+EN "Credentials and skill... Who?"
+
+@ 010
+JP #WS126：
+JP 「ロード・#WL119ズだ。
+EN Williams:
+EN "The Road Warriors."
+
+@ 011
+JP #MS：
+JP 「なるほど！確かに彼らと闘って、倒せば
+JP 　文句無しだし、万が一負けてもその中で
+JP 　実力をアピール出来れば・・・・
+EN #MS:
+EN "I see! Beat them and nobody can
+EN  argue. Even if you lose, if you show
+EN  what you've got..."
+
+@ 012
+JP #WS126：
+JP 「そう言う事だ。で、どうだ？
+EN Williams:
+EN "Exactly. So, how about it?"
+
+@ 013
+JP #MS：
+JP 「どうだって・・・何が？
+EN #MS:
+EN "How about what?"
+
+@ 014
+JP #WS126：
+JP 「ユーは鈍いな。
+EN Williams:
+EN "You're slow."
+
+@ 015
+JP 「ロード・#WL119ズは
+JP 　１人じゃないだろう？闘いを仕掛ける上で
+JP 　ミーに足りないものは何だ？
+EN "There's more than one Road Warrior,
+EN  right? So what do I need to go after
+EN  them?"
+
+@ 016
+JP #MS：
+JP 「パートナー・・・ってもしかして・・・・
+EN #MS:
+EN "A partner... Wait, you mean..."
+
+@ 017
+JP #WS126：
+JP 「そうだ。ミーと組まないか？
+EN Williams:
+EN "That's right. Want to team with me?"
+
+@ 018
+JP #MS：
+JP 「・・・・・・・・
+EN #MS:
+EN "........"
+
+@ 019
+JP #WS126：
+JP 「どうした？
+EN Williams:
+EN "What's wrong?"
+
+@ 020
+JP #MS：
+JP 「いえ、ちょっと感慨に耽ってしまって・・・
+EN #MS:
+EN "Nothing, I just got a little
+EN  emotional..."
+
+@ 021
+JP 「是非お願いします！
+EN "I'd be honored!"
+
+@ 022
+JP #WS126：
+JP 「ＯＫ。それじゃオーナーに言っておく。
+EN Williams:
+EN "OK. I'll tell the boss."
+
+@ 023
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Great!"
+
+@ 024
+JP こうして俺は子供の頃ＴＶで見た、あの
+JP ロード・#WL119ズと
+JP 闘う事になったのだ。
+EN And so I'd be facing the Road
+EN Warriors, the team I'd watched on TV
+EN as a kid.
+
+@ 025
+JP #WS126：
+JP 「いいか？奴等はユーがジャパニーズだから
+JP 　もしかしたら早く仕掛けて来るかもしれない。
+JP 　注意しろ。
+EN Williams:
+EN "Listen. Since you're Japanese, they
+EN  might jump you early. Be careful."
+
+@ 026
+JP #MS：
+JP 「ＯＫ！
+EN #MS:
+EN "OK!"

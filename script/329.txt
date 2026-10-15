@@ -1,0 +1,33 @@
+@ 000
+JP 坂上との試合を実現した俺は気が
+JP 抜けてしまったのか、その後魂のこもった
+JP 試合が出来なくなってしまっていた。
+EN After my match with Sakagami, I
+EN went slack. I couldn't put my soul
+EN into a match anymore.
+
+@ 001
+JP #WS066：
+JP 「おい、#MS！
+JP 　出番だぞ、早く来い！
+EN Kikuchi:
+EN "Hey, #MS! You're up, get over
+EN  here!"
+
+@ 002
+JP #MS：
+JP 「あ、済みません、今行きます！
+EN #MS:
+EN "Oh, sorry, coming!"
+
+@ 003
+JP そして気合の感じられないファイトしか出来ない
+JP 俺は、今ではすっかり悪者同盟の一員として
+JP #WS066さんの下についている。
+EN Fighting with no fire left, I now
+EN served under Kikuchi as a member of
+EN the heel alliance.
+
+@ 004
+JP そして今日も試合が始まる・・・・
+EN And today, another match begins....

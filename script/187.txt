@@ -1,0 +1,101 @@
+@ 000
+JP 俺はセコンドについて#WS068さんと
+JP #WS074の試合を見守っていた。
+EN I was in the corner, watching
+EN Hayabusa vs. Jado.
+
+@ 001
+JP ところが#WS075がチョロチョロと
+JP リング内にチョッカイを出し始めた。
+EN But Kanemura started sneaking
+EN around, messing with things in the
+EN ring.
+
+@ 002
+JP #WS075：
+JP 「#WS068！何してんねんコラ！
+EN Kanemura:
+EN "Hayabusa! Whaddaya think you're
+EN  doin'!"
+
+@ 003
+JP そして奴は#WS068さんをイスで殴る
+JP 暴挙に出た。俺は#WS075をリングから
+JP 引きずり落とした。
+EN Then he went too far and hit
+EN Hayabusa with a chair. I dragged
+EN Kanemura out of the ring.
+
+@ 004
+JP #WS075：
+JP 「何すんやコラ！
+EN Kanemura:
+EN "Whaddaya think you're doin'!"
+
+@ 005
+JP #MS：
+JP 「それはこっちのセリフだこのヤロー！
+JP 　他人の試合を邪魔するんじゃねえ！
+EN #MS:
+EN "That's my line, you bastard! Don't
+EN  mess with other people's matches!"
+
+@ 006
+JP #WS075：
+JP 「調子に乗るんやない！このボケカスが！
+EN Kanemura:
+EN "Don't get cocky, ya worthless
+EN  moron!"
+
+@ 007
+JP #MS：
+JP 「このっ！
+EN #MS:
+EN "Why, you!"
+
+@ 008
+JP #WS075：
+JP 「何を、このっ！
+EN Kanemura:
+EN "Whaddaya, you!"
+
+@ 009
+JP #MS：
+JP 「こいつっ！
+EN #MS:
+EN "You little...!"
+
+@ 010
+JP #WS075：
+JP 「こらボケ！今ここで勝負や！
+JP 　ワイを舐めとったら後悔するで！
+EN Kanemura:
+EN "Hey, moron! Let's settle this right
+EN  here! Mess with me and you'll regret
+EN  it!"
+
+@ 011
+JP 俺達の乱闘は両チームのメンバーを
+JP 巻き込んで大乱闘に発展した。
+EN Our brawl dragged in both teams and
+EN turned into an all-out melee.
+
+@ 012
+JP 収集のつかなくなった乱闘に終止符を打ったのは
+JP 俺の一言だった。
+EN What finally ended the
+EN out-of-control brawl was something I
+EN said.
+
+@ 013
+JP #MS：
+JP 「ガタガタ言うならシングルでカタつけてやる！
+EN #MS:
+EN "If you've got a problem, let's settle it
+EN  one-on-one!"
+
+@ 014
+JP そして翌日、#WS075との
+JP シングルマッチを迎えた・・・・
+EN And the next day came my singles
+EN match with Kanemura....

@@ -1,0 +1,2355 @@
+# overlay 004: strings in 0x8005a71c..0x8005d258
+
+@ 8005a71c len=8 refs=p1,c0
+JP 性格
+EN Persona
+
+@ 8005a724 len=12 refs=p1,c0
+JP パﾌｫーﾏﾝｽ
+EN Showboat
+
+@ 8005a730 len=20 refs=p2,c0
+JP 相手が場外にいる
+EN Foe outside ring
+
+@ 8005a744 len=24 refs=p1,c0
+JP 自分がバｯｸを取られて
+EN Foe behind me
+
+@ 8005a75c len=16 refs=p2,c0
+JP 相手がﾌﾗﾌﾗ状態
+EN Foe is dazed
+
+@ 8005a76c len=16 refs=p1,c0
+JP 中央付近でﾌﾗﾌﾗ
+EN Dazed mid-ring
+
+@ 8005a77c len=20 refs=p1,c0
+JP ｺーﾅー付近でﾌﾗﾌﾗ
+EN Dazed in corner
+
+@ 8005a790 len=16 refs=p1,c0
+JP うつ伏せダｳﾝ
+EN Down face-down
+
+@ 8005a7a0 len=12 refs=p1,c0
+JP 仰向けダｳﾝ
+EN Down face-up
+
+@ 8005a7ac len=16 refs=p1,c0
+JP 中央付近でダｳﾝ
+EN Down mid-ring
+
+@ 8005a7bc len=20 refs=p1,c0
+JP ｺーﾅー付近でダｳﾝ
+EN Down near corner
+
+@ 8005a7d0 len=24 refs=p1,c0
+JP ｺーﾅーにもたれている
+EN Foe in corner
+
+@ 8005a7e8 len=16 refs=p1,c0
+JP ﾛープに振って…
+EN Irish whip...
+
+@ 8005a7f8 len=20 refs=p1,c0
+JP バｯｸを取っている
+EN Behind the foe
+
+@ 8005a80c len=12 refs=p1,c0
+JP 組んでいる
+EN Grappling
+
+@ 8005a818 len=12 refs=p1,c0
+JP 離れている
+EN Apart
+
+@ 8005a824 len=12 refs=p2,c0
+JP － 終了 －
+EN - Exit -
+
+@ 8005a830 len=8 refs=p1,c0
+JP 協調性
+EN Teamwork
+
+@ 8005a838 len=8 refs=p1,c0
+JP 柔軟性
+EN Adaptable
+
+@ 8005a840 len=8 refs=p1,c0
+JP 慎重度
+EN Caution
+
+@ 8005a848 len=12 refs=p1,c0
+JP こだわり度
+EN Stubborn
+
+@ 8005a854 len=20 refs=p1,c0
+JP 自分がポｽﾄ上にいる
+EN Me on the post
+
+@ 8005a868 len=16 refs=p1,c0
+JP 相手がダｳﾝ中
+EN Foe is down
+
+@ 8005a878 len=8 refs=p2,c0
+JP 常時
+EN Always
+
+@ 8005a880 len=16 refs=p7,c0
+JP 相手が瀕死の時
+EN Foe nearly out
+
+@ 8005a890 len=16 refs=p1,c0
+JP 相手のダﾒージ中
+EN Foe dmg medium
+
+@ 8005a8a0 len=16 refs=p12,c0
+JP 相手のダﾒージ大
+EN Foe dmg high
+
+@ 8005a8b0 len=16 refs=p8,c0
+JP 相手のダﾒージ小
+EN Foe dmg low
+
+@ 8005a8c0 len=8 refs=p1,c0
+JP ない
+EN No
+
+@ 8005a8c8 len=8 refs=p1,c0
+JP ある
+EN Yes
+
+@ 8005a8d0 len=8 refs=p1,c0
+JP しない
+EN Don't
+
+@ 8005a8d8 len=12 refs=p2,c0
+JP パﾌｫｰﾏﾝｽ
+EN Taunt
+
+@ 8005a8e4 len=12 refs=p1,c0
+JP 何もしない
+EN Nothing
+
+@ 8005a8f0 len=12 refs=p1,c0
+JP 走って場外
+EN Run Out
+
+@ 8005a8fc len=16 refs=p1,c0
+JP エプロン場外
+EN Apron Out
+
+@ 8005a90c len=16 refs=p1,c0
+JP 場外に降りる
+EN Step outside
+
+@ 8005a91c len=8 refs=p2,c0
+JP 返し
+EN #x42,Rev.
+
+@ 8005a924 len=8 refs=p2,c0
+JP 離れて
+EN Off
+
+@ 8005a92c len=16 refs=p1,c0
+JP バックを取る
+EN Take back
+
+@ 8005a93c len=12 refs=p1,c0
+JP 仰向けに
+EN Turn face-up
+
+@ 8005a948 len=4 refs=p4,c0
+JP 脚
+EN #x30,Legs
+
+@ 8005a94c len=4 refs=p4,c0
+JP 頭
+EN #x30,Head
+
+@ 8005a950 len=12 refs=p1,c0
+JP うつ伏せに
+EN Turn face-down
+
+@ 8005a95c len=8 refs=p2,c0
+JP 起こす
+EN Pick up
+
+@ 8005a964 len=12 refs=p1,c0
+JP 走りダウン
+EN Run Dn
+
+@ 8005a970 len=16 refs=p1,c0
+JP エプロン場内
+EN Apron In
+
+@ 8005a980 len=8 refs=p4,c0
+JP 登って
+EN Climb
+
+@ 8005a988 len=12 refs=p1,c0
+JP 登らない
+EN Don't climb
+
+@ 8005a994 len=12 refs=p3,c0
+JP カウンター
+EN Counter
+
+@ 8005a9a0 len=8 refs=p3,c0
+JP 走り
+EN #x42,Run
+
+@ 8005a9a8 len=12 refs=p2,c0
+JP 走らない
+EN Don't run
+
+@ 8005a9b4 len=8 refs=p7,c0
+JP バック
+EN Back
+
+@ 8005a9bc len=8 refs=p18,c0
+JP 組み
+EN Grp
+
+@ 8005a9c4 len=8 refs=p4,c0
+JP 立ち
+EN Std
+
+@ 8005a9cc len=12 refs=p1,c0
+JP 回り込む
+EN Circle
+
+@ 8005a9d8 len=16 refs=p1,c0
+JP 間合いを取る
+EN Keep away
+
+@ 8005a9e8 len=12 refs=p1,c0
+JP 組みに行く
+EN Lock up
+
+@ 8005a9f4 len=44 refs=p3,c0
+JP フロントヘッドロック ～ ボディニーリフト
+EN Front Headlock ~ Knee Lift
+
+@ 8005aa20 len=16 refs=p1,c0
+JP スライディング
+EN Sliding
+
+@ 8005aa30 len=12 refs=p7,c0
+JP 使わない
+EN Unused
+
+@ 8005aa3c len=16 refs=p3,c0
+JP リープフロッグ
+EN Leapfrog
+
+@ 8005aa4c len=12 refs=p5,c0
+JP 伏せかわし
+EN Drop & Dodge
+
+@ 8005aa58 len=44 refs=p13,c0
+JP フロントヘッドロック ～ エルボースタンプ
+EN Front Headlock ~ Elbow Stamp
+
+@ 8005aa84 len=16 refs=p16,c0
+JP ハンマースルー
+EN Hammer Throw
+
+@ 8005aa94 len=8 refs=p0,c2
+JP %3d％
+
+@ 8005aa9c len=8 refs=p0,c1
+JP ---％
+
+@ 8005aaa4 len=12 refs=p0,c1
+JP 装備技名
+EN Move Name
+
+@ 8005aab0 len=6 refs=p0,c1
+JP 100％
+
+@ 8005aad4 len=12 refs=p1,c0
+JP デリート
+EN Delete
+
+@ 8005aae0 len=8 refs=p2,c0
+JP セーブ
+EN Save
+
+@ 8005aae8 len=8 refs=p2,c0
+JP ロード
+EN Load
+
+@ 8005aaf0 len=8 refs=p2,c0
+JP 終了
+EN Exit
+
+@ 8005aaf8 len=20 refs=p0,c2
+JP 上書きしますか？
+EN Overwrite?
+
+@ 8005ab0c len=16 refs=p0,c1
+JP  削除しますか？
+EN  Delete?
+
+@ 8005ab1c len=36 refs=p0,c1
+JP 以下の各モードの記録も消えます\n\n
+EN Records in these modes are lost:\n\n
+
+@ 8005ab40 len=16 refs=p0,c1
+JP タイトルマッチ\n
+EN Title Match\n
+
+@ 8005ab50 len=16 refs=p0,c1
+JP オープンリーグ\n
+EN Open League\n
+
+@ 8005ab60 len=36 refs=p0,c1
+JP イリミネーション・ＥＤＩＴチーム\n
+EN Elimination: EDIT Teams\n
+
+@ 8005ab84 len=16 refs=p0,c1
+JP トーナメント\n
+EN Tournament\n
+
+@ 8005ab94 len=28 refs=p0,c1
+JP デスマッチ・トーナメント\n
+EN Deathmatch Tournament\n
+
+@ 8005abb0 len=40 refs=p0,c1
+JP グルーサムファイティング・トーナメント\n
+EN Gruesome Fighting Tournament\n
+
+@ 8005abd8 len=8 refs=p0,c1
+JP はい
+EN Yes
+
+@ 8005abe0 len=8 refs=p0,c1
+JP いいえ
+EN No
+
+@ 8005ac04 len=8 refs=p1,c0
+JP 古武道
+EN Kobudo
+
+@ 8005ac0c len=8 refs=p1,c0
+JP 骨法
+EN Koppo
+
+@ 8005ac14 len=8 refs=p1,c0
+JP ﾐｽﾃﾘｱｽ
+EN Mystery
+
+@ 8005ac1c len=12 refs=p1,c0
+JP ｼｭｰﾃｨﾝグ
+EN Shoot
+
+@ 8005ac28 len=4 refs=p1,c0
+JP ﾙﾁｬ
+EN Lucha
+
+@ 8005ac2c len=8 refs=p1,c0
+JP パﾜｰ
+EN Power
+
+@ 8005ac34 len=8 refs=p1,c0
+JP ｱﾏﾚｽ
+EN Amateur
+
+@ 8005ac3c len=8 refs=p1,c0
+JP ﾃｸﾆｯｸ
+EN Technic
+
+@ 8005ac44 len=8 refs=p1,c0
+JP ｽﾄﾛﾝグ
+EN Strong
+
+@ 8005ac5c len=16 refs=p1,c0
+JP 足首：#x12,,
+EN Ankle:#x21,
+
+@ 8005ac6c len=24 refs=p1,c0
+JP #x2,すね#x2,：#x12,,
+EN Shin:#x30,
+
+@ 8005ac84 len=16 refs=p1,c0
+JP 太腿：#x12,,
+EN Thigh:#x20,
+
+@ 8005ac94 len=16 refs=p1,c0
+JP 手首：#x12,,
+EN Wrist:#x23,
+
+@ 8005aca4 len=16 refs=p1,c0
+JP 下腕：#x12,,
+EN Arm:#x32,
+
+@ 8005acb4 len=16 refs=p1,c0
+JP 上腕：#x12,,
+EN Bicep:#x23,
+
+@ 8005acc4 len=20 refs=p1,c0
+JP #x6,腹#x6,：#x12,,
+EN Waist:#x22,
+
+@ 8005acd8 len=20 refs=p1,c0
+JP #x6,胸#x6,：#x12,,
+EN Chest:#x20,
+
+@ 8005acec len=20 refs=p1,c0
+JP #x6,顔#x6,：#x12,,
+EN Face:#x28,
+
+@ 8005ad00 len=12 refs=p1,c0
+JP サイズ：
+EN Size:
+
+@ 8005ad0c len=16 refs=p1,c0
+JP #x1,構え#x1,：
+EN Stance:
+
+@ 8005ad1c len=8 refs=p2,c0
+JP ｶｯパ
+EN Kappa
+
+@ 8005ad24 len=4 refs=p2,c0
+JP ﾀﾇｷ
+EN Tanuki
+
+@ 8005ad28 len=8 refs=p8,c0
+JP パﾝダ
+EN Panda
+
+@ 8005ad30 len=12 refs=p2,c0
+JP 女子ビｷﾆ
+EN W.Bikini
+
+@ 8005ad3c len=12 refs=p1,c0
+JP 女子Ｔｼｬﾂ2
+EN W.T-shirt 2
+
+@ 8005ad48 len=12 refs=p1,c0
+JP 女子Ｔｼｬﾂ
+EN W.T-shirt
+
+@ 8005ad54 len=16 refs=p1,c0
+JP 女子ﾀ-ﾄﾙﾈｯｸ2
+EN W.T-Neck 2
+
+@ 8005ad64 len=16 refs=p1,c0
+JP 女子ﾀ-ﾄﾙﾈｯｸ1
+EN W.T-Neck 1
+
+@ 8005ad74 len=12 refs=p2,c0
+JP 女子ﾜﾝピ-ｽ3
+EN W.Leotard 3
+
+@ 8005ad80 len=12 refs=p2,c0
+JP 女子ﾜﾝピ-ｽ2
+EN W.Leotard 2
+
+@ 8005ad8c len=12 refs=p2,c0
+JP 女子ﾜﾝピ-ｽ1
+EN W.Leotard 1
+
+@ 8005ad98 len=8 refs=p5,c0
+JP 傷付き
+EN Scarred
+
+@ 8005ada0 len=8 refs=p7,c0
+JP くま
+EN Bear
+
+@ 8005ada8 len=8 refs=p1,c0
+JP ｱｽﾃｶｽ-ﾂ
+EN Aztec Suit
+
+@ 8005adb0 len=12 refs=p3,c0
+JP ﾌｧｲﾔ-ｽ-ﾂ
+EN Fire Suit
+
+@ 8005adbc len=8 refs=p4,c0
+JP 忍者服
+EN Ninja Garb
+
+@ 8005adc4 len=8 refs=p4,c0
+JP 道着
+EN Gi
+
+@ 8005adcc len=12 refs=p4,c0
+JP ｶｲザ-ｽ-ﾂ
+EN Kaiser Suit
+
+@ 8005add8 len=16 refs=p1,c0
+JP えり付きＴｼｬﾂ
+EN Collar Shirt
+
+@ 8005ade8 len=12 refs=p1,c0
+JP 無地Ｔｼｬﾂ
+EN Plain Tee
+
+@ 8005adf4 len=12 refs=p2,c0
+JP ﾜﾝｼｮﾙダ-
+EN Singlet
+
+@ 8005ae00 len=8 refs=p2,c0
+JP ｱﾏﾚｽ2
+EN Amateur 2
+
+@ 8005ae08 len=8 refs=p2,c0
+JP ｱﾏﾚｽ1
+EN Amateur 1
+
+@ 8005ae10 len=12 refs=p2,c0
+JP ボデｨペｲﾝﾄ
+EN Body Paint
+
+@ 8005ae1c len=8 refs=p1,c0
+JP ﾉｰﾏﾙ
+EN Normal
+
+@ 8005ae24 len=12 refs=p1,c0
+JP 女子ブﾙﾏ
+EN W.Bloomers
+
+@ 8005ae30 len=16 refs=p1,c0
+JP 女子Ｔｼｬﾂ+Ｇパﾝ
+EN W.Tee+Jean
+
+@ 8005ae40 len=12 refs=p2,c0
+JP 傷付きﾄﾗﾝｸｽ
+EN Scar Trunks
+
+@ 8005ae4c len=16 refs=p1,c0
+JP 傷付きｼｮ-ﾄﾀｲﾂ
+EN Scar Shorts
+
+@ 8005ae5c len=8 refs=p3,c0
+JP ジｬ-ジ
+EN Tracksuit
+
+@ 8005ae64 len=8 refs=p1,c0
+JP まわし
+EN Mawashi
+
+@ 8005ae6c len=8 refs=p2,c0
+JP ﾄﾗﾝｸｽ
+EN Trunks
+
+@ 8005ae74 len=12 refs=p1,c0
+JP ｼｬﾂ+無地ﾀｲﾂ
+EN Shirt+Plain
+
+@ 8005ae80 len=12 refs=p1,c0
+JP ｼｬﾂ+しまﾀｲﾂ
+EN Shirt+Strp
+
+@ 8005ae8c len=12 refs=p1,c0
+JP 裸+Ｇパﾝ
+EN Bare+Jeans
+
+@ 8005ae98 len=12 refs=p1,c0
+JP Ｔｼｬﾂ+Ｇパﾝ
+EN Tee+Jeans
+
+@ 8005aea4 len=16 refs=p1,c0
+JP ベﾙﾄ付きｱﾏﾚｽ
+EN Belt Singlet
+
+@ 8005aeb4 len=12 refs=p2,c0
+JP パﾝｻ-ﾀｲﾂ
+EN Panther
+
+@ 8005aec0 len=8 refs=p1,c0
+JP ｻｲドﾗｲﾝ
+EN Side Stripe
+
+@ 8005aec8 len=12 refs=p2,c0
+JP しま模様
+EN Striped
+
+@ 8005aed4 len=8 refs=p1,c0
+JP ﾜﾝポｲﾝﾄ
+EN Emblem
+
+@ 8005aedc len=12 refs=p1,c0
+JP 国旗風模様
+EN Flag
+
+@ 8005aee8 len=16 refs=p1,c0
+JP ベﾙﾄ付きﾀｲﾂ2
+EN Belted 2
+
+@ 8005aef8 len=16 refs=p1,c0
+JP ベﾙﾄ付きﾀｲﾂ1
+EN Belted 1
+
+@ 8005af08 len=8 refs=p1,c0
+JP ｼｮ-ﾄﾀｲﾂ
+EN Short
+
+@ 8005af10 len=12 refs=p1,c0
+JP 女子半そで2
+EN W.Short 2
+
+@ 8005af1c len=12 refs=p1,c0
+JP 女子半そで
+EN W.Short Slv
+
+@ 8005af28 len=20 refs=p1,c0
+JP 女子肩出し半そで
+EN W.Off-Shldr
+
+@ 8005af3c len=12 refs=p2,c0
+JP 女子長そで
+EN W.Long Slv
+
+@ 8005af48 len=12 refs=p1,c0
+JP 女子ｻポ-ﾀ-
+EN W.Elbow Pad
+
+@ 8005af54 len=12 refs=p2,c0
+JP 女子ﾉ-ﾏﾙ
+EN W.Normal
+
+@ 8005af60 len=16 refs=p2,c0
+JP 傷付きｻポ-ﾀ-
+EN Scarred Pad
+
+@ 8005af70 len=8 refs=p1,c0
+JP 刺青
+EN Tattoo
+
+@ 8005af78 len=8 refs=p1,c0
+JP 肩パｯﾄ
+EN Shldr Pad
+
+@ 8005af80 len=8 refs=p2,c0
+JP 長そで
+EN Long Sleeve
+
+@ 8005af88 len=8 refs=p1,c0
+JP ボﾛそで
+EN Torn Sleeve
+
+@ 8005af90 len=8 refs=p1,c0
+JP 半そで
+EN Short Slv
+
+@ 8005af98 len=8 refs=p1,c0
+JP ｻポ-ﾀ-
+EN Elbow Pad
+
+@ 8005afa0 len=8 refs=p1,c0
+JP 腕バﾝド
+EN Armband
+
+@ 8005afa8 len=8 refs=p3,c0
+JP ﾉ-ﾏﾙ
+EN Normal
+
+@ 8005afb0 len=12 refs=p1,c0
+JP 女子ｻポ-ﾀ-2
+EN W.Pad 2
+
+@ 8005afbc len=12 refs=p1,c0
+JP 女子ｻポ-ﾀ-1
+EN W.Pad 1
+
+@ 8005afc8 len=16 refs=p1,c0
+JP 女子ﾘｽﾄバﾝド大
+EN W.Band L
+
+@ 8005afd8 len=16 refs=p1,c0
+JP 女子ﾘｽﾄバﾝド小
+EN W.Band S
+
+@ 8005afe8 len=16 refs=p1,c0
+JP 傷付きｻポ-ﾀ-2
+EN Scar Pad 2
+
+@ 8005aff8 len=16 refs=p1,c0
+JP 傷付きｻポ-ﾀ-1
+EN Scar Pad 1
+
+@ 8005b008 len=20 refs=p1,c0
+JP 傷付きﾘｽﾄバﾝド小
+EN Scar Band S
+
+@ 8005b01c len=8 refs=p1,c0
+JP ｻポ-ﾀ-2
+EN Pad 2
+
+@ 8005b024 len=8 refs=p1,c0
+JP ｻポ-ﾀ-1
+EN Pad 1
+
+@ 8005b02c len=12 refs=p1,c0
+JP ﾘｽﾄバﾝド大
+EN Wristband L
+
+@ 8005b038 len=12 refs=p1,c0
+JP ﾘｽﾄバﾝド小
+EN Wristband S
+
+@ 8005b044 len=12 refs=p1,c0
+JP 肉球手袋
+EN Paw Gloves
+
+@ 8005b050 len=8 refs=p1,c0
+JP 丸手袋
+EN Mitts
+
+@ 8005b058 len=12 refs=p1,c0
+JP 女子布付き
+EN W.Wraps
+
+@ 8005b064 len=16 refs=p1,c0
+JP ボｸｼﾝググﾛ-ブ
+EN Box Gloves
+
+@ 8005b074 len=12 refs=p1,c0
+JP 指ﾃ-ピﾝグ
+EN Finger Tape
+
+@ 8005b080 len=8 refs=p1,c0
+JP グﾛ-ブ
+EN Gloves
+
+@ 8005b088 len=8 refs=p1,c0
+JP 素手
+EN Bare Hands
+
+@ 8005b090 len=12 refs=p2,c0
+JP 女子Ｇパﾝ
+EN W.Jeans
+
+@ 8005b09c len=12 refs=p1,c0
+JP 女子ﾗｲﾝﾀｲﾂ
+EN W.Line
+
+@ 8005b0a8 len=16 refs=p1,c0
+JP 女子ﾛﾝグﾀｲﾂ3
+EN W.Long 3
+
+@ 8005b0b8 len=16 refs=p1,c0
+JP 女子ﾛﾝグﾀｲﾂ2
+EN W.Long 2
+
+@ 8005b0c8 len=16 refs=p1,c0
+JP 女子ﾛﾝグﾀｲﾂ1
+EN W.Long 1
+
+@ 8005b0d8 len=16 refs=p1,c0
+JP 女子膝ｻポ-ﾀ-
+EN W.Knee Pad
+
+@ 8005b0e8 len=16 refs=p1,c0
+JP 女子ｼｮ-ﾄｽパｯﾂ2
+EN W.Spats 2
+
+@ 8005b0f8 len=16 refs=p1,c0
+JP 女子ｼｮ-ﾄｽパｯﾂ1
+EN W.Spats 1
+
+@ 8005b108 len=12 refs=p1,c0
+JP 女子ｽパｯﾂ
+EN W.Spats
+
+@ 8005b114 len=12 refs=p2,c0
+JP 女子素足
+EN W.Bare Legs
+
+@ 8005b120 len=8 refs=p2,c0
+JP Ｇパﾝ
+EN Jeans
+
+@ 8005b128 len=12 refs=p1,c0
+JP ｼｮ-ﾄｽパｯﾂ2
+EN Spats 2
+
+@ 8005b134 len=12 refs=p1,c0
+JP ｼｮ-ﾄｽパｯﾂ1
+EN Spats 1
+
+@ 8005b140 len=8 refs=p1,c0
+JP ｽパｯﾂ
+EN Spats
+
+@ 8005b148 len=8 refs=p1,c0
+JP 風魔ﾀｲﾂ
+EN Fuma
+
+@ 8005b150 len=8 refs=p1,c0
+JP 氷川ﾀｲﾂ
+EN Hikawa
+
+@ 8005b158 len=12 refs=p1,c0
+JP ｻﾝダ-ﾀｲﾂ
+EN Thunder
+
+@ 8005b164 len=12 refs=p1,c0
+JP しま模様ﾀｲﾂ
+EN Striped
+
+@ 8005b170 len=8 refs=p1,c0
+JP 矢印ﾀｲﾂ
+EN Arrow
+
+@ 8005b178 len=12 refs=p1,c0
+JP ﾌｧｲﾔ-ﾀｲﾂ
+EN Fire Tights
+
+@ 8005b184 len=8 refs=p1,c0
+JP ﾗｲﾝﾀｲﾂ
+EN Line Tights
+
+@ 8005b18c len=12 refs=p1,c0
+JP ｶｲザ-ﾀｲﾂ
+EN Kaiser
+
+@ 8005b198 len=12 refs=p1,c0
+JP ﾛﾝグﾀｲﾂ3
+EN Long 3
+
+@ 8005b1a4 len=12 refs=p1,c0
+JP ﾛﾝグﾀｲﾂ2
+EN Long 2
+
+@ 8005b1b0 len=12 refs=p1,c0
+JP ﾛﾝグﾀｲﾂ1
+EN Long 1
+
+@ 8005b1bc len=12 refs=p1,c0
+JP 膝ｻポ-ﾀ-
+EN Knee Pad
+
+@ 8005b1c8 len=20 refs=p1,c0
+JP 女子ｿｯｸｽ+ﾆｰパｯド
+EN W.Sock+Pad
+
+@ 8005b1dc len=12 refs=p1,c0
+JP 女子ﾛﾝグﾀｲﾂ
+EN W.Long
+
+@ 8005b1e8 len=12 refs=p1,c0
+JP 女子ｿｯｸｽ
+EN W.Socks
+
+@ 8005b1f4 len=20 refs=p1,c0
+JP 女子ｱﾏﾚｽｼｭ-ズ+ﾆ-
+EN W.Mat+Pad
+
+@ 8005b208 len=16 refs=p1,c0
+JP 女子ｱﾏﾚｽｼｭ-ズ
+EN W.MatShoes
+
+@ 8005b218 len=12 refs=p1,c0
+JP 女子ﾚガ-ｽ
+EN W.Guards
+
+@ 8005b224 len=20 refs=p1,c0
+JP 女子Ｇパﾝ+ﾆ-パｯﾄ
+EN W.Jean+Pad
+
+@ 8005b238 len=20 refs=p1,c0
+JP 女子ﾛﾝグﾀｲﾂ+ｼｭ-ズ
+EN W.Long+Bt
+
+@ 8005b24c len=16 refs=p1,c0
+JP 女子ﾆ-＋ｼｭ-ズ4
+EN W.Pad+Bt 4
+
+@ 8005b25c len=16 refs=p1,c0
+JP 女子ﾆ-＋ｼｭ-ズ3
+EN W.Pad+Bt 3
+
+@ 8005b26c len=16 refs=p1,c0
+JP 女子ﾆ-＋ｼｭ-ズ2
+EN W.Pad+Bt 2
+
+@ 8005b27c len=16 refs=p1,c0
+JP 女子ﾆ-＋ｼｭ-ズ1
+EN W.Pad+Bt 1
+
+@ 8005b28c len=16 refs=p1,c0
+JP 女子ﾉ-ﾏﾙｼｭ-ズ
+EN W.Boots
+
+@ 8005b29c len=16 refs=p1,c0
+JP 女子素足+ﾆ-パｯﾄ
+EN W.Bare+Pad
+
+@ 8005b2ac len=16 refs=p1,c0
+JP 傷付きｱﾏﾚｽｼｭ-ズ
+EN Scar Shoes
+
+@ 8005b2bc len=12 refs=p1,c0
+JP ﾚｯグｳｫ-ﾏ-
+EN Warmers
+
+@ 8005b2c8 len=12 refs=p2,c0
+JP ｳｪｽﾀﾝブ-ﾂ
+EN Cowboy
+
+@ 8005b2d4 len=16 refs=p1,c0
+JP ｱﾏﾚｽｼｭ-ズ+ﾆ-
+EN MatShoe+K
+
+@ 8005b2e4 len=12 refs=p2,c0
+JP ｱﾏﾚｽｼｭ-ズ
+EN Mat Shoes
+
+@ 8005b2f0 len=8 refs=p2,c0
+JP ﾚガ-ｽ
+EN Shin Guard
+
+@ 8005b2f8 len=16 refs=p1,c0
+JP しま模様+ﾆ-パｯﾄ
+EN Stripe+Pad
+
+@ 8005b308 len=8 refs=p1,c0
+JP 忍者服2
+EN Ninja Garb 2
+
+@ 8005b310 len=8 refs=p1,c0
+JP 忍者服1
+EN Ninja Garb 1
+
+@ 8005b318 len=16 refs=p1,c0
+JP Ｇパﾝ+ﾆ-パｯﾄ
+EN Jeans+Pad
+
+@ 8005b328 len=16 refs=p1,c0
+JP Ｇパﾝ+ｳｪｽﾀﾝブ-ﾂ
+EN Jeans+Boot
+
+@ 8005b338 len=8 refs=p1,c0
+JP パﾝﾀﾛﾝ
+EN Pants
+
+@ 8005b340 len=12 refs=p1,c0
+JP ﾒｷｼｶﾝﾀｲﾂ2
+EN Mexican 2
+
+@ 8005b34c len=12 refs=p1,c0
+JP ﾒｷｼｶﾝﾀｲﾂ1
+EN Mexican 1
+
+@ 8005b358 len=16 refs=p1,c0
+JP ﾛﾝグﾀｲﾂ＋ｼｭ-ズ
+EN Long+Boots
+
+@ 8005b368 len=8 refs=p1,c0
+JP ﾛﾝグﾀｲﾂ
+EN Long Tights
+
+@ 8005b370 len=12 refs=p1,c0
+JP ﾆ-+ｼｭ-ズ4
+EN Pad+Boot 4
+
+@ 8005b37c len=12 refs=p1,c0
+JP ﾆ-+ｼｭ-ズ3
+EN Pad+Boot 3
+
+@ 8005b388 len=12 refs=p1,c0
+JP ﾆ-+ｼｭ-ズ2
+EN Pad+Boot 2
+
+@ 8005b394 len=12 refs=p1,c0
+JP ﾆ-+ｼｭ-ズ1
+EN Pad+Boot 1
+
+@ 8005b3a0 len=12 refs=p1,c0
+JP ｼｮ-ﾄｼｭ-ズ
+EN Short Boots
+
+@ 8005b3ac len=12 refs=p1,c0
+JP ﾉ-ﾏﾙｼｭ-ズ
+EN Boots
+
+@ 8005b3b8 len=12 refs=p1,c0
+JP 素足+ﾆ-パｯﾄ
+EN Bare+Pad
+
+@ 8005b3c4 len=8 refs=p1,c0
+JP 素足
+EN Bare Legs
+
+@ 8005b3cc len=16 refs=p1,c0
+JP 肉球シューズ
+EN Paw Boots
+
+@ 8005b3dc len=8 refs=p1,c0
+JP 足袋
+EN Tabi
+
+@ 8005b3e4 len=12 refs=p1,c0
+JP ｱﾗビｱﾝブ-ﾂ
+EN Arabian
+
+@ 8005b3f0 len=12 refs=p1,c0
+JP ｶﾝﾌ-ｼｭ-ズ
+EN Kung Fu
+
+@ 8005b3fc len=12 refs=p1,c0
+JP パﾝｻ-ｼｭ-ズ
+EN Panther
+
+@ 8005b408 len=8 refs=p1,c0
+JP ｼｭ-ズ5
+EN Boots 5
+
+@ 8005b410 len=8 refs=p1,c0
+JP ｼｭ-ズ4
+EN Boots 4
+
+@ 8005b418 len=8 refs=p1,c0
+JP ｼｭ-ズ3
+EN Boots 3
+
+@ 8005b420 len=8 refs=p1,c0
+JP ｼｭ-ズ2
+EN Boots 2
+
+@ 8005b428 len=8 refs=p1,c0
+JP ｼｭ-ズ1
+EN Boots 1
+
+@ 8005b430 len=12 refs=p1,c0
+JP 足首ﾃ-ピﾝグ
+EN Ankle Tape
+
+@ 8005b43c len=8 refs=p1,c0
+JP 裸足
+EN Barefoot
+
+@ 8005b448 len=4 refs=p0,c1
+JP －
+
+@ 8005b44c len=12 refs=p0,c1
+JP - 終了 -
+EN - Exit -
+
+@ 8005b45c len=8 refs=p0,c1
+JP コピー
+EN Cpy
+
+@ 8005b474 len=8 refs=p1,c0
+JP ﾗﾌ攻撃
+EN Brawling
+
+@ 8005b47c len=12 refs=p1,c0
+JP 攻撃ﾃｸﾆｯｸ
+EN Off. Skill
+
+@ 8005b488 len=8 refs=p1,c0
+JP 腕力
+EN Strength
+
+@ 8005b490 len=8 refs=p1,c0
+JP 瞬発力
+EN Agility
+
+@ 8005b498 len=8 refs=p1,c0
+JP 馬力
+EN Power
+
+@ 8005b4a0 len=8 refs=p1,c0
+JP 絞め技
+EN Chokes
+
+@ 8005b4a8 len=8 refs=p1,c0
+JP 関節技
+EN Submission
+
+@ 8005b4b0 len=8 refs=p1,c0
+JP 投げ技
+EN Throws
+
+@ 8005b4b8 len=8 refs=p1,c0
+JP 蹴り技
+EN Kicks
+
+@ 8005b4c0 len=8 refs=p1,c0
+JP 突き技
+EN Strikes
+
+@ 8005b4c8 len=12 refs=p1,c0
+JP 対ﾗﾌ攻撃
+EN vs Brawling
+
+@ 8005b4d4 len=12 refs=p1,c0
+JP 防御ﾃｸﾆｯｸ
+EN Def. Skill
+
+@ 8005b4e0 len=8 refs=p1,c0
+JP 対ﾗﾘｱｯﾄ
+EN vs Lariat
+
+@ 8005b4e8 len=16 refs=p1,c0
+JP 叩きつけ技防御
+EN Slam Def.
+
+@ 8005b4f8 len=12 refs=p1,c0
+JP 飛び技防御
+EN Aerial Def.
+
+@ 8005b504 len=12 refs=p1,c0
+JP 絞め技防御
+EN Choke Def.
+
+@ 8005b510 len=12 refs=p1,c0
+JP 関節防御
+EN Sub. Def.
+
+@ 8005b51c len=12 refs=p1,c0
+JP 投げ技防御
+EN Throw Def.
+
+@ 8005b528 len=12 refs=p1,c0
+JP 蹴り防御
+EN Kick Def.
+
+@ 8005b534 len=12 refs=p1,c0
+JP 打撃防御
+EN Strike Def.
+
+@ 8005b54c len=5 refs=p0,c1
+JP 終了
+EN Exit
+
+@ 8005b594 len=13 refs=p0,c1
+JP BTB
+
+@ 8005b5b0 len=12 refs=p1,c0
+JP ﾓｰドｾﾚｸﾄへ
+EN Mode Select
+
+@ 8005b5bc len=16 refs=p1,c0
+JP ﾚｽﾗｰ団体移籍
+EN Move Wrestler
+
+@ 8005b5cc len=12 refs=p1,c0
+JP ﾚｽﾗｰﾘﾈｰﾑ
+EN Rename
+
+@ 8005b5d8 len=12 refs=p1,c0
+JP 団体EDIT
+EN Group Edit
+
+@ 8005b5e4 len=12 refs=p1,c0
+JP ﾚｽﾗｰEDIT
+EN Wrestler Edit
+
+@ 8005b5f0 len=12 refs=p3,c0
+JP - 終了 -
+EN - Exit -
+
+@ 8005b5fc len=12 refs=p2,c0
+JP 保存画面
+EN Save Menu
+
+@ 8005b608 len=16 refs=p1,c0
+JP 団体ﾛゴデザｲﾝ
+EN Group Logo
+
+@ 8005b618 len=12 refs=p2,c0
+JP ﾈｰﾑｴﾝﾄﾘｰ
+EN Name Entry
+
+@ 8005b624 len=12 refs=p2,c0
+JP CPUﾛジｯｸ
+EN CPU Logic
+
+@ 8005b630 len=16 refs=p3,c0
+JP 技装備ｴデｨｯﾄ
+EN Move Edit
+
+@ 8005b640 len=16 refs=p3,c0
+JP パﾗﾒｰﾀｴデｨｯﾄ
+EN Param. Edit
+
+@ 8005b650 len=12 refs=p3,c0
+JP ｽｷﾙｴデｨｯﾄ
+EN Skill Edit
+
+@ 8005b65c len=8 refs=p3,c0
+JP ﾚｽﾗｰﾒｲｸ
+EN Appearance
+
+@ 8005b664 len=16 refs=p1,c0
+JP ﾓデﾙﾚｽﾗｰ選択
+EN Base Wrestler
+
+@ 8005b674 len=16 refs=p1,c0
+JP ﾓデﾙｴデｨｯﾄ選択
+EN Base Edit
+
+@ 8005b684 len=11 refs=p1,c0
+JP - 試合へ -
+EN - To Match -
+
+@ 8005b690 len=8 refs=p1,c0
+JP フリー
+EN Freelance
+
+@ 8005b698 len=20 refs=p1,c0
+JP ジュニアヘビー級
+EN Junior Heavy
+
+@ 8005b6ac len=12 refs=p1,c0
+JP ヘビー級
+EN Heavyweight
+
+@ 8005b6b8 len=4 refs=p1,c0
+JP Ｘ
+EN X
+
+@ 8005b6bc len=8 refs=p2,c0
+JP 魔性
+EN Demonic
+
+@ 8005b6c4 len=8 refs=p2,c0
+JP ジｬｲｱﾝﾄ
+EN Giant
+
+@ 8005b6cc len=8 refs=p1,c0
+JP パﾝｻｰ
+EN Panther
+
+@ 8005b6d4 len=12 refs=p2,c0
+JP グﾗｯプﾗｰ
+EN Grappler
+
+@ 8005b6e0 len=8 refs=p2,c0
+JP ﾌｧｲﾀｰ
+EN Fighter
+
+@ 8005b6e8 len=8 refs=p2,c0
+JP ｼｭｰﾀｰ
+EN Shooter
+
+@ 8005b6f0 len=8 refs=p2,c0
+JP ﾐｽﾃﾘｱｽ
+EN Mystery
+
+@ 8005b6f8 len=4 refs=p2,c0
+JP ﾋｰﾙ
+EN Heel
+
+@ 8005b6fc len=8 refs=p2,c0
+JP ﾙﾁｬドｰﾙ
+EN Luchador
+
+@ 8005b704 len=8 refs=p2,c0
+JP ジｭﾆｱ
+EN Junior
+
+@ 8005b70c len=8 refs=p1,c0
+JP ｱﾒﾘｶﾝ
+EN American
+
+@ 8005b714 len=8 refs=p3,c0
+JP パﾜｰ
+EN Power
+
+@ 8005b71c len=8 refs=p1,c0
+JP グﾗｳﾝド
+EN Ground
+
+@ 8005b724 len=8 refs=p1,c0
+JP ﾚｽﾘﾝグ
+EN Wrestling
+
+@ 8005b72c len=8 refs=p2,c0
+JP ﾃｸﾆｼｬﾝ
+EN Technician
+
+@ 8005b734 len=12 refs=p2,c0
+JP ｵｰｿドｯｸｽ
+EN Orthodox
+
+@ 8005b740 len=12 refs=p1,c0
+JP ｵｰﾙﾗｳﾝド
+EN All-round
+
+@ 8005b74c len=12 refs=p1,c0
+JP ｻブﾐｯｼｮﾝ
+EN Submission
+
+@ 8005b758 len=8 refs=p1,c0
+JP 打撃
+EN Striking
+
+@ 8005b760 len=8 refs=p1,c0
+JP ﾃｸﾆｶﾙ
+EN Technical
+
+@ 8005b768 len=12 refs=p1,c0
+JP ｽｰプﾚｯｸｽ
+EN Suplex
+
+@ 8005b774 len=8 refs=p1,c0
+JP 必殺
+EN Finisher
+
+@ 8005b77c len=8 refs=p1,c0
+JP 流血
+EN Bleeding
+
+@ 8005b784 len=12 refs=p1,c0
+JP 一撃必殺
+EN One-Hit KO
+
+@ 8005b790 len=8 refs=p1,c0
+JP 反撃
+EN Fightback
+
+@ 8005b798 len=8 refs=p1,c0
+JP 根性
+EN Guts
+
+@ 8005b7a0 len=12 refs=p1,c0
+JP ｽﾀｰﾄダｯｼｭ
+EN Fast Start
+
+@ 8005b7ac len=12 refs=p1,c0
+JP 一発逆転
+EN Comeback
+
+@ 8005b7b8 len=12 refs=p1,c0
+JP ｸｲｯｸﾘﾀｰﾝ
+EN Quick Up
+
+@ 8005b7c4 len=8 refs=p1,c0
+JP ｽﾀｰ性
+EN Star Power
+
+@ 8005b7cc len=8 refs=p1,c0
+JP なし
+EN None
+
+@ 8005b7d4 len=8 refs=p1,c0
+JP 無し
+EN None
+
+@ 8005b7dc len=8 refs=p1,c0
+JP 不良
+EN Thug
+
+@ 8005b7e4 len=12 refs=p1,c0
+JP ｳｪｲﾄﾘﾌﾃｨﾝグ
+EN Weightlifting
+
+@ 8005b7f0 len=8 refs=p1,c0
+JP 相撲
+EN Sumo
+
+@ 8005b7f8 len=8 refs=p1,c0
+JP 体操
+EN Gymnastics
+
+@ 8005b800 len=8 refs=p1,c0
+JP 空手
+EN Karate
+
+@ 8005b808 len=8 refs=p1,c0
+JP 柔道
+EN Judo
+
+@ 8005b810 len=8 refs=p1,c0
+JP ｱﾏﾚｽ
+EN Amateur
+
+@ 8005b824 len=16 refs=p1,c0
+JP King’s-Road
+
+@ 8005b934 len=8 refs=p2,c0
+JP 速い
+EN A
+
+@ 8005b93c len=8 refs=p5,c0
+JP 普通
+EN B
+
+@ 8005b944 len=8 refs=p2,c0
+JP 遅い
+EN C
+
+@ 8005b94c len=8 refs=p1,c0
+JP 上手い
+EN A
+
+@ 8005b954 len=8 refs=p1,c0
+JP 下手
+EN C
+
+@ 8005b95c len=8 refs=p1,c0
+JP 強い
+EN A
+
+@ 8005b964 len=8 refs=p1,c0
+JP 弱い
+EN C
+
+@ 8005b96c len=8 refs=p1,c0
+JP 高い
+EN A
+
+@ 8005b974 len=8 refs=p1,c0
+JP 低い
+EN C
+
+@ 8005b97c len=12 refs=p1,c0
+JP やや速い
+EN B+
+
+@ 8005b988 len=12 refs=p1,c0
+JP やや遅い
+EN C+
+
+@ 8005b994 len=12 refs=p1,c0
+JP 駆け登り
+EN Run
+
+@ 8005b9a0 len=8 refs=p1,c0
+JP 登れる
+EN Climb
+
+@ 8005b9a8 len=12 refs=p1,c0
+JP 登れない
+EN No
+
+@ 8005b9b4 len=8 refs=p1,c0
+JP 女子２
+EN Fem 2
+
+@ 8005b9bc len=8 refs=p1,c0
+JP 女子１
+EN Fem 1
+
+@ 8005b9c4 len=4 refs=p1,c0
+JP 獣
+EN Beast
+
+@ 8005b9c8 len=12 refs=p1,c0
+JP 外国人３
+EN Fgn 3
+
+@ 8005b9d4 len=12 refs=p1,c0
+JP 外国人２
+EN Fgn 2
+
+@ 8005b9e0 len=12 refs=p1,c0
+JP 外国人１
+EN Fgn 1
+
+@ 8005b9ec len=12 refs=p1,c0
+JP 日本人４
+EN JP 4
+
+@ 8005b9f8 len=12 refs=p1,c0
+JP 日本人３
+EN JP 3
+
+@ 8005ba04 len=12 refs=p1,c0
+JP 日本人２
+EN JP 2
+
+@ 8005ba10 len=12 refs=p1,c0
+JP 日本人１
+EN JP 1
+
+@ 8005ba1c len=16 refs=p1,c0
+JP #x100,- 終了 -
+EN #x106,Exit
+
+@ 8005ba2c len=16 refs=p1,c0
+JP かけ声２ 種類
+EN V2 Type
+
+@ 8005ba3c len=16 refs=p1,c0
+JP かけ声２ 声色
+EN V2 Tone
+
+@ 8005ba4c len=16 refs=p1,c0
+JP かけ声１ 種類
+EN V1 Type
+
+@ 8005ba5c len=16 refs=p1,c0
+JP かけ声１ 声色
+EN V1 Tone
+
+@ 8005ba6c len=12 refs=p1,c0
+JP テーマ曲
+EN Theme
+
+@ 8005ba78 len=16 refs=p1,c0
+JP タッチワーク
+EN Tagging
+
+@ 8005ba88 len=20 refs=p1,c0
+JP 場外復帰カウント
+EN Ring Return
+
+@ 8005ba9c len=16 refs=p1,c0
+JP 登り／駆け登り
+EN Post
+
+@ 8005baac len=12 refs=p1,c0
+JP 昇降速度
+EN Climb
+
+@ 8005bab8 len=12 refs=p1,c0
+JP 移動速度
+EN Speed
+
+@ 8005bac4 len=12 refs=p1,c0
+JP 脚耐久度
+EN Legs
+
+@ 8005bad0 len=12 refs=p1,c0
+JP 腰耐久度
+EN Back
+
+@ 8005badc len=12 refs=p1,c0
+JP 腕耐久度
+EN Arms
+
+@ 8005bae8 len=12 refs=p1,c0
+JP 首耐久度
+EN Neck
+
+@ 8005baf4 len=16 refs=p1,c0
+JP 精神力（流血）
+EN #x8,- Bleeding
+
+@ 8005bb04 len=8 refs=p1,c0
+JP 精神力
+EN Spirit
+
+@ 8005bb0c len=16 refs=p1,c0
+JP 呼吸法（流血）
+EN #x8,- Bleeding
+
+@ 8005bb1c len=8 refs=p1,c0
+JP 呼吸法
+EN Breathing
+
+@ 8005bb24 len=16 refs=p1,c0
+JP 回復力（流血）
+EN #x8,- Bleeding
+
+@ 8005bb34 len=8 refs=p1,c0
+JP 回復力
+EN Recovery
+
+@ 8005bb3c len=12 refs=p1,c0
+JP 特殊スキル
+EN Special
+
+@ 8005bb48 len=16 refs=p1,c0
+JP クリティカル
+EN Critical
+
+@ 8005bb58 len=8 refs=p1,c0
+JP 返し技
+EN Rev.
+
+@ 8005bb60 len=20 refs=p1,c0
+JP ファイトスタイル
+EN Fight Style
+
+@ 8005bb74 len=8 refs=p1,c0
+JP 出身地
+EN Born
+
+@ 8005bb7c len=8 refs=p2,c0
+JP 生日
+EN Dy
+
+@ 8005bb84 len=4 refs=p2,c0
+JP 日
+EN 　
+
+@ 8005bb88 len=8 refs=p2,c0
+JP 生月
+EN Mo
+
+@ 8005bb90 len=4 refs=p2,c0
+JP 月
+EN 　
+
+@ 8005bb94 len=8 refs=p2,c0
+JP 生年
+EN Yr
+
+@ 8005bb9c len=4 refs=p2,c0
+JP 年
+EN 　
+
+@ 8005bba0 len=8 refs=p1,c0
+JP 体重
+EN Wt
+
+@ 8005bbac len=8 refs=p1,c0
+JP 身長
+EN Ht
+
+@ 8005bbb8 len=8 refs=p2,c0
+JP 階級
+EN Div
+
+@ 8005bbc0 len=12 refs=p1,c0
+JP 所属団体
+EN Group
+
+@ 8005bbd0 len=16 refs=p1,c0
+JP #x88,- 次へ -
+EN #x96,Next
+
+@ 8005bbe0 len=12 refs=p1,c0
+JP 格闘技前歴
+EN Origin
+
+@ 8005bc28 len=20 refs=p0,c1
+JP 次に必要なポイント 
+EN Points needed 
+
+@ 8005bc74 len=12 refs=p1,c0
+JP ｺｰﾅｰﾂｰプﾗﾄﾝ
+EN Corner Duo
+
+@ 8005bc80 len=16 refs=p1,c0
+JP バｯｸｽﾘｰプﾗﾄﾝ
+EN Back Trio
+
+@ 8005bc90 len=12 refs=p1,c0
+JP バｯｸﾂｰプﾗﾄﾝ
+EN Back Duo
+
+@ 8005bc9c len=16 refs=p1,c0
+JP ﾌﾛﾝﾄｽﾘｰプﾗﾄﾝ
+EN Front Trio
+
+@ 8005bcac len=12 refs=p1,c0
+JP ﾌﾛﾝﾄﾂｰプﾗﾄﾝ
+EN Front Duo
+
+@ 8005bcb8 len=16 refs=p2,c0
+JP パﾌｫｰﾏﾝｽ#x16,
+EN #x9,Taunt
+
+@ 8005bcc8 len=16 refs=p3,c0
+JP ｺｰﾅｰ組み#x32,
+EN Corner#x27,
+
+@ 8005bcd8 len=16 refs=p1,c0
+JP 走りダｳﾝ#x16,
+EN #x2,Run Dn
+
+@ 8005bce8 len=16 refs=p2,c0
+JP うつ伏せ足#x16,
+EN DnLegs
+
+@ 8005bcf8 len=16 refs=p2,c0
+JP うつ伏せ頭#x16,
+EN DnHead
+
+@ 8005bd08 len=16 refs=p2,c0
+JP 仰向け足#x16,
+EN UpLegs
+
+@ 8005bd18 len=16 refs=p2,c0
+JP 仰向け頭#x16,
+EN UpHead#x1,
+
+@ 8005bd28 len=16 refs=p2,c0
+JP バｯｸ返し#x16,
+EN #x12,B.Rev
+
+@ 8005bd38 len=12 refs=p6,c0
+JP バｯｸ#x32,
+EN Back#x13,
+
+@ 8005bd44 len=12 refs=p13,c0
+JP 組み#x32,
+EN Grab#x13,
+
+@ 8005bd50 len=12 refs=p1,c0
+JP ポｽﾄ#x32,
+EN Post#x11,
+
+@ 8005bd5c len=12 refs=p3,c0
+JP ポｽﾄ#x16,
+EN #x20,Post
+
+@ 8005bd68 len=20 refs=p1,c0
+JP ｴﾌﾟﾛﾝから内#x16,
+EN #x9,Apron
+
+@ 8005bd7c len=20 refs=p1,c0
+JP ﾛｰﾌﾟ越し場外#x16,
+EN Plancha#x2,
+
+@ 8005bd90 len=16 refs=p1,c0
+JP 走り場外#x16,
+EN #x21,Dive
+
+@ 8005bda0 len=16 refs=p1,c0
+JP 対角線走り#x16,
+EN Diagonal#x6,
+
+@ 8005bdb0 len=16 refs=p2,c0
+JP カウンター#x16,
+EN Counter#x4,
+
+@ 8005bdc0 len=12 refs=p2,c0
+JP 走り#x16,
+EN #x24,Run
+
+@ 8005bdcc len=12 refs=p1,c0
+JP 立ち#x32,
+EN Stand#x21,
+
+@ 8005bdd8 len=12 refs=p3,c0
+JP 立ち#x16,
+EN #x10,Stand
+
+@ 8005bde4 len=12 refs=p2,c0
+JP － 終了 －
+EN - Exit -
+
+@ 8005bdf0 len=8 refs=p1,c0
+JP ﾗﾌ攻撃
+EN Brawling
+
+@ 8005bdf8 len=12 refs=p1,c0
+JP 攻撃ﾃｸﾆｯｸ
+EN Off. Skill
+
+@ 8005be04 len=8 refs=p1,c0
+JP 腕力
+EN Strength
+
+@ 8005be0c len=8 refs=p1,c0
+JP 瞬発力
+EN Agility
+
+@ 8005be14 len=8 refs=p1,c0
+JP 馬力
+EN Power
+
+@ 8005be1c len=8 refs=p1,c0
+JP 絞め技
+EN Chokes
+
+@ 8005be24 len=8 refs=p1,c0
+JP 関節技
+EN Submission
+
+@ 8005be2c len=8 refs=p1,c0
+JP 投げ技
+EN Throws
+
+@ 8005be34 len=8 refs=p1,c0
+JP 蹴り技
+EN Kicks
+
+@ 8005be3c len=8 refs=p1,c0
+JP 突き技
+EN Strikes
+
+@ 8005be44 len=16 refs=p0,c1
+JP 読み込み中…
+EN Loading...
+
+@ 8005be5c len=12 refs=p1,c0
+JP #x7,・#x6,
+
+@ 8005be70 len=8 refs=p1,c0
+JP #x2,・
+
+@ 8005be80 len=36 refs=p0,c1
+JP \ｾhｾhｾpｾxｾxｾ%s#x4,%s
+
+@ 8005beb8 len=8 refs=p0,c1
+JP －－
+
+@ 8005bec4 len=4 refs=p0,c1
+JP －
+
+@ 8005bec8 len=12 refs=p0,c1
+JP 主攻撃：
+EN Main:
+
+@ 8005bed4 len=12 refs=p0,c1
+JP 副攻撃：
+EN Sub:
+
+@ 8005bee0 len=10 refs=p0,c1
+JP 相性　： 
+EN Chem.: 
+
+@ 8005beec len=4 refs=p0,c3
+JP `
+
+@ 8005bef4 len=12 refs=p0,c1
+JP - 終了 -
+EN - Exit -
+
+@ 8005bf00 len=20 refs=p0,c1
+JP 現役登録を抹消する
+EN Retire Wrestler
+
+@ 8005bf14 len=12 refs=p0,c1
+JP - 未登録 -
+EN - Empty -
+
+@ 8005bf20 len=4 refs=p0,c1
+JP ﾂ
+
+@ 8005bf28 len=12 refs=p1,c0
+JP ﾓｰドｾﾚｸﾄへ
+EN Mode Select
+
+@ 8005bf4c len=44 refs=p1,c0
+JP そして今日、新たなファイターが誕生する。
+EN Today, a new fighter is born.
+
+@ 8005bf78 len=4 refs=p8,c0
+# the dramatic-pause dots in the Edit Ranking intro and ending: blank lines in English
+JP ・
+EN
+
+@ 8005bf7c len=40 refs=p1,c0
+JP 「最強」の称号を欲して闘い続けていた。
+EN to be called "Strongest".
+
+@ 8005bfa4 len=24 refs=p1,c0
+JP だが彼らは闘いを・・・
+EN Still they fought...
+
+@ 8005bfbc len=28 refs=p1,c0
+JP セメントスタイル故に・・・
+EN brutal shoot style...
+
+@ 8005bfd8 len=24 refs=p1,c0
+JP ある者はその徹底した
+EN Some for their
+
+@ 8005bff0 len=36 refs=p1,c0
+JP ある者はその余りの強さ故に・・・
+EN Some were too strong...
+
+@ 8005c014 len=44 refs=p1,c0
+JP 表舞台に立つ事の出来ないファイター達・・・
+EN Fighters denied the spotlight...
+
+@ 8005c044 len=44 refs=p1,c0
+JP セメントファイトの観戦を道楽としていた。
+EN to watch shoot fights for fun.
+
+@ 8005c070 len=40 refs=p1,c0
+JP 世界中の金持ちが集まり、ファイター達の
+EN The world's rich came
+
+@ 8005c098 len=28 refs=p1,c0
+JP 運営されている地下闘技場。
+EN underground arena.
+
+@ 8005c0b4 len=36 refs=p1,c0
+JP ここはベルウッド財団の出資により
+EN The Bellwood-funded
+
+@ 8005c0d8 len=16 refs=p1,c0
+JP 誰も知らない。
+EN Who knows.
+
+@ 8005c0e8 len=20 refs=p1,c0
+JP その行く末は・・・
+EN His future...
+
+@ 8005c0fc len=32 refs=p1,c0
+JP 彼はこれからどうして行くのか。
+EN What will he do now?
+
+@ 8005c11c len=32 refs=p1,c0
+JP 彼は最強になって何を得たのか。
+EN What did he gain by it?
+
+@ 8005c13c len=36 refs=p1,c0
+JP 「最強」の称号を得たファイター。
+EN He is "Strongest" now.
+
+@ 8005c1c0 len=12 refs=p1,c0
+JP - 終了 -
+EN - Exit -
+
+@ 8005c1cc len=12 refs=p1,c0
+JP ポｹｯﾄｽﾃｰｼｮﾝ
+EN Pocket St.
+
+@ 8005c1d8 len=8 refs=p1,c0
+JP ｾｰブ
+EN Save
+
+@ 8005c1e0 len=12 refs=p1,c0
+JP ﾚｽﾗｰｴデｨｯﾄ
+EN Edit
+
+@ 8005c1ec len=12 refs=p1,c0
+JP ﾗﾝｷﾝグ戦
+EN Fight
+
+@ 8005c1f8 len=8 refs=p0,c1
+JP %2d位
+EN %2d.
+
+@ 8005c200 len=12 refs=p0,c1
+JP ????　????
+
+@ 8005c20c len=52 refs=p0,c1
+JP 彗星の如く現れた期待の新人\n\n%3d勝%3d敗%3d引き分け
+EN A rising star from nowhere\n\n%3dW %3dL %3dD
+
+@ 8005c240 len=52 refs=p0,c1
+JP 　　　　　 ? ? ?\n　　　　　 ? ? ?\n　　　　　 ? ? ?
+
+@ 8005c274 len=60 refs=p1,c0
+JP ポケットステーションが差し込み口１－Ａに\n差されていません。
+EN No PocketStation in\nslot 1-A.
+
+@ 8005c2b0 len=24 refs=p1,c0
+JP ロードに失敗しました。
+EN Load failed.
+
+@ 8005c2c8 len=56 refs=p1,c0
+JP ロード中…\nポケットステーションを抜かないでください。
+EN Loading...\nDo not remove the PocketStation.
+
+@ 8005c300 len=56 refs=p1,c0
+JP ポケットステーションのデータが\n見つかりませんでした。
+EN No PocketStation data\nwas found.
+
+@ 8005c338 len=56 refs=p1,c0
+JP ポケットステーションが差し込み口１に\n差されていません。
+EN No PocketStation in\nslot 1.
+
+@ 8005c370 len=36 refs=p1,c0
+JP ポケットステーションをチェック中…
+EN Checking PocketStation...
+
+@ 8005c394 len=20 refs=p1,c0
+JP セーブしました。
+EN Saved.
+
+@ 8005c3a8 len=72 refs=p1,c0
+JP エディットランキングモードを終了して、\nモードセレクト画面に戻ります。
+EN Quit Edit Ranking and\nreturn to Mode Select.
+
+@ 8005c3f0 len=72 refs=p1,c0
+JP ポケットステーションでのトレーニングデータを\nレスラーに反映させます。
+EN Apply PocketStation\ntraining to your wrestler.
+
+@ 8005c438 len=32 refs=p1,c0
+JP 現在の進行状況を記憶します。
+EN Save your progress.
+
+@ 8005c458 len=52 refs=p1,c0
+JP レスラーのパラメータやCPUロジックを\n変更します。
+EN Change stats\nand CPU logic.
+
+@ 8005c48c len=40 refs=p1,c0
+JP 上位のランキングの選手と試合をします。
+EN Fight a higher-\nranked wrestler.
+
+@ 8005c4c8 len=32 refs=p0,c1
+JP エディットポイントが%d増えた。
+EN Gained %d edit points.
+
+@ 8005c4fc len=8 refs=p1,c0
+JP バグ
+EN Bug
+
+@ 8005c504 len=32 refs=p1,c0
+JP 熊パーツ＆獣ボイスをＧｅｔした
+EN Got bear parts & beast voice!
+
+@ 8005c524 len=24 refs=p1,c0
+JP 傷パーツをＧｅｔした
+EN Got scar parts!
+
+@ 8005c53c len=28 refs=p1,c0
+JP 力士フェースをＧｅｔした
+EN Got the sumo face!
+
+@ 8005c558 len=32 refs=p1,c0
+JP 女子パーツ＆ボイスをＧｅｔした
+EN Got women's parts & voice!
+
+@ 8005c578 len=28 refs=p1,c0
+JP パンダパーツをＧｅｔした
+EN Got panda parts!
+
+@ 8005c594 len=28 refs=p1,c0
+JP タヌキパーツをＧｅｔした
+EN Got tanuki parts!
+
+@ 8005c5b0 len=24 refs=p1,c0
+JP 河童パーツをＧｅｔした
+EN Got kappa parts!
+
+@ 8005c5c8 len=28 refs=p1,c0
+JP 丸手袋パーツをＧｅｔした
+EN Got mitt parts!
+
+@ 8005c5e4 len=20 refs=p1,c0
+JP 隠し技をＧｅｔした
+EN Got hidden moves!
+
+@ 8005c5f8 len=24 refs=p1,c0
+JP 女のコの顔をＧｅｔした
+EN Got the girl's face!
+
+@ 8005c660 len=56 refs=p1,c0
+JP メモリーカードから保存してあるデータを読み込みます。
+EN Load saved data from a Memory Card.
+
+@ 8005c698 len=72 refs=p1,c0
+JP メモリーカードへ各モードの進行状況や、エディットレスラーを\n保存します。
+EN Save mode progress and edit wrestlers\nto a Memory Card.
+
+@ 8005c6e0 len=76 refs=p1,c0
+JP 他のメモリーカードに保存されているエディットレスラーと\nデータの交換します。
+EN Trade edit wrestlers with another\nMemory Card.
+
+@ 8005c72c len=56 refs=p1,c0
+JP ポケットステーションへプログラムをダウンロードします。
+EN Download the program to a PocketStation.
+
+@ 8005c764 len=68 refs=p1,c0
+JP ポケットステーションへ持ち運び用のエディットレスラーを\n保存します。
+EN Save an edit wrestler to a\nPocketStation to take along.
+
+@ 8005c7a8 len=60 refs=p1,c0
+JP ポケットステーションからエディットレスラーを取り出します。
+EN Take an edit wrestler off a PocketStation.
+
+@ 8005c7e4 len=36 refs=p1,c0
+JP メモリーカード画面を終了します。
+EN Leave the Memory Card screen.
+
+@ 8005c808 len=48 refs=p1,c0
+JP ○ボタンで再チェック、×ボタンで終了します。
+EN ○: check again  ×: exit
+
+@ 8005c838 len=52 refs=p1,c0
+JP メモリーカードが差し込み口１に差されていません。
+EN No Memory Card in slot 1.
+
+@ 8005c86c len=28 refs=p1,c0
+JP メモリーカードチェック中…
+EN Checking Memory Card...
+
+@ 8005c888 len=40 refs=p1,c0
+JP 初期化されていません。初期化しますか？
+EN Card is not formatted. Format it?
+
+@ 8005c8b0 len=48 refs=p1,c0
+JP 初期化中… メモリーカードを抜かないでください。
+EN Formatting... Do not remove the card.
+
+@ 8005c8e0 len=24 refs=p1,c0
+JP 初期化に失敗しました。
+EN Format failed.
+
+@ 8005c8f8 len=24 refs=p1,c0
+JP セーブに失敗しました。
+EN Save failed.
+
+@ 8005c910 len=28 refs=p1,c0
+JP 空きブロックが足りません。
+EN Not enough free blocks.
+
+@ 8005c92c len=24 refs=p1,c0
+JP 作成に失敗しました。
+EN Could not create file.
+
+@ 8005c944 len=24 refs=p1,c0
+JP ロードに失敗しました。
+EN Load failed.
+
+@ 8005c95c len=24 refs=p1,c0
+JP データがありません。
+EN No data.
+
+@ 8005c974 len=48 refs=p1,c0
+JP 新規に作成しますか？\n（１０ブロック使用します）
+EN Create a new file?\n(Uses 10 blocks)
+
+@ 8005c9a4 len=20 refs=p1,c0
+JP 上書きしますか？
+EN Overwrite?
+
+@ 8005c9b8 len=48 refs=p1,c0
+JP セーブ中… メモリーカードを抜かないでください…
+EN Saving... Do not remove the card...
+
+@ 8005c9e8 len=16 refs=p1,c0
+JP 終了しました。
+EN Done.
+
+@ 8005c9f8 len=28 refs=p1,c0
+JP 項目を選択してください。
+EN Choose an option.
+
+@ 8005ca14 len=48 refs=p1,c0
+JP ロード中… メモリーカードを抜かないでください…
+EN Loading... Do not remove the card...
+
+@ 8005ca44 len=52 refs=p1,c0
+JP メモリーカードが差し込み口２に差されていません。
+EN No Memory Card in slot 2.
+
+@ 8005ca78 len=52 refs=p1,c0
+JP コピーするエディットレスラーを選択してください。
+EN Choose an edit wrestler to copy.
+
+@ 8005caac len=32 refs=p1,c0
+JP コピー先を選択してください。
+EN Choose where to copy to.
+
+@ 8005cacc len=16 refs=p1,c0
+JP 終了しますか？
+EN Quit?
+
+@ 8005cadc len=52 refs=p1,c0
+JP 終了して差込口２のメモリーカードへ\nセーブしますか？
+EN Quit and save to the\nMemory Card in slot 2?
+
+@ 8005cb10 len=56 refs=p1,c0
+JP ポケットステーションが差し込み口１に差されていません。
+EN No PocketStation in slot 1.
+
+@ 8005cb48 len=36 refs=p1,c0
+JP ポケットステーションをチェック中…
+EN Checking PocketStation...
+
+@ 8005cb6c len=56 refs=p1,c0
+JP 初期化中…\nポケットステーションを抜かないでください。
+EN Formatting...\nDo not remove the PocketStation.
+
+@ 8005cba4 len=56 refs=p1,c0
+JP 新規にダウンロードしますか？\n(５ブロック使用します）
+EN Download as a new file?\n(Uses 5 blocks)
+
+@ 8005cbdc len=60 refs=p1,c0
+JP ダウンロード中…\nポケットステーションを抜かないでください。
+EN Downloading...\nDo not remove the PocketStation.
+
+@ 8005cc18 len=20 refs=p1,c0
+JP ロードしますか？
+EN Load?
+
+@ 8005cc2c len=72 refs=p1,c0
+JP ポケットステーションへ保存するエディットレスラーを\n選択してください。
+EN Choose an edit wrestler to\nsave to the PocketStation.
+
+@ 8005cc74 len=72 refs=p1,c0
+JP ポケットステーションから取り出すエディットレスラーを\n選択してください。
+EN Choose an edit wrestler to\ntake off the PocketStation.
+
+@ 8005ccbc len=52 refs=p1,c0
+JP ポケットステーション用の名前を入力してください。
+EN Enter a name for the PocketStation.
+
+@ 8005ccf0 len=28 refs=p1,c0
+JP 保存先を選択してください。
+EN Choose where to save.
+
+@ 8005cd0c len=48 refs=p1,c0
+JP 終了してポケットステーションへセーブしますか？
+EN Quit and save to the PocketStation?
+
+@ 8005cd3c len=56 refs=p1,c0
+JP ロード中…\nポケットステーションを抜かないでください。
+EN Loading...\nDo not remove the PocketStation.
+
+@ 8005cd74 len=56 refs=p1,c0
+JP ポケットステーションのデータが見つかりませんでした。
+EN No PocketStation data was found.
+
+@ 8005cdac len=52 refs=p1,c0
+JP 保存中…\nポケットステーションを抜かないでください。
+EN Saving...\nDo not remove the PocketStation.
+
+@ 8005cde0 len=56 refs=p1,c0
+JP メモリーカードが差し込み口１－Ａに差されていません。
+EN No Memory Card in slot 1-A.
+
+@ 8005ce18 len=60 refs=p1,c0
+JP ポケットステーションが差し込み口１－Ａに差されていません。
+EN No PocketStation in slot 1-A.
+
+@ 8005ce54 len=40 refs=p1,c0
+JP ポケットステーションへセーブしますか？
+EN Save to the PocketStation?
+
+@ 8005ce7c len=196 refs=p0,c1
+JP `ﾆ佝猗,ﾇdﾇｨﾇ萇ﾈ8ﾈlﾈ以ｰﾈ猜ﾉ,ﾉDﾉ\ﾉtﾉ､ﾉｸﾉ靄ﾊDﾊxﾊｬﾊﾌﾊﾜﾊﾋHﾋlﾋ､ﾋﾜﾋﾌ,ﾌtﾌｼﾌﾍ<ﾍtﾍｬﾍ猩ﾎTﾎﾓｰドｾﾚｸﾄへ
+
+@ 8005cf40 len=12 refs=p1,c0
+JP ﾚｽﾗｰ受信
+EN Receive
+
+@ 8005cf4c len=12 refs=p1,c0
+JP ﾚｽﾗｰ送信
+EN Send
+
+@ 8005cf58 len=12 refs=p1,c0
+JP ポｹｯﾄｽﾃｰｼｮﾝ
+EN PocketStation
+
+@ 8005cf64 len=12 refs=p1,c0
+JP ﾚｽﾗｰ交換
+EN Trade
+
+@ 8005cf70 len=8 refs=p1,c0
+JP ｾｰブ
+EN Save
+
+@ 8005cf78 len=8 refs=p1,c0
+JP ﾛｰド
+EN Load
+
+@ 8005cf80 len=36 refs=p0,c1
+JP ﾈﾜﾈﾜ葆ﾝ ﾝ8ﾝxﾜはい
+
+@ 8005cfa4 len=8 refs=p0,c1
+JP いいえ
+EN No
+
+@ 8005d074 len=8 refs=p0,c1
+JP する
+EN On
+
+@ 8005d07c len=8 refs=p0,c1
+JP しない
+EN Don't
+
+@ 8005d084 len=12 refs=p0,c1
+JP ステレオ
+EN Stereo
+
+@ 8005d090 len=12 refs=p0,c1
+JP モノラル
+EN Mono
+
+@ 8005d09c len=8 refs=p1,c0
+JP ＯＦＦ
+EN OFF
+
+@ 8005d0a4 len=4 refs=p1,c0
+JP 小
+EN Low
+
+@ 8005d0a8 len=4 refs=p1,c0
+JP 中
+EN Mid
+
+@ 8005d0ac len=4 refs=p1,c0
+JP 大
+EN High
+
+@ 8005d0b0 len=20 refs=p0,c1
+JP 慴､ﾐｨﾐｬﾐOFF
+
+@ 8005d0c8 len=12 refs=p0,c2
+JP %3d.%1d％
+
+@ 8005d0e8 len=28 refs=p1,c0
+JP ～ＯｐｔｉｏｎＭｏｄｅ～
+EN ~ Option Mode ~
+
+@ 8005d104 len=24 refs=p1,c0
+JP 試合中：画面拡大／縮小
+EN Match Zoom
+
+@ 8005d11c len=16 refs=p1,c0
+JP サウンドモード
+EN Sound Mode
+
+@ 8005d12c len=24 refs=p1,c0
+JP 試合中ＢＧＭボリューム
+EN Match BGM Volume
+
+@ 8005d144 len=28 refs=p1,c0
+JP レスラーテーマボリューム
+EN Theme Volume
+
+@ 8005d168 len=24 refs=p1,c0
+JP ＦＲ：シナリオ達成率
+EN FR: Scenarios Done
+
+@ 8005d180 len=24 refs=p1,c0
+JP ＦＲ：レスラー出現率
+EN FR: Wrestlers Found
+
+@ 8005d198 len=20 refs=p1,c0
+JP スタッフクレジット
+EN Staff Credits
+
+@ 8005d1ac len=20 refs=p1,c0
+JP モードセレクトへ
+EN To Mode Select
+
+@ 8005d1c0 len=56 refs=p0,c1
+JP 靤ﾑﾑ,ﾑDﾑ`ﾑhﾑﾑ佯ｬﾑausEDITSB
+
+@ 8005d214 len=8 refs=p0,c1
+JP はい
+EN Yes
+
+@ 8005d21c len=8 refs=p0,c1
+JP いいえ
+EN No
+
+@ 8005d224 len=52 refs=p0,c1
+JP レスラーをエディットレスラーとしてセーブしますか？
+EN Save this wrestler as an edit wrestler?
+
+# Added by hand: these follow jump tables, which the scanner merged them into.
+@ 8005cf34 len=12 refs=p1,c0
+JP ﾓｰドｾﾚｸﾄへ
+EN Mode Select
+
+@ 8005cf9c len=8 refs=p0,c1
+JP はい
+EN Yes
+
+@ 8005cfa4 len=8 refs=p0,c1
+JP いいえ
+EN No
+
+@ 8005d214 len=8 refs=p0,c1
+JP はい
+EN Yes
+
+@ 8005d21c len=8 refs=p0,c1
+JP いいえ
+EN No
+
+@ 8005bc64 len=12 refs=p1,c0
+JP ｺｰﾅｰｽﾘｰプﾗﾄﾝ
+EN Corner Trio
+
+@ 8005d00c len=20 refs=p0,c2
+JP ポケットステーション
+EN PocketStation
+
+@ 8005d258 len=20 refs=p0,c1
+JP 上書きしますか？
+EN Overwrite?

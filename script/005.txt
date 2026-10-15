@@ -1,0 +1,47 @@
+@ 000
+JP 今日の相手は#WS005さんだ。
+EN Today's opponent is Kido.
+
+@ 001
+JP 体力の衰えこそあるものの、
+JP そのテクニシャンぶりは健在だ。
+EN His stamina may be fading, but he's as
+EN skilled as ever.
+
+@ 002
+JP 圧倒的パワーを誇る
+JP #WS002さんを丸め込んで勝った事も
+JP １度や２度じゃない。
+EN More than once he's rolled up Sasaki,
+EN with all his power, for the win.
+
+@ 003
+JP #WS006：
+JP 「お、今日は#WS005さんとか。
+EN Iizuka:
+EN "Oh, you've got Kido today?"
+
+@ 004
+JP #MS：
+JP 「ええ。脇固めには気をつけようと思います。
+EN #MS:
+EN "Yeah. I'll watch out for his armbar."
+
+@ 005
+JP #WS006：
+JP 「フフ、まあそれよりも
+JP 　今は#WS005さんの動きを
+JP 　良く見る方が勉強になるだろ。
+EN Iizuka:
+EN "Heh, more than that, you'll learn
+EN  more by watching how Kido moves."
+
+@ 006
+JP 「色々、見て盗めよ。
+EN "Watch him and steal what you can."
+
+@ 007
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"

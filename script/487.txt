@@ -1,0 +1,63 @@
+@ 000
+JP ５番勝負も遂に第３戦だ。
+EN At last, match three of the
+EN five-match series.
+
+@ 001
+JP 相手は久々に#PS00マットに来た
+JP #WF111・
+JP #WF112組だ。
+EN Our opponents: Chris Benoit and Eddy
+EN Guerrero, back on the #PS00 mat
+EN after a long time.
+
+@ 002
+JP #WS111のパワー、
+JP #WS112のスピード、テクニック。
+JP この２つが噛み合わさったら恐ろしいチームだ。
+EN Benoit's power, Guerrero's speed and
+EN skill. When those click, they're a
+EN terrifying team.
+
+@ 003
+JP #WS111：
+JP 「久しぶりの#PS00マットだ。
+JP 　ミー達のファイトを忘れているファンも
+JP 　いるかもしれない。
+EN Benoit:
+EN "It's been a while on the #PS00
+EN  mat. Some fans may have forgotten
+EN  how we fight."
+
+@ 004
+JP 「そんなファンに、ミー達がどんなに
+JP 　ストロングなファイターであるかを
+JP 　思い出させてやろう。
+EN "We'll remind those fans just how
+EN  strong we are."
+
+@ 005
+JP 「今もっとも勢いのあるユー達を
+JP 　叩きのめす事によって！
+EN "By crushing you two, the hottest
+EN  team around right now!"
+
+@ 006
+JP #MS：
+JP 「残念だけどそれは違う。
+EN #MS:
+EN "Sorry, but you've got it wrong."
+
+@ 007
+JP 「あなた達のファイトを覚えているファンに
+JP 　俺達がどこまで強くなったかを、
+JP 　今日この場で見てもらうのさ！
+EN "The fans who remember you will see,
+EN  right here today, how strong we've
+EN  become!"
+
+@ 008
+JP 坂上：
+JP 「俺達の勝利をもってな！
+EN Sakagami:
+EN "By watching us win!"

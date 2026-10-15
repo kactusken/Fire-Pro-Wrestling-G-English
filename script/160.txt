@@ -1,0 +1,23 @@
+@ 000
+JP 俺は１回戦を勝つ事も出来なかった。
+JP #WS069達につけられた差を詰める
+JP 最高のチャンスだったのに・・・・
+EN I couldn't even win in round one. It
+EN was the perfect chance to close the
+EN gap on Tanaka and the others...
+
+@ 001
+JP だが今更悔やんでも仕方ない事だ。
+JP 次のチャンスをモノにする為、日々の試合を
+JP 大事にこなして行くしかない。
+EN But regrets wouldn't help now. All I
+EN could do was take every match
+EN seriously and grab the next chance.
+
+@ 002
+JP 今日の試合は同じく一回戦敗退の#WS180。
+JP 参加者の中で最下位だと思われるのは
+JP 避けたいところだ。
+EN Today's match: Kuroda, another
+EN first-round loser. I didn't want to
+EN look like the worst in the field.

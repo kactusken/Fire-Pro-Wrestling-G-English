@@ -1,0 +1,61 @@
+@ 000
+JP 結局五番勝負の初戦の相手は
+JP ＵＷＨインテグラルから移籍して来た
+JP #WS050に決まった。
+EN In the end, my first opponent in the
+EN series was Kakihara, who came over
+EN from UWF International.
+
+@ 001
+JP 体格的にはジュニアヘビー級だが、
+JP スピードと関節技においては素晴らしいものを
+JP 持っている。
+EN He's junior heavyweight size, but his
+EN speed and submissions are something
+EN else.
+
+@ 002
+JP #WS066：
+JP 「今日は#WS050選手だって？
+EN Kikuchi:
+EN "You've got Kakihara today?"
+
+@ 003
+JP #MS：
+JP 「ええ。
+EN #MS:
+EN "Yeah."
+
+@ 004
+JP #WS066：
+JP 「彼は良い選手だよ。
+JP 　凄く熱いハートを持ってる。
+EN Kikuchi:
+EN "He's a good one. He's got a really hot
+EN  heart."
+
+@ 005
+JP 「それをお前が受け止めてやれば、
+JP 　良い試合になるんじゃないか？
+EN "If you take what he gives, it should
+EN  be a good match, right?"
+
+@ 006
+JP #MS：
+JP 「そうですね。
+JP 　『打てば響く』試合が出来そうです！
+EN #MS:
+EN "Right. Hit him and he'll hit back. It
+EN  should be a good one!"
+
+@ 007
+JP #WS065：
+JP 「#MS！出番だぞ！
+EN Fuchi:
+EN "#MS! You're up!"
+
+@ 008
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"

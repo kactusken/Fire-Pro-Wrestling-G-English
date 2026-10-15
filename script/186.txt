@@ -1,0 +1,33 @@
+@ 000
+JP 今日の試合はウソつき野郎の子分である
+JP #WS180とのシングルマッチだ。
+EN Today's match: singles against
+EN Kuroda, the liar's lackey.
+
+@ 001
+JP #WS075：
+JP 「#MS！今日は#WS180とやて？
+EN Kanemura:
+EN "#MS! You got Kuroda today?"
+
+@ 002
+JP #MS：
+JP 「まあね。
+EN #MS:
+EN "Yeah."
+
+@ 003
+JP #WS075：
+JP 「奴は最近ちょっと強くなったからって
+JP 　デカイ面しとるお調子モンや。自分がどれだけ
+JP 　未熟な存在か教えたってくれ。
+EN Kanemura:
+EN "He got a little stronger and now he's
+EN  all full of himself. Show him how
+EN  green he really is."
+
+@ 004
+JP #MS：
+JP 「言われなくてもそうしてやるさ。
+EN #MS:
+EN "You don't have to tell me."

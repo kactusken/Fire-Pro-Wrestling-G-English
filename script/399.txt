@@ -1,0 +1,206 @@
+@ 000
+JP 俺はいつものようにジムで
+JP トレーニングに励んでいた。
+EN I was training hard at the gym as
+EN usual.
+
+@ 001
+JP ？：
+JP 「あれ？あんた・・・・
+EN ???:
+EN "Huh? Hey, you...."
+
+@ 002
+JP #MS：
+JP 「あっ・・・
+EN #MS:
+EN "Ah..."
+
+@ 003
+JP 何と声をかけて来たのは#PS06の
+JP #WF134選手
+JP だったのだ。
+EN The guy calling out to me was none
+EN other than #PS06's TAKA
+EN Michinoku.
+
+@ 004
+JP #WS134：
+JP 「あんた、ここに世話になってるって言う
+JP 　#MFだろ？
+EN TAKA:
+EN "You're #MF,
+EN  the one staying here, right?"
+
+@ 005
+JP #MS：
+JP 「そうですけど・・・・そう言うあなたは
+JP 　#WS134選手ですよね？
+EN #MS:
+EN "That's right.... And you're TAKA
+EN  Michinoku, aren't you?"
+
+@ 006
+JP #WS134：
+JP 「ああ。他の誰かに見えるか？
+EN TAKA:
+EN "Yeah. Do I look like somebody else?"
+
+@ 007
+JP #MS：
+JP 「いえ、そうじゃなくて・・・・
+EN #MS:
+EN "No, it's not that...."
+
+@ 008
+JP #WS113：
+JP 「#WS134は隣で俺と
+JP 　スパーリングしてたんだよ。
+EN Ultimo:
+EN "TAKA was sparring with me next
+EN  door."
+
+@ 009
+JP #MS：
+JP 「正井さん・・・それでコスチューム
+JP 　着てるんですね。
+EN #MS:
+EN "Mr. Asai... So that's why he's in his
+EN  gear."
+
+@ 010
+JP #WS134：
+JP 「何だよ、そんな事気にしてたのか？
+EN TAKA:
+EN "What, that's what you were
+EN  wondering?"
+
+@ 011
+JP #MS：
+JP 「それとその・・・いいんですか？
+JP 　別の団体の選手が来て、練習とかして・・・
+EN #MS:
+EN "And, um... is it okay? A guy from
+EN  another company training here..."
+
+@ 012
+JP #WS113：
+JP 「ああ、そんな気にするのは会社側くらいだよ。
+JP 　レスラー間ではあくまで個人で
+JP 　動いてるからな。
+EN Ultimo:
+EN "Oh, only the front office cares about
+EN  that. Between wrestlers, we each do
+EN  our own thing."
+
+@ 013
+JP #WS134：
+JP 「そ、だから時々時間が出来るとこうして
+JP 　ここに来てスパーリングしてもらったり
+JP 　してるって訳よ。
+EN TAKA:
+EN "Yep. So when I've got time, I come
+EN  over here and get some sparring in."
+
+@ 014
+JP #MS：
+JP 「そうなんですか。
+EN #MS:
+EN "I see."
+
+@ 015
+JP #WS134：
+JP 「実は今日はお前にも用があってな。
+EN TAKA:
+EN "Actually, today I came for you too."
+
+@ 016
+JP #MS：
+JP 「え？俺ですか？
+EN #MS:
+EN "Huh? Me?"
+
+@ 017
+JP #WS134：
+JP 「おう。どうだ、俺達と一緒に
+JP 　#PS06のリングに上がりたいと
+JP 　思わないか？
+EN TAKA:
+EN "Yeah. What do you say? Want to get
+EN  in the #PS06 ring with us?"
+
+@ 018
+JP #MS：
+JP 「えぇ？
+EN #MS:
+EN "Whaaat?"
+
+@ 019
+JP #WS113：
+JP 「おいおい、いくら個人で動いてるからって、
+JP 　それじゃ俺がマサさんに怒られるだろ！
+EN Ultimo:
+EN "Whoa, whoa. Even if we each do our
+EN  own thing, Masa's gonna chew me
+EN  out!"
+
+@ 020
+JP #WS134：
+JP 「いいじゃないっスか、それぐらい。
+EN TAKA:
+EN "Aw, come on, what's the harm?"
+
+@ 021
+JP 「こいつは磨けば光ります。是非俺達の
+JP 　西連隊ＥＸのヘビー級戦力として
+JP 　欲しいんですよ。
+EN "This kid'll shine with some polish. I
+EN  want him as Kaientai DX's
+EN  heavyweight muscle."
+
+@ 022
+JP #WS113：
+JP 「あのなぁ・・・・
+EN Ultimo:
+EN "Look, you...."
+
+@ 023
+JP #WS134：
+JP 「じゃあ#MS！
+JP 　考えておいてくれよ！
+EN TAKA:
+EN "Okay then, #MS! Think it over!"
+
+@ 024
+JP #MS：
+JP 「はい・・・
+EN #MS:
+EN "Um, okay..."
+
+@ 025
+JP #WS134さんの誘いに戸惑う俺をよそに
+JP 次の試合が組まれた。
+JP その相手は何と・・・
+EN While I was still thrown by TAKA's
+EN offer, my next match got booked. And
+EN the opponent was...
+
+@ 026
+JP #WS113：
+JP 「こうしてお前と当たる日が
+JP 　こんなに早く来るとはね・・・・
+EN Ultimo:
+EN "Didn't think the day I'd face you
+EN  would come this soon...."
+
+@ 027
+JP #MS：
+JP 「よろしくお願いします！
+EN #MS:
+EN "Thanks for having me!"
+
+@ 028
+JP #WS113：
+JP 「よし、来い！
+EN Ultimo:
+EN "All right, come on!"

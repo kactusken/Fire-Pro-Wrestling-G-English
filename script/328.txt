@@ -1,0 +1,133 @@
+@ 000
+JP 俺は坂上とのシングルを#WS059社長に
+JP 直訴したが、今まで組んでもらえなかった。
+EN I'd begged President Baba for a
+EN singles match with Sakagami, but he'd
+EN never booked it.
+
+@ 001
+JP あのタッグ戦後、俺も坂上も#PS01での
+JP 実績を重ねて来た。そろそろ実現しても
+JP おかしくない頃だろう。
+EN Since that tag match, Sakagami and I
+EN had built up our records in #PS01.
+EN It was about time.
+
+@ 002
+JP 俺は何度目かの交渉を行うべく、
+JP 会社に来ていた。
+EN I came to the office to negotiate once
+EN again.
+
+@ 003
+JP #WS059：
+JP 「坂上とのシングルの事か？
+EN Baba:
+EN "Is this about a singles match with
+EN  Sakagami?"
+
+@ 004
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 005
+JP #WS059：
+JP 「そうだな・・・・まあそろそろ
+JP 　やっても良いかもしれないな。
+EN Baba:
+EN "Let's see.... I suppose it's about time."
+
+@ 006
+JP #MS：
+JP 「本当ですか！？
+EN #MS:
+EN "Really!?"
+
+@ 007
+JP #WS059：
+JP 「次のシリーズ、坂上がまた来る。
+JP 　最終戦でワールド三冠王座の挑戦者決定戦を
+JP 　お前達にやってもらおうかと思う。
+EN Baba:
+EN "Sakagami's back next series. On the
+EN  final night, you two will fight for a
+EN  Triple Crown title shot."
+
+@ 008
+JP #MS：
+JP 「はい！ありがとうございます！
+EN #MS:
+EN "Yes, sir! Thank you!"
+
+@ 009
+JP 遂に実現するのだ。俺達にとってベルトに
+JP 挑戦するよりも価値のある試合が・・・・
+EN It was finally happening. A match
+EN worth more to us than any title
+EN shot....
+
+@ 010
+JP #MS：
+JP 「いよいよだな。
+EN #MS:
+EN "This is it."
+
+@ 011
+JP 坂上：
+JP 「ああ。
+EN Sakagami:
+EN "Yeah."
+
+@ 012
+JP #MS：
+JP 「どれだけこの日を待ちわびた事か・・・
+EN #MS:
+EN "I've waited so long for this day..."
+
+@ 013
+JP 坂上：
+JP 「俺もそうだ。その為に俺は
+JP 　色んな試練を乗り越えて来た。
+EN Sakagami:
+EN "Me too. I've been through all kinds of
+EN  trials for it."
+
+@ 014
+JP #MS：
+JP 「同じ道場で同期の２人が
+JP 　今や日本を代表するプロレスラーになって
+JP 　この大舞台で激突する。夢みたいだな。
+EN #MS:
+EN "Two guys from the same dojo class,
+EN  now top wrestlers in Japan, clashing
+EN  on this big stage. It's like a dream."
+
+@ 015
+JP 坂上：
+JP 「へへへ・・・まさにドリームマッチって訳だ。
+EN Sakagami:
+EN "Heh heh... a real dream match."
+
+@ 016
+JP #MS：
+JP 「ああ、本気で来いよ！
+JP 　思い出にふけって
+JP 　手を抜いたら承知しないぜ！
+EN #MS:
+EN "Yeah, so come at me for real! Get
+EN  nostalgic and hold back, and I won't
+EN  forgive you!"
+
+@ 017
+JP 坂上：
+JP 「それはこっちのセリフだ！
+JP 　腰抜かすなよ！俺の成長ぶりに！
+EN Sakagami:
+EN "That's my line! Don't fall over at how
+EN  much I've grown!"
+
+@ 018
+JP そして運命のゴングが鳴った・・・・
+EN And then the bell of fate rang....

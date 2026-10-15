@@ -1,0 +1,256 @@
+@ 000
+JP 俺は結局#WS134さんの誘いに
+JP 乗る事にした。
+EN In the end, I took TAKA up on his
+EN offer.
+
+@ 001
+JP 今現在#PS05と#PS06では、
+JP #PS06の方が圧倒的に勢いがあるし、
+JP 何より俺自身が魅力を感じていた。
+EN Right now #PS06 had far more
+EN momentum than #PS05, and above
+EN all, it was what excited me.
+
+@ 002
+JP マサさんや正井さんには悪いが、せっかくの
+JP チャンスだから#PS06に行ってみたい。
+EN I felt bad for Masa and Mr. Asai,
+EN but it was a real chance. I wanted to
+EN try #PS06.
+
+@ 003
+JP #MS：
+JP 「と言う訳で、申し訳ないんですが・・・・
+EN #MS:
+EN "So... I'm really sorry, but..."
+
+@ 004
+JP マサ：
+JP 「俺としては残念だし会社としても困るけど、
+JP 　まあ本人がそこまで言うならなぁ。
+EN Masa:
+EN "I'm disappointed, and it's a headache
+EN  for the company, but if you're that
+EN  set on it..."
+
+@ 005
+JP #WS113：
+JP 「いいんですか？
+EN Ultimo:
+EN "Are you sure?"
+
+@ 006
+JP マサ：
+JP 「ああ、別にいいさ。ただもちろんこれからは
+JP 　#PL00と言う会社の
+JP 　バックアップは受けられないぞ？
+EN Masa:
+EN "Yeah, it's fine. But from now on, you
+EN  won't have #PL00 backing you.
+EN  Got it?"
+
+@ 007
+JP #MS：
+JP 「はい、分かってます。
+EN #MS:
+EN "Yes, I understand."
+
+@ 008
+JP マサ：
+JP 「自分の力で全てをやって行かなきゃならん。
+JP 　その覚悟があるんだな？
+EN Masa:
+EN "You'll have to make it all on your
+EN  own. You ready for that?"
+
+@ 009
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes!"
+
+@ 010
+JP マサ：
+JP 「分かった、もう何も言わないよ。
+EN Masa:
+EN "All right. I won't say another word."
+
+@ 011
+JP そう言うとマサさんは手を差し出て言った。
+EN With that, Masa held out his hand.
+
+@ 012
+JP マサ：
+JP 「グッドラック。
+EN Masa:
+EN "Good luck."
+
+@ 013
+JP 俺はその手を両手で握り返して言った。
+EN I took his hand in both of mine.
+
+@ 014
+JP #MS：
+JP 「ありがとうございます！
+EN #MS:
+EN "Thank you so much!"
+
+@ 015
+JP マサ：
+JP 「それともう一つ。これは俺の人生の
+JP 　モットーでもあるんだが・・・・
+EN Masa:
+EN "One more thing. It's my motto in
+EN  life..."
+
+@ 016
+JP 「当たって砕けろ、ゴーフォーブロック！
+JP 　俺はこの精神でアメリカを渡り歩いた。
+JP 　覚えておいてくれ。
+EN "Go for broke! That's how I made my
+EN  way across America. Remember it."
+
+@ 017
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 018
+JP マサ：
+JP 「じゃあな。
+EN Masa:
+EN "See you around."
+
+@ 019
+JP #WS113：
+JP 「良かったな、気持ち良く許してもらって。
+EN Ultimo:
+EN "Good thing he let you go on good
+EN  terms."
+
+@ 020
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes."
+
+@ 021
+JP #WS113：
+JP 「で、ウチのジムの宿舎だけど、金さえ
+JP 　自分で払ってくれれば使ってていいぞ。
+JP 　向こうの会社が文句言わなければだけど。
+EN Ultimo:
+EN "You can keep using our gym's dorm
+EN  if you pay your own way. As long as
+EN  your new company doesn't mind."
+
+@ 022
+JP #MS：
+JP 「ありがとうございます！
+EN #MS:
+EN "Thank you!"
+
+@ 023
+JP #WS134：
+JP 「オーナー、こいつが話をした
+JP 　#MFだ。
+EN TAKA:
+EN "Boss, this is
+EN  #MF, the guy
+EN  I told you about."
+
+@ 024
+JP ディンク：
+JP 「ふむ。ミーが#PS06のオーナー、
+JP 　ディンク・カクラコンＪｒ．だ。
+EN McMahon:
+EN "Hmm. I own #PS06. Vince
+EN  McMahon Jr."
+
+@ 025
+JP #MS：
+JP 「始めまして、
+JP 　#MFです。
+EN #MS:
+EN "Nice to meet you. I'm
+EN  #MF."
+
+@ 026
+JP ディンク：
+JP 「早速だがちょっと上を脱げ。
+EN McMahon:
+EN "Let's get right to it. Take off your
+EN  shirt."
+
+@ 027
+JP #MS：
+JP 「え？
+EN #MS:
+EN "Huh?"
+
+@ 028
+JP ディンク：
+JP 「いいから脱げ。
+JP 　筋肉のつき具合を見るだけだ。
+EN McMahon:
+EN "Just take it off. I only want to see
+EN  your build."
+
+@ 029
+JP 俺は取り敢えず言う通りにした。
+EN I did as I was told.
+
+@ 030
+JP ディンク：
+JP 「ふむ。まあまずまずの体を
+JP 　作っているようだな。
+EN McMahon:
+EN "Hmm. You've built a decent body."
+
+@ 031
+JP 「いいだろう、服を着てくれ。
+EN "All right, put your shirt back on."
+
+@ 032
+JP 「取り敢えず実際の試合を見せてもらおうか。
+JP 　ビデオは見たがそれだけで判断する気は無い。
+EN "Now let me see a real match. I saw
+EN  your tape, but I won't judge on that
+EN  alone."
+
+@ 033
+JP 「そうだな・・・相手は#WS134、
+JP 　ユーにしてもらおうか。
+EN "Let's see... TAKA, you'll be his
+EN  opponent."
+
+@ 034
+JP #WS134：
+JP 「ＯＫ、オーナー。
+EN TAKA:
+EN "OK, boss."
+
+@ 035
+JP ディンク：
+JP 「それで今後の事を判断しよう。
+EN McMahon:
+EN "Then I'll decide what to do with
+EN  you."
+
+@ 036
+JP #WS134：
+JP 「いいか、思いっきり来い！
+JP 　体格の事なんか気にするな。
+JP 　全部キッチリ受けてやるからよ！
+EN TAKA:
+EN "Listen, come at me full blast! Forget
+EN  the size gap. I'll take everything you
+EN  dish out!"
+
+@ 037
+JP #MS：
+JP 「はい！全力で行きます！
+EN #MS:
+EN "Yes! I'm going all out!"

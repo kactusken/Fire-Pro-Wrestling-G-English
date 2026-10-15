@@ -1,0 +1,127 @@
+@ 000
+JP 坂上：
+JP 「・・・・・・・・
+EN Sakagami:
+EN "........"
+
+@ 001
+JP #MS：
+JP 「・・・・・・・・・
+EN #MS:
+EN "........."
+
+@ 002
+JP 俺達は新しい闘いへの第一歩、踏み出しの時点で
+JP つまづいてしまう事になった。ここは勝って
+JP 次に進みたい所だったのだが・・・
+EN We'd stumbled on our very first step
+EN into a new fight. We'd wanted to win
+EN here and move on...
+
+@ 003
+JP 坂上：
+JP 「どうする？このままじゃマズイぜ。
+EN Sakagami:
+EN "What now? This is bad."
+
+@ 004
+JP #MS：
+JP 「こんな所でつまづいてられないってのに・・・
+EN #MS:
+EN "And we can't afford to stumble
+EN  here..."
+
+@ 005
+JP 坂上：
+JP 「俺達の凄さをアピールしてもう一度
+JP 　ファンの目をこっちに向けさせないとな。
+JP 　何か良いアイデアは無いか？
+EN Sakagami:
+EN "We need to show what we've got and
+EN  turn the fans' eyes back to us. Any
+EN  good ideas?"
+
+@ 006
+JP #MS：
+JP 「・・・・・・１つ思い付いた。
+EN #MS:
+EN "...... I've got one."
+
+@ 007
+JP 坂上：
+JP 「何だ？
+EN Sakagami:
+EN "What?"
+
+@ 008
+JP #MS：
+JP 「それは・・・・・
+EN #MS:
+EN "It's....."
+
+@ 009
+JP 坂上：
+JP 「フフフ・・・確かにこの試合なら
+JP 　出来るかもしれないな。
+EN Sakagami:
+EN "Heh heh... Yeah, this match might
+EN  just do it."
+
+@ 010
+JP #MS：
+JP 「だろう？
+EN #MS:
+EN "Right?"
+
+@ 011
+JP 坂上：
+JP 「それに俺は今日という日を待ち続けていた。
+JP 　あの道場で同じスタートを切った
+JP 　お前と大舞台で対決する・・この時を！
+EN Sakagami:
+EN "Besides, I've waited for this. To face
+EN  you, who started with me at that
+EN  dojo, on the big stage!"
+
+@ 012
+JP #MS：
+JP 「俺もだ。道場で会ったあの日から、お前に
+JP 　負けないよう頑張って来た・・・・・
+JP 　いつか必ず来る今日という日の為に！
+EN #MS:
+EN "Me too. Since we met at the dojo, I've
+EN  pushed to keep up with you... for this
+EN  day!"
+
+@ 013
+JP そう、俺の起死回生のアイデアとは、
+JP 俺達２人のシングルマッチだったのだ。
+EN Yes, my big comeback idea was a
+EN singles match between the two of us.
+
+@ 014
+JP 坂上：
+JP 「この一戦でみんなの度肝を抜いてやろうぜ！
+EN Sakagami:
+EN "Let's blow everybody's minds with
+EN  this match!"
+
+@ 015
+JP #MS：
+JP 「おう！そしてここから
+JP 　俺達の革命が始まるんだ！
+EN #MS:
+EN "Yeah! And our revolution starts
+EN  here!"
+
+@ 016
+JP 坂上：
+JP 「行くぜ！！
+EN Sakagami:
+EN "Here I come!!"
+
+@ 017
+JP #MS：
+JP 「来い！！
+EN #MS:
+EN "Bring it!!"

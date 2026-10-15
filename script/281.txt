@@ -1,0 +1,295 @@
+@ 000
+JP 俺は#WS149さんに呼び出されていた。
+EN Mr. Maeda had called for me.
+
+@ 001
+JP #WS149：
+JP 「どうや、最近の調子は？
+EN Maeda:
+EN "So how ya been lately?"
+
+@ 002
+JP #MS：
+JP 「ええ、それなりに・・・ところで今日は
+JP 　何かあったんですか？
+EN #MS:
+EN "Oh, not bad... But what's up today?"
+
+@ 003
+JP #WS149：
+JP 「実はな・・・引退を考えてるんや。
+EN Maeda:
+EN "Truth is... I'm thinkin' about
+EN  retirin'."
+
+@ 004
+JP #MS：
+JP 「い、引退！？
+JP 　#WS149さんがですか！？
+EN #MS:
+EN "R-Retiring!? You, Mr. Maeda!?"
+
+@ 005
+JP #WS149：
+JP 「そんなに驚く事でも無いやろ。
+JP 　体の事を考えればおかしくは無い時期や。
+EN Maeda:
+EN "Ain't nothin' to be so shocked about.
+EN  With my body, it's about time."
+
+@ 006
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 007
+JP #WS149：
+JP 「取りあえず#PS07での最終試合で
+JP 　引退セレモニーをやった後、最後に
+JP 　でっかい花火を上げるつもりや。
+EN Maeda:
+EN "Anyway, after a retirement
+EN  ceremony at my last #PS07 show,
+EN  I'm gonna go out with one big bang."
+
+@ 008
+JP 「で、#PS07引退試合の相手を
+JP 　お前か#WS141かで迷ってたんや。
+JP 　ところがな・・・
+EN "I was torn between you and
+EN  Yamamoto for my #PS07
+EN  retirement match. But then..."
+
+@ 009
+JP と言うと#WS149さんは
+JP １枚のファックスを差し出した。
+EN With that, Mr. Maeda handed me a
+EN fax.
+
+@ 010
+JP #WS149：
+JP 「#PS08実行委員会からや。
+JP 　お前の参戦にＧＯサインが出た。
+EN Maeda:
+EN "It's from the #PS08 executive
+EN  committee. They gave the green light
+EN  for you to fight."
+
+@ 011
+JP #MS：
+JP 「えっ！？
+EN #MS:
+EN "What!?"
+
+@ 012
+JP #PS08とはあらゆる立ち技格闘の
+JP 使い手の頂点を決める大会である。
+JP 毎年、年末にはトーナメントも開催される。
+EN #PS08 is the event that decides
+EN the best of all stand-up fighters. A
+EN tournament is held every year-end.
+
+@ 013
+JP 俺は新たなチャンスを得る為に、#PS08
+JP 参戦をアピールして来たが、両団体の
+JP 問題もあり実現は難しいとされて来た。
+EN I'd pushed to enter #PS08 for a
+EN new chance, but with two companies
+EN involved, it seemed unlikely.
+
+@ 014
+JP #WS149：
+JP 「あれこれ大変やったが、何とかな。
+JP 　相手も無名選手やない。
+JP 　#WF172や。
+EN Maeda:
+EN "Took a lot of work, but we pulled it
+EN  off. And no nobody, either. It's
+EN  Masaaki Satake."
+
+@ 015
+JP #MS：
+JP 「あ、あの#WS172ですか！？
+EN #MS:
+EN "Th-THE Satake!?"
+
+@ 016
+JP #WS172は日本人の中では
+JP ダントツトップの実力を持ったファイターで、
+JP 知名度も文句無しだ。
+EN Satake is far and away Japan's best
+EN fighter, and as famous as they come.
+
+@ 017
+JP #WS149：
+JP 「最初にしてはヘビーかもしれんが２度目が
+JP 　あるかどうか分からんからな。
+JP 　やるだけの事はやっとかんとな。
+EN Maeda:
+EN "Might be heavy for a first match, but
+EN  who knows if there'll be a second.
+EN  Gotta do what ya can."
+
+@ 018
+JP #MS：
+JP 「ありがとうございます！
+EN #MS:
+EN "Thank you!"
+
+@ 019
+JP #WS149：
+JP 「で、ルールは#PS07ルールで
+JP 　先方がＯＫした。
+EN Maeda:
+EN "And they agreed to #PS07 rules."
+
+@ 020
+JP #MS：
+JP 「本当ですか！？
+EN #MS:
+EN "Really!?"
+
+@ 021
+JP #WS149：
+JP 「ルールはお前に有利なんや。
+JP 　だから必ず勝って来い！いいな！
+EN Maeda:
+EN "The rules favor you. So ya better
+EN  win! Got it!"
+
+@ 022
+JP #MS：
+JP 「分かってます。#PS08の会場で
+JP 　#PS07魂見せて来ます！
+EN #MS:
+EN "I know. I'll show the #PS07 spirit
+EN  in the #PS08 arena!"
+
+@ 023
+JP #WS149：
+JP 「よう言うた！気合入れて行けよ！
+EN Maeda:
+EN "Well said! Go get 'em!"
+
+@ 024
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 025
+JP 俺は今マスコミやら#PS08関係者やらの
+JP 中で公開練習をしている。ルールの事もあり、
+JP 互いの練習を見せ合う場を作る事になったのだ。
+EN Now I'm in an open workout for the
+EN press and #PS08 staff, set up
+EN because of the rules issue.
+
+@ 026
+JP 俺が一息つくと#PS08関係者が
+JP やって来た。
+EN As I caught my breath, the #PS08
+EN people came over.
+
+@ 027
+JP 増田：
+JP 「お疲れ様です！
+EN Masuda:
+EN "Good work!"
+
+@ 028
+JP #WS172：
+JP 「こんちわ！
+EN Satake:
+EN "Howdy!"
+
+@ 029
+JP #MS：
+JP 「今日はどうも。
+EN #MS:
+EN "Thanks for coming today."
+
+@ 030
+JP #WS172：
+JP 「#MS選手、よろしくお願いします！
+EN Satake:
+EN "#MS, nice to meet ya!"
+
+@ 031
+JP と言うと彼は手を差し出して来た。
+JP 俺も握り返しながら応える。
+EN With that he held out his hand. I
+EN shook it back.
+
+@ 032
+JP #MS：
+JP 「いえ、こちらこそ。対戦要望
+JP 　聞き入れてもらって感謝してます。
+EN #MS:
+EN "Likewise. Thanks for accepting my
+EN  challenge."
+
+@ 033
+JP #WS172：
+JP 「お互い、正々堂々、ぶつかり合いましょうや！
+EN Satake:
+EN "Let's both go at it fair and square!"
+
+@ 034
+JP #MS：
+JP 「そうですね！日本格闘技界の１ページを飾る
+JP 　凄い闘いをしましょう！
+EN #MS:
+EN "Right! Let's have an amazing fight
+EN  for the history of Japanese combat
+EN  sports!"
+
+@ 035
+JP こうして俺達は変な対立意識無しに闘う事を
+JP 誓い合った。それは#WS172選手の
+JP 爽やかな人柄のお陰なのかもしれない。
+EN And so we swore to fight without any
+EN bad blood. Maybe that was thanks to
+EN Satake's refreshing personality.
+
+@ 036
+JP そして遂にその日がやって来た。
+EN And at last, the day came.
+
+@ 037
+JP #WS172：
+JP 「遂にこの日が来た訳や。
+EN Satake:
+EN "So the day's finally here."
+
+@ 038
+JP #MS：
+JP 「遠慮無く行きますよ！
+EN #MS:
+EN "I won't hold back!"
+
+@ 039
+JP #WS172：
+JP 「ハハハ、遠慮なんぞしとるようなら
+JP 　秒殺でっせ！
+EN Satake:
+EN "Hahaha, hold back and you'll be out
+EN  in seconds!"
+
+@ 040
+JP #MS：
+JP 「確かに・・・でもこちらにも関節の
+JP 　極めがある事をお忘れなく。
+EN #MS:
+EN "True... But don't forget, I've got joint
+EN  locks."
+
+@ 041
+JP #WS172：
+JP 「せやったな。
+JP 　へへ、何かワクワクして来よったで。
+JP 　ほんじゃま、行きまっせ！
+EN Satake:
+EN "Oh, right. Heh, I'm gettin' all excited.
+EN  Well then, here I come!"

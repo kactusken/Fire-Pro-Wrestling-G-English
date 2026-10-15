@@ -1,0 +1,165 @@
+@ 000
+JP #WS088：
+JP 「ヘイ！#MS！
+EN Fuji:
+EN "Hey! #MS!"
+
+@ 001
+JP #MS：
+JP 「あ、おはようございます。
+EN #MS:
+EN "Oh, good morning."
+
+@ 002
+JP #WS088：
+JP 「#WS076さんが#PS02を
+JP 　出て行くらしいぞ。
+EN Fuji:
+EN "Word is Onita's leaving #PS02."
+
+@ 003
+JP #MS：
+JP 「そうなんですか！？
+EN #MS:
+EN "Really!?"
+
+@ 004
+JP 新団体を設立してそこに移籍、
+JP 今後#PS02のリングには
+JP 一切上がらないと言う事らしい。
+EN He's starting a new promotion and
+EN moving there, and won't set foot in
+EN the #PS02 ring ever again.
+
+@ 005
+JP #WS088：
+JP 「ま、どこまで信用出来るか分からねぇけどな。
+EN Fuji:
+EN "Course, who knows how far you can
+EN  trust that."
+
+@ 006
+JP #MS：
+JP 「何で今更？
+EN #MS:
+EN "Why now, of all times?"
+
+@ 007
+JP #WS068：
+JP 「あの人もさすがに
+JP 　自分の引き際を感じてるんだろう。
+EN Hayabusa:
+EN "Even he must feel it's time to step
+EN  away."
+
+@ 008
+JP #MS：
+JP 「引き際と言っても・・・
+EN #MS:
+EN "Step away? But..."
+
+@ 009
+JP #WS068：
+JP 「まあ信用出来ないだろうけど、どうも
+JP 　今回は古傷の膝が原因らしいんだ。
+JP 　膝のワイヤーがいくらももたないらしい。
+EN Hayabusa:
+EN "Hard to believe, I know, but this time
+EN  it's his bad knee. The wires in it
+EN  won't hold much longer."
+
+@ 010
+JP 「で、残された時間にやり残した事を
+JP 　しておきたいそうだ。
+EN "So he wants to use the time he has
+EN  left to do what he hasn't done yet."
+
+@ 011
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 012
+JP 「ま、まあでもこれで新しいものを築く土壌は
+JP 　出来たんじゃないですか？
+EN "W-Well, at least this clears the
+EN  ground to build something new,
+EN  right?"
+
+@ 013
+JP #WS068：
+JP 「そう、大事なのはそこなんだ。
+JP 　これから俺達の本当の闘いが
+JP 　始まるって事なんだ！
+EN Hayabusa:
+EN "Right, that's what matters. Our real
+EN  fight starts now!"
+
+@ 014
+JP #MS：
+JP 「そうですね・・・新しいインディー、
+JP 　新しい#PS02を作りましょう！
+EN #MS:
+EN "Yeah... Let's make a new indie, a new
+EN  #PS02!"
+
+@ 015
+JP #WS088：
+JP 「フゥ～～～～ッ！
+EN Fuji:
+EN "Whooooo!"
+
+@ 016
+JP #WS068：
+JP 「よし、一緒に頑張ろう！
+EN Hayabusa:
+EN "All right, let's do it together!"
+
+@ 017
+JP 旧タイトル撤廃に続く#WS076さんの
+JP 離脱により本当の意味で新しい
+JP #PS02がスタートする事になった。
+EN With the old titles scrapped and Onita
+EN gone, a truly new #PS02 was about
+EN to begin.
+
+@ 018
+JP #WS088：
+JP 「いよいよトーナメントだな。
+EN Fuji:
+EN "Tournament time at last."
+
+@ 019
+JP 新しい#PS02の第一歩がこの
+JP 『トップオブ#PS02トーナメント』
+JP という形で記される事になる。
+EN The new #PS02's first step would
+EN be written in the form of the "Top of
+EN #PS02 Tournament."
+
+@ 020
+JP #WS088：
+JP 「#MSは最初誰だっけ？
+EN Fuji:
+EN "Who've you got first, #MS?"
+
+@ 021
+JP #MS：
+JP 「#WS070さんですね。
+EN #MS:
+EN "Mr. Ohya."
+
+@ 022
+JP #WS088：
+JP 「ここの所何か不穏な動きを見せてるよな。
+JP 　十分注意しろよ。
+EN Fuji:
+EN "He's been up to something shady
+EN  lately. Watch yourself."
+
+@ 023
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "I will!"

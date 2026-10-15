@@ -1,0 +1,240 @@
+@ 000
+JP #MS：
+JP 「クッ！
+EN #MS:
+EN "Ngh!"
+
+@ 001
+JP #WS103：
+JP 「ヌッ！？
+EN Sting:
+EN "Hngh!?"
+
+@ 002
+JP #MS：
+JP 「クソッ！
+EN #MS:
+EN "Damn it!"
+
+@ 003
+JP #WS103：
+JP 「オウッ！？
+EN Sting:
+EN "OWW!?"
+
+@ 004
+JP 俺と#WS103は
+JP 試合が終わっても殴り合っていた。
+JP お互い、意地になっていた。
+EN Sting and I kept slugging it out even
+EN after the match. Neither of us would
+EN back down.
+
+@ 005
+JP お互いの仲間が間に割って入って
+JP ようやく俺達は別れた。
+EN Only when our partners got between
+EN us were we finally pulled apart.
+
+@ 006
+JP #WS107：
+JP 「落ち着け、#MS。
+EN Norton:
+EN "Calm down, #MS."
+
+@ 007
+JP #MS：
+JP 「・・・・・
+EN #MS:
+EN "....."
+
+@ 008
+JP 俺達が引き揚げようとした時だった。
+EN We were heading to the back when...
+
+@ 009
+JP #WS103：
+JP 「ヘイ、#MS！
+EN Sting:
+EN "Hey, #MS!"
+
+@ 010
+JP 「ユーがそこまでやる気なら次の
+JP 　ペイ・パー・ビュー大会、ユーとやってやる！
+JP 　首を洗って待っているんだな！
+EN "If you want it that bad, I'll take you
+EN  on at the next pay-per-view! Better
+EN  start saying your prayers!"
+
+@ 011
+JP #MS：
+JP 「・・・・・
+EN #MS:
+EN "....."
+
+@ 012
+JP ペイ・パー・ビュー（ＰＰＶ）と言うのは
+JP 通常の放送枠とは別に、
+JP 番組別の視聴料金を取る放送形態だ。
+EN Pay-per-view (PPV) is broadcasting
+EN where you pay for each show, apart
+EN from regular TV.
+
+@ 013
+JP そしてＰＰＶで行われる大会は、当然
+JP 別料金を払う価値のあるビッグマッチなのだ。
+JP 日本で言うドーム大会のようなものか。
+EN So PPV events are big matches worth
+EN paying extra for. Like dome shows
+EN back in Japan, I guess.
+
+@ 014
+JP そんなビッグマッチで、あの#WS103と
+JP シングル戦・・・・・
+EN A singles match with Sting, at a show
+EN that big.....
+
+@ 015
+JP #WS101：
+JP 「#MS。
+EN Hogan:
+EN "#MS."
+
+@ 016
+JP 「どうした？
+EN "What's wrong?"
+
+@ 017
+JP #MS：
+JP 「いや、その・・・・
+EN #MS:
+EN "Oh, it's just...."
+
+@ 018
+JP 「ＰＰＶのビッグマッチであの#WS103と
+JP 　シングルなのかと思うと、
+JP 　俺もここまで来たんだなぁ・・・と思って。
+EN "Singles with Sting in a big PPV
+EN  match... I just thought, wow, I've
+EN  come this far."
+
+@ 019
+JP #WS101：
+JP 「ハハハハ・・・そうか。でもユーはここまで、
+JP 　自分の力で頑張って来たはずだ。
+JP 　自信を持ってぶつかって行けばいい。
+EN Hogan:
+EN "Ha ha ha ha... I see. But you got here
+EN  on your own. Just believe in yourself
+EN  and go for it."
+
+@ 020
+JP #MS：
+JP 「・・・はい！
+EN #MS:
+EN "...Right!"
+
+@ 021
+JP #WS113：
+JP 「ブラックＦＷＯ入りも驚いたけど、あの
+JP 　#WS103と一騎打ちとはね。
+EN Ultimo:
+EN "Joining nWo Hollywood was one
+EN  thing, but going one-on-one with
+EN  Sting?"
+
+@ 022
+JP 「もう俺なんかが口出し出来る
+JP 　レベルじゃないよなぁ・・・・
+EN "You're way past the level where I can
+EN  give you advice...."
+
+@ 023
+JP #MS：
+JP 「ここまで来れたのも
+JP 　正井さんのおかげですから、
+JP 　そんな事言わないで下さい。
+EN #MS:
+EN "I got this far thanks to you, Mr. Asai.
+EN  Please don't say that."
+
+@ 024
+JP #WS113：
+JP 「そうか？うーん・・・
+JP 　まぁそれならそう思っておこう。
+EN Ultimo:
+EN "You think? Hmm... Well, if you say
+EN  so, I'll take it."
+
+@ 025
+JP 「お前はＰＰＶまで少し間があるんだろう？
+JP 　スパーリングならいつでも
+JP 　付き合ってやるからな。
+EN "You've got some time before the PPV,
+EN  right? I'll spar with you any time."
+
+@ 026
+JP #MS：
+JP 「ありがとうございます。
+EN #MS:
+EN "Thank you."
+
+@ 027
+JP 俺は久々に正井さんのコーチを受けながら
+JP ＰＰＶへ向けて調整して行った。
+EN For the first time in a while, I trained
+EN under Asai to get ready for the PPV.
+
+@ 028
+JP そして・・・
+EN And then...
+
+@ 029
+JP 俺は#WS103と対峙していた。
+EN I stood face to face with Sting.
+
+@ 030
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 031
+JP #WS103：
+JP 「マサの連れて来たヤングボーイが
+JP 　ここまでになるとはな。
+EN Sting:
+EN "Never thought the young boy Masa
+EN  brought in would get this far."
+
+@ 032
+JP #MS：
+JP 「？
+EN #MS:
+EN "?"
+
+@ 033
+JP #WS103：
+JP 「ユーの成長ぶり、
+JP 　敵ながら嬉しく思っているよ。
+EN Sting:
+EN "Enemy or not, I'm happy to see how
+EN  much you've grown."
+
+@ 034
+JP 「ユーとのシングルだと思うと
+JP 　血が騒いで仕方無いよ。
+EN "Just thinking about going
+EN  one-on-one with you gets my blood
+EN  pumping."
+
+@ 035
+JP #MS：
+JP 「#WS103・・・・
+EN #MS:
+EN "Sting...."
+
+@ 036
+JP 「俺もその気持ちに全力をもって応えよう！
+EN "Then I'll answer that with
+EN  everything I've got!"

@@ -1,0 +1,45 @@
+@ 000
+JP チーム『ＺＥＲＵ』として
+JP 最初の試合は#WS071軍との
+JP タッグマッチだ。
+EN Our first match as Team Zero: a tag
+EN bout against the Fuyuki-gun.
+
+@ 001
+JP #WS071：
+JP 「お前らなぁ！あんなウソつきに手を貸しちゃ
+JP 　ダメだろうが！もっと良く考えろ！
+JP 　あいつはな、もう過去の人間なんだよ！
+EN Fuyuki:
+EN "You guys! You can't help out that
+EN  liar! Think harder! He's a has-been!"
+
+@ 002
+JP #MS：
+JP 「俺達は#WS076さんを信頼してるんだ！
+JP 　あの人と俺達の理想の為に・・・・
+JP 　俺達は闘うんだ！
+EN #MS:
+EN "We trust Onita! For him and for our
+EN  ideals.... we fight!"
+
+@ 003
+JP #WS071：
+JP 「そこがバカだってんだよ！
+EN Fuyuki:
+EN "That's what makes you idiots!"
+
+@ 004
+JP 「あいつは自分が目立ちたがりなだけなんだよ！
+JP 　お前らや団体の事なんて
+JP 　どーでもいいんだよ、本当はよ！
+EN "He just wants the spotlight! He
+EN  doesn't give a damn about you or the
+EN  promotion!"
+
+@ 005
+JP #MS：
+JP 「おふざけやってる奴が
+JP 　ごたく並べてるんじゃねぇ！
+EN #MS:
+EN "Don't lecture us, you clown!"

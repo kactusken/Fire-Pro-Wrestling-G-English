@@ -1,0 +1,88 @@
+@ 000
+JP 試合は終わった。もう#PS07で
+JP #WS149さんの試合は見られないのだ。
+EN The match was over. We'd never see
+EN Mr. Maeda wrestle in #PS07 again.
+
+@ 001
+JP 記者：
+JP 「#MS選手！
+EN Reporter:
+EN "#MS!"
+
+@ 002
+JP 「試合お疲れ様でした。
+JP 　今の心境など、お聞かせ願えますか？
+EN "Great work out there. Can you tell us
+EN  how you feel?"
+
+@ 003
+JP #MS：
+JP 「そうですね・・・
+JP 　色々複雑な思いがありますけど
+JP 　１つ言えるのは・・・・・
+EN #MS:
+EN "Well... I've got a lot of mixed
+EN  feelings, but one thing I can say....."
+
+@ 004
+JP 「これからの#PS07は本当の意味で
+JP 　残された俺達が支え、動かして行かなければ
+JP 　ならなくなった。
+EN "From now on, those of us left behind
+EN  truly have to hold up #PS07 and
+EN  move it forward."
+
+@ 005
+JP 「その為には個人個人が今まで以上の意識を
+JP 　持ってやって行かなきゃならない、
+JP 　って事ですよ。
+EN "And for that, each one of us has to
+EN  be more committed than ever."
+
+@ 006
+JP 記者：
+JP 「試合後、リング上で#WS149選手と
+JP 　何を話していたんですか？
+EN Reporter:
+EN "What did you and Maeda talk about
+EN  in the ring after the match?"
+
+@ 007
+JP #MS：
+JP 「まあ『任せたぞ』と。
+JP 　で、『任されました』と返事をしました。
+EN #MS:
+EN "Well, he said 'It's in your hands.' And
+EN  I told him, 'Leave it to me.'"
+
+@ 008
+JP 記者：
+JP 「それは今後#MS選手が主導権を持って
+JP 　#PS07を動かして行く、
+JP 　と言う事ですか？
+EN Reporter:
+EN "So you'll be the one taking the lead
+EN  and steering #PS07 from now on?"
+
+@ 009
+JP #MS：
+JP 「そう言う権利をもらったって事じゃなくてね。
+JP 　俺が勝手にやってやるぞ、と言う事ですよ。
+EN #MS:
+EN "It's not that he gave me the right. It's
+EN  that I'm just going to do it."
+
+@ 010
+JP 「これからは色々・・・外の事も本気で
+JP 　動いて行こうと思ってます。
+EN "From here on... I plan to get serious
+EN  about moves outside the company
+EN  too."
+
+@ 011
+JP 記者：
+JP 「期待してます！ありがとうございました！
+EN Reporter:
+EN "We'll be watching! Thank you very
+EN  much!"

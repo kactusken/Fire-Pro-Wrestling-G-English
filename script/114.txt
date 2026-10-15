@@ -1,0 +1,193 @@
+@ 000
+JP 俺はまた#WS059社長に
+JP 呼び出しを受けていた。
+EN Mr. Baba called me in again.
+
+@ 001
+JP #WS059：
+JP 「頑張ってるじゃないか。
+JP 　この間の試合なんかも中々だったよ。
+EN Baba:
+EN "You've been working hard. That last
+EN  match was pretty good."
+
+@ 002
+JP #MS：
+JP 「ありがとうございます！
+EN #MS:
+EN "Thank you, sir!"
+
+@ 003
+JP #WS059：
+JP 「それでだな・・・・次のシリーズで
+JP 　お前にチャンスをやろう。
+EN Baba:
+EN "So.... next series, I'll give you a
+EN  chance."
+
+@ 004
+JP #MS：
+JP 「チャンス？
+EN #MS:
+EN "A chance?"
+
+@ 005
+JP #WS059：
+JP 「チャンスと言ってもただ与えられる
+JP 　チャンスじゃないぞ。
+JP 　『試練の五番勝負』だよ。
+EN Baba:
+EN "And not a chance that's just handed
+EN  to you. A five-match trial series."
+
+@ 006
+JP #MS：
+JP 「五番勝負！？
+EN #MS:
+EN "A five-match series!?"
+
+@ 007
+JP #WS059：
+JP 「当然、みんなそれなりの相手を用意する。
+JP 　ここでお前が何らかの結果を残すか、
+JP 　何も残せないか・・・それはお前次第だ。
+EN Baba:
+EN "Naturally, I'll line up worthy
+EN  opponents. Whether you get results
+EN  or not... that's up to you."
+
+@ 008
+JP #MS：
+JP 「はい。精一杯やらせてもらいます！
+EN #MS:
+EN "Yes, sir. I'll give it my all!"
+
+@ 009
+JP #WS059：
+JP 「おう。俺に『やった甲斐があった』と
+JP 　思わせてくれよ。
+EN Baba:
+EN "Good. Make me think it was worth
+EN  it."
+
+@ 010
+JP 五番勝負か。相手は誰になるんだろう・・・
+EN A five-match series. Who will I face...
+
+@ 011
+JP 記者：
+JP 「#MS選手！
+JP 　五番勝負が決定したそうですね！
+EN Reporter:
+EN "#MS! I hear your trial series is
+EN  set!"
+
+@ 012
+JP #MS：
+JP 「早いですね。もう流れてるんですか？
+EN #MS:
+EN "That was fast. It's out already?"
+
+@ 013
+JP 記者：
+JP 「ええ、先程#WS059社長から
+JP 　伺いました。
+EN Reporter:
+EN "Yes, Mr. Baba told us just now."
+
+@ 014
+JP #MS：
+JP 「なるほど。
+EN #MS:
+EN "I see."
+
+@ 015
+JP 記者：
+JP 「それでどうでしょう、意気込みの程は？
+EN Reporter:
+EN "So, how are you feeling about it?"
+
+@ 016
+JP #MS：
+JP 「まあ相手が決まってないんで、まだ何とも。
+EN #MS:
+EN "Well, my opponents aren't set, so I
+EN  can't really say."
+
+@ 017
+JP 記者：
+JP 「この結果によっては
+JP 　三冠王座挑戦なんて事も
+JP 　あり得るんじゃないですか？
+EN Reporter:
+EN "Depending on the results, couldn't it
+EN  even lead to a Triple Crown shot?"
+
+@ 018
+JP #MS：
+JP 「いや、さすがにそれは無いですよ。
+JP 　ただ・・・
+EN #MS:
+EN "No, that's going too far. But..."
+
+@ 019
+JP ・「絶対全勝します！
+JP ・「一試合一試合、頑張るだけですよ。
+EN ・"I'll win all five!"
+EN ・"I'll just take it one at a time."
+
+@ 020
+JP 記者：
+JP 「では五番勝負頑張って下さい！
+EN Reporter:
+EN "Good luck in the trial series!"
+
+@ 021
+JP 俺は五番勝負に備え黙々と練習していた。
+EN I trained in silence for the series.
+
+@ 022
+JP #WS060：
+JP 「よう、頑張ってるな。
+EN Tsuruta:
+EN "Hey, working hard, I see."
+
+@ 023
+JP #MS：
+JP 「#WS060さん！お疲れ様です！
+EN #MS:
+EN "Mr. Tsuruta! Good to see you!"
+
+@ 024
+JP #WS060：
+JP 「遂に五番勝負だってな。
+JP 　いいチャンスじゃないか。
+EN Tsuruta:
+EN "So you've got your trial series.
+EN  That's a fine chance."
+
+@ 025
+JP #MS：
+JP 「はい！精一杯頑張ります。
+EN #MS:
+EN "Yes, sir! I'll give it everything."
+
+@ 026
+JP #WS060：
+JP 「#WS059さんも
+JP 　結果を出せると思って組んだんだろう。
+EN Tsuruta:
+EN "Mr. Baba must have set it up because
+EN  he thinks you can deliver."
+
+@ 027
+JP 「#PL01のエースに
+JP 　なれるよう、頑張ってくれよ。
+EN "Work hard and become #PL01's
+EN  ace."
+
+@ 028
+JP #MS：
+JP 「ありがとうございます！
+EN #MS:
+EN "Thank you, sir!"

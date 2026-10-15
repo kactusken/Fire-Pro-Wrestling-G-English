@@ -1,0 +1,92 @@
+@ 000
+JP #MS：
+JP 「#WS060さん！
+EN #MS:
+EN "Mr. Tsuruta!"
+
+@ 001
+JP #WS060：
+JP 「おう。
+EN Tsuruta:
+EN "Hey."
+
+@ 002
+JP #MS：
+JP 「その、この間はどうも
+JP 　ありがとうございました。
+EN #MS:
+EN "Um, thank you for the other day."
+
+@ 003
+JP #WS060：
+JP 「ん？
+EN Tsuruta:
+EN "Hm?"
+
+@ 004
+JP #MS：
+JP 「あの、背中にバシーン、と。
+EN #MS:
+EN "You know, the big SMACK on my
+EN  back."
+
+@ 005
+JP #WS060：
+JP 「ああ、あれで良かったらいつでも
+JP 　やってやるぞ。
+EN Tsuruta:
+EN "Ah, if that helped, I'll do it any
+EN  time."
+
+@ 006
+JP 嬉しそうに笑っている。
+EN He was grinning happily.
+
+@ 007
+JP #MS：
+JP 「いえ、もう全然大丈夫です。
+JP 　何となく感覚で覚えました。
+EN #MS:
+EN "No, I'm totally fine now. I think I've
+EN  got the feel of it."
+
+@ 008
+JP #WS060：
+JP 「叩いた甲斐があったな。
+JP 　結果、楽しみにしてるからな。
+EN Tsuruta:
+EN "Then it was worth the slap. I'm
+EN  looking forward to the results."
+
+@ 009
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes, sir."
+
+@ 010
+JP 俺は立ち去る#WS060さんに一礼した。
+EN I bowed to Mr. Tsuruta as he left.
+
+@ 011
+JP 今日のリーグ戦の相手は#WS047。
+JP あいつの投げは要注意だ。
+EN Today's league opponent is Honda. I
+EN have to watch out for his throws.
+
+@ 012
+JP #WS066：
+JP 「おい、出番だぞ！
+EN Kikuchi:
+EN "Hey, you're up!"
+
+@ 013
+JP #MS：
+JP 「はい、行きます！
+EN #MS:
+EN "Yes, sir, I'm going!"
+
+@ 014
+JP 俺は体の力を少し抜く。この感覚だ。
+EN I let a little tension out of my body.
+EN This is the feeling.

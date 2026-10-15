@@ -1,0 +1,130 @@
+@ 000
+JP 坂上：
+JP 「試運転としちゃあ、まずまずだったかな？
+EN Sakagami:
+EN "Not bad for a test drive, huh?"
+
+@ 001
+JP #MS：
+JP 「そうだな。
+JP 　でもまだまだ、これからだよ！
+EN #MS:
+EN "Yeah. But we're just getting started!"
+
+@ 002
+JP 坂上：
+JP 「おう！
+EN Sakagami:
+EN "You bet!"
+
+@ 003
+JP 俺達はこの試合で確信を得た。
+JP これなら行ける！
+EN That match convinced us. We can do
+EN this!
+
+@ 004
+JP #WS015：
+JP 「いい感じだな、お２人さん。
+EN Liger:
+EN "Looking good, you two."
+
+@ 005
+JP #MS：
+JP 「#WS015さん！
+EN #MS:
+EN "Liger!"
+
+@ 006
+JP 坂上：
+JP 「気に入ってもらえましたか？
+EN Sakagami:
+EN "Did you like it?"
+
+@ 007
+JP #WS015：
+JP 「ああ。個人個人がまだ多少粗いのが
+JP 　気になるけどな。まあそれは若さだろうし。
+JP 　呼吸も合ってていい感じだよ。
+EN Liger:
+EN "Yeah. You're each still a bit rough,
+EN  but that's youth. Your timing's
+EN  good."
+
+@ 008
+JP 「これからが楽しみだな。
+EN "I can't wait to see what's next."
+
+@ 009
+JP #MS：
+JP 「ありがとうございます！
+EN #MS:
+EN "Thank you!"
+
+@ 010
+JP 坂上：
+JP 「これからどんどん大物食いして行きますから！
+JP 　#WS015さんも狙いますよ！
+EN Sakagami:
+EN "We're gonna keep taking down big
+EN  names! We're coming for you too,
+EN  Liger!"
+
+@ 011
+JP #WS015：
+JP 「ハハハ、待ってるよ。
+JP 　但し俺は負けないからな！
+JP 　やれるもんならやってみろ！
+EN Liger:
+EN "Ha ha ha, I'll be waiting. But I won't
+EN  lose! Try it if you can!"
+
+@ 012
+JP #MS：
+JP 「やります！
+EN #MS:
+EN "We will!"
+
+@ 013
+JP 坂上：
+JP 「必ず！
+EN Sakagami:
+EN "Count on it!"
+
+@ 014
+JP ５番勝負第２戦の相手は
+JP #WS018・#WS020組。
+EN Match two of the five: Otani and
+EN Takaiwa.
+
+@ 015
+JP ＩＧＰジュニアタッグの初代王者チームだ。
+JP 相手に取って不足は無い。
+EN The first-ever IWGP Junior Tag
+EN champions. Worthy opponents.
+
+@ 016
+JP #WS018：
+JP 「#MS！坂上！
+JP 　お前達は確かに凄い勢いを持ってる。
+JP 　けどな！俺達はそう簡単に負けないからな！
+EN Otani:
+EN "#MS! Sakagami! You two sure
+EN  have momentum. But we won't go
+EN  down easy!"
+
+@ 017
+JP #MS：
+JP 「#WS018選手！
+JP 　あなた達も同期同士、こっちも同期同士。
+EN #MS:
+EN "Otani! You two came up together,
+EN  and so did we."
+
+@ 018
+JP 坂上：
+JP 「どっちがより呼吸の合った、
+JP 　素晴らしいタッグチームか・・・勝負だ！
+EN Sakagami:
+EN "Let's see which team's more in sync,
+EN  which is the better team... Bring it!"

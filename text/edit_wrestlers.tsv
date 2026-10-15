@@ -1,0 +1,56 @@
+# Edit-format wrestler records (512 bytes; names at the same offsets as the roster, plus a
+# custom finisher name at +0x1C8) that live outside the roster. tools/editdata.py.
+#   013:n  FPG 013 (raw) = the fresh save data: 30 bonus edit wrestlers at 0x4E28
+#   016:n  FPG 016 (raw): two records (a sample wrestler and Coach Yamamoto)
+#   127:n  FPG 127 (compressed): story mode starting templates and Sakagami
+#   004    overlay 004 0x800755E8: the default record for a new edit wrestler
+#   exe    EXE 0x8004980C: the story hero's default record
+# short = list/surname (max 13 bytes), full = full name (see tools/roster.py fields()),
+# nickname max 25 bytes, finisher max 27 bytes.
+id	japanese	short	full	nickname	finisher
+013:0	マスク・ド・ギガンテス	Gigantes	Mask de Gigantes	Hyper Elbow	Avalanche Hold
+013:1	ミャオ	Myao	Myao	A	Running Neckbreaker
+013:2	△るりりん◇・Ｍｋー９９	Mk-99	Ruririn Mk-99	Terror from Above	Ruririn Super Tsukkomi!!
+013:3	エルボー 氷川	Hikawa	Elbow Hikawa	Hyper Elbow	Tiger Driver
+013:4	＃クン	Sharp-kun	Sharp-kun	A	Muay Thai Middle Kick
+013:5	俺は炎の～ムキムキマン	Mukimukiman	Fiery Mukimukiman	400 Years of Tendon	Muscle Buster
+013:6	武舞	Bubu	Bubu	A	Slamming Lariat Attack
+013:7	電 斬	Den	Den Zan	JWAT	Karelin Lift
+013:8	リー・カン	Lee	Lee Kang	0	Phoenix Kick
+013:9	ミスター Ｔ	T	Mr. T	A	Choke Sleeper
+013:10	かっぱ君	Kappa-kun	Kappa-kun	0	Hollywood Star Press
+013:11	緑愚	Midorigu	Midorigu	0	One-Leg Headbutt Barrage
+013:12	プラズマ 拳虎	Kenko	Plasma Kenko	Iron Fist Reborn	Inazuma Leg Lariat
+013:13	たぬ吉	Tanukichi	Tanukichi	0	Blizzard Suplex
+013:14	パンダリータ	Pandarita	Pandarita	0	Choke Sleeper
+013:15	ルレオ・ガビク	Ruleo	Ruleo Gabik	0	Enzui Lariat
+013:16	木下 涼子	Kinoshita	Ryoko Kinoshita	Power & Technique	Niagara Driver
+013:17	チータ・フライ	Cheetah	Cheetah Fly	A	Tiger Suplex
+013:18	横田 奈々美	Yokota	Nanami Yokota	Flying Goddess	Japanese Ocean Suplex
+013:19	タイガォー ハッタリ	Hattari	Tigaoo Hattari	0	Running Neckbreaker
+013:20	神咲 しおり	Kanzaki	Shiori Kanzaki	Women's Strongest Man	Fujiwara Armbar
+013:21	鷲ノ山 大司	Washinoyama	Taishi Washinoyama	BOSS	Powerbomb
+013:22	風魔 剣	Tsurugi	Fuma Tsurugi	0	Machine Gun Knee Lift
+013:23	クミビッチ ナゲスキー	Nageski	Kumivich Nageski	A	Triple German Suplex
+013:24	ガシコ・モントナ	Montona	Gashiko Montona	King of Destruction	Full Nelson Buster
+013:25	ひゅ～まん 熊三郎	Kumasaburo	Kumasaburo Hyuman	A	Bear Hug
+013:26	力田 武士	Rikita	Takeshi Rikita	0	Majin Windmill
+013:27	ひゅ～まん 熊次郎	Kumajiro	Kumajiro Hyuman	0	Bite
+013:28	山田 作造	Yamada	Sakuzo Yamada	Old Man	Powerbomb
+013:29	ミャウ	Myau	Myau	A	Running Neckbreaker
+016:0	ファイプロ 太郎	Firepro	Taro Firepro	Last Patriot	Scorpion Deathlock
+016:1	若元 一徹	Yamamoto	Kotetsu Yamamoto	Drill Sergeant	Diving Headbutt
+127:0	ベース アマレス	Base	Base Amateur	Classmate	German Suplex
+127:1	ベース 柔道	Base	Base Judo	Classmate	Sleeper Hold
+127:2	ベース 空手	Base	Base Karate	Classmate	High Kick
+127:3	ベース 体操	Base	Base Gymnast	Classmate	Diving Body Press
+127:4	ベース 相撲	Base	Base Sumo	Classmate	Football Tackle
+127:5	ベース ウェイト	Base	Base Weightlifter	Classmate	Oklahoma Stampede
+127:6	ベース 不良	Base	Base Delinquent	Classmate	Piledriver
+127:7	ベース なし	Base	Base None	Classmate	German Suplex
+127:8	坂上 浩一	Sakagami	Koichi Sakagami	Classmate	German Suplex
+127:9	坂上 浩一	Sakagami	Koichi Sakagami	Heavyweight	Yamamoto Special '78
+127:10	坂上 浩一	Sakagami	Koichi Sakagami	U-Style	Reverse Kneebar
+127:11	坂上 浩一	Sakagami	Koichi Sakagami	Junior	Cancun Tornado
+004	ヒューマン 三郎	Human	Saburo Human	Last Warrior	Human Bomber
+exe	山下 祐二	Yamashita	Yuji Yamashita	Rising Star	Shuman Bomber

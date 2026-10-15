@@ -1,0 +1,29 @@
+@ 000
+JP #WS088：
+JP 「今日は#WS180とか？
+EN Fuji:
+EN "Today it's Kuroda?"
+
+@ 001
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes."
+
+@ 002
+JP #WS088：
+JP 「あいつは今乗りに乗ってるからな・・・
+EN Fuji:
+EN "That guy's on a real roll right now..."
+
+@ 003
+JP #MS：
+JP 「ええ。でもこっちも
+JP 　負ける訳には行きませんから！
+EN #MS:
+EN "Yeah. But I can't afford to lose
+EN  either!"
+
+@ 004
+JP 「必ずあいつに勝って、決勝に出ます！
+EN "I'll beat him and make the final!"

@@ -1,0 +1,90 @@
+@ 000
+JP 試合は終わった。もう
+JP #WS149さんの試合は見られないのだ。
+EN The match was over. I'll never see
+EN Maeda fight again.
+
+@ 001
+JP 記者：
+JP 「#MS選手！
+EN Reporter:
+EN "#MS!"
+
+@ 002
+JP 「試合お疲れ様でした。
+JP 　今の心境など、お聞かせ願えますか？
+EN "Great match. Can you tell us how
+EN  you're feeling?"
+
+@ 003
+JP #MS：
+JP 「そうですね・・・
+JP 　色々複雑な思いがありますけど
+JP 　１つ言えるのは・・・・・
+EN #MS:
+EN "Well... I have a lot of mixed feelings,
+EN  but one thing I can say....."
+
+@ 004
+JP 「これからの日本格闘技界は本当の意味で
+JP 　残された俺達が支え、動かして行かなければ
+JP 　ならなくなった。
+EN "From now on, it's really up to those
+EN  of us left to carry Japanese combat
+EN  sports and move it forward."
+
+@ 005
+JP 「その為には個人個人が今まで以上の意識を
+JP 　持ってやって行かなきゃならない、
+JP 　って事ですよ。
+EN "And for that, each of us has to be
+EN  more committed than ever."
+
+@ 006
+JP 記者：
+JP 「試合後、リング上で#WS149選手と
+JP 　何を話していたんですか？
+EN Reporter:
+EN "What did you and Maeda talk about
+EN  in the ring after the match?"
+
+@ 007
+JP #MS：
+JP 「まあ『任せたぞ』と。
+JP 　で、『任されました』と返事をしました。
+EN #MS:
+EN "Well, he said 'It's in your hands.' And
+EN  I said 'I'll take it.'"
+
+@ 008
+JP 記者：
+JP 「それは今後#MS選手が主導権を持って
+JP 　日本格闘技界を動かして行く、と言う
+JP 　事ですか？
+EN Reporter:
+EN "So you'll be the one leading Japanese
+EN  combat sports from here on?"
+
+@ 009
+JP #MS：
+JP 「もちろんそう言う権利をもらったって
+JP 　訳じゃないですよ。
+JP 　俺が勝手にやってやるぞ、と言う事ですよ。
+EN #MS:
+EN "It's not like I was given that right. I
+EN  just mean I'm going to do it on my
+EN  own."
+
+@ 010
+JP 「これからはもっと色々な方面に
+JP 　動いて行こうと思ってますので、
+JP 　よろしくお願いします！
+EN "I plan to branch out in all kinds of
+EN  directions, so I hope you'll stay with
+EN  me!"
+
+@ 011
+JP 記者：
+JP 「期待してます！ありがとうございました！
+EN Reporter:
+EN "We can't wait! Thank you!"

@@ -1,0 +1,237 @@
+@ 000
+JP 記者：
+JP 「明日はいよいよ#WS051戦です。
+EN Reporter:
+EN "Tomorrow, at last, you face Hansen."
+
+@ 001
+JP そう、五番勝負最後の相手は、
+JP あの#WS051に決まったのだ。
+EN That's right. The last opponent in my
+EN series turned out to be the great Stan
+EN Hansen.
+
+@ 002
+JP 記者：
+JP 「トップ外人との
+JP 　シングル初対決となる訳ですが？
+EN Reporter:
+EN "It's your first singles match against
+EN  a top foreigner."
+
+@ 003
+JP ・今回はとにかく結果が全てだ。
+JP ・勝ち負けよりも大事なものがある。
+EN ・This time, results are everything.
+EN ・Some things matter more than wins.
+
+@ 004
+JP #MS：
+JP 「今回はね、負けちゃいけない闘いだと
+JP 　思ってます。ここで負けたらまた元通り。
+EN #MS:
+EN "This time, I think it's a fight I can't
+EN  lose. If I lose, it's back to square one."
+
+@ 005
+JP 「やっぱり#MSじゃ
+JP 　#WS051にはかなわないんだ、で
+JP 　終わりですから。
+EN "People will just say, 'See, #MS
+EN  can't hang with Hansen,' and that's
+EN  it."
+
+@ 006
+JP 「このチャンス、
+JP 　必ず活かすつもりで行きますよ！
+EN "I'm going in to make the most of this
+EN  chance!"
+
+@ 007
+JP #MS：
+JP 「もちろん勝ち負けもありますけどね。
+EN #MS:
+EN "Winning matters, of course."
+
+@ 008
+JP 「#WS051相手に、
+JP 　いかに内容の伴った闘いが
+JP 　出来るのかが重要だと思ってます。
+EN "But against Hansen, what counts is
+EN  how good a fight I can put up."
+
+@ 009
+JP 「勝った時に、今回１回のまぐれ勝ちじゃ
+JP 　意味が無いんですよ。
+EN "If I win, a one-time fluke win means
+EN  nothing."
+
+@ 010
+JP 「そしてお客さんがうなるような、熱い闘いを
+JP 　したいですね！
+EN "And I want a hot fight that makes
+EN  the crowd roar!"
+
+@ 011
+JP 記者：
+JP 「では明日、好試合期待しています。
+JP 　頑張って下さい！
+EN Reporter:
+EN "We're expecting a great match
+EN  tomorrow. Good luck!"
+
+@ 012
+JP #MS：
+JP 「ありがとうございました！
+EN #MS:
+EN "Thank you!"
+
+@ 013
+JP 彼の必殺技、ウエスタンラリアットは
+JP 大技乱発傾向にある現在のプロレス界の中で
+JP 唯一本当の意味での必殺技だろう。
+EN His finisher, the Western Lariat, may
+EN be the only true finisher left in
+EN today's flood of big moves.
+
+@ 014
+JP あれを食らう訳には行かない。
+EN I can't let that hit me.
+
+@ 015
+JP #WS041：
+JP 「いよいよ#WS051と試合だって？
+EN Kobashi:
+EN "So you finally face Hansen?"
+
+@ 016
+JP #MS：
+JP 「あ！#WS041さん！
+EN #MS:
+EN "Oh! Mr. Kobashi!"
+
+@ 017
+JP #WS041：
+JP 「どう？何か策はあるの？
+EN Kobashi:
+EN "So? Got a plan?"
+
+@ 018
+JP #MS：
+JP 「いえ・・・・
+EN #MS:
+EN "No...."
+
+@ 019
+JP #WS041：
+JP 「まあ普通に考えれば
+JP 　彼に勝つには長年セオリーになっている
+JP 　『左腕殺し』だろうな。
+EN Kobashi:
+EN "Well, the usual way to beat him, the
+EN  theory for years now, is to kill the
+EN  left arm."
+
+@ 020
+JP #MS：
+JP 「ラリアット封じ・・・ですね。
+EN #MS:
+EN "Shut down the lariat... right."
+
+@ 021
+JP #WS041：
+JP 「おそらく、向こうも十分警戒してるから
+JP 　うまく行くかはわからないけどな。
+JP 　ただ、これだけは言える。
+EN Kobashi:
+EN "He'll be on guard for it, so who
+EN  knows if it'll work. But I'll tell you
+EN  this much."
+
+@ 022
+JP 「#WS051と試合出来るって事は
+JP 　お前がもう十分に
+JP 　一人前のレスラーだって事だ。
+EN "Getting a match with Hansen means
+EN  you're a full-fledged wrestler now."
+
+@ 023
+JP 「だから自分を信じて
+JP 　熱い闘いさえ出来ればおのずと
+JP 　結果はついて来る。
+EN "So believe in yourself. If you can put
+EN  up a hot fight, the results will
+EN  follow."
+
+@ 024
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 025
+JP #WS041：
+JP 「みんな#MSには期待してるんだ。
+JP 　勝ち負けを超えた好試合を
+JP 　期待してるよ。
+EN Kobashi:
+EN "Everyone's expecting a lot from you.
+EN  We want a great match, beyond
+EN  winning or losing."
+
+@ 026
+JP #MS：
+JP 「ありがとうございます！
+EN #MS:
+EN "Thank you!"
+
+@ 027
+JP #WS041さんのおかげで
+JP 勇気が湧いてきた。
+JP やるだけやるしかない！
+EN Mr. Kobashi gave me courage. All I
+EN can do is give it everything!
+
+@ 028
+JP 遂に五番勝負最終戦、
+JP #WS051との
+JP シングルマッチの時が来た。
+EN At last it was time for the series
+EN finale: my singles match with Hansen.
+
+@ 029
+JP #WS051：
+JP 「ヘイ！シリーズ最終戦の相手が
+JP 　ユーじゃ役不足だぜ！
+JP 　またこの左腕の犠牲者が増えるだけだ！
+EN Hansen:
+EN "Hey! You're no match for me on the
+EN  last night! Just one more victim for
+EN  this left arm!"
+
+@ 030
+JP #MS：
+JP 「そんなものはやってみなきゃ分からない！
+JP 　ブレーキの壊れたダンプカー、
+JP 　俺が止めてみせる！
+EN #MS:
+EN "We won't know till we try! I'll stop
+EN  the dump truck with no brakes!"
+
+@ 031
+JP #WS051：
+JP 「どうしてもやると言うなら覚悟するんだな！
+JP 　すぐにＫＯしてやる！
+EN Hansen:
+EN "If you insist, then brace yourself! I'll
+EN  KO you fast!"
+
+@ 032
+JP 「ハリーアップ！！
+EN "HURRY UP!!"
+
+@ 033
+JP #MS：
+JP 「行くぞ！
+EN #MS:
+EN "Let's go!"

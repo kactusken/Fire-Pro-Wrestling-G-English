@@ -1,0 +1,267 @@
+@ 000
+JP 最終戦の試合を終えた俺はグッタリしたまま
+JP かろうじて控え室に辿り着いた。
+EN After my final match, I barely
+EN dragged my exhausted body to the
+EN locker room.
+
+@ 001
+JP #WS040：
+JP 「お疲れさん。
+EN Misawa:
+EN "Good work."
+
+@ 002
+JP #MS：
+JP 「#WS040さん・・・
+EN #MS:
+EN "Mr. Misawa..."
+
+@ 003
+JP #WS040：
+JP 「良い試合だったよ。
+JP 　お客さんも喜んでたし。
+EN Misawa:
+EN "That was a good match. The crowd
+EN  loved it."
+
+@ 004
+JP #MS：
+JP 「あ、ありがとうございます。
+EN #MS:
+EN "Th-Thank you, sir."
+
+@ 005
+JP 俺は驚いていた。#WS040さんは
+JP 意外と他人を誉めない人だ。
+JP その人に誉められるとは・・・
+EN I was stunned. Misawa rarely praises
+EN anyone. And he praised me...
+
+@ 006
+JP #WS040：
+JP 「あのクラスとこれだけの試合が
+JP 　出来れば必然的にチャンスも
+JP 　多くなるよ。
+EN Misawa:
+EN "If you can have a match like that
+EN  with a guy of that class, chances will
+EN  come your way."
+
+@ 007
+JP 「これからもっともっと
+JP 　前に出て来て欲しいよね、
+JP 　#MSとかにはさ。
+EN "I'd like to see guys like you push to
+EN  the front a lot more."
+
+@ 008
+JP #MS：
+JP 「はい！頑張ります！
+EN #MS:
+EN "Yes, sir! I'll work hard!"
+
+@ 009
+JP 俺は支度を終え、廊下に出た。
+EN I got ready and stepped into the
+EN hallway.
+
+@ 010
+JP 記者：
+JP 「#MSさん！
+EN Reporter:
+EN "#MS!"
+
+@ 011
+JP 「坂上選手からメッセージ伝えるように
+JP 　言われて来たんですけど・・・
+EN "Sakagami asked me to pass on a
+EN  message to you..."
+
+@ 012
+JP #MS：
+JP 「坂上！？何て言ってたんです？
+EN #MS:
+EN "Sakagami!? What did he say?"
+
+@ 013
+JP 驚いた俺は大声で返事をしていた。
+EN Surprised, I answered loudly.
+
+@ 014
+JP 記者：
+JP 「『対戦したい、俺も働きかけるから
+JP 　お前も動いてくれ』って。
+EN Reporter:
+EN "'I want to face you. I'll push for it, so
+EN  you make moves too.'"
+
+@ 015
+JP #MS：
+JP 「坂上が・・・・
+EN #MS:
+EN "Sakagami...."
+
+@ 016
+JP そう言えばあいつ、どうしてるんだろう。
+JP あまり他団体の事を気にしてる余裕
+JP 無かったからな・・・
+EN Come to think of it, how is he doing? I
+EN never had time to worry about other
+EN promotions...
+
+@ 017
+JP #MS：
+JP 「で、あいつ最近どうしてます？
+EN #MS:
+EN "So how's he been lately?"
+
+@ 018
+JP 記者：
+JP 「ちょっと前に、敗れましたけど
+JP 　ＩＧＰシングルに初挑戦しましたよ。
+EN Reporter:
+EN "A while ago, he got his first IWGP
+EN  singles title shot. He lost, though."
+
+@ 019
+JP あいつも頑張ってたんだな・・・
+EN He's been working hard too...
+
+@ 020
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 021
+JP 俺は両方が王者になってから、と思っていたが
+JP それはそれで実現が難しくなるのかもしれない。
+EN I'd figured we'd meet once we were
+EN both champs, but that might make it
+EN even harder to happen.
+
+@ 022
+JP 結局俺は#WS059社長に
+JP 相談する事にした。
+EN In the end, I decided to talk it over
+EN with Mr. Baba.
+
+@ 023
+JP #WS059：
+JP 「・・・・・
+EN Baba:
+EN "....."
+
+@ 024
+JP #MS：
+JP 「お願いします！
+EN #MS:
+EN "Please!"
+
+@ 025
+JP #WS059：
+JP 「まあ、お前らの気持ちは分かったよ。
+JP 　俺も個人の気持ちとしては
+JP 　実現させてやりたいよ。
+EN Baba:
+EN "Well, I understand how you two feel.
+EN  Personally, I'd like to make it
+EN  happen."
+
+@ 026
+JP 「ただ知っての通り、
+JP 　お前は#PL01の、
+JP 　相手は他所の選手だ。
+EN "But as you know, you're #PL01's,
+EN  and he's from another company."
+
+@ 027
+JP 「色んなしがらみがある訳だよ。それは
+JP 　俺の一存でどうこう出来るもんじゃない。
+EN "There are all sorts of ties to deal
+EN  with. I can't just decide it on my
+EN  own."
+
+@ 028
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes, sir."
+
+@ 029
+JP #WS059：
+JP 「・・・・・・・
+EN Baba:
+EN "......."
+
+@ 030
+JP 「まあ先方に話し合う気があるなら、
+JP 　俺も何とか考えてみよう。
+EN "Well, if they're willing to talk, I'll see
+EN  what I can do."
+
+@ 031
+JP #MS：
+JP 「ありがとうございます！
+JP 　よろしくお願いします！
+EN #MS:
+EN "Thank you, sir! I'm counting on you!"
+
+@ 032
+JP その後、あれこれと話し合いが行われ、
+JP 結論が出た。
+EN There were all kinds of talks after
+EN that, and a decision was reached.
+
+@ 033
+JP #PL00ドーム大会
+JP #MS、#WS046組対
+JP 坂上、#WS029組。
+EN #PL00 Dome show: #MS and
+EN Omori vs. Sakagami and Tenzan.
+
+@ 034
+JP シングルマッチでないのは残念だったが
+JP 諸問題を乗り越えて坂上との対戦が
+JP 実現したのはとても凄い事だ。
+EN Too bad it wasn't a single, but getting
+EN past all those issues to face Sakagami
+EN was amazing.
+
+@ 035
+JP ドームを埋め尽くした観客から
+JP リングに上がった４人に
+JP 大歓声が送られた。
+EN A huge cheer from the packed Dome
+EN greeted the four of us in the ring.
+
+@ 036
+JP #MS：
+JP 「お前があの坂上なのか？
+JP 　別人みたいだぜ。
+EN #MS:
+EN "Are you really Sakagami? You look
+EN  like a different guy."
+
+@ 037
+JP 坂上：
+JP 「お前こそな。
+EN Sakagami:
+EN "So do you."
+
+@ 038
+JP 「今日はタッグだが
+JP 　俺はお前から取ってやるからな。
+EN "It's a tag today, but I'm pinning
+EN  you."
+
+@ 039
+JP #MS：
+JP 「その言葉、そっくり返しておくぜ。
+EN #MS:
+EN "Right back at you."
+
+@ 040
+JP 俺達は熱い握手を交わした。
+EN We shook hands firmly.

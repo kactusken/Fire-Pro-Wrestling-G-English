@@ -1,0 +1,95 @@
+@ 000
+JP #MS：
+JP 「お疲れ様です。
+EN #MS:
+EN "Good work today."
+
+@ 001
+JP #WS076：
+JP 「俺は、今シリーズを最後に
+JP 　#PS02を離脱する。
+EN Onita:
+EN "After this series, I'm leaving
+EN  #PS02."
+
+@ 002
+JP #MS：
+JP 「え！？
+EN #MS:
+EN "What!?"
+
+@ 003
+JP #WS076：
+JP 「俺は・・・俺はあいつらを見くびっていたよ。
+JP 　あいつらなら・・・俺がいなくても
+JP 　大丈夫だろう・・・・
+EN Onita:
+EN "I... I underestimated those guys.
+EN  They'll... be fine without me...."
+
+@ 004
+JP 「しかし俺がこのままここにいる事は
+JP 　#PS02の成長を止める事になる。
+JP 　だから俺は出て行く・・・・
+EN "But if I stay here, I'll hold #PS02
+EN  back. So I'm leaving...."
+
+@ 005
+JP #MS：
+JP 「そんな！
+EN #MS:
+EN "No way!"
+
+@ 006
+JP #WS076：
+JP 「お前まで俺に付いて来る事は無い。
+JP 　最終戦で俺とシングルだ。そこで
+JP 　噛み付いて来い。
+EN Onita:
+EN "You don't have to follow me. In the
+EN  final show, it's you and me,
+EN  one-on-one. Come at me there."
+
+@ 007
+JP 「そして正規軍に戻れ。
+EN "Then go back to the regulars."
+
+@ 008
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 009
+JP 俺は突然の展開に戸惑っていた。
+JP どうすれば・・・・どうすればいい？
+EN The sudden turn threw me. What
+EN should I do.... What should I do?
+
+@ 010
+JP そして最終戦。
+EN Then came the final show.
+
+@ 011
+JP 『#WF076
+JP 　#PS02ファイナルマッチ』の
+JP 試合が始まろうとしていた。
+EN "Atsushi Onita #PS02 Final
+EN  Match" was about to begin.
+
+@ 012
+JP #WS076：
+JP 「来い、#MS！
+EN Onita:
+EN "Come on, #MS!"
+
+@ 013
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 014
+JP 俺の迷いは
+JP 未だ晴れてはいなかった・・・・
+EN I still hadn't shaken my doubts....

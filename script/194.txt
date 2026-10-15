@@ -1,0 +1,134 @@
+@ 000
+JP 記者：
+JP 「非常に残念でした。どちらが勝っても
+JP 　おかしくない試合でしたが・・・・・
+EN Reporter:
+EN "That was a real shame. It could have
+EN  gone either way....."
+
+@ 001
+JP #MS：
+JP 「うるせぇよ。現実にこうして
+JP 　俺の方が負けてんだよ。
+EN #MS:
+EN "Shut up. Fact is, I'm the one who
+EN  lost."
+
+@ 002
+JP 記者：
+JP 「内容もタイトルマッチに相応しいものでした。
+EN Reporter:
+EN "And it was a match worthy of a title
+EN  bout."
+
+@ 003
+JP #MS：
+JP 「負けた奴が内容語ってどうすんだって。
+JP 　そんな事聞きたかったら
+JP 　#WS068のとこ行って来いよ！
+EN #MS:
+EN "What's the loser supposed to say
+EN  about the match? If you wanna hear
+EN  that, go ask Hayabusa!"
+
+@ 004
+JP 記者：
+JP 「次期シリーズでは第一回
+JP 　『トップオブ#PS02トーナメント』が
+JP 　開かれます。
+EN Reporter:
+EN "Next series is the first-ever "Top of
+EN  #PS02 Tournament.""
+
+@ 005
+JP #MS：
+JP 「分かったよ。そこで優勝してもう一丁だよ。
+JP 　それまでベルトをちゃんと持ってろって
+JP 　#WS068に言っておけ！
+EN #MS:
+EN "Fine. I'll win that and go again. Tell
+EN  Hayabusa to hang on to that belt till
+EN  then!"
+
+@ 006
+JP 記者：
+JP 「ありがとうございました。
+EN Reporter:
+EN "Thank you very much."
+
+@ 007
+JP マスコミ連中が帰った後、
+JP 俺は悔しさもあったが
+JP 全力でぶつかり合えた爽快感を感じていた。
+EN After the press left, I was frustrated,
+EN but also felt great about going all-out
+EN with him.
+
+@ 008
+JP まあ、また挑戦すればいいさ・・・・
+EN Well, I'll just challenge him again....
+
+@ 009
+JP #WS071：
+JP 「#MS！
+EN Fuyuki:
+EN "#MS!"
+
+@ 010
+JP #MS：
+JP 「あ、#WS071さん。おはようございます。
+EN #MS:
+EN "Oh, Mr. Fuyuki. Morning."
+
+@ 011
+JP #WS071：
+JP 「それどころじゃねぇんだよ！
+JP 　#WS068の奴ベルトを返上しやがった！
+EN Fuyuki:
+EN "Never mind that! Hayabusa gave
+EN  back the belt!"
+
+@ 012
+JP #MS：
+JP 「えっ！？
+EN #MS:
+EN "What!?"
+
+@ 013
+JP #WS076色の古い#PS02の
+JP タイトルを永久封印し、
+JP 新たな#PS02ベルトを作るのだと言う。
+EN He'd seal away the old #PS02 title,
+EN stained with Onita's colors, and create
+EN a new #PS02 belt.
+
+@ 014
+JP #WS071：
+JP 「まさかあいつが俺達と同じ事考えてるとはな。
+EN Fuyuki:
+EN "Who knew he was thinkin' the same
+EN  thing as us."
+
+@ 015
+JP #MS：
+JP 「意外でしたね・・・・
+EN #MS:
+EN "That's a surprise...."
+
+@ 016
+JP #WS071：
+JP 「ま、#WS076のいない新しい
+JP 　#PS02を作ろうと言う点においては
+JP 　考えは同じだからな。
+EN Fuyuki:
+EN "Well, we agree on building a new
+EN  #PS02 without Onita."
+
+@ 017
+JP 「たまたま同じ事を考えてた、って事だろ。
+EN "Guess we just happened to have the
+EN  same idea."
+
+@ 018
+JP あの人も色々考えてるんだな・・・・
+EN So he's got his own ideas too....

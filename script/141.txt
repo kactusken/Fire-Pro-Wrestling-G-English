@@ -1,0 +1,67 @@
+@ 000
+JP 記者：
+JP 「優勝おめでとうございます！
+EN Reporter:
+EN "Congratulations on the win!"
+
+@ 001
+JP #MS：
+JP 「ありがとうございます！
+EN #MS:
+EN "Thank you!"
+
+@ 002
+JP 記者：
+JP 「全勝だった#WS051組を遂に破りました。
+JP 　これはただ優勝するだけではない、
+JP 　価値のある勝利だったんじゃないですか？
+EN Reporter:
+EN "You finally beat the unbeaten
+EN  Hansen team. Wasn't that worth more
+EN  than just the trophy?"
+
+@ 003
+JP #MS：
+JP 「そうですね。やっぱり全勝のまま行かせちゃ
+JP 　いけないって言うのはありましたから。
+EN #MS:
+EN "Yeah. We felt we couldn't let them go
+EN  all the way unbeaten."
+
+@ 004
+JP 記者：
+JP 「#WS040選手、パートナーの
+JP 　#MS選手、いかがでしたか？
+EN Reporter:
+EN "Mr. Misawa, how was your partner,
+EN  #MS?"
+
+@ 005
+JP #WS040：
+JP 「いかがも何もね。
+JP 　この結果が全てじゃないですか？
+EN Misawa:
+EN "What's there to ask? Doesn't this
+EN  result say it all?"
+
+@ 006
+JP 記者：
+JP 「ファンの皆さんに一言お願いします。
+EN Reporter:
+EN "A word for the fans, please."
+
+@ 007
+JP #MS：
+JP 「今度はベルト狙います！
+JP 　今日は本当にありがとうございました！
+EN #MS:
+EN "Next, we're going for the belts!
+EN  Thank you so much today!"
+
+@ 008
+JP 念願のタッグリーグ優勝を果たした
+JP 俺達のチームは次のシリーズでタイトルに挑戦。
+JP 見事ベルトを手中に収めた。
+EN With our dream Tag League win, we
+EN got a title shot the next series and
+EN took the belts.

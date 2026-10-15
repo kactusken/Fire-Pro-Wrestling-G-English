@@ -1,0 +1,118 @@
+@ 000
+JP 記者：
+JP 「２度目の防衛、おめでとうございます。
+JP 　あの#WS155選手の挑戦を退けました。
+EN Reporter:
+EN "Congrats on your second defense.
+EN  You turned back Suzuki himself."
+
+@ 001
+JP #MS：
+JP 「苦しい試合でしたけど、
+JP 　何とか勝てたんで嬉しいですね。
+EN #MS:
+EN "It was a tough match, but I'm glad I
+EN  managed to win."
+
+@ 002
+JP 記者：
+JP 「次の挑戦者はおそらくエース
+JP 　#WS154選手になる可能性が
+JP 　高いと思われますが？
+EN Reporter:
+EN "Your next challenger will most likely
+EN  be the ace, Funaki. Thoughts?"
+
+@ 003
+JP #MS：
+JP 「この間のトーナメント決勝では何とか
+JP 　勝てましたけど、#WS154さんも
+JP 　死ぬ思いでトレーニングしてますから。
+EN #MS:
+EN "I barely won in the tournament final,
+EN  but Funaki's been training like his
+EN  life depends on it."
+
+@ 004
+JP 「当然前回のようには行かないでしょう。
+JP 　やっぱり最強の挑戦者だと思います。
+EN "It won't go like last time. He's the
+EN  toughest challenger there is."
+
+@ 005
+JP 記者：
+JP 「最後に一言お願いします。
+EN Reporter:
+EN "Any final words?"
+
+@ 006
+JP #MS：
+JP 「今後も#PS10を
+JP 　応援して下さい！
+EN #MS:
+EN "Please keep supporting #PS10!"
+
+@ 007
+JP 俺は次の日から早速、次の防衛戦に向け
+JP トレーニングを開始した。
+EN The very next day, I started training
+EN for my next defense.
+
+@ 008
+JP そして・・・・
+EN And then....
+
+@ 009
+JP ３度目の防衛戦の日がやって来た。
+EN The day of my third defense arrived.
+
+@ 010
+JP #WS154：
+JP 「良い表情をしているし、体も良く仕上がった
+JP 　状態のようだ。それに風格も出てきた。
+EN Funaki:
+EN "You look sharp, and you're in great
+EN  shape. You've got real presence now."
+
+@ 011
+JP #MS：
+JP 「ありがとうございます。
+JP 　でもこれもあなたに勝つ為・・・・
+EN #MS:
+EN "Thank you. But this is all to beat
+EN  you...."
+
+@ 012
+JP 「キング・オブ・#PS10だけでなく、
+JP 　エースの称号を手に入れる為です！
+EN "Not just for the King of #PS10,
+EN  but to claim the title of ace!"
+
+@ 013
+JP 「俺がいくら勝ってもあくまでエースは
+JP 　あなただと思われている。
+JP 　俺はその世間の認識とも闘います！
+EN "No matter how much I win, people
+EN  still see you as the ace. I'll fight that
+EN  perception too!"
+
+@ 014
+JP #WS154：
+JP 「難しい闘いだな・・・形の無いものと
+JP 　闘うのは大変な事だ。
+EN Funaki:
+EN "That's a tough fight... Fighting
+EN  something with no shape is hard."
+
+@ 015
+JP 「でも俺も１レスラーとしてお前にこのまま
+JP 　独走させておく訳には行かない。
+JP 　今日は勝たせてもらう！
+EN "But as a wrestler, I can't let you run
+EN  off on your own. Today, I win!"
+
+@ 016
+JP #MS：
+JP 「行きますよ！
+EN #MS:
+EN "Here I come!"

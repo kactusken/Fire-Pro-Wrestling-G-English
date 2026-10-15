@@ -1,0 +1,43 @@
+@ 000
+JP #WS141：
+JP 「#MSさん！
+JP 　ちゃんと勝ち上がって来ましたね！
+EN Y. Yamamoto:
+EN "#MS! You made it through like
+EN  you promised!"
+
+@ 001
+JP #MS：
+JP 「ああ。俺だって優勝目指してるからな。
+JP 　簡単には負けられないさ。
+EN #MS:
+EN "Yeah. I'm aiming to win this too. I
+EN  can't lose easy."
+
+@ 002
+JP #WS141：
+JP 「#PS07ジャパンでナンバー２は誰か、
+JP 　はっきりさせようじゃないですか！
+EN Y. Yamamoto:
+EN "Let's settle who's number two in
+EN  #PS07 Japan!"
+
+@ 003
+JP #MS：
+JP 「そうだな。
+EN #MS:
+EN "All right."
+
+@ 004
+JP #WS141：
+JP 「俺は勝つ！
+JP 　そして#WS149さんの後は俺が継ぐ！
+EN Y. Yamamoto:
+EN "I'll win! And I'll be the one to
+EN  succeed Mr. Maeda!"
+
+@ 005
+JP #MS：
+JP 「よし、来い！！
+EN #MS:
+EN "All right, bring it!!"

@@ -1,0 +1,214 @@
+@ 000
+JP 記者：
+JP 「次期シリーズでは遂に二冠統一王座に
+JP 　挑戦が決まりましたが？
+EN Reporter:
+EN "Next series, you finally get your shot
+EN  at the unified Double Championship."
+
+@ 001
+JP そう、俺は最近の暴れっぷりが認められ、
+JP 二冠統一王座への挑戦権を得たのだった。
+EN That's right. My recent rampage had
+EN earned me a shot at the unified
+EN Double Championship.
+
+@ 002
+JP #MS：
+JP 「ベルトは何としても貰うよ。
+EN #MS:
+EN "That belt's mine, no matter what."
+
+@ 003
+JP 記者：
+JP 「もしチャンピオンになったら
+JP 　何をしたいですか？
+EN Reporter:
+EN "If you become champion, what do
+EN  you want to do?"
+
+@ 004
+JP ・豪勢な祝賀パーティーを開かせる。
+JP ・統一機構に注文をつける。
+EN ・Make them throw a lavish party.
+EN ・Make demands of the commission.
+
+@ 005
+JP #MS：
+JP 「決まってんだろ！統一機構に金出させて、
+JP 　豪勢な祝賀パーティーを開くんだよ！
+EN #MS:
+EN "Isn't it obvious! Make the commission
+EN  pay for a lavish victory party!"
+
+@ 006
+JP 「あんたらも出たいなら、ちゃんと俺の事
+JP 　良く書いとけよ！
+EN "If you guys wanna come, you'd
+EN  better write nice things about me!"
+
+@ 007
+JP #MS：
+JP 「決まってんだろ！統一機構に
+JP 　文句たれてやるんだよ！もっとお客呼べる
+JP 　ようなやり方を考えるようにな！
+EN #MS:
+EN "Isn't it obvious! I'll chew out the
+EN  commission! Make 'em figure out how
+EN  to draw more fans!"
+
+@ 008
+JP 記者：
+JP 「シリーズ序盤に前哨戦も組まれていますが
+JP 　何か作戦などありますか？
+EN Reporter:
+EN "There's a preview match early in the
+EN  series. Any strategy?"
+
+@ 009
+JP ・無難に脚を狙う。
+JP ・タマを狙う。
+JP ・教えない。
+EN ・Play it safe: go for the legs.
+EN ・Go for the family jewels.
+EN ・Not telling.
+
+@ 010
+JP #MS：
+JP 「まあ無難に脚狙いって事にしとこうかな？
+EN #MS:
+EN "Well, let's just say I'll play it safe
+EN  and go for the legs."
+
+@ 011
+JP 記者：
+JP 「脚狙いですか。
+EN Reporter:
+EN "The legs, huh?"
+
+@ 012
+JP #MS：
+JP 「そういう事で、#WS068にも
+JP 　ちゃんと言っておいてくれよ。
+EN #MS:
+EN "So that's that. Be sure to pass it on to
+EN  Hayabusa."
+
+@ 013
+JP #MS：
+JP 「やっぱり俺は#WS071軍だからな。
+JP 　ここは一つタマ狙いだな。
+EN #MS:
+EN "I'm Fuyuki-gun, after all. So I'll go
+EN  for the family jewels."
+
+@ 014
+JP 記者：
+JP 「タマ・・・・急所打ちを狙うと言う事ですか？
+EN Reporter:
+EN "The jewels.... You mean a low blow?"
+
+@ 015
+JP #MS：
+JP 「#WS068を男子レスラー廃業の危機に
+JP 　追いこんでやるよ。
+EN #MS:
+EN "I'll put Hayabusa's career as a man in
+EN  serious danger."
+
+@ 016
+JP #MS：
+JP 「作戦？内緒に決まってるだろ。
+EN #MS:
+EN "Strategy? Like I'd tell you."
+
+@ 017
+JP 記者：
+JP 「秘密の作戦ですか？
+EN Reporter:
+EN "A secret strategy?"
+
+@ 018
+JP #MS：
+JP 「そう、あくまでもナ・イ・ショだ。
+EN #MS:
+EN "Yep. It's a s-e-c-r-e-t."
+
+@ 019
+JP 記者：
+JP 「いつになく気力が充実してる印象を受けます。
+EN Reporter:
+EN "You seem more fired up than ever."
+
+@ 020
+JP #MS：
+JP 「まあ見ててよ。ベルトは俺がきちんと
+JP 　受け取ってやるからさ。
+EN #MS:
+EN "Just watch. I'll be taking that belt,
+EN  nice and proper."
+
+@ 021
+JP 「#WS068には安心して王座転落するように
+JP 　伝えておいてよ。
+EN "Tell Hayabusa he can relax and drop
+EN  the title."
+
+@ 022
+JP 口で言うほど実際は余裕は無い。
+JP しかしこのチャンスを逃す訳には行かない。
+JP 必ず取ってみせる！
+EN I wasn't as confident as I sounded.
+EN But I couldn't let this chance slip by.
+EN I'd take that belt!
+
+@ 023
+JP 今日は最終戦のタイトルマッチの前哨戦。
+EN Today was the preview for the title
+EN match at the final show.
+
+@ 024
+JP #WS068のパートナーは
+JP #PS04から友情参戦の
+JP #WF094だ。
+EN Hayabusa's partner was Jinsei
+EN Shinzaki, in from #PS04 as a guest.
+
+@ 025
+JP #WS068：
+JP 「・・・・・・・・・
+EN Hayabusa:
+EN "........."
+
+@ 026
+JP 無言のまま俺をグッ、と
+JP 睨みつけて来る#WS068・・・・
+JP 俺も負けじと睨み返す。
+EN Hayabusa glared hard at me in
+EN silence.... I glared right back.
+
+@ 027
+JP #WS094がなだめるように
+JP #WS068を下がらせた。
+EN Shinzaki calmed him down and eased
+EN him back.
+
+@ 028
+JP #WS071：
+JP 「#MS、最初はスカせ。
+JP 　奴は必要以上に入れ込んでる。
+EN Fuyuki:
+EN "#MS, dodge him early. He's way
+EN  too worked up."
+
+@ 029
+JP #WS071さんのアドバイスが心強い。
+JP 俺はそのお陰でリラックスする事が出来た。
+EN Fuyuki's advice was reassuring.
+EN Thanks to him, I could relax.
+
+@ 030
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Right!"

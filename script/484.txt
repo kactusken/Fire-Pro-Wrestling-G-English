@@ -1,0 +1,104 @@
+@ 000
+JP #WS092：
+JP 「随分成長したな、お前も。
+EN Sasuke:
+EN "You've really grown, you know."
+
+@ 001
+JP #MS：
+JP 「そうですね・・・
+JP 　修行に出まわってるおかげで
+JP 　色んな経験してますからね。
+EN #MS:
+EN "I guess so... Going abroad to train,
+EN  I've had all kinds of experiences."
+
+@ 002
+JP 「動き、技、トレーニング・・・
+JP 　色々なものを見て回りましたから。
+JP 　これも修行に出していただいたおかげです。
+EN "Moves, holds, training... I've seen it
+EN  all. It's thanks to you sending me out
+EN  to train."
+
+@ 003
+JP #WS092：
+JP 「ハハハ、先行投資が
+JP 　実りつつある、って事だな？
+EN Sasuke:
+EN "Ha ha, so the investment's starting to
+EN  pay off, huh?"
+
+@ 004
+JP #MS：
+JP 「ええ。立派な実をつけてみせます！
+EN #MS:
+EN "Yes. I'll make it pay off big!"
+
+@ 005
+JP #WS092：
+JP 「頼もしい事言ってくれるじゃねぇか。
+EN Sasuke:
+EN "Now that's reassuring talk."
+
+@ 006
+JP #MS：
+JP 「それより俺、今日は嬉しいんですよ。
+EN #MS:
+EN "Anyway, I'm happy today."
+
+@ 007
+JP #WS092：
+JP 「何がだ？
+EN Sasuke:
+EN "About what?"
+
+@ 008
+JP #MS：
+JP 「だって#WS092さんと
+JP 　初タッグですよ！
+EN #MS:
+EN "It's my first time teaming with you!"
+
+@ 009
+JP #WS092：
+JP 「ああ、そうか。
+JP 　すぐに修行に出ちまったからな。
+EN Sasuke:
+EN "Oh, right. You went off to train right
+EN  away."
+
+@ 010
+JP 「でも相手がこれまた大変な連中だぞ。
+EN "But we're up against some tough
+EN  customers."
+
+@ 011
+JP #MS：
+JP 「そうですね。
+EN #MS:
+EN "That's true."
+
+@ 012
+JP 俺達の相手は#WS140・
+JP #WF139組だ。
+EN We face Sabu and Rob Van Dam.
+
+@ 013
+JP ＥＸＷ最高のタッグチームと言っていい。
+EN You could call them ECW's best tag
+EN team.
+
+@ 014
+JP #WS092：
+JP 「まあでもお前が頑張ってくれれば、
+JP 　十分勝てる相手だ。頼むぞ！
+EN Sasuke:
+EN "Still, if you pull your weight, we can
+EN  beat them. I'm counting on you!"
+
+@ 015
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"

@@ -1,0 +1,91 @@
+@ 000
+JP 俺と#WS101はいつものようにリング上で
+JP レッドＦＷＯ軍と対峙していた。
+EN Hogan and I were facing off with the
+EN Wolfpac in the ring, as usual.
+
+@ 001
+JP #WS101：
+JP 「ヘイ、#WS103。
+JP 　ユー達は随分とこのベルトに
+JP 　執着心があるようだな？
+EN Hogan:
+EN "Hey, Sting. You guys sure are hung
+EN  up on this belt, huh?"
+
+@ 002
+JP そう言って#WS101は腰に巻いている
+JP #PS05世界タッグ選手権のベルトを
+JP 指差した。
+EN With that, Hogan pointed at the
+EN #PS05 World Tag Team belt
+EN around his waist.
+
+@ 003
+JP #WS101：
+JP 「だから今日、ここで防衛戦を
+JP 　やってやろうじゃないか。
+EN Hogan:
+EN "So how about a title defense, right
+EN  here, today?"
+
+@ 004
+JP #WS103：
+JP 「#WS101！
+JP 　そのベルトはいつから
+JP 　ユーの物になったんだ？
+EN Sting:
+EN "Hogan! Since when is that belt
+EN  yours?"
+
+@ 005
+JP #WS101：
+JP 「ＯＨ！知らないのか？
+JP 　今のタッグのチャンプはミーと
+JP 　#MSなんだぜ？
+EN Hogan:
+EN "OH! You didn't know? The tag
+EN  champs are me and #MS,
+EN  brother."
+
+@ 006
+JP #WS103：
+JP 「何だって！？
+EN Sting:
+EN "What!?"
+
+@ 007
+JP どうやら#WS101は勝手にそういう事に
+JP してしまったらしい。
+EN Apparently Hogan had just decided
+EN that on his own.
+
+@ 008
+JP #WS103：
+JP 「まあいい。今日勝ってそのベルト、
+JP 　必ず貰い受ける！
+EN Sting:
+EN "Fine. We'll win today and take that
+EN  belt for sure!"
+
+@ 009
+JP #WS101：
+JP 「もし今日、勝てたらな。
+EN Hogan:
+EN "If you can win today, that is."
+
+@ 010
+JP #WS101：
+JP 「ヘイ、#MS！
+JP 　ユーには期待しているからな。
+JP 　今日は必ず防衛だ。
+EN Hogan:
+EN "Hey, #MS! I'm counting on you.
+EN  We're defending this belt today, no
+EN  matter what."
+
+@ 011
+JP #MS：
+JP 「ＯＫ、#WS101！
+EN #MS:
+EN "OK, Hogan!"

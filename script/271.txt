@@ -1,0 +1,45 @@
+@ 000
+JP トーナメントは決勝戦を迎えた。
+EN The tournament reached the final.
+
+@ 001
+JP #WS166：
+JP 「よ、元気か？今日は
+JP 　#WS124とだって？懐かしいなぁ。
+EN Anjoh:
+EN "Yo, how ya doin'? You got Severn
+EN  today? Man, takes me back."
+
+@ 002
+JP 彼は以前Ｕインテグラルのリングに
+JP 上がっていた事があるのだ。
+EN He'd once wrestled in the UWF-i ring.
+
+@ 003
+JP #WS166：
+JP 「リング上でよろしく言っておいてくれ。
+EN Anjoh:
+EN "Say hi for me in the ring."
+
+@ 004
+JP #MS：
+JP 「よろしくって言ったって・・・・
+EN #MS:
+EN "Say hi? How am I supposed to...."
+
+@ 005
+JP #WS166：
+JP 「じゃあな！
+EN Anjoh:
+EN "See ya!"
+
+@ 006
+JP ・・・・・・・・
+EN ........
+
+@ 007
+JP 何だか良く分からないうちに行ってしまった。
+JP まあいい。試合頑張ろう！
+EN He was gone before I knew what was
+EN going on. Whatever. Time to focus on
+EN the fight!

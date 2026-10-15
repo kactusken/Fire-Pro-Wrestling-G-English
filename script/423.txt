@@ -1,0 +1,261 @@
+@ 000
+JP 俺は勝った。あの、無敵と言われた
+JP #WF100に
+JP 真っ向勝負で勝ったのだ。
+EN I won. I beat the "invincible" Bill
+EN Goldberg, head-on.
+
+@ 001
+JP 観客も、俺が日本人だと言うのに
+JP これだけ歓声を上げている。
+EN I'm Japanese, and still the crowd is
+EN roaring like this.
+
+@ 002
+JP 俺は勝った事も嬉しかったが、
+JP アメリカでこれだけ認められた事の方が
+JP もっと重要な事だと思った。
+EN Winning felt great, but being
+EN accepted like this in America meant
+EN even more.
+
+@ 003
+JP #WS100：
+JP 「ユーは強いな。負けた事は悔しいが
+JP 　素晴らしいライバルと出会えた
+JP 　喜びの方が大きい。
+EN Goldberg:
+EN "You're tough. Losing stings, but
+EN  finding a great rival makes me even
+EN  happier."
+
+@ 004
+JP 「また、ミーとハードなファイトをしよう！
+EN "Let's have another hard fight, you
+EN  and me!"
+
+@ 005
+JP #MS：
+JP 「ＯＫ。こちらこそ是非！
+EN #MS:
+EN "OK. I'd love to!"
+
+@ 006
+JP 俺達は握手をして別れた。
+EN We shook hands and parted ways.
+
+@ 007
+JP そして俺は#PS05世界ヘビー級の
+JP ベルトを腰に巻いて退場した。
+EN Then I left wearing the #PS05
+EN World Heavyweight belt.
+
+@ 008
+JP 俺は残念ながら負けてしまった。
+JP #WF100は
+JP やっぱり強かった。
+EN Sadly, I lost. Bill Goldberg was as
+EN strong as they said.
+
+@ 009
+JP #WS100：
+JP 「ユーは強いな。
+JP 　今回は勝てたが次にやったら
+JP 　もう１度勝てるかどうかは分からない。
+EN Goldberg:
+EN "You're tough. I won today, but I can't
+EN  say I'd win next time."
+
+@ 010
+JP 「そしてユーのような素晴らしいライバルと
+JP 　出会えた事が何より嬉しい。
+JP 　また、ミーとハードなファイトをしよう！
+EN "And above all, I'm glad I met a great
+EN  rival like you. Let's fight hard
+EN  again!"
+
+@ 011
+JP #MS：
+JP 「こちらこそ是非！
+EN #MS:
+EN "I'd love to!"
+
+@ 012
+JP 俺達は握手をして別れた。
+EN We shook hands and parted ways.
+
+@ 013
+JP マサ：
+JP 「で、どうだ？
+EN Masa:
+EN "So, what do you say?"
+
+@ 014
+JP #MS：
+JP 「・・・・・・・・
+EN #MS:
+EN "........"
+
+@ 015
+JP 俺は信じられない思いで呆然としてしまった。
+EN I couldn't believe it. I just stood there,
+EN stunned.
+
+@ 016
+JP マサ：
+JP 「おい、どうするんだ？
+JP 　イヤなのか？
+EN Masa:
+EN "Hey, what's it gonna be? You don't
+EN  want it?"
+
+@ 017
+JP #MS：
+JP 「まさか！お願いします！是非！
+EN #MS:
+EN "No way! Please! I'd love to!"
+
+@ 018
+JP マサ：
+JP 「そうか。じゃあ決定だな。
+EN Masa:
+EN "Good. Then it's settled."
+
+@ 019
+JP 「今度のドーム大会のセミファイナル、
+JP 　お前と坂上のシングルマッチだ。
+EN "The semi-main at the next Dome
+EN  show: you and Sakagami, one on one."
+
+@ 020
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 021
+JP #PS00がドーム大会用に
+JP #PS05の大物を招聘する事になったが、
+JP 俺にその白羽の矢が立ったのだ。
+EN #PS00 wanted a big name from
+EN #PS05 for the Dome show, and I
+EN was the one they picked.
+
+@ 022
+JP マサさんが推薦してくれたのもあるらしいが、
+JP 最大の原因は他にあったらしい。
+EN Masa had recommended me, I
+EN heard, but the main reason was
+EN something else.
+
+@ 023
+JP 一部マスコミが俺と坂上のバックストーリーを
+JP 煽った事で、２人のシングル対決に世間的にも
+JP 期待が高まったからだそうだ。
+EN Some of the press had hyped my
+EN history with Sakagami, and fans were
+EN dying to see us go one on one.
+
+@ 024
+JP ちなみに一部マスコミ、と言うのは最近
+JP めっきり姿を見なくなった中岡さんの事らしい。
+EN "Some of the press" meant Nakaoka,
+EN  who'd hardly been seen around
+EN  lately.
+
+@ 025
+JP 自分の功績にもなるって言うんで
+JP 必死になって煽ってたそうだ。
+EN He'd hyped it like mad, since it would
+EN be a feather in his cap too.
+
+@ 026
+JP マサ：
+JP 「じゃあ頼むぞ。それと・・・
+EN Masa:
+EN "I'm counting on you, then. And..."
+
+@ 027
+JP #MS：
+JP 「はい？
+EN #MS:
+EN "Yes?"
+
+@ 028
+JP マサ：
+JP 「俺も期待してるからな。
+JP 　凄い試合、見せてくれよ！
+EN Masa:
+EN "I'm expecting a lot too. Show me one
+EN  hell of a match!"
+
+@ 029
+JP #MS：
+JP 「はい！！
+EN #MS:
+EN "Yes, sir!!"
+
+@ 030
+JP 坂上：
+JP 「・・・・・・・
+EN Sakagami:
+EN "......."
+
+@ 031
+JP #MS：
+JP 「・・・・・・・・
+EN #MS:
+EN "........"
+
+@ 032
+JP 坂上：
+JP 「全く見違えちまったな。
+EN Sakagami:
+EN "You've changed so much I hardly
+EN  know you."
+
+@ 033
+JP #MS：
+JP 「お前こそ・・・最初は誰かと思ったよ。
+EN #MS:
+EN "Look who's talking... At first I didn't
+EN  even recognize you."
+
+@ 034
+JP 坂上：
+JP 「ヘヘヘ・・・
+JP 　本当にお前とこうして合い見える事が
+JP 　出来るなんてな・・・・
+EN Sakagami:
+EN "Heh heh... I can't believe we actually
+EN  get to face off like this..."
+
+@ 035
+JP #MS：
+JP 「ああ。道場での夢が今、現実になるんだ。
+JP 　この６万人の大観衆の中で・・・・
+EN #MS:
+EN "Yeah. Our dream from the dojo is
+EN  coming true. In front of 60,000 fans..."
+
+@ 036
+JP 坂上：
+JP 「感傷になんか浸ってたら
+JP 　秒殺してやるからな。
+EN Sakagami:
+EN "Get sentimental and I'll pin you in
+EN  seconds."
+
+@ 037
+JP #MS：
+JP 「その言葉、そっくり返してやるよ。
+JP 　お前の１２０％を・・・俺にぶつけて来い！
+EN #MS:
+EN "Right back at you. Give me your
+EN  120%... hit me with everything!"
+
+@ 038
+JP 坂上：
+JP 「おう！行くぜ！
+EN Sakagami:
+EN "You got it! Here I come!"

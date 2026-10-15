@@ -1,0 +1,144 @@
+@ 000
+JP 記者：
+JP 「お疲れ様です。
+JP 　どうでしたか#WS029選手は？
+EN Reporter:
+EN "Good work out there. How was
+EN  Tenzan?"
+
+@ 001
+JP #MS：
+JP ・「打てば響く、って感じですか！
+JP ・「調子悪かったんですかね？
+JP ・「もう一丁！もう一丁ですよ！
+EN #MS:
+EN ・"He gives back what you put in!"
+EN ・"Guess he was having an off day?"
+EN ・"One more! Give me another shot!"
+
+@ 002
+JP 記者：
+JP 「そうですか。
+EN Reporter:
+EN "I see."
+
+@ 003
+JP #MS：
+JP 「僕らの世代の出世頭なんでね。
+JP 　やっぱりそれだけのものをぶつけてきますよ。
+EN #MS:
+EN "He's the front-runner of our
+EN  generation. He really brings it."
+
+@ 004
+JP 「ただＦＷＯの主張の方法には
+JP 　疑問を感じますよね。
+EN "But I have my doubts about the way
+EN  nWo goes about things."
+
+@ 005
+JP 記者：
+JP 「凱旋帰国して一回り大きくなった
+JP 　印象を受けますし、試合の方も
+JP 　かなりの成長を感じました。
+EN Reporter:
+EN "You seem bigger since coming home,
+EN  and your wrestling's grown a lot."
+
+@ 006
+JP #MS：
+JP 「海外で良い経験させてもらったんで。
+JP 　精神面でも勉強になりましたし。
+EN #MS:
+EN "I got great experience overseas. I
+EN  grew mentally, too."
+
+@ 007
+JP 記者：
+JP 「それでは最後に次シリーズから開幕する
+JP 　Ｖ１－ＴＲＹＭＡＸトーナメントに
+JP 　ついては？
+EN Reporter:
+EN "Lastly, what about the G1 CLIMAX
+EN  tournament starting next series?"
+
+@ 008
+JP #MS：
+JP 「やっぱり今の勢いってのを
+JP 　形にしたいですからね。当然優勝狙いますよ。
+JP 　応援よろしくお願いします。
+EN #MS:
+EN "I want to turn this momentum into
+EN  something real. Of course I'm aiming
+EN  to win. Please cheer me on."
+
+@ 009
+JP #MS：
+JP 「フゥ・・・
+EN #MS:
+EN "Phew..."
+
+@ 010
+JP #WS006：
+JP 「活性剤って感じだな？
+EN Iizuka:
+EN "You're like a shot in the arm, huh?"
+
+@ 011
+JP #MS：
+JP 「え？
+EN #MS:
+EN "Huh?"
+
+@ 012
+JP #WS006：
+JP 「何かお前を見て#WS029達の
+JP 　目の色が変わってきた。
+EN Iizuka:
+EN "Seeing you, Tenzan and the others
+EN  got a new look in their eyes."
+
+@ 013
+JP 「#WS029だけじゃない。
+JP 　#WS007、#WS008、#WS010。
+JP 　みんなそうだ。
+EN "Not just Tenzan. Kojima, Nakanishi,
+EN  Nagata. All of them."
+
+@ 014
+JP #MS：
+JP 「・・・・・・・・
+EN #MS:
+EN "........"
+
+@ 015
+JP #WS006：
+JP 「何か見てる俺まで楽しみになって来たよ。
+JP 　Ｖ－１、頑張れよ。
+EN Iizuka:
+EN "Even I'm getting excited watching.
+EN  Good luck in the G1."
+
+@ 016
+JP #MS：
+JP 「はい、頑張ります！
+EN #MS:
+EN "Thanks, I'll do my best!"
+
+@ 017
+JP もし#WS006さんの言う通りなら
+JP みんなが俺を意識してるって事だ。
+EN If he's right, everyone's got their eye
+EN on me.
+
+@ 018
+JP 面白いじゃないか！
+EN Now this is getting interesting!
+
+@ 019
+JP そして#PL00の
+JP 頂点を決定するトーナメント戦、
+JP 『Ｖ１－ＴＲＹＭＡＸ』がスタートする。
+EN And so #PL00's tournament to
+EN decide who's on top, the "G1 CLIMAX",
+EN began.

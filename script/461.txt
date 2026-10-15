@@ -1,0 +1,218 @@
+@ 000
+JP 俺は昨日言われた通り、事務所に来た。
+EN As told the day before, I came to the
+EN office.
+
+@ 001
+JP #MS：
+JP 「おはようございます！
+JP 　#MS来ました！
+EN #MS:
+EN "Good morning! #MS reporting!"
+
+@ 002
+JP #WS092：
+JP 「おう、来たか。
+EN Sasuke:
+EN "Hey, you made it."
+
+@ 003
+JP 俺達はソファーに腰掛けた。
+EN We sat down on the sofa.
+
+@ 004
+JP #MS：
+JP 「あの、今日は何の用でしょう？
+EN #MS:
+EN "Um, what did you need me for
+EN  today?"
+
+@ 005
+JP #WS092：
+JP 「実はな・・・お前を外に
+JP 　修行に出そうと思ってる。
+EN Sasuke:
+EN "Truth is... I'm thinking of sending
+EN  you out to train somewhere else."
+
+@ 006
+JP #MS：
+JP 「修行、ですか？
+EN #MS:
+EN "To train?"
+
+@ 007
+JP #WS092：
+JP 「本当は海外とかも考えたんだがな、
+JP 　結局#PL00に
+JP 　決定したよ。
+EN Sasuke:
+EN "I thought about overseas, but in the
+EN  end, we settled on #PL00."
+
+@ 008
+JP #MS：
+JP 「#PS00ですか！？
+EN #MS:
+EN "#PS00!?"
+
+@ 009
+JP #WS092：
+JP 「そうだ。しばらくついて回って、
+JP 　色々吸収して来い。
+EN Sasuke:
+EN "Yep. Tag along with them a while
+EN  and soak it all up."
+
+@ 010
+JP 「話は#WS015さんにつけてある。
+JP 　お前の面倒を見てくれるそうだ。
+EN "I talked to Liger. He says he'll look
+EN  after you."
+
+@ 011
+JP #MS：
+JP 「でも、あの・・・・
+EN #MS:
+EN "But, um..."
+
+@ 012
+JP #WS092：
+JP 「何だ？
+EN Sasuke:
+EN "What?"
+
+@ 013
+JP #MS：
+JP 「#PS00に行けるのは嬉しいですけど
+JP 　西連隊ＥＸとの闘いが大変なこの時に
+JP 　俺だけ行ってしまっていいんでしょうか？
+EN #MS:
+EN "I'm thrilled about #PS00, but with
+EN  the Kaientai DX war so rough, is it
+EN  right for me to just leave?"
+
+@ 014
+JP #WS092：
+JP 「確かにそれはあるけどな。ただお前には
+JP 　色んな経験を積んで来て欲しい。それが
+JP 　後々お前の財産になるはずだ。
+EN Sasuke:
+EN "Fair point. But I want you to get all
+EN  kinds of experience. It'll pay off for
+EN  you down the road."
+
+@ 015
+JP 「そしてそれは#PS04にとっての
+JP 　利益にもなる。
+JP 　これは先行投資なんだよ。
+EN "And that pays off for #PS04, too.
+EN  Think of it as an investment."
+
+@ 016
+JP #MS：
+JP 「はい・・・
+EN #MS:
+EN "Yes..."
+
+@ 017
+JP #WS092：
+JP 「安心しろ。お前が帰って来るまで、
+JP 　正規軍も、#PS04も、
+JP 　俺達が守ってみせる。
+EN Sasuke:
+EN "Don't worry. Till you get back, we'll
+EN  protect the regulars and #PS04."
+
+@ 018
+JP 「安心して行って来い！
+EN "So go on, and don't worry!"
+
+@ 019
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 020
+JP こうして俺は、
+JP #PL00に
+JP 修行に出る事になった。
+EN And so I went off to train at
+EN #PL00.
+
+@ 021
+JP #WS015：
+JP 「どうだ、準備はいいか？
+EN Liger:
+EN "Well, are you ready?"
+
+@ 022
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes."
+
+@ 023
+JP 俺は道場でのトレーニングから
+JP #WS015さんに見てもらった。
+EN Liger looked after me, starting with
+EN training in the dojo.
+
+@ 024
+JP そして遂に、
+JP #PS00マットでの初試合を
+JP 迎えたのだ。
+EN And at last, my first match on the
+EN #PS00 mat had arrived.
+
+@ 025
+JP #WS015：
+JP 「試合に集中しろ。
+JP 　ケガだけはしないようにな。
+EN Liger:
+EN "Focus on the match. Above all, don't
+EN  get hurt."
+
+@ 026
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes, sir."
+
+@ 027
+JP #WS015：
+JP 「後はお前の気迫をお客さんに伝えて来い！
+EN Liger:
+EN "Then go show the fans your fighting
+EN  spirit!"
+
+@ 028
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 029
+JP #PS00マットでの初試合の相手は
+JP #WS020選手。ジュニアながら
+JP パワーでグイグイ押して行くレスラーだ。
+EN My first #PS00 opponent: Takaiwa.
+EN A junior, but one who just bulldozes
+EN you with power.
+
+@ 030
+JP 俺はもう一度深呼吸をして・・・・
+EN I took one more deep breath...
+
+@ 031
+JP #MS：
+JP 「行きます！
+EN #MS:
+EN "Here I go!"
+
+@ 032
+JP #WS015：
+JP 「よし、行って来い！
+EN Liger:
+EN "All right, get out there!"

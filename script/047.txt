@@ -1,0 +1,25 @@
+@ 000
+JP 記者：
+JP 「どうでしたか？タイトル戦は？
+EN Reporter:
+EN "How was it? The title match?"
+
+@ 001
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 002
+JP 満を持して挑んで負けた・・・
+JP 口に出しては言えないが、悔しいながらも
+JP どこか気持ちが良かった。
+EN I went in fully prepared and lost... I'd
+EN never say it aloud, but frustrating as
+EN it was, it felt good somehow.
+
+@ 003
+JP また挑んでやるさ。俺が諦めない限り
+JP チャンスはまた掴める！
+EN I'll challenge again. As long as I don't
+EN give up, I'll get another shot!

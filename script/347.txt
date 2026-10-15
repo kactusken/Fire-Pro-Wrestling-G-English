@@ -1,0 +1,25 @@
+@ 000
+JP #WS151：
+JP 「#WS153、良い仕上がりですよ。
+EN Ishikawa:
+EN "Otsuka's in great shape."
+
+@ 001
+JP #MS：
+JP 「そうか。最近は打撃に対する脆さも
+JP 　すっかり克服したみたいだからな。
+EN #MS:
+EN "I see. Looks like he's totally fixed his
+EN  weakness to strikes."
+
+@ 002
+JP 「それにあの投げ・・・
+JP 　すっかり要注意人物だな。
+EN "And those throws... he's a real
+EN  danger now."
+
+@ 003
+JP #WS151：
+JP 「フフフ、そうですね。
+EN Ishikawa:
+EN "Heh heh, that he is."

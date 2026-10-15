@@ -1,0 +1,60 @@
+@ 000
+JP #MS：
+JP 『俺はあんたに憧れてここまで来た。
+JP 　それなのにあんたはすっかり
+JP 　腑抜けになってるじゃないか！
+EN #MS:
+EN "I came all this way because I looked
+EN  up to you. And you've gone
+EN  completely soft!"
+
+@ 001
+JP #WS123：
+JP 『ヘイ！そう思うのは勝手だがミーが
+JP 　本当に腑抜けているか、試してから
+JP 　言った方がいいんじゃないのか？
+EN Shamrock:
+EN "Hey! Think what you want, but
+EN  maybe test whether I'm soft before
+EN  you say it?"
+
+@ 002
+JP #MS：
+JP 『だったら今すぐ試してやろうじゃないか！
+EN #MS:
+EN "Then let's test it right now!"
+
+@ 003
+JP #WS123：
+JP 『ノー。ミー達の試合にはもっと相応しい
+JP 　場所がある筈だ。タイガーズデン・マッチで
+JP 　勝負しようじゃないか！
+EN Shamrock:
+EN "No. Our fight deserves a better stage.
+EN  Let's settle it in a Lion's Den match!"
+
+@ 004
+JP タイガーズデンとは#WS123の経営する
+JP グルーサムファイターのジムの名前だ。
+EN The Lion's Den is the name of
+EN Shamrock's gym for gruesome
+EN fighters.
+
+@ 005
+JP つまりタイガーズデン・マッチとは
+JP グルーサムファイティングの事を
+JP 指しているのだ。
+EN So a Lion's Den match means a
+EN gruesome fighting match.
+
+@ 006
+JP #MS：
+JP 『いいだろう！
+EN #MS:
+EN "You're on!"
+
+@ 007
+JP 俺と#WS123は金網で仕切られた、
+JP いわゆるオクタゴンリングへと向かった・・・
+EN Shamrock and I headed for the caged
+EN ring known as the Octagon...

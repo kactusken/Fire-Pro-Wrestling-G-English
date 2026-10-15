@@ -1,0 +1,109 @@
+@ 000
+JP 今日の試合は#WS075とのシングル戦だ。
+EN Today's match was a singles bout
+EN with Kanemura.
+
+@ 001
+JP しかも奴は試合前だと言うのに
+JP いつものように踊っている。
+EN And even though the match was
+EN about to start, he was dancing like
+EN always.
+
+@ 002
+JP #WS075：
+JP 「何や、シケたツラしとるなぁ。
+JP 　そないな奴にはこれじゃ！
+EN Kanemura:
+EN "Why the long face? Here's what a
+EN  guy like you needs!"
+
+@ 003
+JP 「コマネチ！！
+EN "Comaneci!!"
+
+@ 004
+JP #MS：
+JP 「・・・・・・・
+EN #MS:
+EN "......."
+
+@ 005
+JP 本人は楽しそうにやっているが
+JP 俺は・・・
+EN He was clearly having fun, but me...
+
+@ 006
+JP ・馬鹿かと思った。
+JP ・腹が立った。
+JP ・ネタが古いと思った。
+EN ・I thought he was an idiot.
+EN ・It made me angry.
+EN ・I thought the gag was stale.
+
+@ 007
+JP 腹が立つより馬鹿さ加減に呆れてしまった。
+EN I was too stunned by his idiocy to
+EN even get angry.
+
+@ 008
+JP 相手にするとまた何かしそうだったので
+JP 俺は無視を決め込んだ。
+EN If I reacted, he'd just pull something
+EN else, so I decided to ignore him.
+
+@ 009
+JP 俺は腹が立った。神聖なリングの上で・・・
+JP この闘いの場で・・・
+JP こいつは一体何をやってるんだ！？
+EN It pissed me off. In the sacred ring...
+EN in this place of battle... what the hell
+EN was he doing!?
+
+@ 010
+JP #MS：
+JP 「ふざけんのもいい加減にしろこの野郎！！
+JP 　そんな下らん事、二度と出来ないように
+JP 　ぶちのめしてやる！
+EN #MS:
+EN "Quit screwing around, you bastard!!
+EN  I'll beat you so you never pull crap
+EN  like that again!"
+
+@ 011
+JP 俺は怒りをぶつけたが、
+JP 奴はニヤニヤ笑うだけだった。
+JP クソッ、やってやる！
+EN I let him have it, but he just grinned.
+EN Damn it, I'll show him!
+
+@ 012
+JP 俺は恥ずかしかった。何を考えているのか
+JP 知らないが、こんなに古いネタを堂々と
+JP 人前で出来る神経が分からない。
+EN I was embarrassed for him. Whatever
+EN he was thinking, how could he pull
+EN such a stale gag in public?
+
+@ 013
+JP #MS：
+JP 「お前・・・・ネタ古過ぎ。
+EN #MS:
+EN "Dude.... that gag is ancient."
+
+@ 014
+JP #WS075：
+JP 「な！？
+EN Kanemura:
+EN "Wha!?"
+
+@ 015
+JP まさか俺にそんな事を言われるとは
+JP 思わなかったのだろう。奴は思いっきり
+JP 動揺しているようだ。
+EN He must never have expected that
+EN from me. He was totally rattled.
+
+@ 016
+JP これで俺のペースになった。
+EN Now I had the momentum.

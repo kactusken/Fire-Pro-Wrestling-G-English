@@ -1,0 +1,106 @@
+@ 000
+JP #WS151：
+JP 「いやあ、ようやく話がまとまったんですよ。
+EN Ishikawa:
+EN "Well, the deal's finally done."
+
+@ 001
+JP #MS：
+JP 「ほう。何の？
+EN #MS:
+EN "Oh? What deal?"
+
+@ 002
+JP #WS151：
+JP 「#PS08の#WS172選手との
+JP 　異種格闘技戦ですよ。
+JP 　今度のドーム大会のメインで組みましたから。
+EN Ishikawa:
+EN "A mixed-style fight with #PS08's
+EN  Satake. It's the main event of our
+EN  next Dome show."
+
+@ 003
+JP #MS：
+JP 「#PS08の#WS172！？
+JP 　異種格闘技戦！？
+JP 　ドーム大会！？
+EN #MS:
+EN "#PS08's Satake!? A mixed-style
+EN  fight!? The Dome!?"
+
+@ 004
+JP #WS151：
+JP 「まとめて驚かれても困りますけど。
+EN Ishikawa:
+EN "Don't freak out about everything at
+EN  once."
+
+@ 005
+JP #MS：
+JP 「じゃあまとめて驚かすな。
+JP 　それより本当なのか、全部？
+EN #MS:
+EN "Then don't spring it all at once.
+EN  Anyway, is all of it true?"
+
+@ 006
+JP #WS151：
+JP 「当然です。
+EN Ishikawa:
+EN "Of course."
+
+@ 007
+JP #MS：
+JP 「お前、金はあるのか、金は！？
+EN #MS:
+EN "Do you have the money!? The
+EN  money!?"
+
+@ 008
+JP #WS151：
+JP 「大丈夫、何とかなりますよ！
+EN Ishikawa:
+EN "Don't worry, it'll work out!"
+
+@ 009
+JP #MS：
+JP 「何とかなりますよ・・・・
+JP 　つまり現時点では何ともなっていない、と。
+EN #MS:
+EN "'It'll work out'.... So right now, it
+EN  hasn't worked out at all."
+
+@ 010
+JP #WS151：
+JP 「いやいや、大丈夫ですよ！
+EN Ishikawa:
+EN "No, no, it's fine!"
+
+@ 011
+JP #MS：
+JP 「・・・・・・・まあそう言うんなら
+JP 　これ以上言わないけど・・・・
+EN #MS:
+EN "....... Well, if you say so, I won't push
+EN  it...."
+
+@ 012
+JP #WS151：
+JP 「頑張って下さいね！
+EN Ishikawa:
+EN "Give it your all!"
+
+@ 013
+JP #WS172：
+JP 「今日はよろしく。
+JP 　熱い闘い、しましょうや！
+EN Satake:
+EN "Good to meet ya. Let's have a
+EN  red-hot fight!"
+
+@ 014
+JP #MS：
+JP 「望むところだ！
+EN #MS:
+EN "You're on!"

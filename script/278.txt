@@ -1,0 +1,59 @@
+@ 000
+JP 記者：
+JP 「第２回ギガバトルトーナメント優勝
+JP 　おめでとうございます。
+EN Reporter:
+EN "Congratulations on winning the 2nd
+EN  Mega Battle Tournament."
+
+@ 001
+JP #MS：
+JP 「ありがとうございます。
+EN #MS:
+EN "Thank you."
+
+@ 002
+JP 記者：
+JP 「これで現在の#PS07の頂点に立ったと
+JP 　言って良いんじゃないでしょうか？
+EN Reporter:
+EN "Is it fair to say you're now at the top
+EN  of #PS07?"
+
+@ 003
+JP #MS：
+JP 「あくまでも今回は、って事ですけどね。
+JP 　でも自分でも価値のある勝利だと
+JP 　思ってます。
+EN #MS:
+EN "Only for this time, anyway. But I do
+EN  think it's a win that means
+EN  something."
+
+@ 004
+JP 記者：
+JP 「今後の展望は？
+EN Reporter:
+EN "What's next for you?"
+
+@ 005
+JP #MS：
+JP 「そうですね。これからは中だけじゃなくて
+JP 　外にも目を向けて行きたいですね。
+EN #MS:
+EN "Well. From here on, I want to look
+EN  outside, not just inside the company."
+
+@ 006
+JP 記者：
+JP 「それでは最後にファンに一言。
+EN Reporter:
+EN "Finally, a word for the fans."
+
+@ 007
+JP #MS：
+JP 「これからも一生懸命頑張りますので
+JP 　応援よろしくお願いします！
+EN #MS:
+EN "I'll keep giving it my all, so please
+EN  keep cheering me on!"

@@ -1,0 +1,107 @@
+@ 000
+JP ドーム大会こそ無理があって厳しい結果に
+JP 終わったが、それ以外は順調だった
+JP #WS150組。しかし・・・・
+EN The Dome show was a stretch and
+EN ended badly, but otherwise Fujiwara
+EN Gumi was doing fine. But....
+
+@ 001
+JP #WS154：
+JP 「#MS・・・・
+EN Funaki:
+EN "#MS...."
+
+@ 002
+JP #MS：
+JP 「#WS154さんに#WS155さん・・・
+JP 　どうかしたんですか？
+EN #MS:
+EN "Mr. Funaki, Mr. Suzuki... what's
+EN  going on?"
+
+@ 003
+JP #WS154：
+JP 「実は・・・・・
+EN Funaki:
+EN "The thing is....."
+
+@ 004
+JP #WS155：
+JP 「俺達は#WS150組を抜ける。
+EN Suzuki:
+EN "We're leaving Fujiwara Gumi."
+
+@ 005
+JP #MS：
+JP 「えぇっ！？
+EN #MS:
+EN "Whaaat!?"
+
+@ 006
+JP #WS154：
+JP 「残念ながら俺達が求めているものと
+JP 　#WS150さんがやろうとしている事が
+JP 　違うものだって事が分かったんだよ。
+EN Funaki:
+EN "Sadly, we realized what we're after
+EN  and what Fujiwara wants to do are
+EN  different things."
+
+@ 007
+JP #WS155：
+JP 「俺達は俺達の目指す事の為に
+JP 　自分達で団体を起こす。
+EN Suzuki:
+EN "We'll start our own promotion to
+EN  chase our own goals."
+
+@ 008
+JP #WS154：
+JP 「そう・・・・
+JP 　ハイブリッド・レスリング追求の為に！
+EN Funaki:
+EN "Yes.... In pursuit of Hybrid
+EN  Wrestling!"
+
+@ 009
+JP #MS：
+JP 「ハイブリッド・レスリング・・・・
+EN #MS:
+EN "Hybrid Wrestling...."
+
+@ 010
+JP #WS155：
+JP 「お前も俺達と一緒に来ないか？
+JP 　お前なら俺達と同じ道を歩ける。
+EN Suzuki:
+EN "Why not come with us? You could
+EN  walk the same path we do."
+
+@ 011
+JP #MS：
+JP 「そ、それは・・・・
+EN #MS:
+EN "W-well...."
+
+@ 012
+JP #WS154：
+JP 「じゃあ今じゃなくて良いから
+JP 　３日後までに返事をくれないか？
+JP 　それまで良く考えてくれ。
+EN Funaki:
+EN "It doesn't have to be now. Give us an
+EN  answer within three days. Think it
+EN  over until then."
+
+@ 013
+JP #MS：
+JP 「はい・・・・
+EN #MS:
+EN "Okay...."
+
+@ 014
+JP 俺はまたしても道の選択を迫られる事に
+JP なったのだった・・・・
+EN Once again, I had to choose my
+EN path....

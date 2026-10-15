@@ -1,0 +1,107 @@
+@ 000
+JP 記者：
+JP 「おめでとうございます！
+JP 　初代キング・オブ・#PS10に
+JP 　なった感想を。
+EN Reporter:
+EN "Congratulations! How does it feel to
+EN  be the first King of #PS10?"
+
+@ 001
+JP #MS：
+JP 「何だかまだ実感が無くて・・・・
+JP 　本当に俺が優勝なんですかね？
+EN #MS:
+EN "It hasn't sunk in yet.... Did I really
+EN  win it?"
+
+@ 002
+JP 記者：
+JP 「かなりの激戦でした。
+EN Reporter:
+EN "It was a fierce tournament."
+
+@ 003
+JP #MS：
+JP 「そうですね。まだ出来たばかりの団体で
+JP 　カラーを打ち出そうと、みんなが必死で
+JP 　頑張りましたからね。
+EN #MS:
+EN "Yeah. It's a brand-new promotion, so
+EN  everyone fought like mad to show
+EN  what it's all about."
+
+@ 004
+JP 記者：
+JP 「#PS10自体も評判が良いですね。
+EN Reporter:
+EN "#PS10 itself is getting great
+EN  buzz."
+
+@ 005
+JP #MS：
+JP 「ありがたい事ですね。
+JP 　これからもみんなで頑張りますので、
+JP 　応援よろしくお願いします！
+EN #MS:
+EN "We're grateful. We'll all keep working
+EN  hard, so please keep supporting us!"
+
+@ 006
+JP #WS154：
+JP 「おめでとう。本当に大した奴だよ、お前は。
+EN Funaki:
+EN "Congratulations. You're really
+EN  something, you know that?"
+
+@ 007
+JP #MS：
+JP 「ありがとうございます！
+EN #MS:
+EN "Thank you!"
+
+@ 008
+JP #WS154：
+JP 「負けたけど今回は色んな意味で嬉しいよ。
+EN Funaki:
+EN "I lost, but I'm happy about this in a
+EN  lot of ways."
+
+@ 009
+JP #MS：
+JP 「今回の#WS154さんとのファイトで、
+JP 　また何か掴めたような気がします。
+EN #MS:
+EN "I feel like I grabbed hold of
+EN  something new in our fight."
+
+@ 010
+JP #WS154：
+JP 「そうか。これからも大変だと思うけど
+JP 　この調子で#PL10の為
+JP 　頑張って行こう！
+EN Funaki:
+EN "I see. It'll stay tough, but let's keep it
+EN  up for #PL10!"
+
+@ 011
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Right!"
+
+@ 012
+JP キング・オブ・#PS10になっても
+JP 休んでる暇は無かった。
+JP 早くも防衛戦が組まれたのだ。
+EN Even as King of #PS10, there was
+EN no time to rest. My first defense was
+EN already booked.
+
+@ 013
+JP 相手は#WS156。
+JP キング・オブ・#PS10の価値を
+JP 高める為にも絶対勝たなければならない。
+EN The opponent: Yamada. I have to win,
+EN to raise the value of the King of
+EN #PS10.

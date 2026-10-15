@@ -1,0 +1,153 @@
+@ 000
+JP 今日は関係者を通して知り合った
+JP #WF113さんに
+JP トレーニングジムを紹介してもらった。
+EN Today Ultimo Dragon, who I met
+EN through people in the business,
+EN showed me a training gym.
+
+@ 001
+JP #WS113：
+JP 「場所さえ近ければウチのジムに来れば
+JP 　いいんだけどね。
+EN Ultimo:
+EN "If you were closer, you could just
+EN  come to my gym."
+
+@ 002
+JP #MS：
+JP 「いえ、助かりますよ。
+JP 　近場にあった方が楽ですから。
+EN #MS:
+EN "No, this really helps. It's easier
+EN  having one nearby."
+
+@ 003
+JP 「ん？
+EN "Hm?"
+
+@ 004
+JP #WS107：
+JP 「ウォォォォォ！
+EN Norton:
+EN "Wooooooah!"
+
+@ 005
+JP #MS：
+JP 「うわっ！
+EN #MS:
+EN "Whoa!"
+
+@ 006
+JP #WS107：
+JP 「ンー？ユーはどこかで見たような気がするな？
+EN Norton:
+EN "Hmm? I feel like I've seen you
+EN  before."
+
+@ 007
+JP #WS113：
+JP 「ヘイ、#WS107。
+EN Ultimo:
+EN "Hey, Norton."
+
+@ 008
+JP #WS107：
+JP 「オウ、マサイじゃないか。
+EN Norton:
+EN "Oh, if it isn't Asai."
+
+@ 009
+JP #WS113：
+JP 「彼は#PS00のレスラーで、
+JP 　今こっちに遠征して来てるんだよ。
+EN Ultimo:
+EN "He's a #PS00 wrestler, over here
+EN  on tour."
+
+@ 010
+JP #WS107：
+JP 「そうか、そうか。
+JP 　ヘイ、何か困ったら遠慮無く言ってくれ。
+JP 　ただし・・・・・
+EN Norton:
+EN "I see, I see. Hey, if you need
+EN  anything, just ask. Except..."
+
+@ 011
+JP 「リングの上以外でな。
+EN "...in the ring."
+
+@ 012
+JP #MS：
+JP 「サンキュー、#WS107。
+EN #MS:
+EN "Thanks, Norton."
+
+@ 013
+JP 「俺は#MF。
+JP 　よろしく。
+EN "I'm #MF.
+EN  Nice to meet you."
+
+@ 014
+JP #WS107：
+JP 「覚えておこう。じゃあまたな！
+EN Norton:
+EN "I'll remember that. See ya!"
+
+@ 015
+JP #WS107はもう１回吼えてから去って行った。
+EN Norton roared once more and left.
+
+@ 016
+JP #MS：
+JP 「何だったんだ？
+EN #MS:
+EN "What was that about?"
+
+@ 017
+JP #WS113：
+JP 「#WS107はいつもあんなノリだよ。
+EN Ultimo:
+EN "Norton's always like that."
+
+@ 018
+JP #MS：
+JP 「そうなんですか。
+JP 　リングの上だと凄く怖いけど・・・
+EN #MS:
+EN "Is that right? He's really scary in the
+EN  ring..."
+
+@ 019
+JP #WS113：
+JP 「でもいずれはその怖い#WS107と
+JP 　試合をするんだろう？
+EN Ultimo:
+EN "But someday you'll have to face that
+EN  scary Norton, won't you?"
+
+@ 020
+JP #MS：
+JP 「・・・強くならなきゃいけませんね！
+EN #MS:
+EN "...I'd better get stronger!"
+
+@ 021
+JP 今日の試合は日本でもおなじみの
+JP #WF105・・・
+EN Today's match is a familiar face from
+EN Japan, Rick Steiner...
+
+@ 022
+JP 彼のブル・パワーとスープレックスは
+JP はっきり言って脅威だ。
+EN His bull power and suplexes, frankly,
+EN are terrifying.
+
+@ 023
+JP しかし逃げてても仕方ない。
+JP 真正面からぶつかってやる！
+EN But there's no use running. I'll meet
+EN him head on!

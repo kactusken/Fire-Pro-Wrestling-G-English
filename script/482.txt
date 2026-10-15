@@ -1,0 +1,129 @@
+@ 000
+JP 俺は試合前にストレッチをしていた。
+EN I was stretching before the match.
+
+@ 001
+JP #WS162：
+JP 「どうだ、調子は？
+EN Wagner:
+EN "How are you feeling?"
+
+@ 002
+JP #MS：
+JP 「はい、バッチリです。
+EN #MS:
+EN "Great."
+
+@ 003
+JP #WS162：
+JP 「今日はユーの為に
+JP 　特別なビッグマッチを用意した。
+EN Wagner:
+EN "Today I set up a special big match
+EN  just for you."
+
+@ 004
+JP #MS：
+JP 「・・・本当なんですか？
+EN #MS:
+EN "...Are you serious?"
+
+@ 005
+JP この間同じ手で騙されたばかりだった。
+EN He'd fooled me with that same line
+EN just the other day.
+
+@ 006
+JP #WS162：
+JP 「今度は本当のスーパービッグマッチだ。
+EN Wagner:
+EN "This time it's a real super big
+EN  match."
+
+@ 007
+JP #MS：
+JP 「スーパービッグマッチ？
+EN #MS:
+EN "A super big match?"
+
+@ 008
+JP #WS162：
+JP 「ユーは運の良い男だ。
+JP 　彼らが同じ時、同じ場所で試合に出るのは
+JP 　今となっては本当に珍しい事なんだぞ。
+EN Wagner:
+EN "You are a lucky man. These days it's
+EN  really rare for them to wrestle on the
+EN  same card, in the same place."
+
+@ 009
+JP #MS：
+JP 「その彼ら、って言うのは？
+EN #MS:
+EN "And 'them' would be...?"
+
+@ 010
+JP #WS162：
+JP 「それはな・・・・
+EN Wagner:
+EN "Well...."
+
+@ 011
+JP 今日は#WS162と組んでの
+JP タッグマッチだ。
+EN Today I'm in a tag match, teaming
+EN with Wagner.
+
+@ 012
+JP しかも相手は・・・・
+EN And our opponents are....
+
+@ 013
+JP 何と、あの
+JP #WL164ブラザーズなのだ！
+EN None other than the Mascaras
+EN Brothers!
+
+@ 014
+JP #WS164：
+JP 「ジャパニーズとの試合は
+JP 　もう何年ぶりになるか・・・・
+EN Mascaras:
+EN "How many years since I last faced a
+EN  Japanese wrestler...."
+
+@ 015
+JP #WS163：
+JP 「ユーは#WS092の所のレスラーらしいな。
+JP 　あいつは元気にしているのか？
+EN Dos Caras:
+EN "I hear you're one of Sasuke's guys.
+EN  How's he doing?"
+
+@ 016
+JP 「ミーが場外へのパワーボムで葬ってから
+JP 　会っていないからな・・・
+EN "Haven't seen him since I buried him
+EN  with a powerbomb to the floor..."
+
+@ 017
+JP 「ヘイ、ユー。ここはメヒコだが
+JP 　ユーが油断していると#WS092と
+JP 　同じような目に合うぜ。気をつけな。
+EN "Hey, you. This is Mexico, but let your
+EN  guard down and you'll end up like
+EN  Sasuke. Be careful."
+
+@ 018
+JP #MS：
+JP 「それなら#WS092さんの借りを、
+JP 　俺が返してやるまでだ！
+EN #MS:
+EN "Then I'll just pay you back for
+EN  Sasuke myself!"
+
+@ 019
+JP 夢の対決は一転、復讐劇へと
+JP 様相を変えつつあった。
+EN The dream match was turning into a
+EN tale of revenge.

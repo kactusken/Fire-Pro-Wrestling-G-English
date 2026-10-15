@@ -1,0 +1,234 @@
+@ 000
+JP 俺は昨日言われた通り、事務所に来た。
+EN As told the day before, I came to the
+EN office.
+
+@ 001
+JP #MS：
+JP 「おはようございます！
+JP 　#MS来ました！
+EN #MS:
+EN "Good morning! #MS reporting!"
+
+@ 002
+JP #WS092：
+JP 「おう、来たか。
+EN Sasuke:
+EN "Hey, you made it."
+
+@ 003
+JP 俺達はソファーに腰掛けた。
+EN We sat down on the sofa.
+
+@ 004
+JP #MS：
+JP 「あの、今日は何の用でしょう？
+EN #MS:
+EN "Um, what did you need me for
+EN  today?"
+
+@ 005
+JP #WS092：
+JP 「実はな・・・お前を外に
+JP 　修行に出そうと思ってる。
+EN Sasuke:
+EN "Truth is... I'm thinking of sending
+EN  you out to train somewhere else."
+
+@ 006
+JP #MS：
+JP 「修行、ですか？
+EN #MS:
+EN "To train?"
+
+@ 007
+JP #WS092：
+JP 「色々考えたんだがな、
+JP 　結局#PS05に
+JP 　決定したよ。
+EN Sasuke:
+EN "I thought it over a lot, and in the
+EN  end, we settled on #PS05."
+
+@ 008
+JP #MS：
+JP 「#PS05ですか！？
+EN #MS:
+EN "#PS05!?"
+
+@ 009
+JP #WS092：
+JP 「そうだ。
+JP 　正井さんの
+JP 　関係で行かせてもらう事になった。
+EN Sasuke:
+EN "Yep. Mr. Asai pulled some strings so
+EN  you can go."
+
+@ 010
+JP 正井さんとは、
+JP #WF113さんの事だ。
+EN Mr. Asai is Ultimo Dragon.
+
+@ 011
+JP 「しばらくついて回って、
+JP 　色々吸収して来い。
+EN "Tag along with them a while and
+EN  soak it all up."
+
+@ 012
+JP 「話はつけてある。正井さんが直接
+JP 　お前の面倒を見てくれるそうだ。
+EN "It's all arranged. Mr. Asai will look
+EN  after you personally."
+
+@ 013
+JP #MS：
+JP 「でも、あの・・・・
+EN #MS:
+EN "But, um..."
+
+@ 014
+JP #WS092：
+JP 「何だ？
+EN Sasuke:
+EN "What?"
+
+@ 015
+JP #MS：
+JP 「#PS05に行けるのは嬉しいですけど
+JP 　西連隊ＥＸとの闘いが大変なこの時に
+JP 　俺だけ行ってしまっていいんでしょうか？
+EN #MS:
+EN "I'm thrilled about #PS05, but with
+EN  the Kaientai DX war so rough, is it
+EN  right for me to just leave?"
+
+@ 016
+JP #WS092：
+JP 「確かにそれはあるけどな。ただお前には
+JP 　色んな経験を積んで来て欲しい。それが
+JP 　後々お前の財産になるはずだ。
+EN Sasuke:
+EN "Fair point. But I want you to get all
+EN  kinds of experience. It'll pay off for
+EN  you down the road."
+
+@ 017
+JP 「そしてそれは#PS04にとっての
+JP 　利益にもなる。
+JP 　これは先行投資なんだよ。
+EN "And that pays off for #PS04, too.
+EN  Think of it as an investment."
+
+@ 018
+JP #MS：
+JP 「はい・・・
+EN #MS:
+EN "Yes..."
+
+@ 019
+JP #WS092：
+JP 「安心しろ。お前が帰って来るまで、
+JP 　正規軍も、#PS04も、
+JP 　俺達が守ってみせる。
+EN Sasuke:
+EN "Don't worry. Till you get back, we'll
+EN  protect the regulars and #PS04."
+
+@ 020
+JP 「安心して行って来い！
+EN "So go on, and don't worry!"
+
+@ 021
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 022
+JP こうして俺は、
+JP #PL05に
+JP 修行に出る事になった。
+EN And so I went off to train at
+EN #PL05.
+
+@ 023
+JP #WS113：
+JP 「どうだ、準備はいいか？
+EN Ultimo:
+EN "Well, are you ready?"
+
+@ 024
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes."
+
+@ 025
+JP 俺は道場でのトレーニングから
+JP 正井さんに見てもらった。
+EN Mr. Asai looked after me, starting
+EN with training at his gym.
+
+@ 026
+JP そして遂に、
+JP #PS05マットでの初試合を
+JP 迎えたのだ。
+EN And at last, my first match on the
+EN #PS05 mat had arrived.
+
+@ 027
+JP #WS113：
+JP 「試合に集中しろ。
+JP 　ケガだけはしないようにな。
+EN Ultimo:
+EN "Focus on the match. Above all, don't
+EN  get hurt."
+
+@ 028
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes, sir."
+
+@ 029
+JP #WS113：
+JP 「後はお前の気迫をお客さんに伝えて来い！
+EN Ultimo:
+EN "Then go show the fans your fighting
+EN  spirit!"
+
+@ 030
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 031
+JP #PS05マットでの初試合の相手は
+JP #WF115。
+EN My first #PS05 opponent: Rey
+EN Mysterio Jr.
+
+@ 032
+JP スピード、テクニック共に１級品の天才
+JP ルチャ・ドールだ。
+EN A luchador prodigy, first-class in
+EN both speed and technique.
+
+@ 033
+JP 俺はもう一度深呼吸をして・・・・
+EN I took one more deep breath...
+
+@ 034
+JP #MS：
+JP 「行きます！
+EN #MS:
+EN "Here I go!"
+
+@ 035
+JP #WS113：
+JP 「よし、行って来い！
+EN Ultimo:
+EN "All right, get out there!"

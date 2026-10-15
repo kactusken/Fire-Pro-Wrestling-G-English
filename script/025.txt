@@ -1,0 +1,97 @@
+@ 000
+JP 今日はトーナメント決勝戦だ。
+JP 優勝者はＩＧＰのベルトへの挑戦権を得る。
+EN Today is the tournament final. The
+EN winner earns a shot at the IWGP belt.
+
+@ 001
+JP でもその次は俺が必ず！
+EN But next time, it'll be me for sure!
+
+@ 002
+JP 記者：
+JP 「#MSさん！
+EN Reporter:
+EN "#MS!"
+
+@ 003
+JP 「ちょっとお話よろしいですか？
+EN "Got a minute?"
+
+@ 004
+JP #MS：
+JP 「今日はＶ－１の決勝でしょ？
+JP 　来るとこが違うんじゃないんですか？
+EN #MS:
+EN "Today's the G1 final, isn't it? Aren't
+EN  you in the wrong place?"
+
+@ 005
+JP 記者：
+JP 「いえ、今日は同世代の
+JP 　#WS008選手とのシングルですよね？
+EN Reporter:
+EN "No, today's your singles match with
+EN  Nakanishi, from your generation,
+EN  right?"
+
+@ 006
+JP 「最近の#MSさんと
+JP 　同世代の人達の試合が熱いって事で、
+JP 　我々注目してるんですよ。
+EN "Your matches with guys your age
+EN  have been really hot lately. We're
+EN  keeping an eye on it."
+
+@ 007
+JP 知らなかったな。実際悪い気はしないけど。
+EN I didn't know that. Can't say I mind,
+EN though.
+
+@ 008
+JP #MS：
+JP 「どうしても連中とは
+JP 　意地張り合っちゃいますからね。
+EN #MS:
+EN "With those guys, our pride always
+EN  gets in the way."
+
+@ 009
+JP 「ただ、それだけで終わっちゃ
+JP 　ダメだと思うんですよ。
+EN "But I don't think it should stop
+EN  there."
+
+@ 010
+JP 「その闘いをどんどん高めて行って
+JP 　#PS00を、プロレス界を
+JP 　揺るがすような闘いにしないと！
+EN "We have to keep raising the bar until
+EN  our fights shake #PS00 and the
+EN  whole wrestling world!"
+
+@ 011
+JP 記者：
+JP 「おっ、気合入ってますね！
+EN Reporter:
+EN "Whoa, you're fired up!"
+
+@ 012
+JP #MS：
+JP 「ええ！今日もその為の１歩を刻む
+JP 　闘いにしますよ！
+EN #MS:
+EN "Yeah! Today's another step toward
+EN  that!"
+
+@ 013
+JP 記者：
+JP 「期待してます！
+EN Reporter:
+EN "Can't wait!"
+
+@ 014
+JP 確かに俺自身、気合が入ってる。
+JP 今日は行ける！
+EN I really am fired up. I've got this
+EN today!

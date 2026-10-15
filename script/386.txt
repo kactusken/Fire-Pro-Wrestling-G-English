@@ -1,0 +1,65 @@
+@ 000
+JP #WS154：
+JP 「どうやらお前と#WS170の試合を
+JP 　見たらしくてな。
+EN Funaki:
+EN "Seems he saw your fight with
+EN  Gordeau."
+
+@ 001
+JP #MS：
+JP 「そうなんですか。
+JP 　それで闘いたいと言ってくれるなんて
+JP 　嬉しいですね。
+EN #MS:
+EN "Really? And that made him want to
+EN  fight me? That's great."
+
+@ 002
+JP 何と俺と#WS170の試合を見たあの
+JP #WF171が
+JP 俺と闘いたいと言って来たのだ。
+EN Maurice Smith himself had seen my
+EN fight with Gordeau and asked to fight
+EN me!
+
+@ 003
+JP #WS154：
+JP 「じゃあ、ＯＫだな？
+EN Funaki:
+EN "So it's a yes?"
+
+@ 004
+JP #MS：
+JP 「もちろんですよ！
+EN #MS:
+EN "Of course!"
+
+@ 005
+JP #WS171：
+JP 「ユーは素晴らしいファイターだよ。
+JP 　今日このリングでファイト出来る事を
+JP 　誇りに思う。
+EN Smith:
+EN "You are a great fighter. I am proud
+EN  to fight you in this ring today."
+
+@ 006
+JP #MS：
+JP 「あなた程のファイターにそう
+JP 　言ってもらえるのはとても光栄な事だ。
+EN #MS:
+EN "Hearing that from a fighter like you
+EN  is a real honor."
+
+@ 007
+JP 「だから俺はその気持ちに恥じないファイトで
+JP 　あなたに応えるつもりだ。
+EN "So I'll answer you with a fight
+EN  worthy of those words."
+
+@ 008
+JP #WS171：
+JP 「フフフ・・・楽しみだよ。
+EN Smith:
+EN "Heh heh heh... I look forward to it."

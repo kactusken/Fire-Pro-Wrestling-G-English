@@ -1,0 +1,128 @@
+@ 000
+JP タイトル戦の後に、異変が起こった。
+EN After the title match, something
+EN unexpected happened.
+
+@ 001
+JP #WS076：
+JP 「出て来い、#WS013！
+JP 　おい！おい！おい！
+JP 　#WS013！#WS013！
+EN Onita:
+EN "Get out here, Choshu! Hey! Hey! Hey!
+EN  Choshu! Choshu!"
+
+@ 002
+JP 何と#PS02の#WS076が
+JP #PL00のリングを占拠し
+JP 宣戦布告して来たのだ。
+EN #PS02's Onita had taken over the
+EN #PL00 ring and declared war.
+
+@ 003
+JP 「邪道のこの俺を、上げるのか、上げないのか、
+JP 　ここで、返答、しろっ！
+EN "Are you letting an outlaw like me in,
+EN  or not? Answer me, right here!"
+
+@ 004
+JP 俺はこの#WS076の行動が許せなかった。
+JP 気がつくと俺は奴の前に飛び出していた。
+EN I couldn't stand what Onita was
+EN doing. Before I knew it, I'd jumped out
+EN in front of him.
+
+@ 005
+JP #MS：
+JP 「土足で上がってただで済むと思ったら
+JP 　大間違いだぞ、この野郎！
+EN #MS:
+EN "You barge in here with your boots on
+EN  and think you'll walk away?! Dead
+EN  wrong, pal!"
+
+@ 006
+JP #WS076：
+JP 「やかましい！この団体に俺のような
+JP 　邪道者を上げる器量があるのか！
+JP 　それを確かめに来たんじゃー！
+EN Onita:
+EN "Shut up! Has this company got the
+EN  guts to let an outlaw like me in?!
+EN  That's what I came to find out!"
+
+@ 007
+JP #MS：
+JP 「何言ってんだこの野郎！
+EN #MS:
+EN "What the hell are you talking
+EN  about?!"
+
+@ 008
+JP 俺はまた呼び出しを受けていた。
+EN I'd been called in again.
+
+@ 009
+JP #WS013：
+JP 「どうしてもやりたいのか？
+EN Choshu:
+EN "You really want this one?"
+
+@ 010
+JP #MS：
+JP 「このまま引き下がる訳には
+JP 　行かないでしょう？
+EN #MS:
+EN "I can't just back down now, can I?"
+
+@ 011
+JP #WS013：
+JP 「#WS002じゃダメなのか？
+EN Choshu:
+EN "What's wrong with Sasaki?"
+
+@ 012
+JP #MS：
+JP 「強さは認めますけどね。でもあの場に
+JP 　一番先に出て行ったのは俺ですよ。
+EN #MS:
+EN "He's strong, sure. But I was the first
+EN  one out there."
+
+@ 013
+JP 「それと逆に聞きますけど、
+JP 　俺じゃダメなんですか？
+EN "Let me turn it around. What's wrong
+EN  with me?"
+
+@ 014
+JP #WS013：
+JP 「・・・・・・分かった。
+JP 　そこまで言うならお前に行ってもらう。
+EN Choshu:
+EN "...... Fine. If you feel that strongly,
+EN  you go."
+
+@ 015
+JP #WS076：
+JP 「本当は#WS013が狙いだったんだが・・・
+JP 　#MS！お前ならいいだろう！
+EN Onita:
+EN "I was really after Choshu... But
+EN  #MS! You'll do!"
+
+@ 016
+JP 「いいか！#MS！
+JP 　俺の！邪道の生き様を！
+JP 　その眼でしかと見ておけ！
+EN "Listen! #MS! Watch my outlaw
+EN  way of life! Watch it with your own
+EN  eyes!"
+
+@ 017
+JP #MS：
+JP 「何言ってやがる！
+JP 　生きて帰れると思うなよ、コラ！
+EN #MS:
+EN "What're you babbling about?! Don't
+EN  think you're leaving here alive!"

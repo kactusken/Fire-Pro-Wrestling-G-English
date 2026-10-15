@@ -1,0 +1,233 @@
+@ 000
+JP #WS006：
+JP 「最近絶好調じゃないか。
+EN Iizuka:
+EN "You've been on fire lately."
+
+@ 001
+JP #MS：
+JP 「そうですか？
+EN #MS:
+EN "Have I?"
+
+@ 002
+JP 確かにあの異種格闘技戦の後、調子がいい。
+JP 周囲に認められる闘いが出来た事が
+JP 精神的にプラスに作用したようだ。
+EN It's true, I've been on a roll since that
+EN MMA fight. Earning everyone's
+EN respect did wonders for my head.
+
+@ 003
+JP #WS006：
+JP 「最近#WS001さん達、素直にお前を
+JP 　応援してていいのか悩んでるぞ。
+EN Iizuka:
+EN "Hashimoto and the others can't
+EN  decide if they should be happy for
+EN  you."
+
+@ 004
+JP #MS：
+JP 「そうですか・・・
+EN #MS:
+EN "Is that so..."
+
+@ 005
+JP 同じ軍団にいても１レスラーとして見れば
+JP 皆ライバルなのだ。
+EN Same faction or not, as wrestlers
+EN we're all rivals.
+
+@ 006
+JP だが一線級の人達にライバル視される
+JP と言う事は、それだけ認められている証拠だ。
+EN But being seen as a rival by the top
+EN guys proves they respect me.
+
+@ 007
+JP 少々うれしい気分になって俺は廊下に出た。
+EN Feeling a little happy, I stepped out
+EN into the hallway.
+
+@ 008
+JP 記者：
+JP 「#MSさん！
+EN Reporter:
+EN "#MS!"
+
+@ 009
+JP 「坂上選手からメッセージ伝えるように
+JP 　言われて来たんですけど・・・
+EN "Sakagami asked me to pass on a
+EN  message to you..."
+
+@ 010
+JP #MS：
+JP 「坂上！？何て言ってたんです？
+EN #MS:
+EN "Sakagami!? What did he say?"
+
+@ 011
+JP 驚いた俺は大声で返事をしていた。
+EN I was so surprised I answered at the
+EN top of my lungs.
+
+@ 012
+JP 記者：
+JP 「『対戦したい、俺も働きかけるから
+JP 　お前も動いてくれ』って。
+EN Reporter:
+EN "'I want to fight you. I'll push for it,
+EN  so you push too.'"
+
+@ 013
+JP #MS：
+JP 「坂上が・・・・
+EN #MS:
+EN "Sakagami...."
+
+@ 014
+JP そう言えばあいつ、どうしてるんだろう。
+JP あまり他団体の事を気にしてる余裕
+JP 無かったからな・・・
+EN Come to think of it, how's he doing? I
+EN haven't had time to follow other
+EN promotions...
+
+@ 015
+JP 「で、あいつ最近どうしてます？
+EN "So how's he been lately?"
+
+@ 016
+JP 記者：
+JP 「ちょっと前に、長い間持ってた
+JP 　東洋タッグのベルト返上して、
+JP 　敗れましたけど三冠王座に初挑戦しましたよ。
+EN Reporter:
+EN "He gave up his longtime All Asia Tag
+EN  belts and got his first Triple Crown
+EN  shot. He lost, though."
+
+@ 017
+JP あいつも頑張ってたんだな・・・
+EN So he's been working hard too...
+
+@ 018
+JP #MS：
+JP 「・・・・・・
+EN #MS:
+EN "......"
+
+@ 019
+JP 俺は両方が王者になってから、と思っていたが
+JP それはそれで実現が難しくなるのかもしれない。
+EN I'd figured we'd fight once we were
+EN both champs, but that might be hard
+EN to pull off.
+
+@ 020
+JP 結局俺は#WS013さんに
+JP 相談する事にした。
+EN In the end, I decided to talk it over
+EN with Choshu.
+
+@ 021
+JP #WS013：
+JP 「・・・・・
+EN Choshu:
+EN "....."
+
+@ 022
+JP #MS：
+JP 「お願いします！
+EN #MS:
+EN "Please!"
+
+@ 023
+JP #WS013：
+JP 「まあ、お前らの気持ちは分かったよ。
+JP 　俺も個人的には実現させてやりたい。
+JP 　ただ知っての通り、これは難しい問題だぞ。
+EN Choshu:
+EN "Well, I get how you two feel.
+EN  Personally, I'd like to make it happen.
+EN  But you know it's a tricky one."
+
+@ 024
+JP #MS：
+JP 「はい。
+EN #MS:
+EN "Yes, sir."
+
+@ 025
+JP #WS013：
+JP 「まあ、俺の方でも
+JP 　坂内さんに掛け合ってみるよ。
+EN Choshu:
+EN "Well, I'll take it up with Mr.
+EN  Sakaguchi."
+
+@ 026
+JP #MS：
+JP 「ありがとうございます！
+EN #MS:
+EN "Thank you!"
+
+@ 027
+JP その後、あれこれと話し合いが行われ、
+JP 結論が出た。
+EN After a lot of back and forth, a
+EN decision was made.
+
+@ 028
+JP #PL00ドーム大会
+JP #MS、#WS008組対
+JP 坂上、#WS046組。
+EN #PL00 Dome Show: #MS &
+EN Nakanishi vs. Sakagami & Omori.
+
+@ 029
+JP シングルマッチでないのは残念だったが
+JP 諸問題を乗り越えて坂上との対戦が
+JP 実現したのはとても凄い事だ。
+EN Too bad it wasn't singles, but getting
+EN past all the obstacles to face
+EN Sakagami was huge.
+
+@ 030
+JP ドームを埋め尽くした観客から
+JP リングに上がった４人に
+JP 大歓声が送られた。
+EN The packed Dome roared as the four
+EN of us stepped into the ring.
+
+@ 031
+JP #MS：
+JP 「お前があの坂上なのか？
+JP 　別人みたいだぜ。
+EN #MS:
+EN "You're that Sakagami? You look like
+EN  a different guy."
+
+@ 032
+JP 坂上：
+JP 「お前こそな。
+EN Sakagami:
+EN "Look who's talking."
+
+@ 033
+JP 「今日はタッグだが
+JP 　俺はお前から取ってやるからな。
+EN "It's a tag match today, but I'm
+EN  pinning you."
+
+@ 034
+JP #MS：
+JP 「その言葉、そっくり返しておくぜ。
+EN #MS:
+EN "Right back at you."
+
+@ 035
+JP 俺達は熱い握手を交わした。
+EN We shook hands hard.

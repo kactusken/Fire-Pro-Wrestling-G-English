@@ -1,0 +1,87 @@
+@ 000
+JP 俺は何とか#WS166さんに勝利し、
+JP 準決勝に駒を進めた。
+EN I somehow beat Mr. Anjoh and moved
+EN on to the semifinals.
+
+@ 001
+JP #WS166：
+JP 「いやー、参った参った。
+EN Anjoh:
+EN "Man, you got me, you got me."
+
+@ 002
+JP 「強くなったな、お前よぉ。
+EN "You got strong, kid."
+
+@ 003
+JP #MS：
+JP 「#WS166さん。
+JP 　ありがとうございました！
+EN #MS:
+EN "Mr. Anjoh. Thank you!"
+
+@ 004
+JP #WS166：
+JP 「いや、ナイスファイトだったよな。
+JP 　で、何だ、次の相手はあの
+JP 　#WS170らしいじゃねぇか。
+EN Anjoh:
+EN "Hey, nice fight. So, what, your next
+EN  guy is Gordeau, huh?"
+
+@ 005
+JP #WF170。
+JP 喧嘩屋の異名を取る危険なファイターだ。
+EN Gerard Gordeau. A dangerous fighter
+EN known as "the Street Fighter."
+
+@ 006
+JP #WS166：
+JP 「グルーサムの経験が浅いお前には
+JP 　経験豊かでクレバーな参謀が必要だ。
+JP 　そう思わないか？
+EN Anjoh:
+EN "You're new to Gruesome. You need a
+EN  clever, experienced strategist. Don't
+EN  you think?"
+
+@ 007
+JP と言うと#WS166さんはニヤッと笑い、
+JP しきりに頷きながら俺の肩をポンポンと
+JP 叩いている。
+EN With that, Mr. Anjoh grinned, nodding
+EN away and patting me on the shoulder.
+
+@ 008
+JP #MS：
+JP 「あ、あの・・・
+EN #MS:
+EN "Uh, um..."
+
+@ 009
+JP #WS166：
+JP 「まあ遠慮すんな。もう大船に乗ったつもりで
+JP 　ドーンと構えとけって！
+EN Anjoh:
+EN "Don't be shy. You're in good hands
+EN  now. Just sit back and relax!"
+
+@ 010
+JP #MS：
+JP 「はぁ・・・・
+EN #MS:
+EN "Uh-huh...."
+
+@ 011
+JP 何だか良く分からないがセコンドについて
+JP くれるらしい。助かるけど・・・・
+JP イマイチ理解しきれない。
+EN I didn't quite get it, but it seems he'll
+EN be in my corner. That helps, but.... I
+EN still don't get it.
+
+@ 012
+JP やがて#WS170との試合の日がやって来た。
+EN Soon, the day of the Gordeau fight
+EN came.

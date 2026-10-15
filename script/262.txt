@@ -1,0 +1,69 @@
+@ 000
+JP 記者：
+JP 「非常に残念でしたが
+JP 　師弟対決、素晴らしい試合でした。
+EN Reporter:
+EN "A real shame, but teacher vs.
+EN  student, and what a match it was."
+
+@ 001
+JP #MS：
+JP 「ありがとうございます。
+EN #MS:
+EN "Thank you."
+
+@ 002
+JP 記者：
+JP 「早くも#PS07のベストバウトとの
+JP 　声も上がっていますが？
+EN Reporter:
+EN "People are already calling it
+EN  #PS07's best bout ever?"
+
+@ 003
+JP #MS：
+JP 「自分自身、一生で本当に何回出来るかって
+JP 　ぐらいに完全燃焼出来た試合だったんで。
+JP 　見てる人達にもそれが伝われば嬉しいですね。
+EN #MS:
+EN "I gave it all I had, like you can only a
+EN  few times in life. I hope the fans felt
+EN  that."
+
+@ 004
+JP 記者：
+JP 「やはり強かったですか？
+EN Reporter:
+EN "Was he as strong as expected?"
+
+@ 005
+JP #MS：
+JP 「そうですね。ああ言うのを懐が深い、って
+JP 　言うんでしょうかね。仕掛けても
+JP 　吸い込まれて行くような感じがあって。
+EN #MS:
+EN "Yes. I guess that's what you call
+EN  depth. Whatever I tried, it felt like it
+EN  just got swallowed up."
+
+@ 006
+JP 「でも今日の試合は凄く勉強になりました。
+JP 　明日からは今日の経験を活かして
+JP 　もっと強い自分になります！
+EN "But I learned a lot today. Starting
+EN  tomorrow, I'll use it to become even
+EN  stronger!"
+
+@ 007
+JP ギガバトルトーナメントを制したのは大本命
+JP #WS149さんだった。
+EN The Mega Battle Tournament went to
+EN the heavy favorite, Mr. Maeda.
+
+@ 008
+JP トーナメントは予想通りの結果に終わった。
+JP 俺達若い世代は何一つ結果を出せなかったのだ。
+JP 今後の大きな課題と言っていいだろう・・・・
+EN It ended as expected. Our young
+EN generation got no results at all. That's
+EN a big challenge for the future....

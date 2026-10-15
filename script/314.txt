@@ -1,0 +1,15 @@
+@ 000
+JP １回戦を勝ち上がった俺は
+JP 準決勝に駒を進めた。相手は
+JP #WS167さんだ。
+EN I won my first-round match and
+EN advanced to the semifinals. My
+EN opponent: Sano.
+
+@ 001
+JP 最近はすっかり
+JP バーリトゥードスタイルに転向している。
+JP 気をつけなければならないだろう。
+EN Lately he's switched over completely
+EN to vale tudo style. I'll have to be
+EN careful.

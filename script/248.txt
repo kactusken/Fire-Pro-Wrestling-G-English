@@ -1,0 +1,79 @@
+@ 000
+JP 俺は勝った。あの
+JP #WF090に・・・
+EN I won. Over Genichiro Tenryu
+EN himself...
+
+@ 001
+JP 会場は#WS090派の罵声と別に
+JP 俺に対する歓声も混じっている。
+EN Mixed in with the jeers of Tenryu's
+EN fans, there are cheers for me, too.
+
+@ 002
+JP 俺は負けてしまった。
+EN I lost.
+
+@ 003
+JP 会場は#WS090派の罵声と別に
+JP 少数ながら俺に対する歓声も
+JP 混じっている。
+EN Mixed in with the jeers of Tenryu's
+EN fans, there are a few cheers for me,
+EN too.
+
+@ 004
+JP #WS076：
+JP 「#MS・・・・
+EN Onita:
+EN "#MS...."
+
+@ 005
+JP #MS：
+JP 「#WS076さん。これから・・・
+JP 　まだこれからですよ！
+EN #MS:
+EN "Mr. Onita. From here on... it's only
+EN  the beginning!"
+
+@ 006
+JP 「俺はこれからも邪道レスラーとして
+JP 　闘い続けてみせます！
+EN "I'll keep fighting as an outlaw
+EN  wrestler from now on!"
+
+@ 007
+JP #WS076さんは何も言わず、
+JP ただ何度も頷くだけだった。
+EN Mr. Onita said nothing, and just
+EN nodded over and over.
+
+@ 008
+JP その後#WF076は
+JP ２度目の引退をした。
+EN Later, Atsushi Onita retired for the
+EN second time.
+
+@ 009
+JP #MSは邪道魂を受け継いで闘い続けたが
+JP #WS076抜きでの１人の闘いでは
+JP 長くは続かなかった。
+EN #MS inherited the outlaw spirit
+EN and fought on, but alone, without
+EN Onita, he didn't last long.
+
+@ 010
+JP 彼はライバル坂上浩一との再戦を果たす事無く
+JP #PS00に出られなくなり、他団体に
+JP 闘い場所を求めるも、どこでも続かなかった。
+EN With no rematch with Sakagami, he
+EN was shut out of #PS00. He tried
+EN other promotions, but nothing lasted.
+
+@ 011
+JP やがて#MFの名は
+JP プロレス界から
+JP 消え去って行ったのだった・・・
+EN In time, the name
+EN #MF faded from
+EN the wrestling world...

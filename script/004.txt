@@ -1,0 +1,197 @@
+@ 000
+JP #WF012が
+JP 昭和４７年３月にストロングスタイルを
+JP 追求し、旗揚げした団体。
+EN A promotion founded in March 1972 by
+EN Antonio Inoki in pursuit of Strong
+EN Style.
+
+@ 001
+JP 日本マット界の二大メジャー団体の一つでもあり
+JP 現在の日本プロレスを
+JP 支え続けてきた功績は大きい。
+EN One of the two major promotions in
+EN Japan, it has done a great deal to hold
+EN up Japanese wrestling to this day.
+
+@ 002
+JP その闘いはプロレスだけではなく、
+JP 異種格闘技戦等にも積極的に取り組み、
+JP 数多くのファンを魅了している。
+EN Beyond pro wrestling, it has also
+EN taken on mixed martial arts bouts and
+EN more, captivating countless fans.
+
+@ 003
+JP こんな一流の団体でプロレスができる俺は
+JP 最高に幸せものだ。
+EN Getting to wrestle in a top promotion
+EN like this makes me the luckiest man
+EN alive.
+
+@ 004
+JP 入団してまもなく、
+JP デビュー戦をすることになった。
+JP 対戦相手は#WS006さん・・・
+EN Soon after joining, I was set for my
+EN debut match. My opponent: Iizuka...
+
+@ 005
+JP #WS001：
+JP 「おまえが今日デビューする
+JP 　#MSか。
+EN Hashimoto:
+EN "So you're #MS, the one debuting
+EN  today."
+
+@ 006
+JP #MS：
+JP 「は、はい！
+EN #MS:
+EN "Y-Yes, sir!"
+
+@ 007
+JP 試合前の控え室で緊張と闘っていた俺に
+JP 声をかけてくれたのは、あの
+JP #WS001さんだった。
+EN I was battling nerves in the locker
+EN room when someone spoke to me:
+EN Shinya Hashimoto himself.
+
+@ 008
+JP #WS001さんといえば
+JP 今や押しも押されぬ
+JP #PL00のエース。
+EN Hashimoto is now the undisputed ace
+EN of #PL00.
+
+@ 009
+JP #WN001といわれるほどの
+JP その豪快かつ、破壊力十分の殺人技で
+JP 常にトップに君臨している。
+EN They call him the "Explosive
+EN Crusher", and his huge, devastating
+EN killer moves keep him on top.
+
+@ 010
+JP #WS001：
+JP 「おう。いよいよ今日がデビュー戦だな、
+JP 　どうだ？心境は？
+EN Hashimoto:
+EN "So today's finally your debut. How
+EN  are you feeling?"
+
+@ 011
+JP #MS：
+JP 「め、滅茶苦茶緊張してます・・・
+EN #MS:
+EN "I-I'm incredibly nervous..."
+
+@ 012
+JP #WS001：
+JP 「そりゃそうだわな。
+JP 　スパーリングとは訳が違うからなぁ。
+EN Hashimoto:
+EN "Well, sure you are. This is nothing
+EN  like sparring."
+
+@ 013
+JP #MS：
+JP 「・・・観客の前ですから。
+EN #MS:
+EN "...There's a crowd watching."
+
+@ 014
+JP #WS001：
+JP 「まぁなんだ、気合入れて
+JP 　ガツンとやっちまえばいいんだよ！
+EN Hashimoto:
+EN "Look, just psych yourself up and hit
+EN  him hard!"
+
+@ 015
+JP #MS：
+JP 「は、はい・・・
+EN #MS:
+EN "Y-Yes, sir..."
+
+@ 016
+JP #WS001：
+JP 「そんなんじゃ勝てるもんも
+JP 　勝てなくなっちまうぞ！
+EN Hashimoto:
+EN "With that attitude you'll lose a match
+EN  you could've won!"
+
+@ 017
+JP 「相手を潰す気持ちで行かなきゃ
+JP 　お前がやられちまうんだぞ！
+JP 　わかってんのか！
+EN "If you don't go in to crush him, he'll
+EN  be the one crushing you! Got that?"
+
+@ 018
+JP #MS：
+JP 「き、気合入れて頑張ります！
+EN #MS:
+EN "I-I'll psych up and give it my all!"
+
+@ 019
+JP #WS001：
+JP 「そうだ、その意気だ！
+JP 　思う存分暴れて来いや！いいか！
+EN Hashimoto:
+EN "That's it, that's the spirit! Go out
+EN  there and cut loose! Got it?"
+
+@ 020
+JP #MS：
+JP 「はい！
+EN #MS:
+EN "Yes, sir!"
+
+@ 021
+JP #WS001さんの
+JP おかげで気合いが入った。
+JP よし、デビュー戦白星で飾ってやる！
+EN Thanks to Hashimoto, I was fired up.
+EN I'll win my debut, I swear it!
+
+@ 022
+JP さすがメジャー団体・・・
+JP 想像よりはるかに観客が多い。
+JP 緊張は頂点に達した。
+EN A major promotion, all right... The
+EN crowd is far bigger than I imagined.
+EN My nerves hit their peak.
+
+@ 023
+JP #WS006：
+JP 「デビュー戦とは言え、
+JP 　手加減はしないからな。
+EN Iizuka:
+EN "Debut or not, I'm not going easy on
+EN  you."
+
+@ 024
+JP 「だからお前も思う存分ぶつかって来い！
+EN "So you come at me with everything
+EN  you've got!"
+
+@ 025
+JP ・「やれるもんならやってみな！先輩！
+JP ・「今日はよろしくお願いします！
+EN ・"Try it if you can, senpai!"
+EN ・"Thank you for having me today!"
+
+@ 026
+JP #WS006：
+JP 「いい度胸してるな！
+EN Iizuka:
+EN "You've got some nerve!"
+
+@ 027
+JP #WS006：
+JP 「ああ､よろしくな。
+EN Iizuka:
+EN "Yeah, likewise."

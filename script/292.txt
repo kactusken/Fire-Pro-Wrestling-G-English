@@ -1,0 +1,83 @@
+@ 000
+JP 歓声は鳴り止まない。
+JP 満員の観客たちから俺と坂上へのコールが
+JP 大合唱となり会場が揺れている。
+EN The cheering won't stop. The packed
+EN house chants for me and Sakagami,
+EN and the whole arena shakes.
+
+@ 001
+JP #MS：
+JP 「参ったよ、本当に強くなったな。
+EN #MS:
+EN "You got me. You've gotten really
+EN  strong."
+
+@ 002
+JP 坂上：
+JP 「まあな。でも俺も危なかったぜ。
+JP 　『ここでタップしたら楽になれる』
+JP 　何度そう思った事か。
+EN Sakagami:
+EN "I guess. But that was close. 'Just tap
+EN  and it's over.' I thought that so many
+EN  times."
+
+@ 003
+JP #MS：
+JP 「よく言うぜ。
+EN #MS:
+EN "Yeah, right."
+
+@ 004
+JP 「でもこれで公式記録上では１敗か。
+JP 　早いとこタイに戻さないと俺の方が
+JP 　弱い事になっちまうな。
+EN "But now I'm one loss down on the
+EN  record. Better tie it up quick or I'll
+EN  look like the weaker one."
+
+@ 005
+JP 坂上：
+JP 「ハハハ、そうだな。
+JP 　でも今度は２敗目をつけてやるよ。
+JP 　お前がいる限り俺はもっと強くなる！
+EN Sakagami:
+EN "Ha ha, true. But next time I'll hand
+EN  you loss number two. With you
+EN  around, I'll keep getting stronger!"
+
+@ 006
+JP #MS：
+JP 「俺だってそうだぜ。今回負けた分、
+JP 　お釣が来るくらい勝ってやるから
+JP 　覚えとけよ！
+EN #MS:
+EN "Same here. I'll win enough to make
+EN  up for this loss and then some.
+EN  Remember that!"
+
+@ 007
+JP 坂上：
+JP 「へへへ、そいつは楽しみだな。
+JP 　次はいつか分からないけど
+JP 　必ずまた、リングの上で、な。
+EN Sakagami:
+EN "Heh heh, can't wait. Don't know
+EN  when, but we'll meet in the ring
+EN  again, for sure."
+
+@ 008
+JP #MS：
+JP 「おう。また観客の度肝ぬく試合を、
+JP 　歴史に残るような名勝負を２人でやろうぜ！
+EN #MS:
+EN "Yeah. Let's give them another
+EN  jaw-dropper, a classic for the history
+EN  books!"
+
+@ 009
+JP まだ大歓声は鳴り止まない。
+JP 俺達２人がリングを去った後でも・・・
+EN The roar still won't stop. Even after
+EN the two of us leave the ring...

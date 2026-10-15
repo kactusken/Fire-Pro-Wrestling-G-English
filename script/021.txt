@@ -1,0 +1,118 @@
+@ 000
+JP トーナメントで負けた俺は次のチャンスを
+JP 手に入れる為、日々精進するしかない。
+JP 俺は近所にあるトレーニングジムを訪れた。
+EN Out of the tournament, all I can do is
+EN train hard for my next shot. So I went
+EN to a gym near my place.
+
+@ 001
+JP #MS：
+JP 「ンッ！クッ！ンッ！ンッ！
+EN #MS:
+EN "Hnn! Ngh! Hnn! Hnn!"
+
+@ 002
+JP ひたすらトレーニングに励む。
+EN I threw myself into training.
+
+@ 003
+JP 何だか騒がしいな。
+EN What's all the noise?
+
+@ 004
+JP #WS107：
+JP 「ウォォォォォ！
+EN Norton:
+EN "Wooooooah!"
+
+@ 005
+JP #MS：
+JP 「うわっ！
+EN #MS:
+EN "Whoa!"
+
+@ 006
+JP #WS107：
+JP 「ンー？ユーは確か#MS！
+EN Norton:
+EN "Hmm? You're #MS, right!"
+
+@ 007
+JP #MS：
+JP 「#WS107じゃないか！
+JP 　今シリーズには来ていないはずじゃ・・・
+EN #MS:
+EN "Norton! I thought you weren't on this
+EN  series..."
+
+@ 008
+JP #WS107：
+JP 「イエス！確かにミーは今シリーズには
+JP 　参加していない。来シリーズに向けて
+JP 　トレーニングしてるのさ！
+EN Norton:
+EN "Yes! I'm not in this series. I'm
+EN  training for the next one!"
+
+@ 009
+JP #MS：
+JP 「そ、そうなのか・・・・
+EN #MS:
+EN "I-Is that so..."
+
+@ 010
+JP 今から来シリーズ向けに来日してたなんて・・・
+JP 凄い意気込みだ。
+EN Coming to Japan this early to get
+EN ready for the next series... That's
+EN dedication.
+
+@ 011
+JP #WS107：
+JP 「ＵＳＡではアームレスリングで成功した。
+JP 　ミーはプロレスリングに関しては
+JP 　ジャパンで成功したいんだ。
+EN Norton:
+EN "In the USA, I made it in arm
+EN  wrestling. In pro wrestling, I want to
+EN  make it in Japan."
+
+@ 012
+JP #MS：
+JP 「#WS107・・・・
+EN #MS:
+EN "Norton..."
+
+@ 013
+JP 俺は#WS107の意識の高さに触発された。
+EN His drive lit a fire under me.
+
+@ 014
+JP 今回のチャンスを逃しただけで
+JP 士気の下がっていた自分が恥ずかしくなった。
+EN I felt ashamed for losing heart over
+EN just one missed chance.
+
+@ 015
+JP 「俺も負けない！
+EN "I won't lose either!"
+
+@ 016
+JP #WS107：
+JP 「ミーも負ける気はないぜ！ウォォォォォ！
+EN Norton:
+EN "Me neither! Wooooooah!"
+
+@ 017
+JP こうして気力満タンになったこの日は
+JP トレーニングに明け暮れた。
+EN Fired up to the max, I spent the whole
+EN day training.
+
+@ 018
+JP その翌日俺と当たる事になった
+JP #WS009は運が悪かったとしか
+JP 言いようが無い。
+EN All I can say is that Nishimura, who
+EN faced me the next day, had bad luck.

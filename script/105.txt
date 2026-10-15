@@ -1,0 +1,49 @@
+@ 000
+JP 記者：
+JP 「歴史的な#PS01の開国の記念すべき
+JP 　第一歩となる試合でした。#WS094選手
+JP 　の手応えはいかがでしたか？
+EN Reporter:
+EN "That was a historic first step in
+EN  opening up #PS01. How did you
+EN  find Shinzaki?"
+
+@ 001
+JP #MS：
+JP ・「特に何も無いです。
+JP ・「緊張してたんじゃないですか？
+JP ・「素晴らしい選手でしたよ。
+EN #MS:
+EN ・"Nothing special."
+EN ・"Wasn't he nervous?"
+EN ・"He was a great wrestler."
+
+@ 002
+JP 「俺は普通に試合しただけなんで。
+EN "I just wrestled a normal match."
+
+@ 003
+JP 「初めてでしたからね。
+JP 　慣れて来て本来の力が出せるようになれば
+JP 　また違うと思いますよ。
+EN "It was his first time here. Once he's
+EN  used to it and shows his real power,
+EN  it'll be different."
+
+@ 004
+JP 「何より気持ちが伝わって来ましたから。
+JP 　その内もう一度やってみたいですね！
+EN "Above all, I could feel his spirit. I'd
+EN  like to face him again sometime!"
+
+@ 005
+JP 記者：
+JP 「では最後にファンに一言。
+EN Reporter:
+EN "Finally, any words for the fans?"
+
+@ 006
+JP #MS：
+JP 「これからも応援よろしくお願いします！
+EN #MS:
+EN "Please keep supporting me!"

@@ -1,0 +1,1046 @@
+# overlay 001: strings in 0x8005a7e8..0x8005c5a8
+
+@ 8005a7e8 len=12 refs=p1,c0
+JP － 次へ －
+EN - Next -
+
+@ 8005a7f4 len=12 refs=p1,c0
+JP 爆破時間
+EN Bomb Timer
+
+@ 8005a800 len=12 refs=p1,c0
+JP 対戦形式
+EN Match Type
+
+@ 8005a80c len=12 refs=p1,c0
+JP 試合中BGM
+EN Match BGM
+
+@ 8005a818 len=12 refs=p1,c0
+JP 場外ｶｳﾝﾄ
+EN Ring-out Ct
+
+@ 8005a824 len=12 refs=p1,c0
+JP 反則ｶｳﾝﾄ
+EN Foul Count
+
+@ 8005a830 len=8 refs=p1,c0
+JP ｶｯﾄプﾚｲ
+EN Cut Play
+
+@ 8005a838 len=12 refs=p1,c0
+JP ﾄﾙﾈードバﾄﾙ
+EN Tornado
+
+@ 8005a844 len=12 refs=p1,c0
+JP ﾗﾝバージｬｯｸ
+EN Lumberjack
+
+@ 8005a850 len=12 refs=p1,c0
+JP ﾛープﾁｪｯｸ
+EN Rope Check
+
+@ 8005a85c len=8 refs=p1,c0
+JP ﾚﾌｪﾘー
+EN Referee
+
+@ 8005a864 len=12 refs=p1,c0
+JP COMｽｷｯプ
+EN COM Skip
+
+@ 8005a870 len=16 refs=p1,c0
+JP ゲーﾑｽピード
+EN Game Speed
+
+@ 8005a880 len=8 refs=p1,c0
+JP COMﾚベﾙ
+EN COM Level
+
+@ 8005a888 len=12 refs=p1,c0
+JP 試合会場
+EN Venue
+
+@ 8005a894 len=8 refs=p1,c0
+JP ﾘﾝグ
+EN Ring
+
+@ 8005a89c len=12 refs=p1,c0
+JP 試合本数
+EN Falls
+
+@ 8005a8a8 len=12 refs=p1,c0
+JP 試合時間
+EN Time Limit
+
+@ 8005a8b4 len=12 refs=p1,c0
+JP 試合形式
+EN Rules
+
+@ 8005a8c0 len=12 refs=p4,c0
+JP 赤ｺーﾅー
+EN Red Corner
+
+@ 8005a8cc len=12 refs=p4,c0
+JP 青ｺーﾅー
+EN Blue Corner
+
+@ 8005a8e0 len=8 refs=p1,c0
+JP 800％
+EN 800%
+
+@ 8005a8e8 len=8 refs=p1,c0
+JP 400％
+EN 400%
+
+@ 8005a8f0 len=8 refs=p1,c0
+JP 300％
+EN 300%
+
+@ 8005a8f8 len=8 refs=p1,c0
+JP 200％
+EN 200%
+
+@ 8005a900 len=8 refs=p1,c0
+JP 175％
+EN 175%
+
+@ 8005a908 len=8 refs=p1,c0
+JP 150％
+EN 150%
+
+@ 8005a910 len=8 refs=p1,c0
+JP 125％
+EN 125%
+
+@ 8005a918 len=8 refs=p1,c0
+JP 100％
+EN 100%
+
+@ 8005a920 len=12 refs=p1,c0
+JP 三本勝負
+EN 2 of 3 Falls
+
+@ 8005a92c len=12 refs=p1,c0
+JP 一本勝負
+EN 1 Fall
+
+@ 8005a938 len=16 refs=p1,c0
+JP ｵﾝﾘーギブｱｯプ
+EN Submission Only
+
+@ 8005a948 len=12 refs=p1,c0
+JP ｵﾝﾘーﾌｫーﾙ
+EN Pinfall Only
+
+@ 8005a954 len=8 refs=p1,c0
+JP 2ｶｳﾝﾄ
+EN 2 Count
+
+@ 8005a95c len=8 refs=p1,c0
+JP 3ｶｳﾝﾄ
+EN 3 Count
+
+@ 8005a964 len=8 refs=p1,c0
+JP 3P・3P
+EN 3P/3P
+
+@ 8005a96c len=8 refs=p1,c0
+JP 2P・2P
+EN 2P/2P
+
+@ 8005a974 len=8 refs=p1,c0
+JP 1P・1P
+EN 1P/1P
+
+@ 8005a97c len=8 refs=p1,c0
+JP 3P・4P
+EN 3P/4P
+
+@ 8005a984 len=8 refs=p1,c0
+JP 3P・CP
+EN 3P/CP
+
+@ 8005a98c len=8 refs=p1,c0
+JP 2P・3P
+EN 2P/3P
+
+@ 8005a994 len=8 refs=p1,c0
+JP 2P・CP
+EN 2P/CP
+
+@ 8005a99c len=8 refs=p1,c0
+JP 1P・2P
+EN 1P/2P
+
+@ 8005a9a4 len=8 refs=p1,c0
+JP 1P・CP
+EN 1P/CP
+
+@ 8005a9ac len=8 refs=p1,c0
+JP CP・CP
+EN CP/CP
+
+@ 8005a9c4 len=8 refs=p2,c0
+JP 無制限
+EN No Limit
+
+@ 8005a9cc len=8 refs=p2,c0
+JP 60分
+EN 60 min
+
+@ 8005a9d4 len=8 refs=p2,c0
+JP 45分
+EN 45 min
+
+@ 8005a9dc len=8 refs=p2,c0
+JP 30分
+EN 30 min
+
+@ 8005a9e4 len=8 refs=p2,c0
+JP 15分
+EN 15 min
+
+@ 8005a9ec len=8 refs=p2,c0
+JP 10分
+EN 10 min
+
+@ 8005a9f4 len=4 refs=p2,c0
+JP 5分
+EN 5 min
+
+@ 8005aa00 len=12 refs=p1,c0
+JP 川島球場
+EN Kawashima Stadium
+
+@ 8005aa0c len=16 refs=p1,c0
+JP ベｲｻｲド・ｺﾛｼｱﾑ
+EN Bayside Coliseum
+
+@ 8005aa20 len=16 refs=p1,c0
+JP 村川町民体育館
+EN Murakawa Town Gym
+
+@ 8005aa30 len=12 refs=p1,c0
+JP 遊楽園ﾎーﾙ
+EN Yurakuen Hall
+
+@ 8005aa3c len=12 refs=p1,c0
+JP HUMAN　DOME
+EN HUMAN DOME
+
+@ 8005aa48 len=12 refs=p1,c0
+JP 日本武闘館
+EN Nippon Budokan
+
+@ 8005aa7c len=12 refs=p1,c0
+JP バｯﾄ若部
+EN T. Tanabe
+
+@ 8005aa88 len=12 refs=p1,c0
+JP Mr．水中
+EN Soranaka
+
+@ 8005aa94 len=8 refs=p1,c0
+JP ジｮー弘
+EN J. Higuchi
+
+@ 8005aa9c len=12 refs=p1,c0
+JP パﾝｻー鳥取
+EN T. Hattori
+
+@ 8005aaa8 len=8 refs=p1,c0
+JP 混合
+EN Mixed
+
+@ 8005aab0 len=8 refs=p1,c0
+JP ﾀｯグ
+EN Tag
+
+@ 8005aab8 len=8 refs=p1,c0
+JP ｼﾝグﾙ
+EN Single
+
+@ 8005aac0 len=4 refs=p1,c0
+JP 1分
+EN 1 min
+
+@ 8005ac80 len=16 refs=p0,c1
+JP ＲＡＮＤＯＭ
+EN RANDOM
+
+# Added by hand: ring field value for ring 0x20 (0x800606b0); the scanner
+# missed the reference (lui in a branch delay slot). Japanese used 10 cells.
+@ 8005ac90 len=24 refs=p0,c1
+JP 特設デスマッチリング
+EN Death Match
+
+@ 8005aca8 len=20 refs=p0,c1
+JP オクタゴンリング
+EN Octagon Ring
+
+@ 8005ad28 len=12 refs=p1,c0
+JP 両者K.O.
+EN Double KO
+
+@ 8005ad34 len=12 refs=p1,c0
+JP 両者ﾘﾝグｱｳﾄ
+EN Double Ring-out
+
+@ 8005ad40 len=12 refs=p1,c0
+JP 時間切れ
+EN Time Up
+
+@ 8005ad4c len=8 refs=p1,c0
+JP 反則
+EN DQ
+
+@ 8005ad54 len=8 refs=p1,c0
+JP ﾘﾝグｱｳﾄ
+EN Ring-out
+
+@ 8005ad64 len=12 refs=p1,c0
+JP ギブｱｯプ
+EN Submission
+
+@ 8005ad70 len=8 refs=p1,c0
+JP ﾌｫーﾙ
+EN Pinfall
+
+@ 8005ad78 len=8 refs=p1,c0
+JP 引分
+EN Draw
+
+@ 8005ad80 len=8 refs=p1,c0
+JP 敗北
+EN Loss
+
+@ 8005ad88 len=8 refs=p1,c0
+JP 勝利
+EN Win
+
+@ 8005ad90 len=16 refs=p1,c0
+JP 平均試合時間
+EN Avg Match Time
+
+@ 8005ada0 len=4 refs=p2,c0
+JP 秒
+EN s
+
+@ 8005ada4 len=8 refs=p2,c0
+JP 時間
+EN Time
+
+@ 8005adac len=16 refs=p1,c0
+JP 合計試合時間
+EN Total Match Time
+
+@ 8005adbc len=8 refs=p1,c0
+JP 連敗
+EN Losing streak
+
+@ 8005adc4 len=8 refs=p1,c0
+JP 連勝
+EN Win streak
+
+@ 8005adcc len=8 refs=p1,c0
+JP 最高
+EN Best
+
+@ 8005add4 len=4 refs=p3,c0
+JP 分
+EN m
+
+@ 8005add8 len=4 refs=p1,c0
+JP 敗
+EN L
+
+@ 8005addc len=4 refs=p1,c0
+JP 勝
+EN W
+
+@ 8005ae08 len=136 refs=p0,c1
+JP (*8*H*X*h*ﾌ1ﾌ1ﾌ1ﾌ1ﾌ1ﾌ1ﾌ1ﾌ1ﾌ1ﾌ1ﾌ1ﾌ1ﾌ1ﾌ1ﾌ1ﾌ1ﾌ1ﾌ1ﾌ1ﾌ1ﾌ1ﾌ1ﾌ1ﾌ1ﾌ1ﾌ1ﾌ1h*
+
+@ 8005af34 len=16 refs=p0,c1
+JP 試合消化時点
+EN Matches played
+
+@ 8005af44 len=12 refs=p0,c1
+JP ポイント
+EN Points
+
+@ 8005af50 len=8 refs=p0,c1
+JP 勝率
+EN Win %
+
+@ 8005af58 len=4 refs=p0,c1
+JP －
+EN -
+
+@ 8005af5c len=8 refs=p0,c1
+JP 連勝中
+EN Win streak
+
+@ 8005af64 len=8 refs=p0,c1
+JP 連敗中
+EN Lose streak
+
+@ 8005af6c len=4 refs=p0,c1
+JP １.
+
+@ 8005af70 len=8 refs=p0,c1
+JP ０００
+
+@ 8005af78 len=4 refs=p0,c1
+JP ０.
+
+@ 8005af7c len=11 refs=p0,c1
+JP 使用しない
+EN Not used
+
+@ 8005af88 len=40 refs=p0,c1
+JP ､TtVtVtVｰ`XZ,[､T禄
+
+@ 8005afb0 len=136 refs=p0,c1
+JP V(V8VHVｰ`ｰ`ｰ`ｰ`ｰ`ｰ`ｰ`ｰ`ｰ`ｰ`ｰ`ｰ`ｰ`ｰ`ｰ`ｰ`ｰ`ｰ`ｰ`ｰ`ｰ`ｰ`ｰ`ｰ`ｰ`ｰ`ｰ`ｰ`HV
+
+@ 8005b038 len=48 refs=p0,c1
+JP ､VDW`Wｰ`dXdXｼXｰ`Zヒューマン
+
+@ 8005b068 len=4 refs=p0,c1
+JP ・
+
+@ 8005b06c len=8 refs=p0,c1
+JP 空位
+EN Vacant
+
+@ 8005b074 len=20 refs=p0,c1
+JP 初代チャンピオン
+EN 1st Champion
+
+@ 8005b088 len=4 refs=p0,c1
+JP 第
+EN No.
+
+@ 8005b08c len=16 refs=p0,c1
+JP 代チャンピオン
+EN  Champion
+
+@ 8005b09c len=16 refs=p0,c1
+JP プレイヤー名
+EN Player Name
+
+@ 8005b0ac len=12 refs=p0,c1
+JP 防衛回数
+EN Defenses
+
+@ 8005b0b8 len=3 refs=p0,c1
+JP 回
+EN x
+
+@ 8005b0d4 len=8 refs=p1,c0
+JP 大将
+EN Captain
+
+@ 8005b0dc len=8 refs=p1,c0
+JP 副将
+EN Vice
+
+@ 8005b0e4 len=8 refs=p1,c0
+JP 中堅
+EN Middle
+
+@ 8005b0ec len=8 refs=p1,c0
+JP 次鋒
+EN Second
+
+@ 8005b0f4 len=8 refs=p1,c0
+JP 先鋒
+EN Lead
+
+@ 8005b240 len=4 refs=p1,c0
+JP 差
+EN Diff
+
+@ 8005b244 len=8 refs=p1,c0
+JP Ｐｔ
+EN Pt
+
+@ 8005b24c len=8 refs=p1,c0
+JP 名前
+EN Name
+
+@ 8005b254 len=8 refs=p1,c0
+JP Ｎｏ
+EN No
+
+@ 8005b25c len=8 refs=p1,c0
+JP 順位
+EN Rank
+
+@ 8005b268 len=9 refs=p0,c1
+JP pﾎﾌﾑ
+
+@ 8005b380 len=16 refs=p0,c1
+JP Ｋ．Ｏ．勝ち
+EN KO Win
+
+@ 8005b390 len=20 refs=p0,c1
+JP リングアウト勝ち
+EN Ring-out Win
+
+@ 8005b3a4 len=12 refs=p0,c1
+JP 反則勝ち
+EN DQ Win
+
+@ 8005b3b0 len=20 refs=p0,c2
+JP 時間切れ引き分け
+EN Time-up Draw
+
+@ 8005b3c4 len=20 refs=p0,c1
+JP 両者リングアウト
+EN Double Ring-out
+
+@ 8005b3d8 len=16 refs=p0,c1
+JP 両者Ｋ．Ｏ．
+EN Double KO
+
+@ 8005b3e8 len=16 refs=p0,c1
+JP 獲得Ｐｏｉｎｔ.
+EN Points
+
+@ 8005b3f8 len=8 refs=p0,c2
+JP ＣＰ
+EN CP
+
+@ 8005b400 len=16 refs=p0,c1
+JP ＷＩＮＮＥＲ
+EN WINNER
+
+@ 8005b410 len=16 refs=p0,c1
+JP ＬＯＳＥＲＳ
+EN LOSERS
+
+@ 8005b420 len=24 refs=p0,c1
+JP リングアウト引き分け
+EN Ring-out Draw
+
+@ 8005b438 len=20 refs=p0,c1
+JP Ｋ．Ｏ．引き分け
+EN KO Draw
+
+@ 8005b480 len=9 refs=p0,c1
+JP 反則負け
+EN DQ Loss
+
+@ 8005b48c len=44 refs=p1,c0
+JP データのセーブ、ロード、受け渡しを行います
+EN Save, load or transfer data.
+
+@ 8005b4b8 len=24 refs=p1,c0
+JP 各種環境設定ができます
+EN Change game settings.
+
+@ 8005b4d0 len=40 refs=p1,c0
+JP ＨＷＡのベルトを賭けた試合ができます
+EN Fight for the HWA title belts.
+
+@ 8005b4f8 len=44 refs=p1,c0
+JP 初心者向けの若元一徹ファイプロ入門道場です
+EN Wakamoto's dojo for beginners.
+
+@ 8005b524 len=44 refs=p1,c0
+JP オリジナルのレスラー、団体を作成できます
+EN Make your own wrestlers & groups.
+
+@ 8005b550 len=52 refs=p1,c0
+JP エディットレスラーで勝ち抜いて行くセメント戦です
+EN Win a gauntlet as an edit wrestler.
+
+@ 8005b584 len=48 refs=p1,c0
+JP ストーリーを追って主人公を育てて行くモードです
+EN Raise a hero as you follow the story.
+
+@ 8005b5b4 len=44 refs=p1,c0
+JP 八角形リングでのルール無用の喧嘩試合です
+EN No-rules brawl in an octagon ring.
+
+@ 8005b5e0 len=44 refs=p1,c0
+JP 時間が来ると爆弾が炸裂する危険な試合です
+EN Bombs explode when time runs out.
+
+@ 8005b60c len=36 refs=p1,c0
+JP 最高４人まで参加可能な大乱闘戦です
+EN Free-for-all for up to 4 players.
+
+@ 8005b630 len=32 refs=p1,c0
+JP ５対５での勝ち抜き団体戦です
+EN 5-on-5 elimination team battle.
+
+@ 8005b650 len=40 refs=p1,c0
+JP 最高６４人まで参加可能な総当り戦です
+EN Round robin for up to 64 entrants.
+
+@ 8005b678 len=40 refs=p1,c0
+JP 最高１６人まで参加可能な勝ち抜き戦です
+EN Tournament for up to 16 entrants.
+
+@ 8005b6a0 len=39 refs=p1,c0
+JP 対人、対コンピューターのフリー対戦です
+EN Free match vs. players or the CPU.
+
+@ 8005b6d8 len=8 refs=p1,c0
+JP 記録名
+EN Record
+
+@ 8005b6e0 len=16 refs=p1,c0
+JP ＥＤＩＴ軍団
+EN EDIT Army
+
+@ 8005b6f0 len=16 refs=p1,c0
+JP オープンリーグ
+EN Open League
+
+@ 8005b700 len=28 refs=p1,c0
+JP ワンナイト・トーナメント
+EN One Night Tournament
+
+@ 8005b720 len=4 refs=p1,c0
+JP ＝
+
+@ 8005b724 len=4 refs=p1,c0
+JP ・
+
+@ 8005b72c len=8 refs=p1,c0
+JP 決定
+EN OK
+
+@ 8005b734 len=4 refs=p1,c0
+JP 　
+
+@ 8005b738 len=8 refs=p1,c0
+JP 記号
+EN !#
+
+@ 8005b740 len=8 refs=p1,c0
+JP 英数字
+EN ABC
+
+@ 8005b748 len=8 refs=p1,c0
+JP 漢字
+EN Kanji
+
+@ 8005b750 len=8 refs=p1,c0
+JP ｶﾀｶﾅ
+EN Kata
+
+@ 8005b758 len=12 refs=p1,c0
+JP ひらがな
+EN Hira
+
+@ 8005b764 len=32 refs=p7,c0
+JP 　　　　　　　　　　　　　　　
+
+@ 8005b784 len=32 refs=p1,c0
+JP ぁぃぅぇぉゃゅょっゎゑゐ　　　
+
+@ 8005b7a4 len=32 refs=p1,c0
+JP だぢづでどばびぶべぼぱぴぷぺぽ
+
+@ 8005b7c4 len=32 refs=p1,c0
+JP わをん　　がぎぐげござじずぜぞ
+
+@ 8005b7e4 len=32 refs=p2,c0
+JP まみむめもや　ゆ　よらりるれろ
+
+@ 8005b804 len=32 refs=p2,c0
+JP たちつてとなにぬねのはひふへほ
+
+@ 8005b824 len=32 refs=p2,c0
+JP あいうえおかきくけこさしすせそ
+
+@ 8005b844 len=32 refs=p1,c0
+JP ァィゥェォャュョッヮヰヱヵヶヴ
+
+@ 8005b864 len=32 refs=p1,c0
+JP ダヂヅデドバビブベボパピプペポ
+
+@ 8005b884 len=32 refs=p1,c0
+JP ワヲン　　ガギグゲゴザジズゼゾ
+
+@ 8005b8a4 len=32 refs=p1,c0
+JP マミムメモヤ　ユ　ヨラリルレロ
+
+@ 8005b8c4 len=32 refs=p1,c0
+JP タチツテトナニヌネノハヒフヘホ
+
+@ 8005b8e4 len=32 refs=p1,c0
+JP アイウエオカキクケコサシスセソ
+
+@ 8005b904 len=32 refs=p1,c0
+JP わ　　　　　　　　　　　　　　
+
+@ 8005b924 len=32 refs=p1,c0
+JP 零一二三四五六七八九十百千万億
+
+@ 8005b944 len=32 refs=p1,c0
+JP ΑΒΓΔΕΖΗΘΙΚ　　　　　
+
+@ 8005b964 len=32 refs=p1,c0
+JP ０１２３４５６７８９　　　　　
+
+@ 8005b984 len=32 refs=p1,c0
+JP ｐｑｒｓｔｕｖｗｘｙｚ　αβγ
+
+@ 8005b9a4 len=32 refs=p1,c0
+JP ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏ
+
+@ 8005b9c4 len=32 refs=p1,c0
+JP ＰＱＲＳＴＵＶＷＸＹＺ　　　　
+
+@ 8005b9e4 len=32 refs=p1,c0
+JP ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯ
+
+@ 8005ba04 len=32 refs=p1,c0
+JP ー～、。々＠　　　　　　　　　
+
+@ 8005ba24 len=32 refs=p1,c0
+JP ♂♀○●☆★◇◆〒♯♭♪△▲▽
+
+@ 8005ba44 len=32 refs=p1,c0
+JP 」『』【】＋－±×÷＝％＃＆＊
+
+@ 8005ba64 len=32 refs=p1,c0
+JP ／＼‘’“”（）［］〈〉《》「
+
+@ 8005ba84 len=32 refs=p1,c0
+JP ，．・：；？！゛゜´｀¨＾▼＿
+
+@ 8005baa8 len=65 refs=p0,c1
+JP ﾔ=ﾔ=4E4E､FHdI猫
+
+@ 8005bbb0 len=64 refs=p0,c1
+JP <HｬH|PDIｴP澑
+
+@ 8005bc30 len=64 refs=p0,c1
+JP ﾄLｨM|P潘ｴP澑
+
+@ 8005bc70 len=64 refs=p0,c1
+JP 0OｰO|P捻ｴP澑
+
+@ 8005bcb0 len=56 refs=p0,c1
+JP tQﾄW膓膓TVﾄV4WｰT腟ULUxU
+
+@ 8005bce8 len=24 refs=p0,c1
+JP $XｰXﾀYﾀZ$\
+
+@ 8005bd00 len=24 refs=p0,c1
+JP dXdX嚢dXdX
+
+@ 8005bd18 len=36 refs=p0,c1
+JP YYYYY^0Y入替え
+
+@ 8005bd34 len=8 refs=p0,c1
+JP 入替え
+EN Flip
+
+@ 8005bd3c len=8 refs=p0,c1
+JP ｏｆｆ
+EN off
+
+@ 8005bd44 len=8 refs=p0,c1
+JP ｏｎ
+EN on
+
+@ 8005bd4c len=8 refs=p0,c1
+JP 中間
+EN Mid
+
+@ 8005bf50 len=12 refs=p1,c0
+JP ﾓードｾﾚｸﾄへ
+EN To Mode Select
+
+@ 8005bf5c len=20 refs=p1,c0
+JP HWA Jrﾍビー級ﾀｯグ
+EN HWA Jr. Hvy Tag
+
+@ 8005bf70 len=20 refs=p1,c0
+JP HWA Jrﾍビー級ｼﾝグﾙ
+EN HWA Jr. Hvy Single
+
+@ 8005bf84 len=16 refs=p1,c0
+JP HWA ﾍビー級ﾀｯグ
+EN HWA Heavy Tag
+
+@ 8005bf94 len=17 refs=p1,c0
+JP HWA ﾍビー級ｼﾝグﾙ
+EN HWA Heavy Single
+
+@ 8005bfa8 len=20 refs=p0,c2
+JP Ｅｎｔｒｙ Ｎｏ.
+EN Entry No.
+
+@ 8005bfbc len=16 refs=p0,c2
+JP 獲得Ｐｏｉｎｔ.
+EN Points
+
+@ 8005bfcc len=8 refs=p0,c2
+JP Ｎｏ.
+EN No.
+
+@ 8005bfd4 len=20 refs=p0,c1
+JP 初代チャンピオン
+EN 1st Champion
+
+@ 8005bfe8 len=4 refs=p0,c1
+JP 第
+EN No.
+
+@ 8005bfec len=16 refs=p0,c1
+JP 代チャンピオン
+EN  Champion
+
+@ 8005bffc len=12 refs=p0,c1
+JP 回目の防衛
+EN  defense
+
+@ 8005c10c len=32 refs=p0,c1
+JP ﾈYZ､\ﾌ\]T^ＣＰ
+
+@ 8005c12c len=8 refs=p0,c1
+JP 欠場
+EN Absent
+
+@ 8005c134 len=8 refs=p0,c1
+# added by hand: lui is not next to its addiu (0x800872f8); only 5 bytes before other data
+JP 不明
+EN N/A
+
+@ 8005c13c len=20 refs=p1,c0
+JP 試合開始しますか？
+EN Start the match?
+
+@ 8005c150 len=36 refs=p1,c0
+JP レスラーエントリーを終了しますか？
+EN Finish wrestler entry?
+
+@ 8005c174 len=36 refs=p1,c0
+JP エディットチームを保存しますか？
+EN Save the edit team?
+
+@ 8005c198 len=40 refs=p1,c0
+JP エディットチームを上書保存しますか？
+EN Overwrite the edit team?
+
+@ 8005c1c0 len=16 refs=p1,c0
+JP 終了しますか？
+EN Quit?
+
+@ 8005c1d0 len=40 refs=p1,c0
+JP エディットチームの選択を終了しますか？
+EN Finish edit team select?
+
+@ 8005c1f8 len=16 refs=p1,c0
+JP 画像データ？
+EN Image data?
+
+@ 8005c208 len=28 refs=p1,c0
+JP 決勝リーグを開催しますか？
+EN Hold the final league?
+
+@ 8005c224 len=28 refs=p1,c0
+JP タイトルを返上しますか？
+EN Vacate the title?
+
+@ 8005c240 len=28 refs=p1,c0
+JP ファイルを削除しますか？
+EN Delete the file?
+
+@ 8005c25c len=28 refs=p1,c0
+JP 出場順選択を終了しますか？
+EN Finish order select?
+
+@ 8005c278 len=8 refs=p3,c0
+JP 終了
+EN Quit
+
+@ 8005c280 len=8 refs=p2,c0
+JP 保存
+EN Save
+
+@ 8005c288 len=12 refs=p2,c0
+JP 自動進行
+EN Auto
+
+@ 8005c294 len=8 refs=p3,c0
+JP 試合
+EN Match
+
+@ 8005c29c len=16 refs=p1,c0
+JP ランキング表
+EN Rankings
+
+@ 8005c2ac len=20 refs=p6,c0
+JP モードセレクトへ
+EN To Mode Select
+
+@ 8005c2c0 len=20 refs=p1,c0
+JP オーバーザロープ
+EN Over the Rope
+
+@ 8005c2d4 len=12 refs=p1,c0
+JP エンドレス
+EN Endless
+
+@ 8005c2e0 len=12 refs=p1,c0
+JP ノーマル
+EN Normal
+
+@ 8005c2ec len=32 refs=p1,c0
+JP ３人以上エントリーして下さい
+EN Enter 3 or more wrestlers.
+
+@ 8005c30c len=32 refs=p1,c0
+JP ４人以上エントリーして下さい
+EN Enter 4 or more wrestlers.
+
+@ 8005c32c len=20 refs=p1,c0
+JP チームエディットへ
+EN To Team Edit
+
+@ 8005c340 len=8 refs=p1,c0
+JP 試合へ
+EN To Match
+
+@ 8005c348 len=24 refs=p1,c0
+JP 総当たり戦（綱引き）
+EN Round Robin (Tug)
+
+@ 8005c360 len=12 refs=p1,c0
+JP 総当たり戦
+EN Round Robin
+
+@ 8005c36c len=12 refs=p1,c0
+JP 勝ち抜き戦
+EN Elimination
+
+@ 8005c378 len=20 refs=p1,c0
+JP ＮＥＷ　ＧＡＭＥ
+EN NEW GAME
+
+@ 8005c38c len=12 refs=p1,c0
+JP ＬＯＡＤ
+EN LOAD
+
+@ 8005c398 len=24 refs=p1,c0
+JP ワンナイトトーナメント
+EN One Night Tournament
+
+@ 8005c3b0 len=20 refs=p1,c0
+JP ワンナイトマッチ
+EN One Night Match
+
+@ 8005c3c4 len=16 refs=p1,c0
+JP セーブしました
+EN Saved.
+
+@ 8005c3d4 len=16 refs=p1,c0
+JP ロードしました
+EN Loaded.
+
+@ 8005c3e4 len=12 refs=p1,c0
+JP 自動進行１
+EN Auto 1
+
+@ 8005c3f0 len=12 refs=p1,c0
+JP 自動進行２
+EN Auto 2
+
+@ 8005c3fc len=32 refs=p1,c0
+JP ショートネームを入力して下さい
+EN Enter a short name.
+
+@ 8005c41c len=32 refs=p1,c0
+JP ロングネームを入力して下さい
+EN Enter a long name.
+
+@ 8005c43c len=48 refs=p1,c0
+JP ショートネームとロングネームを入力して下さい
+EN Enter a short and long name.
+
+@ 8005c46c len=32 refs=p1,c0
+JP ニックネームを入力して下さい
+EN Enter a nickname.
+
+@ 8005c48c len=48 refs=p1,c0
+JP ニックネームとショートネームを入力して下さい
+EN Enter a nickname and short name.
+
+@ 8005c4bc len=24 refs=p1,c0
+JP 必殺技を入力して下さい
+EN Enter a finisher name.
+
+@ 8005c4d4 len=28 refs=p1,c0
+JP チーム名を入力して下さい
+EN Enter a team name.
+
+@ 8005c4f0 len=24 refs=p1,c0
+JP 大会名を入力して下さい
+EN Enter a tournament name.
+
+@ 8005c508 len=16 refs=p1,c0
+JP タイトル返上
+EN Vacate Title
+
+@ 8005c518 len=16 refs=p1,c0
+JP 歴代王者紹介
+EN Past Champions
+
+@ 8005c528 len=16 refs=p1,c0
+JP タイトルマッチ
+EN Title Match
+
+@ 8005c538 len=16 refs=p1,c0
+JP コンフィグへ
+EN To Config
+
+@ 8005c548 len=16 refs=p1,c0
+JP ファイル削除
+EN Delete File
+
+@ 8005c558 len=16 refs=p1,c0
+JP ファイル作成
+EN Create File
+
+@ 8005c568 len=16 refs=p1,c0
+JP ファイル閲覧
+EN View File
+
+@ 8005c578 len=16 refs=p1,c0
+JP ファイル選択
+EN Select File
+
+@ 8005c588 len=24 refs=p1,c0
+JP 名前を入力して下さい
+EN Enter a name.
+
+@ 8005c5a0 len=8 refs=p0,c1
+JP はい
+EN Yes
+
+# Added by hand: strings the scanner merged into preceding data.
+@ 8005af24 len=12 refs=p0,c1
+JP Ｎｏ Ｄａｔａ
+EN No Data
+
+@ 8005b05c len=12 refs=p0,c1
+JP ヒューマン
+EN Human
+
+@ 8005b46c len=20 refs=p0,c1
+JP リングアウト負け
+EN Ring-out Loss
+
+@ 8005c5a8 len=8 refs=p0,c1
+JP いいえ
+EN No
