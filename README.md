@@ -93,7 +93,7 @@ documentation of the game's formats.
 | [docs/TESTING.md](docs/TESTING.md) | What has been tested in the game, and what still needs a playthrough |
 | [docs/HIDDEN_CONTENT.md](docs/HIDDEN_CONTENT.md) | Unlockables, debug features, and unused and cut content |
 | [tools/README.md](tools/README.md) | Every tool, what it's for and how to run it |
-| [Story Route Map]([docs/route-map/index.html](https://kactusken.github.io/Fire-Pro-Wrestling-G-English/route-map/)) | An interactive map of Fighting Road's branches |
+| [Story Route Map](https://kactusken.github.io/Fire-Pro-Wrestling-G-English/route-map/) | An interactive map of Fighting Road's branches |
 
 Quick start:
 
