@@ -5,6 +5,7 @@ import filecmp
 import glob
 import hashlib
 import os
+import struct
 import subprocess
 import sys
 import tempfile
@@ -12,11 +13,13 @@ import unittest
 
 from tests import EXTRACTED, ROM, TestCase, needs_extracted, needs_rom, repo
 
+import costumes
 import fpgbin
 import lzss
 import script
 import storycheck
 import storylint
+import strtab
 import vwf_patch
 
 OVERLAYS = ["000", "001", "002", "003", "004", "005"]
@@ -44,6 +47,47 @@ class ArchiveTest(TestCase):
             fpgbin.pack(os.path.join(d, "fpg"), os.path.join(d, "FPG.BIN"))
             self.assertTrue(filecmp.cmp(os.path.join(d, "FPG.BIN"), os.path.join(EXTRACTED, "FPG.BIN"),
                                         shallow=False))
+
+
+@needs_extracted
+class CostumesTest(TestCase):
+    """docs/COSTUMES.md: roster looks, the colour table and the part lists."""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.rows = list(costumes.rows(
+            lzss.decompress(entry("010")), lzss.decompress(entry("011")),
+            open(os.path.join(EXTRACTED, "ovl", "004.bin"), "rb").read(),
+            strtab.parse(repo("text/ov004.txt")), {}))
+        cls.header = costumes.header()
+
+    def test_one_row_per_wrestler_and_costume(self):
+        self.assertEqual(len(self.rows), costumes.WRESTLERS * costumes.COSTUMES)
+        for row in self.rows:
+            self.assertEqual(len(row), len(self.header))
+
+    def test_every_part_is_in_a_wrestler_make_list(self):
+        for row in self.rows:
+            for slot in costumes.SLOTS:
+                self.assertTrue(row[self.header.index(slot + "_name")], (row[0], row[3], slot))
+
+    def test_misawa_first_costume(self):
+        # roster 40 as seen in the game: green trunks (group 3) and knee pads (group 4),
+        # white thigh stripes (group 1) and boots (group 6), black hair (group 9)
+        row = dict(zip(self.header, self.rows[40 * 4]))
+        self.assertEqual((row["stance"], row["size"], row["head"]), ("Technic", "M", 40))
+        self.assertEqual([row[f"group3_{i}"] for i in (1, 2, 3)], ["#003100", "#007321", "#00C65A"])
+        self.assertEqual(row["group4_3"], "#00C65A")
+        self.assertEqual((row["group1_3"], row["group6_3"]), ("#E7E7E7", "#E7E7E7"))
+        self.assertEqual(row["group9_1"], "#101010")
+
+    def test_body_parts_unpack_to_whole_tiles(self):
+        data = entry("251")
+        for first, last, tile in ((320, 810, 288), (811, 870, 128)):
+            for e in range(first, last + 1):
+                off, size = struct.unpack_from("<II", data, 8 * e)
+                with self.subTest(entry=e):
+                    self.assertEqual(len(lzss.decompress(data[off:off + size])) % tile, 0)
 
 
 @needs_extracted

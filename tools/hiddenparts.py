@@ -36,13 +36,13 @@ HEAD_ROW = 2
 EXTRA_HEADS = [305] + list(range(308, 320))
 # slot -> [(part number, name)]; copies of other parts are left out
 EXTRA_PARTS = {
-    0: [(74, "Extra 1"), (75, "Extra 2")],      # upper body
-    1: [(120, "Extra 1"), (121, "Extra 2")],    # lower body
-    2: [(69, "Extra 1"), (70, "Extra 2")],      # arms
-    3: [(64, "Extra 1"), (65, "Extra 2")],      # wrists
-    4: [(56, "Extra 1"), (57, "Extra 2")],      # legs
-    5: [(95, "Extra 1"), (96, "Extra 2")],      # knees / tights
-    7: [(36, "Extra 1")],                       # feet
+    0: [(74, "Extra 1"), (75, "Extra 2")],      # chest
+    1: [(120, "Extra 1"), (121, "Extra 2")],    # waist (trunks)
+    2: [(69, "Extra 1"), (70, "Extra 2")],      # bicep (upper arm)
+    3: [(64, "Extra 1"), (65, "Extra 2")],      # arm (forearm)
+    4: [(56, "Extra 1"), (57, "Extra 2")],      # shin
+    5: [(95, "Extra 1"), (96, "Extra 2")],      # thigh
+    7: [(36, "Extra 1")],                       # ankle (feet)
 }
 # Preset copy for heads with id >= 194 (0x80062704): the branch to it is sent
 # through TRAMPOLINE, which returns to the preset code only for positions

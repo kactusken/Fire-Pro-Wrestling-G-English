@@ -4,7 +4,8 @@ How the PlayStation game Fire Pro Wrestling G (SLPS-02065, Human, 1999) is put t
 disc, the data archive and its compression, what each file holds, and the formats worked out
 so far. It is written from the translation project's reverse engineering. The tools named here
 are in `tools/`. How the translation changes the game is in [PATCHES.md](PATCHES.md); hidden and
-cut content is in [HIDDEN_CONTENT.md](HIDDEN_CONTENT.md).
+cut content is in [HIDDEN_CONTENT.md](HIDDEN_CONTENT.md); wrestler costumes, body parts and colours
+are in [COSTUMES.md](COSTUMES.md).
 
 Conventions: numbers in `0x…` are hexadecimal. Addresses like 0x8005A718 are PlayStation RAM.
 "u16"/"u32" are little-endian unsigned integers unless marked big-endian (BE). "FPG 251" is
@@ -86,7 +87,7 @@ Useful EXE routines:
 | 0x800193ac / 0x800193dc / 0x8001940c | Wrestler short name / second part / nickname |
 | 0x80018670 | A wrestler's text for the database screen |
 | 0x800186f4 | Move name for a wrestler's slot (returns the custom finisher name, edit record +0x1C8, when set) |
-| 0x80019e2c | Copy a roster wrestler's head and colours (Wrestler Make) |
+| 0x80019e2c | Copy a roster wrestler's costume and colours (Wrestler Make); the other costume and colour routines are listed in [COSTUMES.md](COSTUMES.md#routines) |
 | 0x80019cf4 / 0x80019c8c | Promotion short / full name |
 | 0x80019504 | Move name by move id |
 | 0x8001a614 | "Story cleared": unlock all wrestlers, set the cleared flag |
@@ -149,11 +150,11 @@ C = LZSS-compressed, R = stored raw. Sizes are as stored; "→" gives the unpack
 | 008 | R | That bank's sample data (raw ADPCM, 25,408 bytes = the header's sample sizes) |
 | 009 | C | Menu font (proportional widths patched by the translation) |
 | 010 | C | Roster: 194 wrestler records × 426 bytes |
-| 011 | C | Container: menu font copy (+0x18), roster copy (+0x1046C), move name table (+0x30A38) |
+| 011 | C | Container: menu font copy (+0x18), roster copy (+0x1046C), roster colour table (+0x24740, [COSTUMES.md](COSTUMES.md#the-colour-table-fpg-011)), move name table (+0x30A38) |
 | 012 | R | Title screen: a compressed 320×240 8-bpp TIM at +0x14 |
 | 013 | R | Fresh save data: 30 bonus edit wrestlers (+0x4E28) and their profiles (+0x8A28) |
 | 014 | C | PocketStation save template (title at +4) |
-| 015 | C | Head presets for Wrestler Make: 109 × 78 bytes |
+| 015 | C | Head presets for Wrestler Make: 109 × 78 bytes (stance, size, 8 part numbers, 34 colours) |
 | 016 | R | Edit records: a sample wrestler and Coach Yamamoto |
 | 017 | R | Dojo tutorial text |
 | 018 | C | Outline-effect wrestler figure (240×208, 17 palettes); use unknown |
@@ -176,7 +177,7 @@ C = LZSS-compressed, R = stored raw. Sizes are as stored; "→" gives the unpack
 | 143–247 | C | Story character portraits (32×32 tiles) |
 | 248–249 | R | TIM images |
 | 250 | R | Hit-effect sprites (128×128, 4-bit TIM); loaded only by the overlay 003 programs |
-| 251 | R | Wrestler graphics archive: heads and body parts |
+| 251 | R | Wrestler graphics archive: heads and body parts ([COSTUMES.md](COSTUMES.md#body-parts)) |
 | 252–258 | C | Move data (one table per range of move ids) |
 | 259 | R | Basic motions for matches: 640 u16 offsets, then each motion packed with the small LZ (475 used). Unpacked, identical to FPG 273. Loaded with the move data (ov0 0x80080208); ov0 0x8008055c unpacks motions from match state +0x48 |
 | 260–267 | R | Referee sprites, one pair per referee (Referee setting 0–3: T. Hattori, J. Higuchi, Soranaka, T. Tanabe, per the ov1 name table 0x80088e44): the even entry holds 1,040 16×16 4-bit tiles (u32 offsets, each packed with the small LZ to 128 bytes; unpacked by ov0 0x8007fb7c from +8), the odd one a big-endian table (from +0xc) that assembles them into frames. Loaded by ov0 0x8007f6c8 (FPG 260 + 2 × referee, 261 + 2 × referee), which also uploads one of four palettes, (referee × 4 + 0–3) from 0x80085430 to the rectangle at 0x80085428 (Left/Right/Down held at match load) |
@@ -270,16 +271,21 @@ word (0x80054120) equals 0x00C0 (Square + Cross).
 | +68 | 1 | Promotion |
 | +69 | 1 | Fighting style |
 | +70.. | | Skills, ratings, reversal style, special skills, theme music, voices… (Skill Edit fields) |
+| +0x5C | 1 | Stance (0–8, Strong … Kobudo) |
+| +0x5D | 1 | Size (0–2: S, M, L) |
 | +0x74..+0xE3 | 56 × u16 | Move slots: move id = value & 0x7FF, upper bits are flags |
-| +0x182 | u16 | Head graphic id |
-| +0x184..+0x18B | 8 | Body part numbers, one per slot |
+| +0x182..+0x1A9 | 4 × 10 | Costumes 1–4: u16 head id, then 8 body part numbers ([COSTUMES.md](COSTUMES.md#roster-record-fields)) |
+
+A roster wrestler's colours are not in the record. They come from the colour table in FPG 011,
+one set of 34 colours per wrestler and costume ([COSTUMES.md](COSTUMES.md#the-colour-table-fpg-011)).
 
 ### Edit record (512 bytes; save data, FPG 013/016/127)
 The same layout up to the moves, plus:
 
 | Offset | Field |
 |---|---|
-| +0x184..+0x1C7 | 34 colours (15-bit) |
+| +0x5C, +0x5D | Stance, size |
+| +0x184..+0x1C7 | 34 colours (15-bit; groups and palettes in [COSTUMES.md](COSTUMES.md#colours)) |
 | +0x1C8 | Custom finisher name (EXE 0x800186f4 returns it instead of the move name; overlay 001 copies 28 bytes; the field runs to +0x1F2) |
 | +0x1F2 | u16 head id |
 | +0x1F4..+0x1FB | 8 body part numbers |
@@ -298,20 +304,23 @@ Ids of 15 and up are player-made promotions in the save data.
 ```
 | Entries | Contents |
 |---|---|
-| 0–319 | Heads (index = head id) |
-| 320–395 | Upper body |
-| 396–517 | Lower body / trunks |
-| 518–588 | Arms |
-| 589–655 | Wrists |
-| 656–713 | Legs |
-| 714–810 | Knees / tights |
-| 811–832 | Hands |
-| 833–870 | Feet |
+| Entries | Contents (Wrestler Make label) |
+|---|---|
+| 0–319 | Heads (Face; index = head id) |
+| 320–395 | Part byte 0: chest (Chest) |
+| 396–517 | Part byte 1: trunks (Waist) |
+| 518–588 | Part byte 2: upper arms (Bicep) |
+| 589–655 | Part byte 3: forearms (Arm) |
+| 656–713 | Part byte 4: shins and knees (Shin) |
+| 714–810 | Part byte 5: thighs (Thigh) |
+| 811–832 | Part byte 6: hands (Wrist) |
+| 833–870 | Part byte 7: feet (Ankle) |
 
-A head is entry *head id* (edit record +0x1F2). Body slot *s* (record +0x1F4 + *s*) is entry
+A head is entry *head id* (edit record +0x1F2). Part byte *s* (record +0x1F4 + *s*) is entry
 `base[s + 1] + part number`; the bases are a table in ov4 at 0x80079F60. The loader is ov4
-0x80073820 (FPG 0xFB through EXE 0x80012c90). The sprite format inside the entries is not
-decoded yet.
+0x80073820 (FPG 0xFB through EXE 0x80012c90). Part entries are LZSS-compressed 4-bit tiles
+(24 × 24, or 16 × 16 for hands and feet). Heads use a format that is not decoded yet. Which
+palette draws each part, and the colour groups, are in [COSTUMES.md](COSTUMES.md#body-parts).
 
 ### Wrestler Make tables (overlay 004)
 
@@ -322,11 +331,12 @@ decoded yet.
 - **Part lists**: 12-byte entries { name pointer, variant count, 4 part numbers (one per variant),
   padding }. Variants are the build-dependent versions of a part.
 - **Head list** (0x80076220): u16 head ids, 299 entries: 0–276, then 290, 292–298, 282, 283,
-  289, 303, 300, 301, 284, 288, 285, 286, 306, 307, 304, 302. Positions under 194 copy a roster
-  wrestler's head and colours (EXE 0x80019e2c; roster +0x182 head, +0x184..+0x18B parts).
-  Positions 194 and up also load preset (position − 194) from FPG 015.
-- **FPG 015 presets** (109 × 78 bytes): 2 bytes, 8 part numbers, 32 colours, 4 bytes. Presets
-  105–108 lie past the end of the head list (105 is a copy of 104).
+  289, 303, 300, 301, 284, 288, 285, 286, 306, 307, 304, 302. A head id under 194 copies that
+  roster wrestler's costume 1, colours, stance and size (EXE 0x80019e2c). Positions 194 and up
+  load preset (position − 194) from FPG 015 instead.
+- **FPG 015 presets** (109 × 78 bytes): stance, size, 8 part numbers, 34 colours (the layout of
+  edit record +0x5C/+0x5D, +0x1F4 and +0x184). Presets 105–108 lie past the end of the head list
+  (105 is a copy of 104).
 - When the screen opens, the game finds each list position by searching for the record's current
   value (0x800628ac). Inserting new items therefore doesn't disturb saved wrestlers.
 
@@ -759,7 +769,7 @@ HIDDEN_CONTENT.md; this is where the code is.
 ---
 
 ## Open questions
-- The sprite format inside FPG 251 (heads and body parts) and the move block format.
+- The head sprite format in FPG 251 (entries 0–319; body parts are plain LZSS tiles) and the move block format.
 - The format of FPG 270 (probably poses) and 271 / 272 (wrestler-figure animation data), and the referee frame tables (odd entries of FPG 261–267).
 - What decides the alternative Move Edit list sets (0x80078E28 / 0x80078FF0).
 - What FPG 018 (an outline-effect wrestler figure) is used for.

@@ -246,16 +246,18 @@ Wrestler heads and body parts are stored in FPG 251 and picked by number. Compar
 every list, roster wrestler, bonus edit wrestler and preset turned up graphics nothing uses.
 All are unique art (no copies), and all were **verified in game** through a test build.
 
-| Kind | Unused graphics |
+| Kind (Wrestler Make label) | Unused graphics |
 |---|---|
-| Heads | 305 (among the girl's faces 302–307; probably a fifth one), 308–319 |
-| Upper body | 74, 75 |
-| Lower body / trunks | 120, 121 |
-| Arms | 69, 70 |
-| Wrists | 64, 65 (66 is a copy of another part) |
-| Legs | 56, 57 |
-| Knees / tights | 95, 96 |
-| Feet | 36 (19 is a copy) |
+| Heads (Face) | 305 (among the girl's faces 302–307; probably a fifth one), 308–319 |
+| Chest | 74, 75 |
+| Trunks (Waist) | 120, 121 |
+| Upper arms (Bicep) | 69, 70 |
+| Forearms (Arm) | 64, 65 (66 is a copy of another part) |
+| Shins (Shin) | 56, 57 |
+| Thighs (Thigh) | 95, 96 |
+| Feet (Ankle) | 36 (19 is a copy) |
+
+Part numbers are per category; [COSTUMES.md](COSTUMES.md#body-parts) has the FPG 251 entries.
 
 In each category the unused parts are the last ones, which suggests parts made late or dropped.
 Head slots 277–281, 287, 291 and 299 are empty.

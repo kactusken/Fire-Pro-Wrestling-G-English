@@ -77,4 +77,5 @@ of their own.
 | [bss_scan.py](bss_scan.py) | Estimates how far past its end a code module's memory use reaches |
 | [bs.py](bs.py) | Decodes the BS (MDEC) still images used for story backgrounds |
 | [unused_art.py](unused_art.py) | Exports the unused illustrations in FPG 275 |
+| [costumes.py](costumes.py) | Exports every roster wrestler's four costumes (head, body parts, stance, size, 34 colours) to CSV; see [docs/COSTUMES.md](../docs/COSTUMES.md) |
 | [gdbrsp.py](gdbrsp.py) | A minimal GDB remote client for DuckStation's GDB server: dump RAM, show registers, run to an address |
