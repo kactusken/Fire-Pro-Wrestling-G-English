@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Decode the Fighting Road battle table (overlay 002) into docs/story_battles.tsv.
+"""Decode the Fighting Road battle table (overlay 002) into docs/story_battles.csv.
 
 ov2 0x800662a0: 520 s16, the battle number of each scene's match (-1 = none).
 ov2 0x80064f28: 356 battle records of 14 bytes, read by the match setup 0x800600f0:
@@ -17,10 +17,9 @@ Wrestler ids: low 9 bits = roster index, bits 9-10 = variant (EXE 0x8001938c);
 0xFFF0-0xFFF3 = FPG 127 records 8-11 (Sakagami's four versions, loaded as edit records).
 
 Usage: storybattles.py [--ov002 PATH] [--out PATH] [--extracted PATH] [--text PATH]
-  defaults: decompress FPG 002 from extracted/fpg, write docs/story_battles.tsv
+  defaults: decompress FPG 002 from extracted/fpg, write docs/story_battles.csv
 """
 import collections
-import csv
 import os
 import struct
 import sys
@@ -28,6 +27,7 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import lzss  # noqa: E402
 import paths  # noqa: E402
+import table  # noqa: E402
 
 EXTRACTED, TEXT = paths.repo(paths.EXTRACTED), paths.repo(paths.TEXT)
 BASE = 0x8005A718
@@ -106,16 +106,14 @@ def decode(rec, preset, rings):
 
 def load_names(text=TEXT):
     names = {}
-    with open(os.path.join(text, "wrestlers.tsv"), encoding="utf-8") as f:
-        rows = [r for r in csv.reader(f, delimiter="\t") if r and not r[0].startswith("#")]
+    rows = table.read(os.path.join(text, "wrestlers.csv"))
     head = rows[0]
     for r in rows[1:]:
         names[int(r[head.index("idx")])] = r[head.index("en_full")]
     templates = {}
-    with open(os.path.join(text, "edit_wrestlers.tsv"), encoding="utf-8") as f:
-        for r in csv.reader(f, delimiter="\t"):
-            if r and r[0].startswith("127:"):
-                templates[int(r[0][4:])] = f"{r[3]} ({r[4]})"
+    for r in table.read(os.path.join(text, "edit_wrestlers.csv")):
+        if r[0].startswith("127:"):
+            templates[int(r[0][4:])] = f"{r[3]} ({r[4]})"
     return names, templates
 
 
@@ -129,12 +127,12 @@ def wrestler(wid, names, templates):
 
 def main(argv=None):
     import argparse
-    ap = argparse.ArgumentParser(description="Decode the Fighting Road battle table into a TSV.")
+    ap = argparse.ArgumentParser(description="Decode the Fighting Road battle table into a CSV.")
     ap.add_argument("--ov002", metavar="PATH",
                     help="decompressed overlay 002 (default: decompress <extracted>/fpg/002.bin)")
-    paths.add(ap, "--out", os.path.join(paths.DOCS, "story_battles.tsv"), "output TSV")
+    paths.add(ap, "--out", os.path.join(paths.DOCS, "story_battles.csv"), "output CSV")
     paths.add(ap, "--extracted", paths.EXTRACTED, "tools/extract.py output")
-    paths.add(ap, "--text", paths.TEXT, "text folder (exe.txt, wrestlers.tsv, edit_wrestlers.tsv)")
+    paths.add(ap, "--text", paths.TEXT, "text folder (exe.txt, wrestlers.csv, edit_wrestlers.csv)")
     args = ap.parse_args(argv)
     out = args.out
     if args.ov002:
@@ -162,14 +160,12 @@ def main(argv=None):
             wrestler(partner, names, templates) if tag else "",
             m["venue"], m["referee"] or f"referee {p[5]}", m["ring"], m["rules"], m["falls"],
             m["com_level"], m["music"], ", ".join(m["on"]), f"{m['flags']:04x}", r[0], r.hex(" ")])
-    with open(out, "w", encoding="utf-8", newline="\n") as f:
-        f.write("# Fighting Road battles, decoded by tools/storybattles.py (see its docstring).\n"
-                "# Values are named from the match-setup option tables in overlay 001. flags: setting +0x97a.\n")
-        w = csv.writer(f, delimiter="\t", lineterminator="\n")
-        w.writerow(["battle", "scenes", "type", "opponent", "opponent_partner", "hero_partner",
-                    "venue", "referee", "ring", "rules", "falls", "com_level", "music", "rules_on",
-                    "flags", "preset", "raw"])
-        w.writerows(rows)
+    head = ["battle", "scenes", "type", "opponent", "opponent_partner", "hero_partner",
+            "venue", "referee", "ring", "rules", "falls", "com_level", "music", "rules_on",
+            "flags", "preset", "raw"]
+    table.write(out, [head] + rows, notes=[
+        "Fighting Road battles, decoded by tools/storybattles.py (see its docstring).",
+        "Values are named from the match-setup option tables in overlay 001. flags: setting +0x97a."])
     print(f"{len(rows)} battles -> {out}")
 
 

@@ -6,14 +6,14 @@ The translation uses real names (New Japan, Riki Choshu, Tiger Hattori). For
 with the game's stand-ins (VIEW JAPAN, Hurricane Rikimaru, Panther Tottori), and the
 build reads that copy instead:
 
-- text/fake_roster.tsv replaces the roster names in wrestlers.tsv;
-- text/fake_names.tsv rules swap names in the English of every JP/EN text file
-  (story scenes, menu strings, profiles) and of edit_wrestlers.tsv;
+- text/fake_roster.csv replaces the roster names in wrestlers.csv;
+- text/fake_names.csv rules swap names in the English of every JP/EN text file
+  (story scenes, menu strings, profiles) and of edit_wrestlers.csv;
 - FAKE_NAMES in text/exe_promotions.py replaces NAMES;
 - text/fake_script.txt holds hand-written English for story messages that the
   swap leaves too long or awkward (`@ <scene> <message>` and EN lines).
 
-Rules (text/fake_names.tsv) are `real<TAB>fake[<TAB>when]`. Matches are whole words,
+Rules (text/fake_names.csv) are `real,fake[,when]`. Matches are whole words,
 case-sensitive, longest first. A rule with `when` (a regular expression) applies only
 if it matches the Japanese of the message, else of the whole file (story scene);
 the rules for one name are tried in order and the first that applies wins, so put
@@ -37,8 +37,9 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import paths  # noqa: E402
 import script  # noqa: E402
 import storyfill  # noqa: E402
+import table  # noqa: E402
 
-ROSTER, RULES, OVERRIDES = "fake_roster.tsv", "fake_names.tsv", "fake_script.txt"
+ROSTER, RULES, OVERRIDES = "fake_roster.csv", "fake_names.csv", "fake_script.txt"
 SEP = r"(?: |\n ?)"            # between the words of a name
 SKIP = {"wrestler_list.txt", OVERRIDES}   # not JP/EN text read by the build
 
@@ -48,11 +49,11 @@ def load_rules(path):
     rules = []
     for n, line in enumerate(open(path, encoding="utf-8"), 1):
         line = line.rstrip("\n")
-        if not line.strip() or line.startswith("#"):
+        if table.is_note(line):
             continue
-        cols = [c for c in line.split("\t") if not c.startswith("#")]
+        cols = [c for c in table.split(line) if not c.startswith("#")]
         if len(cols) < 2 or not cols[0]:
-            raise SystemExit(f"{path}:{n}: expected real<TAB>fake[<TAB>when]")
+            raise SystemExit(f"{path}:{n}: expected real,fake[,when]")
         when = re.compile(cols[2]) if len(cols) > 2 and cols[2] else None
         rules.append((cols[0], cols[1], when))
     return rules
@@ -160,33 +161,29 @@ def swap_text_file(src, dst, swapper, metrics, story, log, overrides=None):
 def swap_edit_wrestlers(src, dst, swapper, log):
     out = []
     for line in open(src, encoding="utf-8").read().split("\n"):
-        c = line.split("\t")
-        if line.startswith("#") or len(c) < 6 or c[0] == "id":
+        c = [] if table.is_note(line) else table.split(line)
+        if len(c) < 6 or c[0] == "id":
             out.append(line)
             continue
         new = c[:2] + [swapper.swap([t], c[1], "")[0] for t in c[2:]]
         if new != c:
             log.append(("swap", os.path.basename(src), c[0], c[2:], new[2:]))
-        out.append("\t".join(new))
+        out.append(table.join(new))
     open(dst, "w", encoding="utf-8").write("\n".join(out))
 
 
 def swap_roster(src, fake_path, dst):
-    fake = {}
-    for line in open(fake_path, encoding="utf-8"):
-        c = line.rstrip("\n").split("\t")
-        if c and c[0].isdigit():
-            fake[c[0]] = c
+    fake = {c[0]: c for c in table.read(fake_path) if c[0].isdigit()}
     out = []
     for line in open(src, encoding="utf-8").read().split("\n"):
-        c = line.split("\t")
+        c = [] if table.is_note(line) else table.split(line)
         if c and c[0].isdigit():
             f = fake[c[0]]
             if f[1] != c[7]:
-                raise SystemExit(f"{fake_path}: {c[0]} is {f[1]!r} here but {c[7]!r} in wrestlers.tsv")
+                raise SystemExit(f"{fake_path}: {c[0]} is {f[1]!r} here but {c[7]!r} in wrestlers.csv")
             c[6], c[7] = f[2], f[3]
             c[8] = f[4] or c[8]
-            line = "\t".join(c)
+            line = table.join(c)
         out.append(line)
     open(dst, "w", encoding="utf-8").write("\n".join(out))
 
@@ -215,9 +212,9 @@ def make_tree(text_dir, script_dir, out_dir, metrics=None):
             continue
         if name.endswith(".txt") and name not in SKIP:
             swap_text_file(src, dst, swapper, metrics, name == "ov002_scene.txt", log)
-        elif name == "edit_wrestlers.tsv":
+        elif name == "edit_wrestlers.csv":
             swap_edit_wrestlers(src, dst, swapper, log)
-        elif name == "wrestlers.tsv":
+        elif name == "wrestlers.csv":
             swap_roster(src, os.path.join(text_dir, ROSTER), dst)
         elif name == "exe_promotions.py":
             shutil.copyfile(src, dst)

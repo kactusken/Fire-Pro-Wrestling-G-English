@@ -16,9 +16,9 @@ style and names the translation uses. For building and checking, see
 | `text/ov005.txt` | Logo/paint editor, name entry | same |
 | `text/exe.txt` | Strings in the main program: results, countries, team names, music titles | `build.py` (no free space: strings are repacked into the original area) |
 | `text/exe_promotions.py` | Promotion full and short names (fixed-size fields) | `build.py` |
-| `text/wrestlers.tsv` | The 194-wrestler roster: short name, full name, nickname | `build.py` |
-| `text/moves.tsv` | Move names | `build.py` |
-| `text/edit_wrestlers.tsv` | Wrestler records outside the roster: the 30 bonus edit wrestlers, samples, the story hero's default | `build.py` |
+| `text/wrestlers.csv` | The 194-wrestler roster: short name, full name, nickname | `build.py` |
+| `text/moves.csv` | Move names | `build.py` |
+| `text/edit_wrestlers.csv` | Wrestler records outside the roster: the 30 bonus edit wrestlers, samples, the story hero's default | `build.py` |
 | `text/edit_profiles.txt` | Profiles of the 30 bonus edit wrestlers (Edit Ranking) | `build.py` |
 | `text/tutorial.txt` | The Dojo tutorial | `build.py` |
 | `text/wrestler_list.txt` | Reference only: the stand-in names and the real wrestlers they stand for | — |
@@ -51,10 +51,13 @@ in bulk with `tools/fill_text.py`. Edit the `.txt` file itself: it is what the b
 reads. `fill_text.py` only fills strings that have no English yet, unless you pass
 `--overwrite`.
 
-### Tables (`.tsv`)
+### Tables (`.csv`)
 
-Tab-separated, one row per record, with a header row naming the columns. Edit only the
-English columns (`en_*`, or `short` / `full` / `nickname` / `finisher`).
+Comma-separated (CSV), one row per record, with a header row naming the columns. Lines
+starting with `#` are notes. Edit only the English columns (`en_*`, or `short` / `full` /
+`nickname` / `finisher`). A cell that contains a comma or a double quote goes in double
+quotes, with each quote inside doubled: `"Hard, ""Fast"" Kick"`. Spreadsheet programs do
+this for you. If you use one, save as CSV in UTF-8.
 
 ## Story style
 
@@ -69,7 +72,7 @@ English columns (`en_*`, or `short` / `full` / `nickname` / `finisher`).
 - **Codes:** keep `#MS` / `#MF` (the player's short/full name) and `#PSnn` / `#PLnn`
   (a promotion's short/full name) as codes. Write **wrestlers as plain names**, not
   `#WSnnn`: that code gives the abbreviated select-list name ("Nishimr").
-  [story_names.tsv](story_names.tsv) lists every wrestler code with its English name.
+  [story_names.csv](story_names.csv) lists every wrestler code with its English name.
 - A message whose text is only `削除` ("deleted") is never shown. Leave it untranslated.
 - **Honorifics:** drop さん/君 in narration ("Choshu"). When someone is addressed
   politely, "Mr. Choshu" is fine. 先生 is "Coach". 先輩 is just the name (or "sir"). Don't
@@ -94,7 +97,7 @@ English columns (`en_*`, or `short` / `full` / `nickname` / `finisher`).
 The game uses made-up stand-ins for real wrestlers, promotions and referees. The
 translation uses the **real names** where they're known.
 
-- **Wrestlers:** see `text/wrestlers.tsv` and the reference `text/wrestler_list.txt`.
+- **Wrestlers:** see `text/wrestlers.csv` and the reference `text/wrestler_list.txt`.
   Story dialogue usually uses the surname.
 - **Promotions:** `text/exe_promotions.py` maps each in-game promotion to the real one
   ("View Japan" → New Japan, "Olive Japan" → All Japan, …). The same names are used in
@@ -112,8 +115,8 @@ files hold the stand-ins:
 
 | File | What it does |
 |---|---|
-| `text/fake_roster.tsv` | Roster names, replacing `en_short` / `en_full` (and a few nicknames) of `wrestlers.tsv` |
-| `text/fake_names.tsv` | Substitution rules for the English of the story and the menus: `real`, `fake` and an optional regular expression the Japanese must match (for names shared by several people, such as the three Yamamotos) |
+| `text/fake_roster.csv` | Roster names, replacing `en_short` / `en_full` (and a few nicknames) of `wrestlers.csv` |
+| `text/fake_names.csv` | Substitution rules for the English of the story and the menus: `real`, `fake` and an optional regular expression the Japanese must match (for names shared by several people, such as the three Yamamotos) |
 | `text/fake_script.txt` | Hand-written English for story messages that the swap leaves too long or awkward |
 
 Promotion names come from `FAKE_NAMES` in `text/exe_promotions.py`. Story messages
@@ -181,11 +184,11 @@ in a way the rules don't cover (a nickname, a first name), add a rule.
 
 ## Reference data
 
-- [story_names.tsv](story_names.tsv): every wrestler code used in the story, with the
+- [story_names.csv](story_names.csv): every wrestler code used in the story, with the
   name to write.
-- [story_titles.tsv](story_titles.tsv): a title and one-line summary for each scene, used
+- [story_titles.csv](story_titles.csv): a title and one-line summary for each scene, used
   by the route map.
-- [story_battles.tsv](story_battles.tsv): every story match, with opponents, partner,
+- [story_battles.csv](story_battles.csv): every story match, with opponents, partner,
   rules, venue, referee and music (from `tools/storybattles.py`).
 - [route-map/index.html](route-map/index.html): the interactive route map. Rebuild it with
   `tools/storymap.py` after changing scene titles.

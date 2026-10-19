@@ -28,6 +28,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import paths  # noqa: E402
 import script  # noqa: E402
 import storybattles  # noqa: E402
+import table  # noqa: E402
 
 EXTRACTED, SCRIPT, TEXT = paths.repo(paths.EXTRACTED), paths.repo(paths.SCRIPT), paths.repo(paths.TEXT)
 
@@ -41,7 +42,7 @@ def configure(extracted=None, script_dir=None, text=None):
 def add_options(parser):
     paths.add(parser, "--extracted", paths.EXTRACTED, "tools/extract.py output")
     paths.add(parser, "--script", paths.SCRIPT, "story script folder")
-    paths.add(parser, "--text", paths.TEXT, "text folder (wrestlers.tsv, exe.txt, exe_promotions.py)")
+    paths.add(parser, "--text", paths.TEXT, "text folder (wrestlers.csv, exe.txt, exe_promotions.py)")
 
 OV2_BASE = 0x8005A718
 MATCH_TABLE, MATCH_RECS, REC = 0x800662A0, 0x80064F28, 14
@@ -105,11 +106,9 @@ def load_messages(s):
 
 def wrestler_names():
     names = {}
-    for ln in open(os.path.join(TEXT, "wrestlers.tsv"), encoding="utf-8"):
-        if ln.startswith(("#", "idx")):
-            continue
-        f = ln.rstrip("\n").split("\t")
-        names[int(f[0])] = f[7]
+    for f in table.read(os.path.join(TEXT, "wrestlers.csv")):
+        if f[0] != "idx":
+            names[int(f[0])] = f[7]
     return names
 
 

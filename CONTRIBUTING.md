@@ -48,7 +48,7 @@ python3 tools/extract.py      # unpack the disc for the checking tools (once)
 [docs/TRANSLATION.md](docs/TRANSLATION.md) says which file holds which text, how the files
 are laid out, and the style guide and glossary to follow. In short:
 
-- Edit only the `EN` lines (and the English columns of the `.tsv` tables). The `JP` lines
+- Edit only the `EN` lines (and the English columns of the `.csv` tables). The `JP` lines
   and the `@` lines are what the build uses to find the text.
 - Use the names and terms in the glossary. If you think one is wrong, raise it in an
   issue, because the same name usually appears in many places.

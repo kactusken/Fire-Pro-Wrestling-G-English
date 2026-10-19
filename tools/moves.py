@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Move names (text/moves.tsv) -> FPG 011.
+"""Move names (text/moves.csv) -> FPG 011.
 
 011 (decompressed) has a table at 0x30A38 of 1,592 u16 offsets, relative to
 the table, into NUL-terminated strings at 0x316A8..0x34694 (840 distinct
@@ -13,6 +13,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import strtab  # noqa: E402
+import table  # noqa: E402
 
 TABLE, COUNT = 0x30A38, 1592
 AREA = (0x316A8, 0x34694)
@@ -20,10 +21,7 @@ AREA = (0x316A8, 0x34694)
 
 def load(path):
     out = {}
-    for line in open(path, encoding="utf-8"):
-        if line.startswith("#") or not line.strip():
-            continue
-        _, jp, en = line.rstrip("\n").split("\t")
+    for _, jp, en in table.read(path):
         out[jp.encode("cp932")] = en
     return out
 

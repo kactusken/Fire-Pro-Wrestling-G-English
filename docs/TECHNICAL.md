@@ -450,7 +450,7 @@ objects (0x8001ead0); 0x8001e9bc updates and draws them. Objects are 0x734 bytes
   0xFFF0–0xFFF3 = FPG 127 records 8–11 (Sakagami's four versions). Venue names come from ov1
   0x80088df8 by setting +0x981 (0 Nippon Budokan, 1 HUMAN DOME, 2 Yurakuen Hall, 3 Murakawa Town
   Gym, 4 unnamed, 5 Bayside Coliseum, 6 Kawashima Stadium). `tools/storybattles.py` writes every
-  battle to `docs/story_battles.tsv`; the route map shows opponents and venues, and the scene panel
+  battle to `docs/story_battles.csv`; the route map shows opponents and venues, and the scene panel
   the full match settings.
 
 Match settings (`*(state+0x968)`, set by the match-setup screen in overlay 001 and by the story

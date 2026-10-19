@@ -16,6 +16,7 @@ import moves
 import roster
 import storylint
 import strtab
+import table
 import tutorial
 from tests import TestCase, repo
 
@@ -49,8 +50,7 @@ class StoryScriptTest(TestCase):
                             self.fail(f"{path}:{n}: {e}")
 
     def test_scene_titles_cover_every_scene(self):
-        with open(repo("docs", "story_titles.tsv"), encoding="utf-8") as f:
-            ids = {int(ln.split("\t")[0]) for ln in f if ln.strip() and not ln.startswith("#")}
+        ids = {int(row[0]) for row in table.read(repo("docs", "story_titles.csv"))}
         self.assertEqual(ids, set(range(SCENES)))
 
 
@@ -79,19 +79,19 @@ class MenuTextTest(TestCase):
 
 class RosterAndDataTest(TestCase):
     def test_roster_fits_its_fields(self):
-        rows = roster.load(text("wrestlers.tsv"))
+        rows = roster.load(text("wrestlers.csv"))
         self.assertEqual(sorted(rows), list(range(194)))
         roster.encode(rows)   # raises on a name that doesn't fit
 
     def test_move_names_load(self):
-        names = moves.load(text("moves.tsv"))
+        names = moves.load(text("moves.csv"))
         self.assertEqual(len(names), 840)
         for jp, en in names.items():
             self.assertTrue(en, jp.decode("cp932"))
             strtab.encode_en(en)
 
     def test_edit_records_fit_their_fields(self):
-        rows = editdata.load(text("edit_wrestlers.tsv"))
+        rows = editdata.load(text("edit_wrestlers.csv"))
         self.assertTrue(rows)
         record = bytearray(512)
         for row in rows:
@@ -128,14 +128,14 @@ class FakeNamesTest(TestCase):
         cls.tmp.cleanup()
 
     def test_roster_fits_its_fields(self):
-        # also checks that fake_roster.tsv's real names match wrestlers.tsv
-        rows = roster.load(os.path.join(self.text, "wrestlers.tsv"))
+        # also checks that fake_roster.csv's real names match wrestlers.csv
+        rows = roster.load(os.path.join(self.text, "wrestlers.csv"))
         self.assertEqual(sorted(rows), list(range(194)))
         roster.encode(rows)
 
     def test_edit_records_fit_their_fields(self):
         record = bytearray(512)
-        for row in editdata.load(os.path.join(self.text, "edit_wrestlers.tsv")):
+        for row in editdata.load(os.path.join(self.text, "edit_wrestlers.csv")):
             with self.subTest(record=row[0]):
                 editdata.patch_record(record, 0, row)
 

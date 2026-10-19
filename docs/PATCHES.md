@@ -211,7 +211,7 @@ Promotion names (15 full names of 26 bytes at EXE 0x80049054 and 15 short names 
 
 ## Wrestler names, moves, edit records and profiles
 
-- **Roster** (`tools/roster.py`, `text/wrestlers.tsv`): written to all three copies (FPG 010,
+- **Roster** (`tools/roster.py`, `text/wrestlers.csv`): written to all three copies (FPG 010,
   FPG 011 +0x1046C, overlay 005 0x8006B3B8; overlay 005's extra 195th record is left alone).
   Field sizes are fixed (short name 14 bytes, second part 20, nickname 26); writing a longer
   nickname overwrites height, weight and birth data. A patch to the EXE name builder 0x80018430
@@ -219,11 +219,11 @@ Promotion names (15 full names of 26 bytes at EXE 0x80049054 and 15 short names 
   second part alone (at most 18 bytes). The game never sets that bit, so player-made names are
   unaffected. Overlay 001's builder (0x800771BC) copies fields in 2-byte steps, so fields are
   padded to an even length with 0x01, which the menu renderer skips.
-- **Moves** (`tools/moves.py`, `text/moves.tsv`): the 1,592-entry name table in FPG 011 is
+- **Moves** (`tools/moves.py`, `text/moves.csv`): the 1,592-entry name table in FPG 011 is
   rewritten freely because the EXE always goes through it: identical names share one copy and a
   name that ends a longer one points into it. Strings are laid out longest first, ties in byte
   order, so builds are reproducible.
-- **Edit-format records outside the roster** (`tools/editdata.py`, `text/edit_wrestlers.tsv`):
+- **Edit-format records outside the roster** (`tools/editdata.py`, `text/edit_wrestlers.csv`):
   the 30 bonus edit wrestlers in FPG 013 (0x4E28), the sample wrestler and Coach Yamamoto in
   FPG 016, Sakagami's four story templates in FPG 127, the new-wrestler default in overlay 004
   (0x800755E8) and the story hero's default in the EXE (0x8004980C). Custom finisher names
@@ -391,4 +391,4 @@ prompt), ov001 0x8005C134 (不明, a 5-byte slot, "N/A") and EXE 0x800103B0/BC (
   render the result to PNG.
 - `tools/storyflow.py`, `tools/storymap.py`: the story branch analysis and the route map at
   `docs/route-map/index.html` (rerun after script edits); `tools/storybattles.py` writes
-  `docs/story_battles.tsv`.
+  `docs/story_battles.csv`.

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Edit-format wrestler records outside the roster (text/edit_wrestlers.tsv) and
+"""Edit-format wrestler records outside the roster (text/edit_wrestlers.csv) and
 the bonus edit wrestlers' profiles (text/edit_profiles.txt).
 
 Edit records are 512 bytes. The names sit where the roster has them (+1 flags,
@@ -23,6 +23,7 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import roster  # noqa: E402
 import strtab  # noqa: E402
+import table  # noqa: E402
 
 RECORD = 0x200
 FINISHER, FINISHER_SIZE = 0x1C8, 28
@@ -39,11 +40,9 @@ PROFILE_PX, PROFILE_LINES = 195, 3
 
 def load(path):
     rows = []
-    for line in open(path, encoding="utf-8"):
-        if line.startswith("#") or line.startswith("id\t") or not line.strip():
-            continue
-        rid, jp, short, full, nick, fin = line.rstrip("\n").split("\t")
-        rows.append((rid, jp, short, full, nick, fin))
+    for rid, jp, short, full, nick, fin in table.read(path):
+        if rid != "id":
+            rows.append((rid, jp, short, full, nick, fin))
     return rows
 
 

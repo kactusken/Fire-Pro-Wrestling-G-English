@@ -1,0 +1,524 @@
+# Story scene titles and one-line summaries for the route map (tools/storymap.py).
+# scene,title,summary
+0,Dream of the belt,"Player dreams of winning a championship, is woken by a fellow trainee, and starts another day at the Yamamoto Dojo."
+1,Sparring review with Sakagami,Yamamoto grades the first sparring session harshly; player and rival Sakagami talk it over and vow to improve.
+2,Pros leave the sparring,"Pro wrestlers scouting the open sparring walk out; Yamamoto says they will contact whoever impressed them, and a reporter asks to interview the pair."
+3,Recruitment offers,"After the sparring match against Yamamoto, various promotions (New Japan, All Japan, FMW, UWF, Masa for WCW) make offers and the player picks one."
+4,Debut day at New Japan,"Player joins New Japan, learns its history, and is encouraged by Hashimoto before his debut match against Iizuka."
+5,Young Lion match vs. Kido,"Before facing Kido, Iizuka advises the player to watch and steal from Kido's movement."
+6,Young Lion match vs. Hiro Saito,Player faces veteran Hiro Saito; Hashimoto stops by to check on his progress.
+7,Overseas tour offer,"Choshu offers the player an overseas tour, and he accepts gladly."
+8,Norton and Ultimo Dragon abroad,"In America, Ultimo Dragon shows the player a gym where he meets the loud Norton, who warns him never to face him in the ring."
+9,Last match abroad vs. Bret Hart,"With Masa on the flight home, the player reflects on six months abroad before his final tour match against Bret Hart."
+10,Return to New Japan,"Back in Japan, the player finds Chono and Tenzan have formed nWo JAPAN and are overrunning the regular army; he greets fans from the ring."
+11,Joining nWo JAPAN,Chono challenges the player to go after Hashimoto and recruits him into nWo; the player agrees with his vision.
+12,Staying with the regular army,Hashimoto welcomes the player home and asks him to help build New Japan's future; the player sides with the regulars.
+13,G1 round 1 win vs. Nagata (nWo),"As an nWo member the player beats Nagata, plays the tough-guy character for reporters, and Chono praises him."
+14,G1 round 1 loss to Yasuda (nWo),Upset in round one by Yasuda; Mutoh consoles him and Hiro complains about nWo-vs-nWo bookings.
+15,G1 round 1 loss to Yasuda (regulars),Upset in round one by Yasuda; Hashimoto tells him to turn the loss into fuel.
+16,G1 round 1 win vs. Tenzan (regulars),"After beating Tenzan, the player tells reporters he doubts nWo's methods; Iizuka says the player is a shot in the arm."
+17,G1 round 2: Hirata next (nWo),"Having cleared round one, the player and Hiro look ahead to Hirata, nWo version."
+18,G1 round 2: Hirata next (regulars),"Having cleared round one, the player and Iizuka look ahead to Hirata, regular army version."
+19,Chono upset by Yamazaki (nWo),"Chono's bad leg lets Yamazaki beat him, denying their match; the player insults Yamazaki as a washed-up lapdog."
+20,Training with Norton after G1 exit,"Eliminated from the tournament, the player trains at a gym where Norton's drive inspires him; he later faces Nishimura."
+21,Training with Norton after G1 exit (alt),"Same gym scene with Norton as in 20, on an alternate branch, followed by a match with Nishimura."
+22,Facing Yamazaki (regulars),"Iizuka says Yamazaki is fired up for his first singles match with the player, who feels his intense pressure."
+23,G1 final vs. Hashimoto (nWo),Hashimoto says he cannot forgive the player for joining nWo and comes at him for real in the final.
+24,G1 final day: Nakanishi interview (nWo),Reporter says matches with same-generation wrestlers are hot; player brags and calls Nakanishi a stepping stone.
+25,G1 final day: Nakanishi interview (regulars),Reporter notes the generation rivalry; player says their fights should raise the bar for New Japan as a whole.
+26,G1 final vs. Hashimoto (regulars),"Facing Hashimoto in the final, the player vows to surpass him and Hashimoto tells him to come with everything."
+27,G1 win: Chono and Mutoh hype (nWo),"After winning the G1, the player boasts about taking the IWGP belt from Fujinami while Chono and Mutoh celebrate."
+28,G1 loss: tag title push with Mutoh (nWo),"After falling short in the G1, the player and Mutoh get a shot at Tenryu and Koshinaka's IWGP tag titles."
+29,G1 loss: tag title push with Nakanishi,"After falling short in the G1, the player and Nakanishi get an IWGP tag title shot against Tenryu and Koshinaka."
+30,G1 win: Hashimoto concedes (regulars),Hashimoto congratulates the player on winning the G1 and promises to challenge him when he takes the belt.
+31,IWGP champion party (nWo),"Player wins his first IWGP title, vows nWo-vs-nWo title matches, and celebrates with nWo; Choshu then calls him in about an MMA match."
+32,IWGP tag title win with Mutoh (nWo),"Player and Mutoh win the tag titles, brag to reporters, then party with nWo; Choshu then calls him in about an MMA match."
+33,IWGP title match loss (nWo),"Player loses his first title match, is consoled by Chono and Mutoh, then Choshu offers him a mixed martial arts match."
+34,"IWGP title match loss (nWo, alt)","Same first-title-match loss and nWo party as 33 on an alternate branch, leading to Choshu's MMA offer."
+35,Sakagami message (nWo),Hiro and Mutoh worry about the player's rise; a reporter relays Sakagami's wish to fight him in singles.
+36,Sakagami tag match aftermath,"After a hot match with Sakagami, both vow to make a singles match happen."
+37,UFO incident and Sakagami push (nWo),A UFO and Sakaguchi brawl erupts; the player pushes for the Sakagami singles match and is put in the middle of the feud.
+38,Heisei Ishingun feud begins (nWo),Heisei Ishingun targets the player; he scorns Goto as a nobody and trades threats.
+39,Hashimoto vs. Ogawa brawl (nWo),"Player watches Hashimoto get dominated by Ogawa, then charges the ring after Ogawa's insults and starts a brawl."
+40,Match vs. Koshinaka (nWo),The booked match to settle nWo's feud with Heisei Ishingun; player and Koshinaka trade insults.
+41,Mic challenge to Ogawa,"With Ogawa down, the player grabs the mic and answers with one of three attitudes; ends with a challenge to Ogawa."
+42,Factions cool down (nWo),The war between the factions cools for now and the player keeps aiming higher.
+43,IWGP title shot vs. Norton (nWo),Player wins the challenger tournament and faces champion Norton for the IWGP title.
+44,IWGP defense vs. Hashimoto (nWo),"As champion, the player defends against challenger Hashimoto, who needs the belt to revive his career."
+45,Tag title shot vs. Chono and Tenzan (nWo),Player and Mutoh face fellow nWo members Chono and Tenzan for the IWGP tag titles.
+46,Tag title defense vs. Hashimoto and Sasaki (nWo),"As tag champions, the player and Mutoh defend against Hashimoto and Sasaki."
+47,"Title match loss, will try again (nWo)",Player loses a title match but feels strangely good and resolves to challenge again.
+48,Good result: IWGP title win vs. Norton (nWo),Player takes the IWGP title from Norton and declares himself the strongest; Chono and Mutoh celebrate.
+49,IWGP title defense vs. Hashimoto (nWo),Player beats Hashimoto again to defend the belt; Mutoh calls dibs on the next challenge so the belt stays in nWo.
+50,Tag titles won with Mutoh (nWo),Player and Mutoh beat Chono and Tenzan for the tag titles; nWo becomes a social phenomenon.
+51,Tag title defense with Mutoh (nWo),Player and Mutoh beat Hashimoto and Sasaki to retain; Chono and Tenzan are named next challengers.
+52,"Tag title loss, will try again (nWo)","After losing, Mutoh consoles the player and he resolves to challenge again."
+53,Pro wrestling summit offer (nWo),Choshu announces a New Japan and All Japan summit and offers the player a main event against Sakagami.
+54,Onita invades the ring (nWo),"Onita storms the New Japan ring and the player jumps out to confront him, demanding to be the one to fight him."
+55,Sakagami summit match: win,Player beats Sakagami in the Dome main event; both vow to keep improving and meet again.
+56,Sakagami summit match: loss,Player loses to Sakagami in the Dome main event; both vow to settle the score next time.
+57,Summit breaks Dome record,The pro wrestling summit sets the Dome attendance record and ends as a huge success.
+58,Good ending: Wrestler of the Year,Player wins Best Bout and Wrestler of the Year; he and Sakagami become aces of a new golden age.
+59,Bad ending: Best Bout then retirement,Player wins Best Bout of the Year but burns out after the Sakagami match and retires.
+60,Onita defeated: one-man revolution,"Player drives off Onita, who passes on his legacy; the player then leaves nWo to start a one-man revolution."
+61,Onita match loss: one-man revolution,"Player fails to drive off Onita, who passes on his legacy; the player still leaves nWo for a one-man revolution."
+62,Bad ending: slump and retirement,"Player cannot silence Onita, sinks into a slump after the match, retires, and fades from wrestling."
+63,IWGP title win vs. Fujinami (regulars),"Player takes the IWGP title as a regular, with Iizuka and Sasaki congratulating him; then Choshu calls him in."
+64,IWGP tag title win (regulars),"Same first title celebration as 63, on the tag-title branch, with the regular army; Choshu calls him in."
+65,IWGP title loss to Fujinami (regulars),"Player loses his first title match to Fujinami, is consoled by Iizuka and Hashimoto, then Choshu calls him in."
+66,IWGP tag title loss (regulars),"Player loses a tag title match and is consoled by Iizuka and Hashimoto, then Choshu calls him in."
+67,Sakagami message (regulars),Iizuka says Hashimoto and others are conflicted; a reporter relays Sakagami's wish to fight the player in singles.
+68,Sakagami tag match aftermath (regulars),"After a hot match with Sakagami, both vow to make a singles match happen."
+69,UFO incident and Sakagami push (regulars),"A UFO and Sakaguchi brawl erupts; the player pushes for the Sakagami singles match, accompanied by Iizuka."
+70,Heisei Ishingun feud begins (regulars),Heisei Ishingun targets the player; he says he will not lose to them as they are now.
+71,Hashimoto vs. Ogawa brawl (regulars),"Player watches Hashimoto get dominated by Ogawa, then charges the ring after Ogawa's insults and starts a brawl."
+72,Match vs. Koshinaka (regulars),The booked match to settle the feud with Heisei Ishingun; player tells Koshinaka to stop leaning on Tenryu.
+73,Mic challenge to Ogawa (regulars),"With Ogawa down, the player grabs the mic and answers with one of three attitudes; ends with a challenge to Ogawa."
+74,Factions cool down (regulars),The war with Heisei Ishingun cools for now and the player keeps aiming higher.
+75,IWGP title shot vs. Norton (regulars),Player wins the challenger tournament and faces champion Norton for the IWGP title.
+76,IWGP defense vs. Hashimoto (regulars),"As champion, the player defends against Hashimoto in an emotional title match."
+77,Tag title shot with Nakanishi vs. nWo,Player and Nakanishi challenge nWo's Chono and Tenzan for the IWGP tag titles.
+78,Tag title defense vs. Hashimoto and Sasaki (regulars),"As tag champions, the player and Nakanishi defend against Hashimoto and Sasaki."
+79,"Title match loss, will try again (regulars)",Player loses a title match but feels strangely good and resolves to challenge again.
+80,Good result: IWGP title win (regulars),Player wins the IWGP title in a rough fight and promises more than a changing of the guard.
+81,IWGP title defense vs. Hashimoto (regulars),Player beats Hashimoto in a second straight singles win; Hashimoto then approaches him.
+82,Tag titles won with Nakanishi,Player and Nakanishi take the tag titles from nWo's Chono and Tenzan.
+83,Tag title defense with Nakanishi,Player and Nakanishi retain the tag titles against New Japan's strongest duo and plan to keep fighting.
+84,"Tag title loss, will try again (regulars)","After losing, Iizuka consoles the player and he resolves to challenge again."
+85,Pro wrestling summit offer (regulars),Choshu announces a New Japan and All Japan summit and offers the player a main event against Sakagami.
+86,Onita invades the ring (regulars),"Onita storms the New Japan ring and the player jumps out to confront him, demanding to be the one to fight him."
+87,Sakagami summit match: win (regulars),Player beats Sakagami in the Dome main event; both vow to keep improving and meet again.
+88,Sakagami summit match: loss (regulars),Player loses to Sakagami in the Dome main event; both vow to settle the score next time.
+89,Summit breaks Dome record (regulars),The pro wrestling summit sets the Dome attendance record and ends as a huge success.
+90,Good ending: Wrestler of the Year (regulars),Player wins Best Bout and Wrestler of the Year; he and Sakagami become aces of a new golden age.
+91,Bad ending: Best Bout then retirement (regulars),Player wins Best Bout of the Year but burns out after the Sakagami match and retires.
+92,Onita defeated: crowd cheers (regulars),Player drives off the invader to cheers; Onita says the player can carry Japanese wrestling and passes on his legacy.
+93,Onita match loss: arena silent (regulars),Player and partners fail to drive off the invaders; Onita says the player can carry Japanese wrestling.
+94,Bad ending: slump and retirement (regulars),"Player cannot silence Onita, sinks into a slump, retires, and fades from wrestling."
+95,All Japan: debut offer,"Joining All Japan, the player is called in by Baba and offered an early debut match."
+96,Match offer from Fuchi,"Fuchi, after the player's lively rookie run, proposes a match against himself."
+97,Tsuruta after Fuchi match,Tsuruta praises the player's showing against Fuchi and says Baba wants him at the office tomorrow.
+98,Rivalry talk with Akiyama,"Preoccupied with the Asunaro Cup, the player tells Akiyama he will win it and pass him."
+99,Asunaro Cup: Tsuruta's slap,Tsuruta checks in after giving the player a back slap; today's league opponent is Honda.
+100,Asunaro Cup final vs. Omori,"Both 2-0 after a draw, the player faces press questions before the final at Budokan against Omori."
+101,Asunaro Cup win interview,"After winning the Cup, the player answers a reporter about aiming at the Four Pillars and Akiyama."
+102,Asunaro Cup loss interview,"After losing the final to Omori, the player takes press questions about the Four Pillars and Akiyama."
+103,Baba books Shinzaki match,Omori wins the Cup; Baba abruptly books the player in a singles against Jinsei Shinzaki.
+104,Shinzaki interview (loss),"After losing to Shinzaki, the player picks a reply to a reporter's question about him."
+105,Shinzaki interview (win),"After beating Shinzaki, the player picks a reply to a reporter's question about him."
+106,Williams farewell or Hayabusa choice,"Baba says Williams is leaving and Hayabusa is visiting, and lets the player pick which Osaka match to take."
+107,Next fight bridge,A one-line bridge saying another new fight is waiting.
+108,Takayama calls out Kawada,"Ringside as second, the player watches ex-UWFI Takayama challenge Kawada and brawl."
+109,Takayama single announced,"After the tag, a final-night singles with Takayama is booked and both psych up."
+110,After Takayama match,"Exhausted but refreshed, the player shakes hands with Takayama and agrees to more hot matches."
+111,Tag vs. Akiyama and Omori,The player gets a non-title shot at All Asia Tag champs Akiyama and Omori.
+112,Akiyama single announced,"Heated tag leads to a final-night singles with Akiyama, a fight for the Fifth Man spot."
+113,After Akiyama match,Akiyama and the player become true rivals and vow to reach a Triple Crown match together.
+114,Baba offers five-match series,Baba grants the player a five-match trial series against worthy opponents.
+115,Trial series: Kakihara (Kawada route),First series opponent is Kakihara; Kikuchi and Fuchi send the player off.
+116,Trial series: Fuchi pep talk (Kawada route),Fuchi says every wrestler who did this series reached the top; Kawada-route version.
+117,Trial series: Hase interview (Kawada route),Reporter asks about Diet member Hase before the match; player chooses a prideful or friendly answer.
+118,Trial series: Ace and Kobashi (Kawada route),Kobashi encourages the player before the Johnny Ace single; Kawada-route version.
+119,Trial finale vs. Kawada,"Reporter previews the series-ending singles with Kawada, the player's first against a Four Pillar."
+120,Trial series: Omori opener,"First series opponent is Omori, a classmate; Kikuchi and Fuchi send the player off."
+121,Trial series: Fuchi pep talk (Taue route),Fuchi says every wrestler who did this series reached the top; Taue-route version.
+122,Trial series: Hase interview (Taue route),Reporter asks about Diet member Hase before the match; Taue-route version.
+123,Trial series: Ace and Kobashi (Taue route),Kobashi encourages the player before the Johnny Ace single; Taue-route version.
+124,Trial finale vs. Taue,"Reporter previews the series-ending singles with Taue, who spouts odd catchphrases."
+125,Trial series: Smith opener,"First series opponent is Smith, a technical junior-sized wrestler; Kikuchi and Fuchi send the player off."
+126,Trial series: Fuchi pep talk (Hansen route),Fuchi says every wrestler who did this series reached the top; Hansen-route version.
+127,Trial series: Hase interview (Hansen route),Reporter asks about Diet member Hase before the match; Hansen-route version.
+128,Trial series: Ace and Kobashi (Hansen route),Kobashi encourages the player before the Johnny Ace single; Hansen-route version.
+129,Trial finale vs. Hansen,Reporter previews the singles with Stan Hansen; Kobashi advises how to beat his Western Lariat.
+130,"Misawa praise, Sakagami message","After the series, Misawa praises the player and a reporter relays Sakagami's wish for a singles match."
+131,"Sakagami hype, No. 1 contender match",Sakagami vows to make their singles happen; Baba sets a Triple Crown contender match against Kobashi.
+132,"Sakagami hype, Misawa tag offer",Sakagami vows to make their singles happen; Baba and Misawa offer a World Tag challenger team-up.
+133,"Contender win, Triple Crown shot","Having beaten Kobashi, the player gets his Triple Crown shot against Misawa."
+134,Real World Tag League opener,"Player enters the year-end tag league as Misawa's partner, facing Ace and Burton."
+135,"Tag challenger win, Kobashi advice","After winning the challenger match, the player hears Kobashi's praise and advice before facing Kawada and Taue."
+136,Triple Crown win,The player beats Misawa for the Triple Crown and reflects alone on a childhood dream.
+137,Triple Crown loss to Misawa,"Beaten by Misawa, the player is consoled by Kobashi and resolves to improve."
+138,Tag League final vs. Hansen and Vader,Hansen and Vader are unbeaten; the player and Misawa reach the final intent on avenging the league loss.
+139,World Tag title loss,Misawa and the player lose to Kawada and Taue; Misawa tells him to hold his head high.
+140,World Tag title win,The player and Misawa win the World Tag titles; Akiyama congratulates him.
+141,Tag League win interview,The player and Misawa win the league by beating Hansen's team and aim next for the belts.
+142,Bad stretch: no results,"After losing the title match and the Tag League, the player is down but resolves to climb back."
+143,Champion carnival ending: ace of All Japan,Champion Carnival and Triple Crown wins make him All Japan's ace; he keeps defending and chases the Sakagami single.
+144,Bad ending: knee injury,A recurring knee injury ruins his results and he ends up in comedy undercard bouts.
+145,"Sakagami match, player wins",The player beats Sakagami in a classic; the two rivals vow future rematches.
+146,"Sakagami match, player loses",The player loses to Sakagami in a classic; the two rivals vow future rematches.
+147,Best Bout and Wrestler of the Year,"After a win over Sakagami, Baba announces awards; the two become Japan's aces and a Golden Age begins."
+148,"Best Bout, then retirement ending","After a loss to Sakagami, the player wins Best Bout but slumps, retires and runs a dojo."
+149,Stuck in Akuyaku vs. Family bouts,"Without results, the player is stuck in comedy-faction undercard matches; Kikuchi urges him on."
+150,Tenryu recruits to New Japan,Tenryu invites the player to team in #PL00; he accepts and Baba bans his return.
+151,Slump: Akiyama's warning,"Still in a slump, the player is told by Akiyama to show him another hot match against Omori."
+152,Tenryu team: Sasaki single,"Newly teamed with Tenryu, the player accepts a singles challenge from Sasaki."
+153,"Locker room rage, Fuchi advice","Frustrated by matchmaking, the player is told by Fuchi to examine his self-centered style."
+154,Sasaki match win,"The player beats Sasaki, who snarls that it is not over."
+155,Sasaki match loss,The player loses to Sasaki and shouts defiantly as he leaves.
+156,Bad ending: back injury,After a hard stretch the player hurts his back and a newspaper questions his career.
+157,Join Heisei Ishingun ending,"Tenryu's team joins Koshinaka's Heisei Ishingun, but an arm injury kills the momentum and he returns to the ring."
+158,"FMW intro, Fuji, tournament start","Intro to FMW's history; Fuji visits, and the young-gun tournament draw (Tanaka, Kanemura, Yamakawa) is announced."
+159,Tournament round 2 vs. Kanemura,"After winning round one, MS faces former W*ING ace Kanemura in round two."
+160,"Lost round one, vs. Kuroda",MS lost in round one of the tournament and takes a consolation singles match against fellow loser Kuroda.
+161,"Round 2 won, final vs. Tanaka",MS beats Kanemura and reaches the final against Tanaka for the right to be FMW's next ace.
+162,"Lost final, singles vs. Gedo","MS lost the tournament final and fights Gedo in a singles match, using the frustration as fuel."
+163,Tournament win interview,"Reporter calls MS the top candidate for next ace; MS picks a goal (belt, Onita's successor, or one step at a time)."
+164,Tournament loss interview,"After losing the final, MS tells the reporter the series still put him on the map and picks a next goal."
+165,Onita returns: join Fuyuki-gun,"Fuji and Onita's comeback news; Fuyuki recruits MS to crush Onita, and MS joins the Fuyuki-gun."
+166,Onita returns: side with regulars,"Hayabusa calls Onita's comeback a betrayal; MS joins the regulars against both Fuyuki-gun and ZEN, then faces Kuroda."
+167,Onita returns: join ZEN,Onita visits the dojo and explains his comeback; MS joins ZEN and teams with him against Jado.
+168,Tag vs. ZEN as Fuyuki-gun,"MS and Jado team up against Onita's ZEN, with MS vowing to retire the old relic."
+169,"Tag vs. Fuyuki-gun, regulars side","MS teams with Hayabusa; Fuyuki tries to recruit MS, who rejects the clown act."
+170,"Tag vs. Fuyuki-gun, ZEN side","MS teams with Onita against Fuyuki and Gedo, declaring his faith in Onita."
+171,"Fuyuki-gun comedy skit, vs. Ohya",Backstage with Fuyuki-gun's closing skit (Loincloth Squad flops); MS then faces Ohya.
+172,Singles vs. Kanemura and Comaneci,Kanemura dances and does his Comaneci gag before the match; MS chooses how to react.
+173,Singles vs. Ohya,"MS faces Ohya, a former New Japan wrestler who has sharpened his technique."
+174,"Tag vs. regulars, Fuyuki-gun side",MS and teammates taunt Hayabusa and the regulars for being hypocrites before a tag match.
+175,Hayabusa and MS vs. Onita and Yamakawa,The regulars dread facing Onita's ZEN; Onita and Hayabusa clash verbally before the tag match.
+176,"ZEN vs. regulars, tense standoff",ZEN faces the regulars led by Hayabusa; both sides stay silent in an eerie tension.
+177,"Breakup match setup, Fuyuki-gun","As a Fuyuki-gun member, MS talks big to a reporter about the match where each group's breakup is on the line."
+178,"Breakup match setup, regulars","As a regular, MS is asked about the Fuyuki-gun's plan to break up ZEN and the breakup-stakes match."
+179,"Breakup match setup, ZEN","As a ZEN member, MS responds to the Fuyuki-gun's breakup challenge ahead of the stakes match."
+180,"Yamakawa betrays Onita, Fuyuki-gun view",Fuyuki-gun's secret plan works: Yamakawa turns on Onita and ZEN loses the breakup match.
+181,"Yamakawa betrays Onita, regulars view",MS and Fuji watch the breakup match on the monitor as Yamakawa turns on Onita.
+182,"Yamakawa betrays Onita, ZEN corner",MS works Onita's corner as teammate Yamakawa betrays them and Fuyuki's side wins.
+183,Team No Respect debut,First match for Fuyuki-gun's new name Team No Respect; MS mocks Hayabusa and Fuji before the tag.
+184,Team Firebird debut,"First match as Team Firebird, the regulars' new unit, against Fuyuki's team."
+185,Team Zero debut,"First match as Team Zero (ZEN's remnant) against the Fuyuki-gun, fighting for Onita's ideals."
+186,"Singles vs. Kuroda, liar's lackey",Kanemura urges MS to show Kuroda how green he is before a singles match.
+187,"Kanemura interferes, Hayabusa match",Kanemura hits Hayabusa with a chair during Hayabusa vs. Jado; MS drags him out and confronts him.
+188,"Kanemura interferes, Onita match",Kanemura hits Onita with a chair during Onita vs. Jado; MS drags him out and confronts him.
+189,"Double Championship shot, brawler MS",MS earns a shot at the unified Double Championship and boasts to a reporter what he'd do as champion.
+190,"Double Championship shot, regulars",Regular vs. regular title shot is announced; MS answers whether that's delicate.
+191,Three-way war interview,Reporter says Team No Respect is zeroing in on MS in the three-way war; MS picks a response.
+192,Title match vs. Hayabusa,"Before the Double Championship bout, Hayabusa and MS vow to put on a real fight for FMW's future."
+193,Won the Double Championship,"MS beats Hayabusa for the title, praises him, and hears about the Top of FMW Tournament."
+194,Lost the Double Championship,MS loses narrowly to Hayabusa and vows to win the upcoming Top of FMW Tournament.
+195,"Onita leaving rumor, Fuyuki-gun side",Jado and Fuyuki tell MS that Onita is quitting FMW to start a new promotion.
+196,Tournament round vs. Kanemura,"After beating Ohya, MS faces teammate Kanemura in the Top of FMW Tournament."
+197,"Lost round one, Kanemura consoles",MS lost in round one of the tournament; Kanemura teases him and offers a coffee.
+198,Tournament final vs. Gannosuke,Silent Gannosuke waits in the final; MS asks why he left No Respect and will get his answer in the ring.
+199,"Lost tournament, vs. Kuroda","After losing, MS takes a singles match with Kuroda while Jado and Gedo offer to interfere."
+200,Won the Top of FMW Tournament,MS wins the tournament and brags to the reporter that he has no enemies left.
+201,Lost the tournament final,The tournament went to Gannosuke; MS lets a big chance slip and waits for the next one.
+202,Sakagami invades FMW,"New Japan's Sakagami takes over the ring and calls out MS; leads into a tag match, Fuyuki-gun route."
+203,"Sakagami loses, joins No Respect","MS's side wins; Sakagami honors the deal, joins No Respect, and explains his move to FMW."
+204,"Sakagami wins, bargain voided","MS loses and must be Sakagami's valet, but New Japan refuses and punishes Sakagami and Goto."
+205,New tag titles vs. Hayabusa and Tanaka,MS and Sakagami challenge Hayabusa and Tanaka for the new tag titles on the final show.
+206,Tag series vs. Kobashi and Mossman,Sakagami and MS dream of revolution; the series brings a bout against All Japan's Kobashi and Mossman.
+207,"Tag champions, plan singles match",MS and Sakagami win the tag titles and decide to stage their dream singles match.
+208,"Tag stumble, plan singles match","After a failed first step as a team, MS proposes a singles match against Sakagami to turn the fans back."
+209,Good ending: third golden age,"After the Sakagami singles match, the pair rise and revive wrestling; their names enter history."
+210,"Bad ending: neck injury, retire","MS and Sakagami hit the majors, but MS hurts his neck, fades, and retires while Sakagami succeeds."
+211,"Sakagami match, fight back ending",Post-match dialogue where Sakagami and MS vow to fight back; ends in the third golden age.
+212,Bad ending: fired by Sakagami,"MS's neck injury and Sakagami, now promotion head, fires him for his own safety; he quietly retires."
+213,"Shakes it off, stablemate title match","After the Tanaka match, MS recovers; Fuyuki sets a tag title match against Fuyuki and Kanemura."
+214,Bad ending: No Respect fades,No Respect's stablemate tag match ends; the team collapses and MS fades into the pre-intermission slot.
+215,Regulars title match vs. Hayabusa,"Hayabusa and MS meet for the Double Championship as regulars, promising a hot match for FMW's future."
+216,"Won Double Championship, regulars",MS beats Hayabusa for the title and says the match leads to a better tomorrow.
+217,"Lost Double Championship, regulars","MS loses to Hayabusa but is satisfied, and plans to win the Top of FMW Tournament."
+218,"Onita leaving rumor, regulars side",Fuji and Hayabusa tell MS that Onita is leaving FMW for a new promotion.
+219,Tournament round vs. Kuroda,Fuji and MS discuss Kuroda's hot streak before their tournament match.
+220,"Lost round one, Fuji consoles",MS lost in the tournament's first round; Fuji awkwardly promises to buy him coffee.
+221,Tournament final vs. Gannosuke,"MS faces the silent Gannosuke in the final, regulars route."
+222,"Lost tournament, vs. Yamakawa","Out of the tournament, MS fights now-heel Yamakawa in a singles match."
+223,"Won the Top of FMW Tournament, regulars",MS wins the tournament after the title was vacated and says it gives him confidence.
+224,"Lost the tournament final, regulars",The tournament went to Gannosuke; MS lets a big chance slip.
+225,"Sakagami invades FMW, regulars side",Sakagami takes over the ring and calls out MS; the regulars and No Respect gather in confusion.
+226,"Sakagami tag, first title vs. Hayabusa","After the surprise tag match, MS and Sakagami promise a singles match; first title bout is set against Hayabusa."
+227,"Sakagami tag, tag titles vs. Fuyuki","After the surprise tag, new tag titles are set; MS and Hayabusa face Fuyuki and Kanemura."
+228,"Won first title, Sakagami singles","MS wins the first title, defends it, and visits New Japan's office to set up the big match with Sakagami."
+229,"Lost first title, Fuyuki singles","MS lost but calls it a new FMW's start, then beats No Respect members one by one and faces Fuyuki."
+230,Good ending: third golden age (regulars),"After the Sakagami match, the interpromotion show breaks attendance records and begins a golden age."
+231,Bad ending: left behind in undercard,"MS is called to New Japan often, falls behind, loses steam in FMW, and ends in the undercard."
+232,"Good ending: beat Fuyuki, FMW booms","MS beats Fuyuki, grabs the mic, and leads FMW to sellouts as the Charisma of a New Generation."
+233,Bad ending: FMW declines,"After beating Fuyuki, Hayabusa's injury and Fuyuki's departure sink FMW and MS's name fades."
+234,"Onita's farewell, final show","Onita says he's leaving FMW after the series, tells MS to fight him one-on-one in the final show."
+235,"Onita invades New Japan, vs. Iizuka",MS refuses to leave Onita; Onita demands a spot in New Japan's ring and MS fights Iizuka.
+236,New Japan tag vs. Tenryu and Koshinaka,"Onita fights Sasaki, pulls a fireball, then calls out Tenryu and Koshinaka for a tag match with MS."
+237,"Won tag, vs. Koshinaka",Onita and MS beat Tenryu and Koshinaka; MS takes Koshinaka's singles challenge.
+238,"Lost tag, vs. Nagata",Onita and MS lose narrowly; Nagata demands a singles match and MS accepts.
+239,Sakagami confronts MS after Koshinaka,"After the Koshinaka match, Sakagami denounces outlaws and Onita and demands MS wake up."
+240,Sakagami confronts MS after Nagata,"After the Nagata match, Sakagami denounces outlaws and Onita and demands MS wake up."
+241,Tag: Sakagami and Nakanishi vs. Onita and MS,A tag match is set pitting Sakagami against MS; they glare in silence and let the match talk.
+242,Singles vs. Sasaki,Sakagami leaves in doubt; Sasaki asks for a singles match to test MS's outlaw spirit.
+243,Sakagami believes; dream singles match,"Sakagami accepts MS's honest fight, and they open their promised dojo-dream singles match in New Japan."
+244,"Onita injured, revenge vs. Tenryu",Onita's knee gives out against Tenryu; MS challenges Tenryu to carry on the outlaw spirit.
+245,Good ending: New Outlaw Legend (Sakagami),"MS and Sakagami trade respect, Onita retires again, and their rivalry becomes the New Outlaw Legend."
+246,Bad ending: outlaw heir fades (Sakagami),"Sakagami finds MS lacking; without Onita and no rematch, MS is shut out and forgotten."
+247,Good ending: outlaw heir (Tenryu match),"MS beats or loses to Tenryu, hears New Japan fans chant his name, and becomes the New Outlaw Legend."
+248,Bad ending: fades alone (Tenryu match),"Only a few cheers after the Tenryu match; alone without Onita, MS is shut out and forgotten."
+249,Newborn UWF debut,"Newborn UWF is founded by Maeda, Fujiwara and Takada; nervous before the debut match, the player is coached by Maeda."
+250,Overheard Takada argument,While setting up the venue the rookie overhears a heated argument and sees Takada storm off; next opponent is Suzuki.
+251,Maeda shrugs off the rift,The player asks Maeda about the argument with Takada; Maeda laughs it off as normal disagreement over methods.
+252,Reporter asks about Maeda,A reporter asks about rumors that Maeda is at odds with the others; the player denies knowing anything.
+253,Maeda invites you to RINGS,"Training alone in the dojo, the player is asked by Maeda to come with him and decide his path."
+254,RINGS debut win vs. Vrij,Player wins the RINGS debut against Vrij; reporter interview and Maeda's praise.
+255,Mega Battle opener vs. Y. Yamamoto,"Before the first round of the Mega Battle Tournament, Y. Yamamoto vows to succeed Maeda and challenges the player."
+256,Lost to Nagai; vs. Nyman,"After losing to Nagai and exiting the tournament, the player is booked against Hans Nyman."
+257,Beat Yamamoto; vs. Volk Han,"Player beats Y. Yamamoto, who asks him to win for him and Nagai; third-round opponent is Volk Han."
+258,Out of tournament; Vrij rematch,"Eliminated from the tournament, the player faces Vrij a second time."
+259,Beat Volk Han,"Player becomes the first besides Maeda to beat Han, who promises to watch the final from the side."
+260,Final Maeda vs. Han; vs. Kohsaka,Maeda and Han reach the final while the player faces debuting Tsuyoshi Kohsaka.
+261,Wins Mega Battle Tournament,Player beats Maeda in the final; reporter asks how it feels to surpass his teacher.
+262,Loses final to Maeda,Player loses the final to Maeda in an acclaimed bout; interview afterward.
+263,Maeda announces knee surgery (champion),The day after the tournament Maeda announces his knee operation and leaves RINGS to the player and Nagai.
+264,Tamura joins RINGS,"Training for the Smith match, the player meets Tamura, who announces he is joining RINGS too."
+265,Maeda announces knee surgery,"Maeda springs news of his knee surgery on the player, leaving RINGS in the hands of Nagai and the player."
+266,Smith win; Gruesome tournament offer,After the Smith match Maeda tells the player about a Gruesome Fighting (vale tudo) tournament in Japan.
+267,Smith win; 2nd Mega Battle offer,After the Smith match Maeda asks if the player can win the 2nd Mega Battle Tournament while he is out.
+268,Beat Anjoh; semifinal vs. Gordeau,Player beats Anjoh in the Gruesome tournament; Anjoh advises him about Gordeau.
+269,Lost to Anjoh,Player loses to Anjoh in the Gruesome tournament; Anjoh tells him to learn from the remaining fights.
+270,Gruesome final vs. Maurice Smith,"Rematch with Maurice Smith in the final, who now respects the player as a fighter."
+271,Gruesome final vs. Severn,"Before the final, Anjoh jokingly asks the player to say hi to Severn, then vanishes."
+272,Wins Gruesome tournament,Player wins the vale tudo tournament; reporter says fans now expect him to take on the Gracies.
+273,Loses Gruesome tournament,Player fails to win the Gruesome event as RINGS representative and resolves to train harder.
+274,Second round vs. Tariel,"After beating Kohsaka, the player faces favorite Tariel, who fights for Georgia."
+275,Dead-rubber vs. Vrij,"Eliminated in round one, the player is booked against a listless Vrij to wake him up."
+276,2nd Mega final vs. Tamura,"The final is against Tamura, who beat Nagai and Yamamoto, with the RINGS title at stake."
+277,Tamura vs. Han final; vs. Nyman,"Eliminated, the player faces Nyman while Tamura and Han meet in the final."
+278,Wins 2nd Mega Battle Tournament,Player wins and tells a reporter he wants to look outside RINGS next.
+279,Loses 2nd Mega Battle Tournament,Player fails to win and resolves to train harder for next time.
+280,Maeda announces retirement (champion),Maeda calls the player in and says he is retiring after a ceremony; details of his last match follow.
+281,Maeda announces retirement,"Maeda tells the player he is retiring, with a farewell ceremony and last match planned."
+282,Maeda's retirement match ends,"After Maeda's last RINGS match, the player tells a reporter the remaining wrestlers must carry RINGS forward."
+283,Win over stand-up fighter,Player wins a match under mixed rules and tells a reporter he'd like to try stand-up rules next.
+284,Maeda's retirement opponent talks,Maeda complains that talks with Rickson Gracie are only about money; Takada also seems involved.
+285,Final-race match vs. Tamura,The player faces rival Tamura in the race to be RINGS Japan's strongest after Maeda's departure.
+286,Takada loses to Rickson Gracie,RINGS watches Takada get armbarred by Rickson in under four minutes; Maeda reacts with fury.
+287,Gracie fight is set,Maeda announces the Rickson Gracie match is set; special training and fight day follow.
+288,Beat Gracie,The player beats Gracie and tells the crowd the Gracie invincibility legend is over.
+289,Lost to Gracie,Player loses to Gracie and trains obsessively for revenge.
+290,Vale tudo boom (after Gracie),Maeda notes vale tudo is booming in Japan and attracting foreign stars.
+291,Beat Sakagami (Sakagami's lead),Player wins the Sakagami dream match; both praise each other and Sakagami vows to even the record.
+292,Beat Sakagami,Player wins the Sakagami dream match; both praise each other and Sakagami vows to even the record.
+293,Sakagami bout becomes history,The Sakagami fight enters combat history; Maeda praises the player's goal of surpassing him.
+294,Years as ace; Sakagami returns,Player wins three straight Mega Battles and builds a record; Sakagami returns to Japan for his first match in years.
+295,Bad ending: knee gives out,Player's old right knee injury finally ends his career mid-match.
+296,Takada invites you to UWF-i,"Training alone, the player is asked by Takada to join him; this route leads to UWF International."
+297,UWF-i debut win vs. Kakihara,Player wins his UWF International debut over Kakihara and gives a reporter interview.
+298,Contenders' match vs. Tamura,"Having built his record in UWF-i, the player faces Tamura for the right to challenge Takada."
+299,Title match vs. Takada,"Having won the contenders' match, the player faces his mentor Takada."
+300,UWF-i going broke (lost to Takada),"After UWF-i attendance crashes, Anjoh tells the player the company is broke and is planning a way out."
+301,Beat Takada,"Player beats Takada, who says he is not finished and wants to keep UWF-i going together."
+302,UWF-i going broke,Attendance crashes and shows dwindle; Anjoh says the company is broke and is planning a way out.
+303,Beat Sasaki in New Japan war,Player beats Kensuke Sasaki in the war with New Japan and calls it proof of the U-style.
+304,Beat Nagata in New Japan war,Player beats Nagata in the war with New Japan and calls it proof of the U-style.
+305,UWF International folds,Takada confirms UWF-i cannot continue after the New Japan war and takes time off.
+306,Kingdom opening show,Player joins Anjoh's new promotion Kingdom on the eve of its opening show.
+307,Maeda invites you to RINGS,Maeda unexpectedly visits and invites the player to join RINGS; the player may call back with an answer.
+308,Kingdom match vs. Sano,Anjoh encourages the player before a match against Sano as Kingdom gets on track.
+309,Empty Kingdom main event vs. Anjoh,"With Kingdom floundering, the player faces Anjoh before a nearly empty arena."
+310,Vale tudo tournament invitation,Kingdom is invited to a real vale tudo event; the player fights to boost Takada's main event.
+311,Takada loses to Gracie (Kingdom),"After his own match, the player watches Takada get armbarred by Gracie on the locker room monitor."
+312,Kingdom 3-million-yen tournament,Anjoh announces a desperate comeback tournament with ex-UWF-i fighters and a 3-million-yen prize.
+313,Takayama leaves for All Japan,Takayama tells the player he is leaving for All Japan to fight Kawada and urges him to move on.
+314,Kingdom semifinal vs. Sano,"After winning round one, the player faces Sano, who has gone fully vale tudo."
+315,Lost to K. Yamamoto; Anjoh finalist,Anjoh points out the player lost to Kenichi Yamamoto and vows not to lose to an invited guest.
+316,Kingdom final vs. Anjoh,The tournament final comes down to the player and Anjoh with a thin crowd.
+317,Out of tournament; vs. Takayama,"Eliminated from the tournament, the player faces fellow dropout Takayama."
+318,Wins Kingdom tournament,Player beats Anjoh to win the tournament and says Kingdom is more than Anjoh.
+319,Loses Kingdom tournament,Player loses the tournament and says he'll use it as fuel for vale tudo.
+320,All Japan debut aftermath,"After joining All Japan, the player says he's adapting to King's Road style and wants bigger matches."
+321,"All Japan tag vs. Kawada, Kikuchi","With Takayama as partner, the player faces Kawada and Kikuchi, who vows not to lose to outsiders."
+322,Kingdom goes under,Anjoh tells the dejected player that Kingdom has folded.
+323,Kawada singles match agreed,"After a tag match, the player and Kawada glare, shake hands and agree to a singles match."
+324,Beat Kawada,Player wins the Kawada match with a reporter interview about facing a striker.
+325,Respect after Kawada match,Kawada offers his hand and a rematch; the player realizes how narrow the U style alone was.
+326,Sakagami tag rivalry,"After a tag match, the player and Sakagami agree they must have a singles match."
+327,Beat Gracie (All Japan),"Player beats Gracie, proclaims the end of the Gracie legend and is congratulated by Maeda."
+328,Singles match with Sakagami booked,The player asks Baba again for a singles match against Sakagami.
+329,"Burnt out, heel alliance",After the Sakagami match the player loses his fire and works under Kikuchi's heel alliance.
+330,"Beat Sakagami (All Japan, Sakagami leads)",Player wins the Sakagami singles match; Sakagami vows to even the record.
+331,Beat Sakagami (All Japan),Player wins the Sakagami singles match; Sakagami vows to even the record.
+332,Sakagami bout becomes history (Anjoh),The Sakagami fight makes history; Anjoh jokes about the player surpassing Maeda.
+333,Years of vale tudo; Sakagami returns,Player becomes called the strongest Japanese in vale tudo while Sakagami beats Mark Kerr and returns home.
+334,Bad ending: knee gives out,"Player's knee, damaged against Gracie, ends his career mid-match."
+335,Pre-match with Sakagami,Before the final bout Sakagami and the player talk about their rivalry since the dojo; he urges him to win the Triple Crown.
+336,Kikuchi asks you to coach,Kikuchi sees the player's apathy and asks him to teach U-style submissions to the young wrestlers.
+337,Fujiwara invites you,"Training alone, the player is asked by Fujiwara to follow him; this route leads to Fujiwara Gumi."
+338,Fujiwara Gumi Dome show,Fujiwara Gumi grows and announces its first Tokyo Dome show; Ishikawa is introduced.
+339,Funaki and Suzuki leave,"After a shaky Dome show, Funaki and Suzuki announce they're leaving Fujiwara Gumi."
+340,Fujiwara Gumi shrinks,"With few wrestlers left, Fujiwara Gumi travels to other shows and trains rookies."
+341,Answering Funaki and Suzuki,The player visits Funaki and Suzuki's gym to give his answer about joining them.
+342,First match vs. Ishikawa,"On the road, Ishikawa is excited for his first real match against the player."
+343,Main event vs. Fujiwara,"Fujiwara Gumi holds its first own show in ages, with the player facing Fujiwara."
+344,Company president fires everyone,"After the Fujiwara match, Ishikawa reports the president fired all wrestlers except Fujiwara."
+345,League match vs. Ikeda,"In the league, the player faces the much-improved Ikeda."
+346,League match vs. Ishikawa,A key league match against Ishikawa that will influence the final standings.
+347,League match vs. Otsuka,"The player faces Otsuka, who has fixed his weakness to strikes."
+348,League final vs. Ishikawa,"The player meets Ishikawa, who runs the company, in the league final."
+349,Tag match with Ikeda in All Japan,"After missing the league win, Ishikawa sets up a tag match with Ikeda in All Japan; Baba appears."
+350,Ishikawa final aftermath,"After a final bout with Ishikawa, both praise the match and ask the president to speak."
+351,King's Road experience interview,A reporter asks about the first taste of King's Road wrestling and whether he wants to stay.
+352,Otsuka vs. Ruas vale tudo,The player seconds Otsuka in a vale tudo match against Marco Ruas.
+353,Sakagami interrupts the show,"After a successful show, Sakagami bursts out of the crowd to challenge the player."
+354,Sakagami's challenge aftermath,Sakagami says he is going to WCW-style promotion and will return; Ishikawa is thrilled with the new storyline.
+355,Outside offer from Michinoku Pro,Ishikawa offers a booking from Michinoku Pro; the player faces Hayabusa.
+356,Outside offer: vale tudo tournament,Ishikawa offers a vale tudo tournament booking; the player's opponent turns out to be a big name.
+357,Rematch talk with Hayabusa,"After facing Hayabusa, both want a rematch, win or lose."
+358,Lost to Gordeau interview,"After a vale tudo loss to Gordeau, the player says he left his mark and wants another chance."
+359,Sakagami singles match set,Ishikawa announces a deal with the Sakagami promotion for a singles match at the next Dome show.
+360,Dome main event vs. Satake,Ishikawa announces a mixed-style main event against Satake at the next Dome show.
+361,Beat Sakagami at the Dome,Player wins the Dome match; Sakagami acknowledges the small promotion's soul.
+362,Beat Satake,Player wins the mixed-rules match and tells a reporter he'd like to try stand-up rules next.
+363,Joining Pancrase hybrid wrestling,"Player joins Funaki's new promotion, Hybrid Wrestling, and commits to building the style."
+364,Tournament round two vs. Suzuki,"After winning round one, the player faces Suzuki, who wants to beat Funaki."
+365,Out of tournament; vs. Rutten,"After losing, the player is booked against striker Bas Rutten."
+366,Final vs. Funaki,"Having beaten Suzuki, the player meets Funaki, the ace, in the final."
+367,Out of tournament; vs. Rutten (alt),"After losing in the tournament, the player is booked against Bas Rutten."
+368,Consolation match vs. Suzuki,"Suzuki, eliminated from the tournament, faces the player in a consolation bout."
+369,Wins first King of Pancrase,Player wins the tournament and tells a reporter the promotion is getting great buzz.
+370,Loses King of Pancrase tournament,Player falls short in the tournament but says he learned a lot.
+371,"Title lost, no defenses",Player loses the title without a defense; Funaki consoles him.
+372,First title defense won,Player wins his first defense and prepares for the next one.
+373,Contender match vs. Suzuki,The player faces an increasingly dangerous Suzuki in the match to decide the next challenger.
+374,Title lost; vs. Rutten,Player loses the King of Pancrase title and is booked against Bas Rutten.
+375,Second defense vs. Suzuki won,Player beats Suzuki to defend the title; Funaki looks like the next challenger.
+376,Beat Suzuki; title shot at Funaki,"Player beats Suzuki to earn a shot at Funaki, the champion."
+377,Lost to Suzuki; vs. Rutten,Player loses to Suzuki and the title shot; next opponent is Bas Rutten.
+378,Third defense won,Player wins his third defense against the toughest challenger and sets his eyes on new opponents.
+379,Beat Funaki for the title,Player takes the title from Funaki and wants young fighters to step up.
+380,Funaki loses title to a youngster,A stunned Funaki loses his title defense to a young challenger.
+381,Player loses title to youngster,After three defenses the unbeaten champion falls to a young challenger; Funaki consoles him.
+382,Takada loses to Gracie (Pancrase),Pancrase watches Takada get armbarred by Rickson Gracie; Funaki starts training in silence.
+383,Dream match vs. Takada,The series booms and the player faces Takada in a dream match.
+384,Vale Tudo Japan vs. Gordeau,Vale Tudo Japan asks the player to fight Gerard Gordeau; he accepts.
+385,Maeda announces retirement (Pancrase),"With Funaki's permission, Maeda calls the player in to say he is retiring."
+386,Maurice Smith match accepted,Smith saw the Gordeau fight and asked to fight the player; Funaki confirms the booking.
+387,Maeda's retirement match ends,"After Maeda's last match, the player tells a reporter those left must carry Japanese combat sports."
+388,After the Smith match,Smith praises the player and hopes to fight again; the player learned from his efficient style.
+389,Kakutogi green light,Funaki hands the player a fax: the Kakutogi committee has approved his entry into the stand-up fighting tournament.
+390,Beat stand-up fighter,Player wins a stand-up rules match and a reporter asks about his training.
+391,Beat Gracie (Pancrase),"Player beats Gracie, announces the end of the Gracie legend and is congratulated by Funaki."
+392,"Beat Sakagami (Pancrase, Sakagami leads)",Player wins the Sakagami dream match; Sakagami vows to even the record.
+393,Beat Sakagami (Pancrase),Player wins the Sakagami dream match; Sakagami vows to even the record.
+394,Sakagami bout becomes history (Funaki),The Sakagami fight makes history; Funaki says maybe the player will surpass Maeda someday.
+395,Years of vale tudo; Sakagami returns,Player becomes called Japan's best in vale tudo while Sakagami beats Mark Kerr and returns home.
+396,Bad ending: knee gives out,"The player's knee, hurt against Gracie, ends his career mid-match."
+397,Arrival in America,"Standing on American soil, the player is lectured by Masa about how Japanese wrestlers used to be treated as heels in the US."
+398,WCW debut aftermath,"After the debut match, Ultimo and Masa praise the player in the locker room; Masa says the real work starts now."
+399,TAKA recruits you,"TAKA Michinoku, sparring at Ultimo's gym, tells the player about WWF and makes an offer to jump over."
+400,Turn down TAKA,The player declines TAKA's offer and stays with WCW; Ultimo is relieved and mentions the upcoming match with Psychosis.
+401,Nagata trains in US,Yuji Nagata of New Japan arrives to train at the gym and talks about Sakagami's progress back in Japan.
+402,"Nagata match, Jericho next","After a match with Nagata that felt like Japan, the player chats with Ultimo about facing Chris Jericho."
+403,Sting recruits you (Wolfpac),Sting approaches the player after a Muta match and invites him to join the Wolfpac.
+404,Joined the Wolfpac,Ultimo is stunned that the player joined Wolfpac and urges him to keep getting stronger.
+405,Wolfpac warm-up with Sting,"Before a match, Sting says he was right to pick the player after the Muta fight; the player promises to help the team."
+406,Tag title shot vs. Chono and Tenzan,Sting announces a vacant tag title match against visiting New Japan stars Chono and Tenzan.
+407,Tag champs; nWo steals belts,"The player and Sting win the WCW tag titles, then nWo Hollywood (Hogan, Norton) ambushes them and takes the belts."
+408,Hogan challenges for tag belts,"Facing nWo Hollywood in the ring, Hogan taunts the champions and calls for a title defense right there."
+409,"Brawl with Hogan, PPV match set",The player and Hogan keep fighting after the match; Hogan books a singles match at the next pay-per-view.
+410,Hogan recruits you (nWo),Hogan approaches the player after a Benoit match and invites him to join nWo Hollywood.
+411,Joined nWo Hollywood,Ultimo is stunned that the player joined nWo Hollywood and urges him to keep getting stronger.
+412,nWo warm-up with Hogan,"Before a match, Hogan says he was right to pick the player after the Benoit fight; the player promises to help."
+413,Tag title shot for nWo,Hogan announces a vacant tag title match against a team from Japan that won a tag tournament.
+414,Tag champs with Norton; Hogan turns,"The player and Norton win the WCW tag titles, then Hogan appears to congratulate and shows his true intentions."
+415,Hogan challenges Wolfpac,Hogan and the player face the Wolfpac in the ring; Hogan taunts Sting about the tag belts and calls a defense.
+416,"Brawl with Sting, PPV match set",The player and Sting keep fighting after the match and are pulled apart; a PPV singles match is set.
+417,"Hogan match; nWo betrayal, Goldberg saves","After the singles match with Hogan, nWo Hollywood attacks and the Wolfpac helps, but Wolfpac turns on them until Goldberg clears the ring."
+418,Hogan match; both nWo betray you,"After the Hogan match both nWo factions attack; Hogan kicks the player out, and Goldberg runs them off."
+419,Challenge Goldberg,"Saved again by Goldberg, the player demands a fight with him; Hogan insists on the title shot first and they fight for it."
+420,Goldberg title shot set,"Sting congratulates the player on a singles title shot; Bigelow is also chasing Goldberg, so a preemptive match is set."
+421,Title shot after loss; Bigelow hits Hogan,"After losing, the player gets moved up to the title shot when Bam Bam Bigelow attacks Hogan; Sting tells him to go get it."
+422,Goldberg title match intro,Ultimo gives pep talk before the title match; player and Goldberg stare each other down to end his unbeaten streak.
+423,Goldberg match result (win/loss),The player beats Goldberg for the WCW World Heavyweight title or loses; either way they shake hands and Masa asks his decision.
+424,Goldberg match result (alt branch),"Near-duplicate of the Goldberg result scene: win or loss against Goldberg, handshake, and Masa asking what the player will do."
+425,Good ending: Sakagami reunion,"After a hot match with Sakagami, the crowd chants Pro Wrestling; they promise to keep rivaling and fight in America."
+426,"Bad ending: Hashimoto loss, push failed","After beating Hashimoto but losing, the player reflects that Japan never accepted him and the American push failed."
+427,Join WWF with TAKA,"The player takes TAKA's offer, tells Masa and Ultimo, and leaves WCW and New Japan's backing."
+428,McMahon tryout; no Kaientai,McMahon is interested but refuses Kaientai because of the player's heavyweight build and plans another character.
+429,"Early WWF with TAKA, Nakaoka","After a decent start, TAKA and the player meet old acquaintance Nakaoka."
+430,McMahon pushes you vs. Shamrock,McMahon announces the company push; the player will be a shooter type and butt into the Shamrock-vs-Austin feud.
+431,Confront Shamrock,The player accuses Shamrock of going soft and challenges him; Shamrock says their fight deserves a better stage.
+432,Big match vs. Shamrock,TAKA says facing Ken Shamrock puts the player on the fast track; the player is fired up for the big match.
+433,Shamrock proposes alliance,"After a match, Shamrock says he deserves a higher spot and proposes teaming up with the player."
+434,Williams proposes alliance,"After a match, Williams says he deserves a higher spot and proposes teaming up with the player."
+435,After Road Warriors match,TAKA envies the player's match with the Road Warriors; they note management is treating him and Shamrock better.
+436,Shamrock betrays; Corporation war,"The Corporation angle starts as Shamrock betrays the player, saying he just took the better-paying path."
+437,Big Show feud announced,McMahon praises the player's work and says Big Show is jumping from WCW to join the Corporation.
+438,Austin pep talk before The Rock,Stone Cold Austin greets the player at the arena before his match with The Rock.
+439,McMahon scolds; Rock chair shot,McMahon is exasperated after the player knocked out The Rock with a chair in a tag match.
+440,Undertaker appears,"After the Rock match the lights go out, and The Undertaker and the Ministry confront the player."
+441,Undertaker match; Ministry ritual,After the Undertaker match the player is beaten and abducted by the Ministry; McMahon explains the brainwashing ritual filming.
+442,Goldberg jumping to WWF,"McMahon asks about Goldberg and his 160-match streak, setting up the player's mission against him."
+443,Mankind one-on-one angle,McMahon sets the next storyline: the player wrestles Mankind as a Ministry member.
+444,Goldberg streak ended; WWF title match,Result of the mission against Goldberg (win or loss) leads to a WWF World Heavyweight title match.
+445,Mr. Socko frees you; sister angle,"Mankind's Mr. Socko breaks the brainwashing, and McMahon pitches a new angle with a fake sister seduced by a rival."
+446,Johnny Ace tag partner,"After the Road Warriors match, All Japan's Johnny Ace introduces himself as the player's new partner."
+447,Tag league vs. Kobashi and Akiyama,"Ace and the player face Burning (Kobashi and Akiyama), and Ace and Kobashi stare each other down."
+448,Tag league vs. Kawada and Taue,"The player and Ace face Kawada and Taue, two-time league winners and current tag champions."
+449,Tag league final vs. Hansen and Vader,"Ace and the player reach the Real World Tag League final against Hansen and Vader, who beat them in the league."
+450,Tag league elimination,The team misses the final; Ace says they were clicking and proposes teaming again to go for the tag titles.
+451,Return to WWF from All Japan,"Back from the All Japan tour, McMahon welcomes the player and lays out the next plan."
+452,Undertaker appears (alt branch),"After the Rock match the lights go out and The Undertaker and the Ministry confront the player, on the alternate branch."
+453,Undertaker match; Ministry ritual (alt),After the Undertaker match the player is beaten and abducted by the Ministry; McMahon explains the ritual (alternate branch).
+454,All Japan Dome offer,McMahon says All Japan wants to borrow the player again for a one-off at their next Dome show.
+455,Mankind one-on-one angle (alt),McMahon sets the next storyline: the player wrestles Mankind as a Ministry member (alternate branch).
+456,Good ending: Sakagami reunion (alt),"After a hot match with Sakagami, the crowd chants Pro Wrestling; they promise to keep rivaling and fight in America (alternate branch)."
+457,Mr. Socko frees you; sister angle (alt),"Mankind's Mr. Socko breaks the brainwashing, and McMahon pitches the fake sister angle (alternate branch)."
+458,Michinoku Pro debut day,"At the lucha-style promotion Michinoku Pro, the player arrives for his first day and meets Sasuke."
+459,Post-debut talk with Sasuke,Sasuke says the player did fine for a debut and tells him to use the frustration to grow.
+460,Teioh vs. Delfin feud,"Teioh's group clashes with Delfin, who insists Michinoku Pro must be fun for the kids."
+461,Sasuke sends you to New Japan,Sasuke calls the player in and proposes sending him out to train at New Japan.
+462,"First New Japan match, interview","After the first New Japan match, a reporter asks about the debut and the player admits it was tough."
+463,"Kanemoto brawl, Liger separates",The player and Kanemoto keep glaring after the match; Liger steps in and the player charges Kanemoto again.
+464,Sasuke sends you to WCW,Sasuke calls the player in and proposes sending him to train in the United States at WCW.
+465,"First WCW match, interview","After the first WCW match, a reporter asks about the debut; the player cites the ring size and America as hurdles."
+466,WCW match vs. Chris Benoit,"The player faces the biggest star yet, Chris Benoit, a junior legend with heavyweight power."
+467,Sasuke sends you to Mexico,Sasuke tells the player he is thinking of sending him abroad to train in Mexico.
+468,"First Mexico match, interview","After the first match in Mexico, a reporter from Japan covering Mexico asks how it went."
+469,Mexican food with Wagner,Wagner asks if the player likes Mexican food; the player complains about hygiene and constantly getting sick.
+470,Return report: stay at New Japan,"Back from New Japan, Sasuke offers him the chance to keep training there longer."
+471,Return report: offer from FMW,"Back from New Japan, Sasuke relays an offer from FMW to use what he learned."
+472,Return from WCW: New Japan next,"Back from WCW, Sasuke suggests training next at New Japan after a good impression."
+473,Return from WCW: Mexico next,"Back from WCW, Sasuke suggests training in Mexico next."
+474,Return from Mexico: offer from FMW,"Back from Mexico, Sasuke relays an offer from FMW."
+475,Return from Mexico: stay longer,"Back from Mexico, Sasuke offers to keep him training in Mexico a while longer."
+476,New Japan: Liger on El Samurai,"Liger gives advice before a match against El Samurai, who is like a jellyfish able to take anything."
+477,New Japan tag vs. Kanemoto and Otani,"The player teams with El Samurai against Kanemoto and Otani, whom he faces for the first time."
+478,New Japan singles vs. Otani,"The tag clash leads to a singles match with Shinjiro Otani, who refuses to lose to the player."
+479,FMW: Ricky Fuji pep talk,"Ricky Fuji, who has been looking after the player, hypes him up before an FMW match."
+480,FMW: Orihara taunts after tag,Orihara hit the player below the belt and taunts him after the match; the player loses his temper and Fuji restrains him.
+481,"FMW: Fuji comments, Gedo next","Fuji jokes about the low-blow match and the player prepares for his next opponent, Gedo."
+482,Mexico: Wagner promises big match,"Wagner claims he set up a special big match for the player, though he fooled him with the same line before."
+483,Mexico: after Mascaras Brothers,"After a tag match with the Mascaras Brothers, Wagner takes credit for arranging it and the player thanks him."
+484,Sasuke: you have grown,"Back home, Sasuke remarks on how much the player has grown from training abroad."
+485,New Japan dojo with Iizuka,"At the New Japan dojo, Iizuka runs training until a returning wrestler walks in."
+486,Test drive with Sakagami,"After a tag match with Sakagami, they feel they can do it; Liger praises them while noting they are still immature."
+487,Series match 3 vs. Benoit and Guerrero,Match three of the five-match series pits the player and Sakagami against Chris Benoit and Eddy Guerrero.
+488,Series match 4 vs. Wagner and Kendo Ka Shin,"Match four is against the IWGP Junior Tag champs, Dr. Wagner Jr. and Kendo Ka Shin."
+489,Request to Liger before last match,"Before the final series match, the player asks Liger and Sakagami for a favor."
+490,"Return to Michinoku Pro, Sakagami parting","After training ends, the player parts with Sakagami and reports to Sasuke, who says the money crisis is past the worst."
+491,Back from FMW,"Back from FMW training, Sasuke says the player has grown and tells him to go wild."
+492,"Back in Michinoku ring, Tanabe",The player returns to the Michinoku Pro ring; Tanabe says the promotion is in a rough spot but they should pull together.
+493,Sasuke on jealousy and rivalry,"After a match, Sasuke consoles the player about jealousy and warns that petty feuding could hurt the promotion."
+494,Singles match vs. Delfin,Delfin wants to feel the player's growth firsthand in a singles match.
+495,"Sasuke's knee, comeback",Sasuke notes the player's confidence and says his knee is recovering enough that he can return to the ring.
+496,Money crisis eased,Sasuke says the event got the promotion past the worst of its money crisis and they should keep pulling together.
+497,WWF meeting with McMahon,"Leaving ECW, Sasuke and the player visit WWF headquarters in New York, where McMahon wants a test match against Kai-En-Tai."
+498,Heading home after WWF visit,Sasuke says the WWF exclusive deal is not decided yet and they must return to Japan to await an answer.
+499,WWF TV test matches,"McMahon books the player on WWF TV as test matches, but has few suitable opponents."
+500,Austin greets you,At the arena the player is startled by Stone Cold Steve Austin doing the karate pose.
+501,WWF signs Kai-En-Tai only,"McMahon says WWF will sign only Kai-En-Tai and cancels the Michinoku Pro deal, offering the player an individual contract."
+502,WWF deal dead; you stayed,Sasuke says the WWF deal is dead and mentions that the player turned down McMahon's offer and came back.
+503,King of World Juniors: round 1 vs. Sasuke,The tournament begins and the player draws his own president Sasuke in the first round.
+504,King of World Juniors: round 2 vs. Ultimo,"After beating Sasuke, the player faces Ultimo Dragon in round two."
+505,King of World Juniors: consolation vs. Kikuchi,"Beaten by Sasuke, the player gets a day-two consolation match against Tsuyoshi Kikuchi."
+506,King of World Juniors: semifinal vs. Ogawa,"After beating Ultimo, the player faces All Japan's Yoshinari Ogawa in the semifinals."
+507,King of World Juniors: consolation vs. Benoit,"Out of the tournament, the player takes a day-three consolation match against Chris Benoit."
+508,King of World Juniors final vs. Sakagami,"In the final the player faces Koichi Sakagami, who beat Delfin, Benoit and Liger; Sakagami hypes the crowd."
+509,Final vs. Sakagami (stayed away),"In the final against Sakagami, the player recalls staying away from him on purpose to save this showdown."
+510,King of World Juniors final vs. Liger,"The player reaches the final against Jushin Thunder Liger, who beat Sakagami in the semifinals."
+511,Semi-main vs. Sakagami (eliminated),"Out of the tournament, the player is booked in the semi-main against Sakagami, who hypes the crowd."
+512,Semi-main vs. Sakagami (stayed away),"Out of the tournament, the player faces Sakagami in the semi-main, recalling he stayed away to save this match."
+513,Eliminated: singles vs. Fuchi,"Out of the tournament, the player is booked against veteran Masanobu Fuchi, who says he drew a tough spot."
+514,"Tournament over, ring ceremony","After the tournament, the entrants climb into the ring and Delfin, Benoit, Kanemoto and Otani congratulate each other."
+515,Ending: Liger rematch promise,"Liger admits defeat, says he will keep fighting until someone surpasses him, and calls the player a real wrestler."
+516,Ending: Sakagami and the Yamamoto dojo coach,Sakagami thanks the player for being a rival and spots their old coach at the back of the aisle.
+517,Ending: overseas tour with Sakagami,"Having won little support, the player and Sakagami tour overseas together and realize they lack showmanship."
+518,Farewell match vs. Williams,"Williams, leaving for another promotion, faces the player in his Osaka send-off match."
+519,Osaka match vs. Hayabusa,"Hayabusa, wanting a Kobashi match, faces the player in Osaka."
+520,Leaving montage: Chono and Misawa,"Montage of departing farewells: Yamamoto, Sakagami, Chono, Misawa, Hayabusa, Sasuke and Ultimo."
+521,Leaving montage: Hogan and Onita,"Montage of departing farewells: Yamamoto, Sakagami, Hogan, Onita, Ishikawa and Takada."

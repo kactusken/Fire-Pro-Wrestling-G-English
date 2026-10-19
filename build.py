@@ -296,7 +296,7 @@ def patch_tutorial(b):
 
 def patch_roster(b):
     """Wrestler names: FPG 010 and its copy in 011 (overlay 005's copy is patched with the overlays)."""
-    b.roster_rows = roster.encode(roster.load(b.text("wrestlers.tsv")))
+    b.roster_rows = roster.encode(roster.load(b.text("wrestlers.csv")))
     b.roster_orig = bytes(b.read("010"))
     for entry, at in roster.COPIES.items():
         buf = b.read(entry)
@@ -308,7 +308,7 @@ def patch_roster(b):
 def patch_moves(b):
     """Move names (in 011, after its roster copy)."""
     buf = b.read("011")
-    used = moves.apply(buf, moves.load(b.text("moves.tsv")))
+    used = moves.apply(buf, moves.load(b.text("moves.csv")))
     b.write("011", buf)
     print(f"moves: {used} of {moves.AREA[1] - moves.AREA[0]} bytes")
 
@@ -316,7 +316,7 @@ def patch_moves(b):
 def patch_edit_records(b):
     """Edit-format wrestler records outside the roster (bonus edits, samples, story
     templates) and the bonus edit wrestlers' profiles."""
-    b.edit_rows = editdata.load(b.text("edit_wrestlers.tsv"))
+    b.edit_rows = editdata.load(b.text("edit_wrestlers.csv"))
     n = used = 0
     for entry in ("013", "016", "127"):
         packed = entry == "127"

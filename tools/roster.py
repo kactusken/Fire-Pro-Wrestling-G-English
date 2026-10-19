@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Wrestler roster names (text/wrestlers.tsv) -> the three copies of the roster.
+"""Wrestler roster names (text/wrestlers.csv) -> the three copies of the roster.
 
 Records are 426 bytes: +1 name flags, +2 short name (14 B), +16 second name
 part (20 B), +36 nickname (26 B), +62 height, +63 weight,
@@ -28,6 +28,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import strtab  # noqa: E402
+import table  # noqa: E402
 
 RECORD, COUNT = 426, 194
 COPIES = {"010": 0, "011": 0x1046C}
@@ -84,8 +85,7 @@ def patch_ov001(ov):
 
 def load(path):
     rows = {}
-    for line in open(path, encoding="utf-8"):
-        c = line.rstrip("\n").split("\t")
+    for c in table.read(path):
         if c and c[0].isdigit():
             rows[int(c[0])] = (c[6], c[7], c[8])
     return rows
