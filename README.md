@@ -15,6 +15,11 @@ text uses a new variable-width font, so English lines fit in the dialogue box.
 > ([how to report](#reporting-problems)). [docs/TESTING.md](docs/TESTING.md) shows what
 > has been checked so far, and [CHANGELOG.md](CHANGELOG.md) lists what's in each release.
 
+**AI Disclosure**
+
+Since the initial release I've been using Claude to assist with documentation and additional
+reverse engineering tasks to detail the inner workings of costumes and moves.
+
 ## Downloads
 
 Get the latest zip from the [Releases](../../releases) page. It contains five patches.
