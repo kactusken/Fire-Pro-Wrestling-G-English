@@ -1,0 +1,87 @@
+# Hand-written English for the fake-names build (build.py --fake-names, tools/fakenames.py):
+# story messages that the name swap leaves too long for the box, or awkward.
+# "@ <scene> <message>", then the EN lines that replace the message's English.
+
+@ 037 024
+EN More people filed out after him: the
+EN top brass, it looked like. President
+EN Sakauchi and Rikimaru were there.
+
+@ 037 027
+EN Rikimaru:
+EN "The rules talks for Nogawa's match
+EN  got messy. He lost his temper and
+EN  spoke out against the company."
+
+@ 069 030
+EN More people filed out after him: the
+EN top brass, it looked like. President
+EN Sakauchi and Rikimaru were there.
+
+@ 069 033
+EN Rikimaru:
+EN "The rules talks for Nogawa's match
+EN  got messy. He lost his temper and
+EN  spoke out against the company."
+
+@ 100 005
+EN Reporter:
+EN "Your league match with Obayashi
+EN  was a draw. Is your rivalry as
+EN  classmates fueling these fights?"
+
+@ 153 002
+EN Once again I was stuck in the feud
+EN of Warumono Kyokai vs. Friendly
+EN Gundan. What was I supposed to do...
+
+@ 264 011
+EN Come to think of it, U-Integral was
+EN at war with #PS00. Mr. Minemura
+EN objected and sat out.
+
+@ 440 004
+EN When the lights came up, the owner of
+EN that theme, The Underground, was
+EN standing right in front of me.
+
+@ 452 004
+EN When the lights came up, the owner of
+EN that theme, The Underground, was
+EN standing right in front of me.
+
+@ 508 001
+EN My opponent beat Dolphin in round
+EN one, crushed Phantom in round two,
+EN and took down Kaiser in the semis.
+
+@ 509 001
+EN My opponent beat Dolphin in round
+EN one, crushed Phantom in round two,
+EN and took down Kaiser in the semis.
+
+@ 410 037
+EN The Red FWO rushed in, but the Black
+EN FWO hit them from behind and sent
+EN them all running.
+
+@ 431 003
+EN Harlock:
+EN "No. Our fight deserves a better stage.
+EN  Let's settle it in a Tiger's Den
+EN  match!"
+
+@ 117 005
+EN After leaving #PL00, Mr. Date
+EN came to us looking for a new place
+EN to fight.
+
+@ 122 005
+EN After leaving #PL00, Mr. Date
+EN came to us looking for a new place
+EN to fight.
+
+@ 127 005
+EN After leaving #PL00, Mr. Date
+EN came to us looking for a new place
+EN to fight.

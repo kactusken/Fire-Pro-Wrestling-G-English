@@ -24,6 +24,7 @@ class OptionsTest(TestCase):
             ("--no-unlock", "--no-extra-parts"): "Fire Pro Wrestling G (English) (locked) (no extra parts)",
             ("--debug-menu",): "Fire Pro Wrestling G (English) (debug)",
             ("--route5",): "Fire Pro Wrestling G (English) (debug) (route 5)",
+            ("--fake-names", "--no-unlock"): "Fire Pro Wrestling G (English) (Fake Names) (locked)",
             ("--japanese",): "Fire Pro Wrestling G (Japan) (unlocked)",
             ("--name", "Custom"): "Custom",
         }
@@ -40,7 +41,7 @@ class OptionsTest(TestCase):
         self.assertEqual(parse("--rom", "game.bin").rom, "game.bin")
 
     def test_japanese_rejects_translation_options(self):
-        for extra in ("--debug-menu", "--route5"):
+        for extra in ("--debug-menu", "--route5", "--fake-names"):
             with self.assertRaises(SystemExit):
                 parse("--japanese", extra)
 
@@ -51,8 +52,8 @@ class OptionsTest(TestCase):
 
 
 class ReleaseVariantsTest(TestCase):
-    def test_three_variants_with_valid_options(self):
-        self.assertEqual(len(make_patches.VARIANTS), 3)
+    def test_five_variants_with_valid_options(self):
+        self.assertEqual(len(make_patches.VARIANTS), 5)
         for name, options, description in make_patches.VARIANTS:
             parse(*options)   # must be accepted by build.py
             self.assertTrue(name.startswith("Fire Pro Wrestling G"))

@@ -106,12 +106,16 @@ recalculated for every changed sector.
 
 ### Beyond the text
 
-Two optional patches use the same tools:
+Three optional changes use the same tools:
 
 - **All Unlocked** changes the routine that runs when you finish the story, so that it
   also grants every Edit Ranking reward and runs whenever save data is created or loaded.
 - **Extra parts** adds 13 unused heads and some unused body parts found on the disc to
   Wrestler Make.
+- **Fake Names** keeps the game's own stand-in names (View Japan, Hurricane Rikimaru)
+  instead of the real ones. It is made from the same English: before building, the names
+  are swapped in a copy of the text, and the few story lines that no longer fit are
+  re-wrapped or rewritten by hand.
 
 The build can also restore the developers' hidden test menu, for testing
 ([HIDDEN_CONTENT.md](HIDDEN_CONTENT.md)).
@@ -126,7 +130,7 @@ flowchart LR
     build --> patched["Patched disc image"]
     patched --> mp["make_patches.py"]
     disc --> mp
-    mp --> release["Three .xdelta patches<br>and a release zip"]
+    mp --> release["Five .xdelta patches<br>and a release zip"]
 ```
 
 1. A translator edits a text file: `script/` for the story, `text/` for everything else.
@@ -134,7 +138,7 @@ flowchart LR
 2. `build.py` reads the original disc image, applies every change above, and writes a new
    image. It never changes the original, and the same inputs always give exactly the same
    output.
-3. `make_patches.py` builds the three release versions and records the difference between
+3. `make_patches.py` builds the five release versions and records the difference between
    each one and the original disc as an `.xdelta` patch. Players apply a patch to their own
    copy of the disc, so the game itself is never shared.
 

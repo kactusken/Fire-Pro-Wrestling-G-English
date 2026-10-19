@@ -7,9 +7,11 @@ import re
 import runpy
 import subprocess
 import sys
+import tempfile
 import unittest
 
 import editdata
+import fakenames
 import moves
 import roster
 import storylint
@@ -109,6 +111,47 @@ class RosterAndDataTest(TestCase):
         for full, short in p["NAMES"]:
             self.assertLess(len(strtab.encode_en(full)), p["FULL_SIZE"], full)
             self.assertLess(len(strtab.encode_en(short)), p["SHORT_SIZE"], short)
+
+
+class FakeNamesTest(TestCase):
+    """The text for build.py --fake-names (tools/fakenames.py)."""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.tmp = tempfile.TemporaryDirectory()
+        # raises if a fake_script.txt entry names a message that doesn't exist
+        cls.text, _, cls.log, _ = fakenames.make_tree(
+            repo("text"), repo("script"), cls.tmp.name)
+
+    @classmethod
+    def tearDownClass(cls):
+        cls.tmp.cleanup()
+
+    def test_roster_fits_its_fields(self):
+        # also checks that fake_roster.tsv's real names match wrestlers.tsv
+        rows = roster.load(os.path.join(self.text, "wrestlers.tsv"))
+        self.assertEqual(sorted(rows), list(range(194)))
+        roster.encode(rows)
+
+    def test_edit_records_fit_their_fields(self):
+        record = bytearray(512)
+        for row in editdata.load(os.path.join(self.text, "edit_wrestlers.tsv")):
+            with self.subTest(record=row[0]):
+                editdata.patch_record(record, 0, row)
+
+    def test_promotion_names_fit(self):
+        p = runpy.run_path(text("exe_promotions.py"))
+        self.assertEqual(len(p["FAKE_NAMES"]), len(p["NAMES"]))
+        for full, short in p["FAKE_NAMES"]:
+            self.assertLess(len(strtab.encode_en(full)), p["FULL_SIZE"], full)
+            self.assertLess(len(strtab.encode_en(short)), p["SHORT_SIZE"], short)
+
+    def test_swapped_text_encodes(self):
+        self.assertTrue(self.log)
+        for name in MenuTextTest.FILES:
+            for addr, en in strtab.parse(os.path.join(self.text, name)).items():
+                with self.subTest(file=name, address=f"{addr:08x}"):
+                    strtab.encode_en(en)
 
 
 class ImagesTest(TestCase):

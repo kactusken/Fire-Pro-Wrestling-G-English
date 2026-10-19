@@ -5,6 +5,8 @@
     python3 build.py --no-unlock     English, the original unlock progression
     python3 build.py --no-unlock --no-extra-parts
                                      English, otherwise the game as released
+    python3 build.py --fake-names    English with the game's own stand-in names
+                                     (View Japan, Hurricane Rikimaru) instead of real ones
     python3 build.py --japanese      Japanese text, everything unlocked
 
 Output: build/<name>.bin and .cue; the name says which options were used
@@ -37,6 +39,7 @@ import codepatch  # noqa: E402
 import debugmenu  # noqa: E402
 import hiddenparts  # noqa: E402
 import editdata  # noqa: E402
+import fakenames  # noqa: E402
 import discfs  # noqa: E402
 import discpatch  # noqa: E402
 import fpgbin  # noqa: E402
@@ -151,12 +154,16 @@ def parse_args(argv=None):
     ap.add_argument("--no-extra-parts", action="store_true",
                     help="leave out the unused heads and body parts otherwise added to "
                          "Wrestler Make (tools/hiddenparts.py)")
+    ap.add_argument("--fake-names", action="store_true",
+                    help="use the game's own stand-in names for wrestlers, promotions, "
+                         "venues and referees instead of the real ones (tools/fakenames.py)")
     ap.add_argument("--debug-menu", action="store_true", help=argparse.SUPPRESS)
     ap.add_argument("--route5", action="store_true", help=argparse.SUPPRESS)
     ap.add_argument("--no-text", metavar="ENTRIES", help=argparse.SUPPRESS)
     ap.add_argument("--only", metavar="ENTRY:RANGE", help=argparse.SUPPRESS)
     args = ap.parse_args(argv)
-    if args.japanese and (args.debug_menu or args.route5 or args.no_text or args.only):
+    if args.japanese and (args.debug_menu or args.route5 or args.no_text or args.only
+                          or args.fake_names):
         ap.error("--japanese only combines with --no-unlock")
     if args.japanese and args.no_unlock:
         print("note: --japanese --no-unlock gives an unchanged copy of the original")
@@ -169,6 +176,8 @@ def output_name(args):
     if args.japanese:
         return OUT_NAME_JP + ("" if args.no_unlock else " (unlocked)")
     name = OUT_NAME
+    if args.fake_names:
+        name += " (Fake Names)"
     if args.no_text:
         name += f" (no-text {','.join(sorted(args.no_text.split(',')))})"
     if args.only:
@@ -254,6 +263,11 @@ def patch_story(b):
     e130, e131 = b.entry_path("130"), b.entry_path("131")
     font = bytes(b.read_raw("128"))
     b.metrics = vwf_patch.metrics(font)
+    if b.args.fake_names:   # a copy of the text with the game's own names; later steps read it
+        b.text_dir, b.script_dir, log, _ = fakenames.make_tree(
+            b.text_dir, b.script_dir, os.path.join(b.work, "fake-names"), b.metrics)
+        print(f"fake names: {len(log)} text entries changed")
+    storycheck.load_promotions(b.text_dir)   # promotion names for the story width checks
     script.insert(e130, e131, b.script_dir, e130, e131, b.metrics)
     patched, _ = vwf_patch.patch_overlay(bytes(b.read("002")), font)
     b.write("002", patched)
@@ -483,7 +497,6 @@ def main(argv=None):
     if args.japanese:
         build_japanese(args, out_bin)
     else:
-        storycheck.load_promotions(args.text)   # promotion names for the story width checks
         b = Build(args)
         for step in STEPS:
             step(b)

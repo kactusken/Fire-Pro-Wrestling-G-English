@@ -62,6 +62,7 @@ Options:
 | (none) | English, everything unlocked, extra Wrestler Make parts |
 | `--no-unlock` | Leave out [Unlock everything](#unlock-everything) |
 | `--no-extra-parts` | Leave out [Extra Wrestler Make parts](#extra-wrestler-make-parts) |
+| `--fake-names` | The game's own stand-in names instead of the real ones: `tools/fakenames.py` writes a copy of the text with the names swapped (in `work/fake-names/`) and the build reads that |
 | `--japanese` | Japanese text; only the unlock patch (combine with `--no-unlock` for an unchanged copy) |
 | `--debug-menu`, `--route5` | [Debug menu and route 5](#debug-menu-and-route-5); not for release |
 | `--no-text 004`, `--only 004:lo-hi` | Diagnostic builds: leave an overlay's strings (or all but a range) in Japanese, to find a string that breaks a screen |

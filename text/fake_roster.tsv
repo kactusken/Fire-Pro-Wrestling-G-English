@@ -1,0 +1,204 @@
+# Fake-names build (build.py --fake-names): the game's own stand-in names for the
+# roster, in place of the real names in text/wrestlers.tsv. Same rules as that file:
+# short is shown alone in the select list (max ~56 px, about 6 letters); full is the
+# whole name (max 18 bytes when it doesn't start or end with short); nick (max ~140 px)
+# replaces the nickname where the English one names something real, else it is empty.
+# real is the en_full of wrestlers.tsv (checked); say is the name the story uses in
+# fake_names.tsv.
+# Names follow the Japanese (the jp_short / jp_name columns of wrestlers.tsv) and the
+# romanizations in text/wrestler_list.txt.
+idx	real	short	full	nick	say
+0	Tatsumi Fujinami	Yamato	Fighter Yamato		Yamato
+1	Shinya Hashimoto	Hatamt	Crusher Hatamoto		Hatamoto
+2	Kensuke Sasaki	Keisuke	Storm Keisuke		Keisuke
+3	Kazuo Yamazaki	Yamamt	Kazuki Yamamoto		Yamamoto
+4	Junji Hirata	Hirota	Junichi Hirota		Hirota
+5	Osamu Kido	Mito	Isamu Mito		Mito
+6	Takayuki Iizuka	Kinezk	Takayuki Kinezuka		Kinezuka
+7	Satoshi Kojima	Kijima	Satoru Kijima		Kijima
+8	Manabu Nakanishi	Takhsh	Mamoru Takahashi		Takahashi
+9	Osamu Nishimura	Teimur	Toru Teimura		Teimura
+10	Yuji Nagata	Sakata	Yujiro Sakata		Sakata
+11	Tadao Yasuda	Hasuda	Takao Hasuda		Hasuda
+12	Antonio Inoki	Musash	Victory Musashi		Musashi
+13	Riki Choshu	Rikimr	Hurricane Rikimaru		Rikimaru
+14	Animal Hamaguchi	Mizogc	Shout Mizoguchi		Mizoguchi
+15	Jushin Thunder Liger	Kaiser	Chotei Super Kaiser		Kaiser
+16	El Samurai	Kamikz	E. Kamikaze		Kamikaze
+17	Koji Kanemoto	Kamamt	Eiji Kamamoto		Kamamoto
+18	Shinjiro Otani	Ogari	Shinichiro Ogari		Ogari
+19	Kendo Ka Shin	Ya Shin	Bushido Ya Shin		Ya Shin
+20	Tatsuhito Takaiwa	Takatt	Iwahito Takatatsu		Takatatsu
+21	Tiger Mask	Panther	Mask de Panther		Panther
+22	Dynamite Kid	Kid	Dynamic Kid		Kid
+23	British Bulldog	Smith	Mighty Boy Smith		Smith
+24	Black Tiger	Bl.Pnthr	Black Panther		Black Panther
+25	Norio Honaga	Nonaka	Raging Nonaka		Nonaka
+26	Kotetsu Yamamoto	Wakamt	Ittetsu Wakamoto		Wakamoto
+27	Masahiro Chono	Kono	Violence Kono		Kono
+28	Keiji Mutoh	Shundo	Ken Shundo		Shundo
+29	Hiroyoshi Tenzan	Amamt	Buffalo Amamoto		Amamoto
+30	Hiro Saito	Hiro	Raging Hiro		Hiro
+31	Fake Sting	F.Spike	FWO Spike		FWO Spike
+32	Big Titan	Dynamo	Big Dynamo		Dynamo
+33	Shiro Koshinaka	Jiroh	Samurai Jiroh		Jiroh
+34	Kengo Kimura	Kengo	Inazuma Kengo		Kengo
+35	Tatsutoshi Goto	Goto	Toshi Goto		Goto
+36	Michiyoshi Ohara	Nohara	Michinori Nohara		Nohara
+37	Kuniaki Kobayashi	Igarsh	Toshiaki Igarashi		Igarashi
+38	Akitoshi Saito	Naito	Akiyoshi Naito		Naito
+39	AKIRA Nogami	Mogami	Asuka Mogami		Mogami
+40	Mitsuharu Misawa	Hikawa	Mitsuhide Hikawa		Hikawa
+41	Kenta Kobashi	Togashi	Keiji Togashi		Togashi
+42	Toshiaki Kawada	Kazama	Toshiie Kazama		Kazama
+43	Akira Taue	Sagami	Akira Sagami		Sagami
+44	Jun Akiyama	Akisaw	Shun Akisawa		Akisawa
+45	Hiroshi Hase	Date	Hiroshi Date		Date
+46	Takao Omori	Obaysh	Takeo Obayashi		Obayashi
+47	Tamon Honda	Honma	Rakon Honma		Honma
+48	Jun Izumida	Izumtn	Ushisumi Izumitani		Izumitani
+49	Yoshihiro Takayama	Koyama	Yoshihiro Koyama		Koyama
+50	Masahito Kakihara	Makihr	Takehiko Makihara		Makihara
+51	Stan Hansen	Bison	Star Bison		Bison
+52	Johnny Ace	Peace	John Peace		Peace
+53	Gary Albright	Bright	G.O. Bright		Bright
+54	Wolf Hawkfield	Jackal	Jackal Ballfeed		Jackal
+55	Johnny Smith	Lewis	Tony Lewis		Lewis
+56	Maunakea Mossman	Mordan	Naumakua Mordan		Mordan
+57	Headhunter A	DH A	Death Hazards A		Hazards A
+58	Headhunter B	DH B	Death Hazards B		Hazards B
+59	Giant Baba	Shiba	Great Shiba		Shiba
+60	Jumbo Tsuruta	Bomber	Tommy Bomber		Bomber
+61	Dory Funk Jr.	Texan	Harry Texan Jr.		Texan
+62	Bruiser Brody	Bull	Big the G. Bull		Bull
+63	Abdullah the Butcher	Danger	Abdul the Danger		Danger
+64	Yoshinari Ogawa	Nogawa	Yoshinao Nogawa		Nogawa
+65	Masanobu Fuchi	Kobuchi	M. Kobuchizawa		Kobuchizawa
+66	Tsuyoshi Kikuchi	Akechi	Kiyoshi Akechi		Akechi
+67	Tiger Mask II	Pnthr2	Mask de Panther II		Panther II
+68	Hayabusa	Ranmar	Ranmaru		Ranmaru
+69	Masato Tanaka	Hatank	Masahiko Hatanaka		Hatanaka
+70	Hisakatsu Ohya	Toya	Hisakatsu Toya		Toya
+71	Kodo Fuyuki	Haruki	Saxon Haruki		Haruki
+72	Ryuji Yamakawa	Harasw	Shuji Harasawa		Harasawa
+73	Mr. Gannosuke	Ashiya	Mr. Ashiya		Ashiya
+74	Jado	Mado	Mado		Mado
+75	Kintaro Kanemura	Kamemr	Winning Kamemura		Kamemura
+76	Atsushi Onita	Okita	Katsushi Okita		Okita
+77	The Gladiator	Genocd	The Genocide		Genocide
+78	M. Matsunaga	Matsbr	Danger Matsubara		Matsubara
+79	Shoji Nakamaki	Sakamk	Dreamer Sakamaki		Sakamaki
+80	Tarzan Goto	Gojo	Hunter Gojo		Gojo
+81	Ryuma Go	Go	Pioneer Go		Go
+82	Shunji Takano	Kenji	Bohemian Kenji		Kenji
+83	Mr. Pogo	Togo	Master Togo		Togo
+84	Tiger Jeet Singh	M.Tiger	Mad Tiger		Mad Tiger
+85	The Great Kabuki	Kagura	The Mysterious Kagura		Kagura
+86	Koji Kitao	Mr. K	Mister K		Mister K
+87	Gedo	Kido	Kido		Kido
+88	Ricky Fuji	Tsuji	Rocky Tsuji		Tsuji
+89	Masao Orihara	Orihara	Masao Orihara		Orihara
+90	Genichiro Tenryu	Ryu	Thunder Ryu		Ryu
+91	Nobutaka Araya	Awaya	Nobuhisa Awaya		Awaya
+92	The Great Sasuke	Hayate	Blade Hayate		Hayate
+93	Super Delfin	Dolphin	S. Dolphin		Dolphin
+94	Jinsei Shinzaki	Kanzaki	Jinsui Kanzaki		Kanzaki
+95	Gran Hamada	Marips	Gran Mariposa		Mariposa
+96	Gran Naniwa	Otowa	Doran Otowa		Otowa
+97	Tiger Mask IV	Pnthr4	Mask de Panther IV		Panther IV
+98	Naohiro Hoshikawa	Hashzw	Naohiro Hashizawa		Hashizawa
+99	Masato Yakushiji	Kagurz	Masato Kagurazaka		Kagurazaka
+100	Bill Goldberg	Goldbk	Will Goldback		Goldback
+101	Hollywood Hogan	Doogan	Axe Doogan		Doogan
+102	Randy Savage	Sabre	Macho Sabre		Sabre
+103	Sting	Spike	The Spike		Spike
+104	The Great Muta	Budo	The Greatest Budo		Budo
+105	Rick Steiner	Schtnr	Big Schteiner		Schteiner
+106	Scott Steiner	Schtnr	Small Schteiner		Schteiner
+107	Scott Norton	Burton	Flash Burton		Burton
+108	Bret Hart	Beat	Brad Beat		Beat
+109	Kevin Nash	Gush	Levin Gush		Gush
+110	Ric Flair	Slender	Dick Slender		Slender
+111	Chris Benoit	Phantm	Wild Phantom		Phantom
+112	Eddy Guerrero	Bl.Kaisr	Black Kaiser		Black Kaiser
+113	Ultimo Dragon	Azteca	Azteca Dragon		Azteca
+114	Chris Jericho	Jake	Luitz Jake		Jake
+115	Rey Mysterio Jr.	Rey	Rey Mysterious Jr.		Rey
+116	Kaz Hayashi	Kiryu	Kiryu		Kiryu
+117	Steve Austin	Odin	Steam Odin	Steel Gold	Odin
+118	The Undertaker	Undrgd	The Underground		Underground
+119	Hawk	N.Blstr	Night Blaster		Night Blaster
+120	Animal	I.Blstr	Iron Blaster		Iron Blaster
+121	Shawn Michaels	Miles	Surreal Miles		Miles
+122	Vader	Saber	Star Saber		Saber
+123	Ken Shamrock	Harlock	Cain Harlock		Harlock
+124	Dan Severn	Dadarn	Dan Dadarn		Dadarn
+125	Goldust	S.Gust	Silver Gust		Silver Gust
+126	Steve Williams	James	Still James		James
+127	Terry Gordy	Bogey	Kerry Bogey		Bogey
+128	Mankind	Donhnd	Donhound		Donhound
+129	The Patriot	Pentgn	Pentagon		Pentagon
+130	Doug Furnas	Farms	Daryl Farms		Farms
+131	Terry Funk	Texan	Kerry Texan		Texan
+132	Bam Bam Bigelow	Gigas	Smasher GG Gigas		Gigas
+133	Andre the Giant	Rssmff	Giant Roussimoff		Roussimoff
+134	TAKA Michinoku	WAKA	WAKA Yukiguni		WAKA
+135	Dick Togo	NATO	NATO		NATO
+136	MEN's Teioh	K.Boy	Kerry Boy		Kerry Boy
+137	Shoichi Funaki	Funksh	Eiichi Funakoshi		Funakoshi
+138	Phillip LaFon	Global	Bonny Global		Global
+139	Rob Van Dam	Random	Log Random		Random
+140	Sabu	Tattoo	Tattoo		Tattoo
+141	Yoshihisa Yamamoto	Kawamt	Nobuhiro Kawamoto	Comet of Gongs	Kawamoto
+142	Tsuyoshi Kohsaka	Hosaka	Taishi Hosaka		Hosaka
+143	Kiyoshi Tamura	Minemr	Takashi Minemura		Minemura
+144	Bitsadze Tariel	Gabriel	Ricardo Gabriel		Gabriel
+145	Volk Han	Burn	Wolf Burn		Burn
+146	Dick Vrij	Grey	Rick Grey		Grey
+147	Hans Nyman	Hyman	Lance Hyman		Hyman
+148	Kenichi Yamamoto	Yamamr	Keiichi Yamamori		Yamamori
+149	Akira Maeda	Saeba	Akira Saeba		Saeba
+150	Yoshiaki Fujiwara	Kajiwr	Jo Kajiwara		Kajiwara
+151	Yuki Ishikawa	Ishihr	Toui Ishihara		Ishihara
+152	Daisuke Ikeda	Hikita	Daisaku Hikita		Hikita
+153	Alexander Otsuka	Otsuki	Hercules Otsuki		Otsuki
+154	Masakatsu Funaki	Higaki	Makoto Higaki		Higaki
+155	Minoru Suzuki	Mizuki	Mitsuru Mizuki		Mizuki
+156	Manabu Yamada	Yanagi	Mamoru Yanagi		Yanagi
+157	Bas Rutten	Dokken	Boss Dokken		Dokken
+158	Hijo del Santo	Santos	E. Santos		Santos
+159	Konnan	Conan	Conan the Brutal		Conan
+160	Negro Casas	Chaos	Neglect Chaos		Chaos
+161	Psychosis	Siscos	Siscos		Siscos
+162	Dr. Wagner Jr.	Silver	D. Silver Jr.		Silver
+163	Dos Caras	Eagle	Mascara Eagle		Eagle
+164	Mil Mascaras	Condor	Mascara Condor		Condor
+165	Nobuhiko Takada	Sanada	Nobuhisa Sanada		Sanada
+166	Yoji Anjoh	Ando	Shoji Ando		Ando
+167	Naoki Sano	Yano	Naoki Yano		Yano
+168	Mitsuya Nagai	Akai	Katsuya Akai		Akai
+169	Rickson Gracie	Stacie	Nickson Stacie		Stacie
+170	Gerard Gordeau	Bordx	General Bordeaux		Bordeaux
+171	Maurice Smith	Schmdt	Thomas Schmidt		Schmidt
+172	Masaaki Satake	Sadake	Masayuki Sadake		Sadake
+173	Naoya Ogawa	Nogawa	Yasuya Nogawa		Nogawa
+174	Don Frye	Cry	Bone Cry		Cry
+175	Roland Bock	Roche	Neverland Roche		Roche
+176	Rikidozan	Rikiozn	Rikiozan		Rikiozan
+177	Karl Gotch	Krauser	Karlos Krauser		Krauser
+178	Lou Thesz	Phase	R.J. Phase		Phase
+179	Super Tiger	G.Pnthr	Great Panther		Great Panther
+180	Tetsuhiro Kuroda	Murota	Tetsuhiko Murota		Murota
+181	Takeshi Ono	Onozaki	Takashi Onozaki		Onozaki
+182	Diamond Dallas Page	Edge	D. Glass Edge		Edge
+183	The Rock	Rapier	Luck Rapier		Rapier
+184	Mike Burton	Bang	Beat Bang		Bang
+185	Kane	Mein	Mein		Mein
+186	Big Show	Bite	Cole Bite		Bite
+187	Andy Hug	Fug	Andre Fug		Fug
+188	Ernesto Hoost	Ghost	Hornet Ghost		Ghost
+189	Mike Bernardo	Gerhart	Bake Gerhart		Gerhart
+190	Peter Aerts	Karl	Cheetah Karl	S-1 Champion	Karl
+191	Aleksandr Karelin	Alevin	Hercules Alevin		Alevin
+192	Enson Inoue	Kinosht	Sennen Kinoshita		Kinoshita
+193	Rumina Sato	Kato	Fumiya Kato		Kato

@@ -25,8 +25,9 @@ checked in the game.
 ### Added
 - A variable-width font for story text and menus, so English fits the original windows.
 - Real names for the wrestlers, promotions and referees that the original game disguises.
-- Three patches: English; English with everything unlocked; Japanese with everything
-  unlocked.
+- Five patches: English; English with everything unlocked; English with the game's own
+  stand-in names (Fake Names), with or without everything unlocked; Japanese with
+  everything unlocked.
 - In the All Unlocked English patch: unused heads and body parts found on the disc are
   added to Wrestler Make.
 

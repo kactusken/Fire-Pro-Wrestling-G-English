@@ -38,6 +38,14 @@ VARIANTS = [
      "English translation with everything unlocked from the start (all wrestlers, "
      "Edit Ranking rewards, story-clear extras) and the unused heads and body "
      "parts added to Wrestler Make."),
+    ("Fire Pro Wrestling G (English) (Fake Names)",
+     ["--fake-names", "--no-unlock", "--no-extra-parts"],
+     "English translation that keeps the game's own stand-in names for wrestlers, "
+     "promotions, venues and referees (Hurricane Rikimaru, View Japan, Nippon "
+     "Butokan) instead of the real ones. Unlocks as in the original game."),
+    ("Fire Pro Wrestling G (English) (Fake Names) (All Unlocked)", ["--fake-names"],
+     "The Fake Names translation with everything unlocked from the start and the "
+     "unused heads and body parts added to Wrestler Make."),
     ("Fire Pro Wrestling G (Japan) (All Unlocked)", ["--japanese"],
      "The original Japanese game with everything unlocked from the start."),
 ]

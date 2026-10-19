@@ -21,3 +21,22 @@ NAMES = [  # (full, short): the real promotions the in-game names stand for
     ("Freelance", "FREE"),          # FREE
     ("Legends", "Legend"),          # LEGEND
 ]
+# The game's own names, for the fake-names build (build.py --fake-names). VIEW JAPAN
+# and OLIVE JAPAN are in mixed case: in capitals they no longer fit story lines.
+FAKE_NAMES = [
+    ("View Japan", "VJP"),
+    ("Olive Japan", "OJP"),
+    ("New IW", "New IW"),
+    ("R.Y.U", "R.Y.U"),
+    ("Yukiguni Pro", "YukiPro"),
+    ("WWC Pro", "WWC"),
+    ("WFW Pro", "WFW"),
+    ("GONGS", "GONGS"),
+    ("S-1", "S-1"),
+    ("Battlation", "Batre"),
+    ("High Class", "H.Class"),
+    ("THREE-A", "T-A"),
+    ("Fighters", "Fighter"),
+    ("Freelance", "FREE"),
+    ("Legends", "Legend"),
+]

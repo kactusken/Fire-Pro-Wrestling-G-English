@@ -57,6 +57,7 @@ of their own.
 
 | Tool | What it does |
 |---|---|
+| [fakenames.py](fakenames.py) | The Fake Names variant: swaps the real names for the game's stand-ins (`build.py --fake-names`); run alone with `--diff` to review every change |
 | [storyfill.py](storyfill.py) | Puts a draft translation into a scene, wrapping lines to the text box |
 | [fill_text.py](fill_text.py) | Fills a menu text file's English from a Japanese → English table (`text/*_en.py`) |
 | [edit.py](edit.py) | Image editing workflow: overview, sheets, check, approve ([docs/EDITING.md](../docs/EDITING.md)) |

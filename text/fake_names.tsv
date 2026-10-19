@@ -1,0 +1,406 @@
+# Fake-names build (build.py --fake-names): the game's own stand-in names in place of
+# the real names used by the translation. tools/fakenames.py applies these rules to the
+# English of every JP/EN text file (story scenes, menu strings, profiles) and of
+# edit_wrestlers.tsv. The roster itself is in fake_roster.tsv, promotion names in
+# FAKE_NAMES in exe_promotions.py.
+#
+# real<TAB>fake[<TAB>when]. Whole words, case-sensitive, longest first; a space also
+# matches a line break inside a message. `when` is a regular expression searched in the
+# Japanese of the message, then of the whole scene; the rules for one name are tried in
+# order, so the default (no `when`) goes last. A name with only `when` rules is left
+# alone elsewhere. Columns starting with # are comments (roster number).
+# `python3 tools/fakenames.py --diff` shows every change.
+
+# --- Wrestlers: full name, then the name the story uses ---
+Tatsumi Fujinami	Fighter Yamato	# 0
+Fujinami	Yamato	# 0
+Shinya Hashimoto	Crusher Hatamoto	# 1
+Hashimoto	Hatamoto	# 1
+Kensuke Sasaki	Storm Keisuke	# 2
+Sasaki	Keisuke	# 2
+Kensuke	Keisuke	# 2
+Kazuo Yamazaki	Kazuki Yamamoto	# 3
+Yamazaki	Yamamoto	# 3
+Junji Hirata	Junichi Hirota	# 4
+Hirata	Hirota	# 4
+Osamu Kido	Isamu Mito	# 5
+Kido	Mito	# 5
+Takayuki Iizuka	Takayuki Kinezuka	# 6
+Iizuka	Kinezuka	# 6
+Satoshi Kojima	Satoru Kijima	# 7
+Kojima	Kijima	# 7
+Manabu Nakanishi	Mamoru Takahashi	# 8
+Nakanishi	Takahashi	# 8
+Osamu Nishimura	Toru Teimura	# 9
+Nishimura	Teimura	# 9
+Yuji Nagata	Yujiro Sakata	# 10
+Nagata	Sakata	# 10
+Tadao Yasuda	Takao Hasuda	# 11
+Yasuda	Hasuda	# 11
+Antonio Inoki	Victory Musashi	# 12
+Inoki	Musashi	# 12
+Riki Choshu	Hurricane Rikimaru	# 13
+Choshu	Rikimaru	# 13
+CHOSHU	RIKIMARU	# 13
+Jushin Thunder Liger	Chotei Super Kaiser	# 15
+Liger	Kaiser	# 15
+El Samurai	E. Kamikaze	# 16
+Koji Kanemoto	Eiji Kamamoto	# 17
+Kanemoto	Kamamoto	# 17
+Shinjiro Otani	Shinichiro Ogari	# 18
+Otani	Ogari	# 18
+Kendo Ka Shin	Bushido Ya Shin	# 19
+Ka Shin	Ya Shin	# 19
+Tatsuhito Takaiwa	Iwahito Takatatsu	# 20
+Takaiwa	Takatatsu	# 20
+Masahiro Chono	Violence Kono	# 27
+Chono	Kono	# 27
+Keiji Mutoh	Ken Shundo	# 28
+Mutoh	Shundo	# 28
+Hiroyoshi Tenzan	Buffalo Amamoto	# 29
+Tenzan	Amamoto	# 29
+Hiro Saito	Raging Hiro	# 30
+Shiro Koshinaka	Samurai Jiroh	# 33
+Koshinaka	Jiroh	# 33
+Tatsutoshi Goto	Toshi Goto	# 35
+Akitoshi Saito	Akiyoshi Naito	# 38
+Akitoshi	Naito	# 38
+Mitsuharu Misawa	Mitsuhide Hikawa	# 40
+Misawa	Hikawa	# 40
+Kenta Kobashi	Keiji Togashi	# 41
+Kobashi	Togashi	# 41
+Toshiaki Kawada	Toshiie Kazama	# 42
+Kawada	Kazama	# 42
+Akira Taue	Akira Sagami	# 43
+Taue	Sagami	# 43
+Jun Akiyama	Shun Akisawa	# 44
+Akiyama	Akisawa	# 44
+Hiroshi Hase	Hiroshi Date	# 45
+Hase	Date	# 45
+Takao Omori	Takeo Obayashi	# 46
+Omori	Obayashi	# 46
+Tamon Honda	Rakon Honma	# 47
+Honda	Honma	# 47
+Jun Izumida	Ushisumi Izumitani	# 48
+Izumida	Izumitani	# 48
+Yoshihiro Takayama	Yoshihiro Koyama	# 49
+Takayama	Koyama	# 49
+Masahito Kakihara	Takehiko Makihara	# 50
+Kakihara	Makihara	# 50
+Stan Hansen	Star Bison	# 51
+Hansen	Bison	# 51
+Johnny Ace	John Peace	# 52
+Ace	Peace	# 52
+Gary Albright	G.O. Bright	# 53
+Albright	Bright	# 53
+Wolf Hawkfield	Jackal Ballfeed	# 54
+Hawkfield	Jackal	# 54
+Johnny Smith	Tony Lewis	# 55
+Smith	Lewis	055|ルイス	# 55
+Smith	Schmidt	171|スミット	# 171
+Smith	Schmidt	# 171
+Maunakea Mossman	Naumakua Mordan	# 56
+Mossman	Mordan	# 56
+Giant Baba	Great Shiba	# 59
+Baba	Shiba	# 59
+Jumbo Tsuruta	Tommy Bomber	# 60
+Tsuruta	Bomber	# 60
+Abdullah the Butcher	Abdul the Danger	# 63
+Abdullah	Abdul	# 63
+Yoshinari Ogawa	Yoshinao Nogawa	# 64
+Ogawa	Nogawa	# 64, 173
+Masanobu Fuchi	Masanobu Kobuchizawa	# 65
+Fuchi	Kobuchizawa	# 65
+Tsuyoshi Kikuchi	Kiyoshi Akechi	# 66
+Kikuchi	Akechi	# 66
+Hayabusa	Ranmaru	# 68
+Masato Tanaka	Masahiko Hatanaka	# 69
+Tanaka	Hatanaka	# 69
+Hisakatsu Ohya	Hisakatsu Toya	# 70
+Ohya	Toya	# 70
+Kodo Fuyuki	Saxon Haruki	# 71
+Fuyuki	Haruki	# 71
+Ryuji Yamakawa	Shuji Harasawa	# 72
+Yamakawa	Harasawa	# 72
+Mr. Gannosuke	Mr. Ashiya	# 73
+Gannosuke	Ashiya	# 73
+Jado	Mado	# 74
+Kintaro Kanemura	Winning Kamemura	# 75
+Kanemura	Kamemura	# 75
+Atsushi Onita	Katsushi Okita	# 76
+Onita	Okita	# 76
+Gedo	Kido	# 87
+Ricky Fuji	Rocky Tsuji	# 88
+Fuji	Tsuji	# 88
+Genichiro Tenryu	Thunder Ryu	# 90
+Tenryu	Ryu	# 90
+The Great Sasuke	Blade Hayate	# 92
+Sasuke	Hayate	# 92
+Super Delfin	S. Dolphin	# 93
+Delfin	Dolphin	# 93
+Jinsei Shinzaki	Jinsui Kanzaki	# 94
+Shinzaki	Kanzaki	# 94
+Gran Hamada	Gran Mariposa	# 95
+Hamada	Mariposa	# 95
+Gran Naniwa	Doran Otowa	# 96
+Naniwa	Otowa	# 96
+Tiger Mask IV	Mask de Panther IV	# 97
+Tiger Mask	Mask de Panther	# 97
+Naohiro Hoshikawa	Naohiro Hashizawa	# 98
+Hoshikawa	Hashizawa	# 98
+Masato Yakushiji	Masato Kagurazaka	# 99
+Yakushiji	Kagurazaka	# 99
+Bill Goldberg	Will Goldback	# 100
+Goldberg	Goldback	# 100
+Hollywood Hogan	Axe Doogan	# 101
+Hulk Hogan	Axe Doogan	# 101
+Hogan	Doogan	# 101
+Sting	Spike	# 103
+The Great Muta	The Greatest Budo	# 104
+Muta	Budo	# 104
+Rick Steiner	Big Schteiner	# 105
+Scott Steiner	Small Schteiner	# 106
+Steiner	Schteiner	# 105, 106
+Scott Norton	Flash Burton	# 107
+Norton	Burton	# 107
+Bret Hart	Brad Beat	# 108
+Hart	Beat	# 108
+Kevin Nash	Levin Gush	# 109
+Nash	Gush	# 109
+Ric Flair	Dick Slender	# 110
+Flair	Slender	# 110
+Chris Benoit	Wild Phantom	# 111
+Benoit	Phantom	# 111
+Eddy Guerrero	Black Kaiser	# 112
+Guerrero	Black Kaiser	# 112
+Ultimo Dragon	Azteca Dragon	# 113
+Ultimo	Azteca	# 113
+Chris Jericho	Luitz Jake	# 114
+Jericho	Jake	# 114
+Rey Mysterio Jr.	Rey Mysterious Jr.	# 115
+Kaz Hayashi	Kiryu	# 116
+Hayashi	Kiryu	# 116
+Stone Cold	Steel Gold	# 117 (nickname)
+Steve Austin	Steam Odin	# 117
+Austin	Odin	# 117
+The Undertaker	The Underground	# 118
+Undertaker	Underground	# 118
+Road Warrior Hawk	Night Blaster	# 119
+Hawk	Night Blaster	# 119
+Road Warrior Animal	Iron Blaster	# 120
+Vader	Saber	# 122
+Ken Shamrock	Cain Harlock	# 123
+Shamrock	Harlock	# 123
+Dan Severn	Dan Dadarn	# 124
+Severn	Dadarn	# 124
+Goldust	Silver Gust	# 125
+Steve Williams	Still James	# 126
+Williams	James	# 126
+Mankind	Donhound	# 128
+Bam Bam Bigelow	Smasher GG Gigas	# 132
+Bigelow	Gigas	# 132
+TAKA Michinoku	WAKA Yukiguni	# 134
+TAKA	WAKA	# 134
+Dick Togo	NATO	# 135
+Togo	NATO	# 135
+MEN's Teioh	Kerry Boy	# 136
+Teioh	Kerry Boy	# 136
+Shoichi Funaki	Eiichi Funakoshi	# 137
+Masakatsu Funaki	Makoto Higaki	# 154
+Funaki	Funakoshi	137|船越	# 137
+Funaki	Higaki	# 154
+Rob Van Dam	Log Random	# 139
+RVD	Random	# 139
+Sabu	Tattoo	# 140
+Yoshihisa Yamamoto	Nobuhiro Kawamoto	# 141
+Y. Yamamoto	N. Kawamoto	# 141 (speaker label)
+Kenichi Yamamoto	Keiichi Yamamori	# 148
+Kotetsu Yamamoto	Ittetsu Wakamoto	# 26
+Yamamoto	Wakamoto	026|若元|先生	# 26
+Yamamoto	Kawamoto	141|河本	# 141
+Yamamoto	Yamamori	148|山杜	# 148
+Yamamoto	Wakamoto	# 26
+Tsuyoshi Kohsaka	Taishi Hosaka	# 142
+Kohsaka	Hosaka	# 142
+Kiyoshi Tamura	Takashi Minemura	# 143
+Tamura	Minemura	# 143
+Bitsadze Tariel	Ricardo Gabriel	# 144
+Tariel	Gabriel	# 144
+Volk Han	Wolf Burn	# 145
+Han	Burn	# 145
+Dick Vrij	Rick Grey	# 146
+Vrij	Grey	# 146
+Hans Nyman	Lance Hyman	# 147
+Nyman	Hyman	# 147
+Akira Maeda	Akira Saeba	# 149
+Maeda	Saeba	# 149
+Yoshiaki Fujiwara	Jo Kajiwara	# 150
+Fujiwara Armbar	Fujiwara Armbar	# the move keeps its name
+Fujiwara	Kajiwara	# 150
+Yuki Ishikawa	Toui Ishihara	# 151
+Ishikawa	Ishihara	# 151
+Daisuke Ikeda	Daisaku Hikita	# 152
+Ikeda	Hikita	# 152
+Alexander Otsuka	Hercules Otsuki	# 153
+Otsuka	Otsuki	# 153
+Minoru Suzuki	Mitsuru Mizuki	# 155
+Suzuki	Mizuki	# 155
+Manabu Yamada	Mamoru Yanagi	# 156
+Yamada	Yanagi	156|八薙	# 156 (not 山田 Sakuzo Yamada, a bonus edit)
+Bas Rutten	Boss Dokken	# 157
+Rutten	Dokken	# 157
+Hijo del Santo	E. Santos	# 158
+Santo	Santos	# 158
+Konnan	Conan	# 159
+Negro Casas	Neglect Chaos	# 160
+Casas	Chaos	# 160
+Psychosis	Siscos	# 161
+Dr. Wagner Jr.	D. Silver Jr.	# 162
+Wagner Jr.	D. Silver Jr.	# 162
+Wagner	D. Silver	# 162
+Dos Caras:	Eagle:	# 163 (speaker label: #WS163)
+Dos Caras	Mascara Eagle	# 163
+Mil Mascaras	Mascara Condor	# 164
+Mascaras Brothers	Mascara Brothers	# 163, 164 (#WL164ブラザーズ)
+Mascaras	Condor	# 164
+Nobuhiko Takada	Nobuhisa Sanada	# 165
+Nobuhiko	Nobuhisa	# 165
+Takada	Sanada	# 165
+Yoji Anjoh	Shoji Ando	# 166
+Anjoh	Ando	# 166
+Naoki Sano	Naoki Yano	# 167
+Sano	Yano	# 167
+Mitsuya Nagai	Katsuya Akai	# 168
+Nagai	Akai	# 168
+Rickson Gracie	Nickson Stacie	# 169
+Rickson	Nickson	# 169
+Gracie	Stacie	# 169
+Gracies	Stacies	# 169
+Gerard Gordeau	General Bordeaux	# 170
+Gordeau	Bordeaux	# 170
+Maurice Smith	Thomas Schmidt	# 171
+Masaaki Satake	Masayuki Sadake	# 172
+Satake	Sadake	# 172
+Naoya Ogawa	Yasuya Nogawa	# 173
+Don Frye	Bone Cry	# 174
+Frye	Cry	# 174
+Karl Gotch	Karlos Krauser	# 177
+Gotch	Krauser	# 177
+Tetsuhiro Kuroda	Tetsuhiko Murota	# 180
+Kuroda	Murota	# 180
+Takeshi Ono	Takashi Onozaki	# 181
+Ono	Onozaki	# 181
+Diamond Dallas Page	D. Glass Edge	# 182
+into The Rock match	into the Luck Rapier match	# 183
+The Rock	Luck Rapier	# 183
+Mike Burton	Beat Bang	# 184
+Burton	Bang	# 184
+Kane	Mein	# 185
+Big Show	Cole Bite	# 186
+
+# --- Other people ---
+Masa Saito	Zombie Masa
+Vince McMahon Jr.	Dink Kakuracon Jr.
+McMahon Jr.	Kakuracon Jr.
+McMahon	Dink
+Yoshihiro Asai	Toshihiko Masai
+Asai	Masai
+Sakaguchi	Sakauchi
+Mark Kerr	Mike Bear
+Kerr	Bear
+Marco Ruas	Balto Mas
+Ruas	Mas
+Ucchan Nanchan	Yucchan Manchan
+Nanchan	Manchan
+Yamaha Brothers	Honda Brothers
+Mr. Socko	Sacko
+
+# --- Referees (match setup shows the short forms) ---
+relation to Tiger Hattori	tie to Panther Tottori	# edit profile 19 (room)
+Tiger Hattori	Panther Tottori
+T. Hattori	P. Tottori
+Hattori	Tottori
+Joe Higuchi	Joe Hiro
+J. Higuchi	J. Hiro
+Higuchi	Hiro
+Mr. Soranaka	Mr. Suichu
+Soranaka	Suichu
+Ted Tanabe	Bat Wakabe
+T. Tanabe	B. Wakabe
+Tanabe	Wakabe
+
+# --- Promotions (story text names them with #PS/#PL codes; these are for the rest) ---
+New Japan	View Japan
+NJPW	VIEW
+All Japan	Olive Japan
+AJPW	OLIVE
+FMW	IW	真IW
+FMW	New IW
+Michinoku Pro	Yukiguni Pro
+Old M-Pro Union	Old Y-Pro Union	# team name: room for 15
+M-Pro	Yuki-Pro
+WCW	WWC
+WWF	WFW
+RINGS	GONGS
+K-1	S-1
+BattlArts	Battlation
+Pancrase	High Class
+AAA	THREE-A
+UWF International	UWH Integral
+U-International	U-Integral
+UWF-i	U-Integral
+UWF	UWH
+Kingdom	Castle	キャッスル
+ECW	EXW
+UFO	ULO
+UFC	Gruesome
+W*ING	WINNING
+
+# --- Factions and teams ---
+nWo JAPAN	FWO JAPAN
+nWo Wolfpac	Red FWO
+Hollywood	Black FWO	ブラックＦＷＯ
+nWo Hollywood	Black FWO
+Wolfpac	Red FWO
+Hollywood	Black FWO	ブラックＦＷＯ
+nWo	FWO
+N-W-O	F-W-O
+Heisei Ishingun	Tobakugun
+Ishingun	Tobakugun
+Four Horsemen	Four Knights
+Road Warriors	Road Blasters
+Road Warrior	Road Blaster
+Ministry of Darkness	Makai Alliance
+Ministry	Makai Alliance
+The Corporation	Team Company	カンパニー
+the Corporation	Team Company	カンパニー
+Corporation	Team Company	カンパニー
+Team No Respect	Team No Restrict
+No Respect	No Restrict
+Kaientai DX	Nishirentai EX
+Kaientai	Nishirentai
+Kai-En-Tai	Nishi-Ren-Tai
+Footloose	Futtot Loose
+Akuyaku Shokai	Warumono Kyokai
+Family Gundan	Friendly Gundan
+Burning	Lightning	ライトニング
+ZEN	JEN
+Team Zero	Team ZERU
+Tonpachi Machine Guns	Donpachi Machine Guns
+Young Lions	Young Tigers
+
+# --- Titles, tournaments, places ---
+IWGP	IGP
+G1 CLIMAX	V1-TRYMAX
+G1	V-1
+Super J-Cup	Champ of the Hyper Junior
+All Asia Tag	Oriental Tag
+Real World Tag League	World One Tag League
+Real World Tag	World One Tag
+Champion Carnival	Champion Festival
+Asunaro Cup	Subaru Cup
+Mega Battle Tournament	Giga Battle Tournament
+Mega Battle	Giga Battle
+Lion's Den	Tiger's Den
+Budokan	Butokan
+Korakuen	Yurakuen

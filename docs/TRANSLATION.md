@@ -104,6 +104,24 @@ translation uses the **real names** where they're known.
   "J. Higuchi", "Soranaka" and "T. Tanabe". Tanabe also speaks in the story (scenes 458,
   492, 493).
 
+### Fake names
+
+The Fake Names patches (`build.py --fake-names`) use the game's own stand-ins instead.
+They are made from the same translation, so a fix to the English reaches both. Three
+files hold the stand-ins:
+
+| File | What it does |
+|---|---|
+| `text/fake_roster.tsv` | Roster names, replacing `en_short` / `en_full` (and a few nicknames) of `wrestlers.tsv` |
+| `text/fake_names.tsv` | Substitution rules for the English of the story and the menus: `real`, `fake` and an optional regular expression the Japanese must match (for names shared by several people, such as the three Yamamotos) |
+| `text/fake_script.txt` | Hand-written English for story messages that the swap leaves too long or awkward |
+
+Promotion names come from `FAKE_NAMES` in `text/exe_promotions.py`. Story messages
+that grow past the box are re-wrapped automatically. After changing the translation, run
+`python3 tools/fakenames.py --diff` to see what the swap does, and add a rule or a
+`fake_script.txt` entry where it reads badly. If a message you translate names someone
+in a way the rules don't cover (a nickname, a first name), add a rule.
+
 ### Story glossary
 
 | Japanese | English | Notes |

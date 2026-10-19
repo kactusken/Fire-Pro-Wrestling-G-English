@@ -38,6 +38,7 @@ The original image is never modified.
 | *(none)* | English, everything unlocked, extra Wrestler Make parts |
 | `--no-unlock` | Keep the original unlock progression |
 | `--no-extra-parts` | Leave out the unused heads and body parts |
+| `--fake-names` | Use the game's own stand-in names instead of the real ones (see [TRANSLATION.md](TRANSLATION.md#fake-names)) |
 | `--japanese` | Keep the Japanese text; apply only the unlock patch |
 | `--rom PATH` | The original image (default `rom/Fire Pro Wrestling G (Japan).bin`) |
 | `--out-dir PATH` | Output folder (default `build/`; work files go in its `work/`) |
@@ -65,7 +66,7 @@ The build is reproducible: the same inputs always give a byte-identical image.
 python3 make_patches.py --version v0.1
 ```
 
-This builds the three release variants into `build/release/`, makes an xdelta patch for
+This builds the five release variants into `build/release/`, makes an xdelta patch for
 each against the original image, applies every patch again to check that it gives
 exactly the built image, and writes everything to `release/`:
 
