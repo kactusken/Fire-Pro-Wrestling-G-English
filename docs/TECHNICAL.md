@@ -5,7 +5,8 @@ disc, the data archive and its compression, what each file holds, and the format
 so far. It is written from the translation project's reverse engineering. The tools named here
 are in `tools/`. How the translation changes the game is in [PATCHES.md](PATCHES.md); hidden and
 cut content is in [HIDDEN_CONTENT.md](HIDDEN_CONTENT.md); wrestler costumes, body parts and colours
-are in [COSTUMES.md](COSTUMES.md).
+are in [COSTUMES.md](COSTUMES.md); moves, move slots and the move data format are in
+[MOVES.md](MOVES.md).
 
 Conventions: numbers in `0x…` are hexadecimal. Addresses like 0x8005A718 are PlayStation RAM.
 "u16"/"u32" are little-endian unsigned integers unless marked big-endian (BE). "FPG 251" is
@@ -178,15 +179,15 @@ C = LZSS-compressed, R = stored raw. Sizes are as stored; "→" gives the unpack
 | 248–249 | R | TIM images |
 | 250 | R | Hit-effect sprites (128×128, 4-bit TIM); loaded only by the overlay 003 programs |
 | 251 | R | Wrestler graphics archive: heads and body parts ([COSTUMES.md](COSTUMES.md#body-parts)) |
-| 252–258 | C | Move data (one table per range of move ids) |
+| 252–258 | C | Move data: 1,600 u32 offsets by move id, then the blocks ([MOVES.md](MOVES.md#the-move-block)) |
 | 259 | R | Basic motions for matches: 640 u16 offsets, then each motion packed with the small LZ (475 used). Unpacked, identical to FPG 273. Loaded with the move data (ov0 0x80080208); ov0 0x8008055c unpacks motions from match state +0x48 |
 | 260–267 | R | Referee sprites, one pair per referee (Referee setting 0–3: T. Hattori, J. Higuchi, Soranaka, T. Tanabe, per the ov1 name table 0x80088e44): the even entry holds 1,040 16×16 4-bit tiles (u32 offsets, each packed with the small LZ to 128 bytes; unpacked by ov0 0x8007fb7c from +8), the odd one a big-endian table (from +0xc) that assembles them into frames. Loaded by ov0 0x8007f6c8 (FPG 260 + 2 × referee, 261 + 2 × referee), which also uploads one of four palettes, (referee × 4 + 0–3) from 0x80085430 to the rectangle at 0x80085428 (Left/Right/Down held at match load) |
 | 268, 269 | R | VAB sound banks (2.2 MB and 10.3 MB) |
-| 270 | R | Loaded raw by matches (ov0 0x8007ded4, to match state +0x4c, a buffer the sound-bank loader 0x8007df48 also uses) and edit mode. Made of 6-byte records (four bytes and a u16), probably pose ("form") data placing body parts, like the editor's MX MY CHR ATTR ZR form fields; not confirmed. Not compressed as a whole (an LZSS pass gives 2.6 MB of noise) |
+| 270 | R | Global forms (poses): 4,032 (0xFC0) × 96 bytes, the forms move frames 0–0xFBF point at ([MOVES.md](MOVES.md#forms)). Loaded raw by matches (ov0 0x8007ded4, to match state +0x4c, a buffer the sound-bank loader 0x8007df48 also uses) and edit mode |
 | 271 | R | 5,820-entry offset table and data: animation data for the wrestler-figure system (loaded by EXE 0x8001de90; format not decoded) |
 | 272 | C? | Loaded with 271 by the wrestler-figure system (format not decoded) |
-| 273 | R | Basic motions, uncompressed (640 u32 offsets; 475 used), loaded by edit mode (ov4 0x800735e8). Same layout as a move block (48-byte header, 12-byte frames) with no attack data: walking, reactions and similar, indexed by action number |
-| 274 | R | Uncompressed copy of all move data (identical to 252–258) |
+| 273 | R | Basic motions, uncompressed (640 u32 offsets; 475 used), loaded by edit mode (ov4 0x800735e8). Same layout as a move block ([MOVES.md](MOVES.md#the-move-block)) with an empty status block and no local forms: walking, reactions and similar, indexed by action number |
+| 274 | R | Uncompressed copy of all move data (identical to 252–258): 1,792 { u32 offset, u32 size }, one sector-aligned block per move id |
 | 275 | R | Unused illustrations: u32 offset table, 13 LZSS-compressed 8-bit TIMs (entries 3–7 640×480, the rest 320×240) and an empty 14th slot. Never loaded |
 | 276 | R | 8×8 debug font: 4-bit TIM, 16×16 grid of ASCII glyphs (used by overlay 003) |
 | 277 | C | Big texture sheet: mode-select names, select-screen labels, tags, arena thumbnails |
@@ -273,7 +274,7 @@ word (0x80054120) equals 0x00C0 (Square + Cross).
 | +70.. | | Skills, ratings, reversal style, special skills, theme music, voices… (Skill Edit fields) |
 | +0x5C | 1 | Stance (0–8, Strong … Kobudo) |
 | +0x5D | 1 | Size (0–2: S, M, L) |
-| +0x74..+0xE3 | 56 × u16 | Move slots: move id = value & 0x7FF, upper bits are flags |
+| +0x74..+0xE5 | 57 × u16 | Move slots: move id = value & 0x7FF; 0x1000 signature, 0x2000 finisher, bits 14–15 shout ([MOVES.md](MOVES.md#move-slots)) |
 | +0x182..+0x1A9 | 4 × 10 | Costumes 1–4: u16 head id, then 8 body part numbers ([COSTUMES.md](COSTUMES.md#roster-record-fields)) |
 
 A roster wrestler's colours are not in the record. They come from the colour table in FPG 011,
@@ -344,29 +345,24 @@ palette draws each part, and the colour groups, are in [COSTUMES.md](COSTUMES.md
 
 ## Moves
 
+Moves are documented in [MOVES.md](MOVES.md): the 57 move slots and their flags, the Move Edit
+lists, variants, and the move block (status block, animations, frames and forms). In short:
+
 | Data | Where | Format |
 |---|---|---|
 | Names | FPG 011 at 0x30A38 | 1,592 u16 offsets (relative to the table) to NUL-terminated Shift-JIS names |
 | Move data | FPG 252–258 | Each: 1,600 u32 offsets at the start (indexed by move id), then the move blocks |
 | Uncompressed copy | FPG 274 | 1,792 { u32 offset, u32 size } pairs; one sector-aligned block per move id |
+| Global forms | FPG 270 | 4,032 × 96-byte poses |
+| Move Edit lists | ov4 0x80078C60 (normal), 0x800791B8 (Edit Ranking level 9), 0x80078FF0 / 0x80078E28 (Fighting Road hero, early stages) | 57 { list pointer, count } per set |
 
-- 252–257 cover ids below 1402 and 258 the top-rope, double-team, taunt and special moves (1402+).
-  The match code picks the file as 252 + *n* or 257 + *n* from a byte table at ov0 0x80081EBC.
-  Each file holds only part of the ids; the rest of its table points at empty entries.
-- Moves usually come as runs of 2 or 3 consecutive ids with the same name (variants). Move Edit
-  lists the first id of each run.
-- Move blocks start with a small header (category and type bytes) followed by frame data; the
-  layout is not decoded further.
-- **Move Edit lists** (ov4): sets of 57 { list pointer, count } entries, one per move slot, each
-  list a run of u16 move ids. 0x80078C60 is the normal set; 0x800791B8 is the set used from Edit
-  Ranking level 9 (it adds the hidden moves) and points some slots at its own copies of the lists;
-  0x80078E28 and 0x80078FF0 are alternative sets chosen by another condition. Each list covers a
-  range of move ids (for example 697–1017 for front grapples). The set is chosen at ov4
-  0x800676e8. The level-9 set adds only Phoenix Kick (move 530, one list) and Muscle Buster (947,
-  five lists).
-- The four sets together offer 962 move ids. Roster records use 892, all of them offered. 113
-  named ids are used by neither; double-team, corner, whip, avalanche and taunt moves may come
-  from other tables (not checked).
+- The match loader (ov0 0x80080208) reads all seven of FPG 252–258. The byte table at ov0
+  0x80081EBC maps a wrestler's facing to a move variant; it does not choose files.
+- Moves come as runs of 1–3 consecutive ids with the same name: variants for different facings.
+  A slot stores the first id.
+- The four list sets together offer 962 first ids, 1,264 ids with their variants. Roster
+  records use 892 first ids, all of them offered. 113 named ids are offered by no set and used by
+  no wrestler ([HIDDEN_CONTENT.md](HIDDEN_CONTENT.md#named-moves-that-were-cut)).
 
 ---
 
@@ -666,7 +662,7 @@ HIDDEN_CONTENT.md):
   2 scarred, 4 women's set, 5 panda, 6 tanuki (upper body), 7 kappa (upper body), 8 Mitts,
   10 Paw Gloves and Paw Boots.
 - **Moves**: from level 9 the Move Edit list set 0x80078c60 is swapped for 0x800791b8 (ov4
-  0x800676e8).
+  0x80067680).
 
 ---
 
@@ -769,12 +765,11 @@ HIDDEN_CONTENT.md; this is where the code is.
 ---
 
 ## Open questions
-- The head sprite format in FPG 251 (entries 0–319; body parts are plain LZSS tiles) and the move block format.
-- The format of FPG 270 (probably poses) and 271 / 272 (wrestler-figure animation data), and the referee frame tables (odd entries of FPG 261–267).
-- What decides the alternative Move Edit list sets (0x80078E28 / 0x80078FF0).
+- The head sprite format in FPG 251 (entries 0–319; body parts are plain LZSS tiles).
+- The format of FPG 271 / 272 (wrestler-figure animation data) and the referee frame tables (odd entries of FPG 261–267).
 - What FPG 018 (an outline-effect wrestler figure) is used for.
 - Whether records 33–35 of the Skill Edit table are the Fighting Road hero setup.
-- Where double-team, corner, whip, avalanche and taunt moves are listed, if not in the Move Edit sets.
+- The open move fields ([MOVES.md](MOVES.md#open-questions)).
 - The full Skill Edit field layout from +0x46 onwards and the CPU logic data. Debug mode 12 gives the
   developers' block sizes: equipment 114 bytes, CPU logic 156, standard wrestler 386 (with the
   426-byte roster and 512-byte edit records, and the 81,152-byte save block).

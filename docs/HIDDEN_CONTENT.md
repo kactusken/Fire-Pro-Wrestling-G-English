@@ -183,13 +183,14 @@ What the screens are for (from their labels):
 
 Other screens set each move's game data: type, single and combo hits, damage to head, neck,
 arm, waist and leg, attack range and flight, critical rates (strike, suplex, submission,
-power, technique), foul, give-up and blood rates, and the reversal type.
+power, technique), foul, give-up and blood rates, and the reversal type. Those screens, and
+the move data they edit, are decoded in [MOVES.md](MOVES.md).
 
 It cannot load anything. Its load/save code was compiled out (no file or device access is
 left), and the only data it reads from the disc is the wrestler body-part archive (FPG 251).
 It draws poses with the game's own sprite renderer (EXE 0x8001cd24). Showing a real move
-would mean decoding the move data (FPG 252–258) and the editor's memory layout and copying
-one in; not attempted.
+would mean converting a move block into the editor's memory layout (both are described in
+[MOVES.md](MOVES.md#the-move-block)) and copying it in; not attempted.
 
 **OV3 TEST 11** (**verified in game**) is a sprite test bench. It shows one frame of the
 hit-effect sheet (FPG 250) in the middle of the screen, and five objects of the game's animated
@@ -356,5 +357,5 @@ them. They are leftovers from script edits:
 ---
 
 ## Not explored yet
-- Loading a real move into the overlay 003 editor (needs the move data format decoded).
+- Loading a real move into the overlay 003 editor (the formats are in [MOVES.md](MOVES.md)).
 - Dumping the sound-test-only audio to WAV.

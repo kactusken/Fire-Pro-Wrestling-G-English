@@ -16,6 +16,7 @@ from tests import EXTRACTED, ROM, TestCase, needs_extracted, needs_rom, repo
 import costumes
 import fpgbin
 import lzss
+import movedata
 import script
 import storycheck
 import storylint
@@ -47,6 +48,70 @@ class ArchiveTest(TestCase):
             fpgbin.pack(os.path.join(d, "fpg"), os.path.join(d, "FPG.BIN"))
             self.assertTrue(filecmp.cmp(os.path.join(d, "FPG.BIN"), os.path.join(EXTRACTED, "FPG.BIN"),
                                         shallow=False))
+
+
+@needs_extracted
+class MovesTest(TestCase):
+    """docs/MOVES.md: move blocks, slots, variants and the Move Edit lists."""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.data = movedata.blocks(entry("274"))
+        cls.roster = lzss.decompress(entry("010"))
+        cls.sets = movedata.lists(open(os.path.join(EXTRACTED, "ovl", "004.bin"), "rb").read())
+        cls.names = movedata.move_names(lzss.decompress(entry("011")), {})
+
+    def records(self):
+        for w in range(movedata.WRESTLERS):
+            yield w, movedata.slot_values(self.roster[w * movedata.RECORD:(w + 1) * movedata.RECORD])
+
+    def test_every_block_is_animations_then_forms(self):
+        self.assertEqual(len(self.data), 1270)
+        for i, b in self.data.items():
+            with self.subTest(move=i):
+                anims = movedata.animations(b)
+                self.assertEqual(anims[0][0], 0)
+                used = sum(1 + len(frames) for _, _, frames in anims)
+                self.assertEqual(used, b[0x2F])
+                self.assertEqual((len(b) - 0x30 - 12 * used) % 96, 0)
+
+    def test_slots_have_one_finisher_and_at_most_four_signatures(self):
+        for w, values in self.records():
+            with self.subTest(wrestler=w):
+                self.assertEqual(sum(1 for v in values if v & 0x2000), 1)
+                self.assertLessEqual(sum(1 for v in values if v & 0x1000), 4)
+                self.assertFalse(any(v & 0x800 for v in values))
+                self.assertTrue(values[56] & 0x7FF)     # the 57th slot is in use
+
+    def test_roster_moves_are_offered_with_all_variants(self):
+        for w, values in self.records():
+            for s, v in enumerate(values):
+                first = v & 0x7FF
+                if not first:
+                    continue
+                with self.subTest(wrestler=w, slot=s):
+                    self.assertIn(first, self.sets["level9"][s])
+                    for k in range(movedata.SLOTS[s][3]):
+                        self.assertIn(first + k, self.data)
+                        self.assertEqual(self.names[first + k], self.names[first])
+
+    def test_punch(self):
+        b = self.data[1]
+        (_, head, frames), = movedata.animations(b)
+        self.assertEqual((b[0], b[2], b[12], b[22], b[23], b[30]), (0, 4, 6, 11, 10, 0))
+        self.assertEqual(struct.unpack_from("b", b, 20)[0], -37)
+        self.assertEqual(movedata.SE[head[5]], "punch lv1")
+        self.assertEqual([f[6] for f in frames], [6, 6, 8])
+        self.assertEqual([f[8] & 0x80 for f in frames], [0, 0x80, 0])     # hits on frame 2
+        self.assertEqual([struct.unpack_from(">H", f, 2)[0] for f in frames], [0x5A4, 0x5A5, 0x5A6])
+
+    def test_critical_types(self):
+        # record +0x54: Misawa (40) is a striker; Original Backdrop can be a suplex critical
+        self.assertEqual(self.roster[40 * movedata.RECORD + 0x54], 1)
+        self.assertEqual(self.data[948][19] & 0b100, 0b100)
+
+    def test_global_forms(self):
+        self.assertEqual(len(entry("270")), 0xFC0 * 96)
 
 
 @needs_extracted

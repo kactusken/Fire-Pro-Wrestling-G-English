@@ -101,6 +101,7 @@ documentation of the game's formats.
 | [docs/TESTING.md](docs/TESTING.md) | What has been tested in the game, and what still needs a playthrough |
 | [docs/HIDDEN_CONTENT.md](docs/HIDDEN_CONTENT.md) | Unlockables, debug features, and unused and cut content |
 | [docs/COSTUMES.md](docs/COSTUMES.md) | How the built-in wrestlers' costumes, body parts and colours are stored and drawn |
+| [docs/MOVES.md](docs/MOVES.md) | How moves are stored and assigned: move slots, Move Edit lists, damage, hit boxes and animations |
 | [tools/README.md](tools/README.md) | Every tool, what it's for and how to run it |
 | [Story Route Map](https://kactusken.github.io/Fire-Pro-Wrestling-G-English/route-map/) | An interactive map of Fighting Road's branches |
 

@@ -78,4 +78,5 @@ of their own.
 | [bs.py](bs.py) | Decodes the BS (MDEC) still images used for story backgrounds |
 | [unused_art.py](unused_art.py) | Exports the unused illustrations in FPG 275 |
 | [costumes.py](costumes.py) | Exports every roster wrestler's four costumes (head, body parts, stance, size, 34 colours) to CSV; see [docs/COSTUMES.md](../docs/COSTUMES.md) |
+| [movedata.py](movedata.py) | Exports every move's data (damage, ratings, criticals, hit box, animations) and every roster wrestler's 57 move slots to CSV; see [docs/MOVES.md](../docs/MOVES.md) |
 | [gdbrsp.py](gdbrsp.py) | A minimal GDB remote client for DuckStation's GDB server: dump RAM, show registers, run to an address |
