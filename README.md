@@ -102,7 +102,7 @@ Quick start:
 
 ```sh
 python3 build.py                      # -> build/Fire Pro Wrestling G (English).bin/.cue
-python3 make_patches.py --version v0.1   # -> release/*.xdelta and a zip (needs xdelta3)
+python3 make_patches.py --version v0.2   # -> release/*.xdelta and a zip (needs xdelta3)
 ```
 
 ## Legal

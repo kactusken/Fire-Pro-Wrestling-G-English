@@ -63,7 +63,7 @@ The build is reproducible: the same inputs always give a byte-identical image.
 ## Making the release patches
 
 ```sh
-python3 make_patches.py --version v0.1
+python3 make_patches.py --version v0.2
 ```
 
 This builds the five release variants into `build/release/`, makes an xdelta patch for
@@ -72,7 +72,7 @@ exactly the built image, and writes everything to `release/`:
 
 - `<variant>.xdelta` and `<variant>.cue` for each variant,
 - `README.txt` with instructions and checksums,
-- `Fire Pro Wrestling G English Patch v0.1.zip` containing all of the above, ready to
+- `Fire Pro Wrestling G English Patch v0.2.zip` containing all of the above, ready to
   attach to a GitHub release.
 
 The variants are listed in `VARIANTS` at the top of `make_patches.py`. It first checks that

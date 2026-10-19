@@ -2,7 +2,16 @@
 
 What changed in each release of the patch. Newest first.
 
-## v0.1 — unreleased (first public beta)
+## v0.2 — 2026-10-19
+
+### Added
+- **Fake Names patches**, at a player's request: the translation with the game's own
+  stand-in names for wrestlers, promotions, venues and referees (Hurricane Rikimaru,
+  View Japan, Nippon Butokan, Panther Tottori) instead of the real ones. There are two,
+  one with the original unlocks and one with everything unlocked, so a release now has
+  five patches. The other three patches are unchanged from v0.1.
+
+## v0.1 — 2026-10-15 (first public beta)
 
 The first public release. Everything is translated, but most of the story hasn't been
 played through yet. See [docs/TESTING.md](docs/TESTING.md) for what has and hasn't been
@@ -25,9 +34,8 @@ checked in the game.
 ### Added
 - A variable-width font for story text and menus, so English fits the original windows.
 - Real names for the wrestlers, promotions and referees that the original game disguises.
-- Five patches: English; English with everything unlocked; English with the game's own
-  stand-in names (Fake Names), with or without everything unlocked; Japanese with
-  everything unlocked.
+- Three patches: English; English with everything unlocked; Japanese with everything
+  unlocked.
 - In the All Unlocked English patch: unused heads and body parts found on the disc are
   added to Wrestler Make.
 
