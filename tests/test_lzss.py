@@ -37,6 +37,19 @@ class LzssTest(TestCase):
         data = b" ".join(rng.choice(words) for _ in range(2000))
         self.roundtrip(data)
 
+    def test_patch_keeps_the_stream_around_a_change(self):
+        rng = random.Random(3)
+        data = bytes(rng.choice(b"\0\0\0\1\2ab") for _ in range(20000))
+        packed = lzss.compress(data)
+        changed = bytearray(data)
+        changed[12345] ^= 0x40
+        new = lzss.patch(packed, changed)
+        self.assertEqual(lzss.decompress(new), bytes(changed))
+        self.assertLess(len(new) - len(packed), 64)
+        same = next(i for i in range(len(packed)) if new[i] != packed[i])
+        self.assertGreater(same, len(packed) // 2)      # the start is untouched
+        self.assertEqual(new[-1000:], packed[-1000:])   # and so is the end
+
     def test_compression_is_deterministic(self):
         data = b"abcabcabd" * 100
         self.assertEqual(lzss.compress(data), lzss.compress(data))

@@ -26,7 +26,8 @@ What to look for:
 | English (All Unlocked) | ✅ | The main test build |
 | English (Fake Names) | 🟡 | Checked in the game; most of the story hasn't been played through with these names |
 | English (Fake Names) (All Unlocked) | 🟡 | Checked in the game, as above |
-| Japanese (All Unlocked) | ⬜ | Only the unlock patch, applied to the original game |
+| Japanese (All Unlocked) | ⬜ | Only the unlock patch and the move fixes, applied to the original game |
+| Move fixes | ✅ | Checked in the game with the English (All Unlocked) build |
 | Applying with Rom Patcher JS | ⬜ | The patches are made in a format it should read |
 | Applying with Delta Patcher / xdelta3 | 🟡 | xdelta3 is checked automatically when the patches are made |
 

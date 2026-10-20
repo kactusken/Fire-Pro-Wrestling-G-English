@@ -427,7 +427,8 @@ a wrestler to nothing but **cannot win by submission**.
 flag with the match rules (0x97A & 0x20) at 0x8006d934, 0x8006df88 and 0x8006e07c, presumably
 for warnings or disqualification. Not traced further.
 
-**Odd values on the disc.** Most same-named moves agree, but a few do not:
+**Odd values on the disc.** Most same-named moves agree, but a few do not. The first three are
+fixed by the All Unlocked patches ([PATCHES.md](PATCHES.md#move-fixes)):
 - **Arching Boston Crab**: face down (1345) is 0x41, Finisher + give up; face up (1248) is
   0x01, so it can't make anyone submit.
 - **Haruki Special**: Grab C (891) is 0x49; Back C (1073) is 0x40.

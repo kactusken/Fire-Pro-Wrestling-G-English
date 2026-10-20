@@ -17,6 +17,7 @@ import costumes
 import fpgbin
 import lzss
 import movedata
+import movefix
 import script
 import storycheck
 import storylint
@@ -112,6 +113,25 @@ class MovesTest(TestCase):
 
     def test_global_forms(self):
         self.assertEqual(len(entry("270")), 0xFC0 * 96)
+
+
+@needs_extracted
+class MoveFixTest(TestCase):
+    """docs/PATCHES.md, "Move fixes"."""
+
+    def test_fixes_change_only_the_flags_and_fit(self):
+        fpg = bytearray(open(os.path.join(EXTRACTED, "FPG.BIN"), "rb").read())
+        copy = bytearray(entry(movefix.COPY))
+        packed = {e: entry(e) for e in movefix.MOVE_FILES}
+        new = movefix.apply_packed(copy, packed)
+        self.assertEqual(sorted(new), ["255", "256", "257"])
+        fixed = movedata.blocks(copy)
+        for move, (_, value, _) in movefix.FIXES.items():
+            self.assertEqual(fixed[move][movefix.FLAGS], value)
+        for e, data in new.items():
+            old, now = lzss.decompress(packed[e]), lzss.decompress(data)
+            self.assertEqual(sum(a != b for a, b in zip(old, now)), 1, e)
+            fpgbin.replace(fpg, int(e), data)       # fits without moving other entries
 
 
 @needs_extracted

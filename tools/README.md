@@ -37,6 +37,7 @@ of their own.
 | [pngread.py](pngread.py), [tim.py](tim.py) | PNG reading and PS1 TIM images |
 | [unlock.py](unlock.py) | Everything unlocked from the start |
 | [hiddenparts.py](hiddenparts.py) | Unused heads and body parts added to Wrestler Make |
+| [movefix.py](movefix.py) | Fixes three moves whose flags disagree with their other versions ([docs/PATCHES.md](../docs/PATCHES.md#move-fixes)) |
 | [debugmenu.py](debugmenu.py) | Restores the developer menu (debug builds only) |
 | [mips_asm.py](mips_asm.py) | A small MIPS assembler for the hooks |
 | [codepatch.py](codepatch.py) | Shared helpers for patching code: checked word patches, and reading and rewriting the address a `lui`/`addiu` pair loads |

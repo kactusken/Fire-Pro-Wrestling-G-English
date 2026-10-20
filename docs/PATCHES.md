@@ -26,10 +26,11 @@ overlay 002, "FPG 131" is entry 131 of FPG.BIN.
 13. [Images](#images)
 14. [Unlock everything](#unlock-everything)
 15. [Extra Wrestler Make parts](#extra-wrestler-make-parts)
-16. [Debug menu and route 5](#debug-menu-and-route-5)
-17. [What stays Japanese](#what-stays-japanese)
-18. [Limits to respect](#limits-to-respect)
-19. [Checking tools](#checking-tools)
+16. [Move fixes](#move-fixes)
+17. [Debug menu and route 5](#debug-menu-and-route-5)
+18. [What stays Japanese](#what-stays-japanese)
+19. [Limits to respect](#limits-to-respect)
+20. [Checking tools](#checking-tools)
 
 ---
 
@@ -307,6 +308,27 @@ The unused heads and body parts in FPG 251 (listed in HIDDEN_CONTENT.md) become 
   head keeps the current body and colours. The extra heads come with the last Edit Ranking
   reward, which the unlocked build always has.
 - Overlay 004 grows by about 2 KB; FPG.BIN still fits.
+
+## Move fixes
+
+Tool: `tools/movefix.py`; applied unless `--no-move-fixes`, and also to the Japanese "All
+Unlocked" patch.
+
+Three moves have a status flags byte (byte 19 of the move block, [MOVES.md](MOVES.md#criticals))
+that disagrees with the same move from another position. Each gets the other version's value:
+
+| Move | Id | Before | After | Effect |
+|---|---|---|---|---|
+| Arching Boston Crab (face up) | 1248 | 0x01 | 0x41 | Can make the opponent give up, like the face-down version (1345) |
+| Low Blow (from behind) | 1029 | 0x01 | 0x81 | Counts as a foul, like the front version (782) |
+| Haruki Special (from behind) | 1073 | 0x40 | 0x49 | Can be a Finisher or Submission critical, like the front version (891) |
+
+- The match reads the moves from FPG 252–258 (LZSS); FPG 274 holds an uncompressed copy.
+  Both are patched. Each move's block in 252–258 is found by comparing it with 274's copy.
+- The packed files are not recompressed. `lzss.patch` rewrites only a few flag groups around
+  each change as plain literals and keeps the rest of the stream. Each file grows by 77–95
+  bytes, inside the free space at the end of its last sector. The Japanese build replaces the
+  three entries in place (`fpgbin.replace`), so the rest of FPG.BIN keeps its layout.
 
 ## Debug menu and route 5
 

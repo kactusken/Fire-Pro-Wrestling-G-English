@@ -26,6 +26,9 @@ class OptionsTest(TestCase):
             ("--route5",): "Fire Pro Wrestling G (English) (debug) (route 5)",
             ("--fake-names", "--no-unlock"): "Fire Pro Wrestling G (English) (Fake Names) (locked)",
             ("--japanese",): "Fire Pro Wrestling G (Japan) (unlocked)",
+            ("--japanese", "--no-move-fixes"): "Fire Pro Wrestling G (Japan) (unlocked) (no move fixes)",
+            ("--japanese", "--no-unlock"): "Fire Pro Wrestling G (Japan) (move fixes)",
+            ("--no-move-fixes",): "Fire Pro Wrestling G (English) (no move fixes)",
             ("--name", "Custom"): "Custom",
         }
         for argv, name in cases.items():

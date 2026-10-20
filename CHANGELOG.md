@@ -2,6 +2,15 @@
 
 What changed in each release of the patch. Newest first.
 
+## v0.3 — 2026-10-19
+
+### Added
+- **Move fixes** in the All Unlocked patches, including the Japanese one: the face-up
+  Arching Boston Crab can make the opponent give up, Low Blow from behind is a foul, and
+  the Haruki Special from behind can cause criticals, as their other versions do. The
+  English and Fake Names patches are unchanged.
+- docs/MOVES.md and docs/COSTUMES.md: how moves and costumes are stored, with CSV exports.
+
 ## v0.2 — 2026-10-19
 
 ### Added

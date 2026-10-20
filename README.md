@@ -28,10 +28,10 @@ Pick one:
 | Patch | What you get |
 |---|---|
 | **Fire Pro Wrestling G (English)** | The translation, with the game otherwise unchanged. Wrestlers, Edit Mode rewards and other extras unlock as you play, as in the original. |
-| **Fire Pro Wrestling G (English) (All Unlocked)** | The translation with everything unlocked from the start: every wrestler, every Edit Ranking reward (parts, voices, hidden moves), and the story-clear extras. It also adds some unused heads and body parts found on the disc to Wrestler Make. |
+| **Fire Pro Wrestling G (English) (All Unlocked)** | The translation with everything unlocked from the start: every wrestler, every Edit Ranking reward (parts, voices, hidden moves), and the story-clear extras. It also adds some unused heads and body parts found on the disc to Wrestler Make, and fixes three moves (see below). |
 | **Fire Pro Wrestling G (English) (Fake Names)** | The translation with the game's own made-up names for wrestlers, promotions, venues and referees (Hurricane Rikimaru, View Japan, Nippon Butokan) instead of the real ones. Unlocks as in the original. |
 | **Fire Pro Wrestling G (English) (Fake Names) (All Unlocked)** | The Fake Names translation with everything unlocked, as in the All Unlocked patch. |
-| **Fire Pro Wrestling G (Japan) (All Unlocked)** | The original Japanese game with everything unlocked from the start. |
+| **Fire Pro Wrestling G (Japan) (All Unlocked)** | The original Japanese game with everything unlocked from the start, and the three move fixes. |
 
 ## How to patch
 
@@ -65,6 +65,10 @@ Then:
 - **What's still in Japanese.** The arena banners, the title logo and the promotion logos
   stay as they are, because they're artwork. So do the kana grids on the name-entry
   screen and the staff credits after the story ending.
+- **Move fixes.** The All Unlocked patches fix three moves that behave differently from
+  the same move in another position. The face-up Arching Boston Crab can now make the
+  opponent give up, Low Blow from behind counts as a foul, and the Haruki Special from
+  behind can cause criticals. The other patches keep the moves as released.
 - **Saves.** The patch doesn't change the save format, so memory cards from the Japanese
   game should work. The save's title on the memory card is now in English. With an
   "All Unlocked" patch, loading an old save also unlocks everything.

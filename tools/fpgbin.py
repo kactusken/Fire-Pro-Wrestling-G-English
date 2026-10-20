@@ -36,6 +36,18 @@ def unpack(src, outdir):
     print(f"unpacked {len(ents) - 1} files")
 
 
+def replace(data, index, blob):
+    """Put a new entry into the archive bytearray `data` in its own space, without
+    moving the others (it must fit up to the next entry's offset)."""
+    ents = read_toc(data)
+    o = ents[index][0]
+    room = ents[index + 1][0] - o
+    if len(blob) > room:
+        raise SystemExit(f"FPG entry {index}: {len(blob)} bytes, its space holds {room}")
+    data[o:o + room] = blob + bytes(room - len(blob))
+    struct.pack_into("<I", data, index * 8 + 4, len(blob))
+
+
 def pack(indir, dst):
     names = sorted(n for n in os.listdir(indir) if n.endswith(".bin"))
     toc = bytearray(TOC_SIZE)

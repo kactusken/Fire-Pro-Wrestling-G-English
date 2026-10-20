@@ -3,11 +3,11 @@
 
     python3 build.py                 English, everything unlocked, extra Wrestler Make parts
     python3 build.py --no-unlock     English, the original unlock progression
-    python3 build.py --no-unlock --no-extra-parts
+    python3 build.py --no-unlock --no-extra-parts --no-move-fixes
                                      English, otherwise the game as released
     python3 build.py --fake-names    English with the game's own stand-in names
                                      (View Japan, Hurricane Rikimaru) instead of real ones
-    python3 build.py --japanese      Japanese text, everything unlocked
+    python3 build.py --japanese      Japanese text, everything unlocked, move fixes
 
 Output: build/<name>.bin and .cue; the name says which options were used
 (--name sets it). make_patches.py builds the release variants and their xdelta patches.
@@ -48,6 +48,7 @@ import lzss  # noqa: E402
 import menu_vwf_patch  # noqa: E402
 import menufont  # noqa: E402
 import moves  # noqa: E402
+import movefix  # noqa: E402
 import roster  # noqa: E402
 import script  # noqa: E402
 import skilledit  # noqa: E402
@@ -148,12 +149,15 @@ def parse_args(argv=None):
     paths.add(ap, "--images", paths.IMAGES, "image catalogue folder (graphics.csv, approved/, handmade/)")
     ap.add_argument("--name", help="output file name without extension (default: from the options)")
     ap.add_argument("--japanese", action="store_true",
-                    help="keep the Japanese text; only apply the unlock patch")
+                    help="keep the Japanese text; only apply the unlock patch and the move fixes")
     ap.add_argument("--no-unlock", action="store_true",
                     help="keep the original unlock progression (tools/unlock.py)")
     ap.add_argument("--no-extra-parts", action="store_true",
                     help="leave out the unused heads and body parts otherwise added to "
                          "Wrestler Make (tools/hiddenparts.py)")
+    ap.add_argument("--no-move-fixes", action="store_true",
+                    help="keep the three moves whose flags disagree with their other "
+                         "versions as released (tools/movefix.py)")
     ap.add_argument("--fake-names", action="store_true",
                     help="use the game's own stand-in names for wrestlers, promotions, "
                          "venues and referees instead of the real ones (tools/fakenames.py)")
@@ -164,8 +168,8 @@ def parse_args(argv=None):
     args = ap.parse_args(argv)
     if args.japanese and (args.debug_menu or args.route5 or args.no_text or args.only
                           or args.fake_names):
-        ap.error("--japanese only combines with --no-unlock")
-    if args.japanese and args.no_unlock:
+        ap.error("--japanese only combines with --no-unlock and --no-move-fixes")
+    if args.japanese and args.no_unlock and args.no_move_fixes:
         print("note: --japanese --no-unlock gives an unchanged copy of the original")
     return args
 
@@ -174,7 +178,9 @@ def output_name(args):
     if args.name:
         return args.name
     if args.japanese:
-        return OUT_NAME_JP + ("" if args.no_unlock else " (unlocked)")
+        return (OUT_NAME_JP + ("" if args.no_unlock else " (unlocked)")
+                + (" (no move fixes)" if args.no_move_fixes and not args.no_unlock else "")
+                + (" (move fixes)" if args.no_unlock and not args.no_move_fixes else ""))
     name = OUT_NAME
     if args.fake_names:
         name += " (Fake Names)"
@@ -190,6 +196,8 @@ def output_name(args):
         name += " (route 5)"
     if args.no_extra_parts:
         name += " (no extra parts)"
+    if args.no_move_fixes:
+        name += " (no move fixes)"
     return name
 
 
@@ -199,13 +207,28 @@ def write_cue(out_dir, name):
 
 
 def build_japanese(args, out_bin):
-    """The original game with only the executable patches (unlocks)."""
+    """The original game with only the unlocks and the move fixes."""
     exe = bytearray(read_disc_file(args.rom, "/SLPS_020.65"))
     if not args.no_unlock:
         unlock.patch_exe(exe)
     shutil.copyfile(args.rom, out_bin)
     with open(out_bin, "r+b") as f:
         discpatch.patch_file(f, "/SLPS_020.65", bytes(exe))
+    if not args.no_move_fixes:
+        # entries are replaced where they are, so the rest of FPG.BIN stays as it was
+        fpg = bytearray(read_disc_file(args.rom, "/FPG.BIN"))
+        toc = fpgbin.read_toc(fpg)
+
+        def entry(name):
+            o, size = toc[int(name)]
+            return bytes(fpg[o:o + size])
+        copy = bytearray(entry(movefix.COPY))
+        packed = movefix.apply_packed(copy, {name: entry(name) for name in movefix.MOVE_FILES})
+        for name, data in packed.items():
+            fpgbin.replace(fpg, int(name), data)
+        fpgbin.replace(fpg, int(movefix.COPY), bytes(copy))
+        with open(out_bin, "r+b") as f:
+            discpatch.patch_file(f, "/FPG.BIN", bytes(fpg))
 
 
 class Build:
@@ -311,6 +334,18 @@ def patch_moves(b):
     used = moves.apply(buf, moves.load(b.text("moves.csv")))
     b.write("011", buf)
     print(f"moves: {used} of {moves.AREA[1] - moves.AREA[0]} bytes")
+
+
+def patch_move_fixes(b):
+    """Status flags of three moves that disagree with their other versions."""
+    if b.args.no_move_fixes:
+        return
+    copy = b.read_raw(movefix.COPY)
+    packed = movefix.apply_packed(copy, {e: bytes(b.read_raw(e)) for e in movefix.MOVE_FILES})
+    for entry, data in packed.items():
+        b.write_raw(entry, data)
+    b.write_raw(movefix.COPY, copy)
+    print(f"move fixes: {', '.join(str(m) for m in movefix.FIXES)}")
 
 
 def patch_edit_records(b):
@@ -483,7 +518,7 @@ def write_image(b, out_bin):
 
 
 STEPS = [unpack_fpg, patch_story, patch_menu_font, patch_tutorial, patch_roster, patch_moves,
-         patch_edit_records, patch_pocketstation_title, patch_images, patch_overlays,
+         patch_move_fixes, patch_edit_records, patch_pocketstation_title, patch_images, patch_overlays,
          repack_fpg, patch_exe]
 
 

@@ -53,6 +53,64 @@ def decompress(src):
     return bytes(out)
 
 
+def groups(src):
+    """-> [(stream position, output position)] of every flag byte, and the end."""
+    out, i, n, pos = [], 0, len(src), 0
+    while i < n:
+        out.append((i, pos))
+        flags = src[i]
+        i += 1
+        for bit in range(8):
+            if i >= n:
+                break
+            if flags >> bit & 1:
+                if i + 1 >= n:
+                    i = n
+                    break
+                pos += MIN_LEN + (src[i + 1] & 0x3F)
+                i += 2
+            else:
+                pos += 1
+                i += 1
+    out.append((n, pos))
+    return out
+
+
+def patch(src, data, reach=24, rounds=64):
+    """Change the compressed stream src so that it unpacks to data, keeping as
+    much of it as possible. Around the first byte that comes out wrong, a run of
+    whole flag groups is stored again as plain literals (8 per flag byte, so the
+    run must unpack to a multiple of 8 bytes) and the rest of the stream is kept;
+    this repeats, since a later reference may copy a changed byte.
+    -> the new stream (a little longer), or None if that doesn't work out."""
+    data = bytes(data)
+    src = bytes(src)
+    for _ in range(rounds):
+        got = decompress(src)
+        if got == data:
+            return src
+        if len(got) != len(data):
+            return None
+        k = next(i for i in range(len(data)) if got[i] != data[i])
+        marks = groups(src)
+        out_at = [p for _, p in marks]
+        g = max(j for j in range(len(marks) - 1) if out_at[j] <= k)
+        best = None
+        for a in range(max(0, g - reach), g + 1):
+            for b in range(g + 1, min(len(marks), a + reach + 1)):
+                length = out_at[b] - out_at[a]
+                if length % 8 == 0:
+                    cost = length // 8 * 9 - (marks[b][0] - marks[a][0])
+                    if best is None or cost < best[0]:
+                        best = (cost, a, b)
+        if best is None:
+            return None
+        _, a, b = best
+        run = b"".join(b"\0" + data[at:at + 8] for at in range(out_at[a], out_at[b], 8))
+        src = src[:marks[a][0]] + run + src[marks[b][0]:]
+    return None
+
+
 def compress(data):
     """LZSS with lazy matching. The 0x3BE zero bytes before the stream start
     are matchable (the ring starts zero-filled)."""
