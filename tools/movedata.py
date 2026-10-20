@@ -94,9 +94,10 @@ OFFENCE = ["Strikes", "Kicks", "Throws", "Submission", "Chokes", "Power", "Agili
            "Strength", "Off. Skill", "Brawling"]
 DEFENCE = ["Strike Def.", "Kick Def.", "Throw Def.", "Sub. Def.", "Choke Def.",
            "Aerial Def.", "Slam Def.", "vs Lariat", "Def. Skill", "vs Brawling"]
-# status byte 19, bit n: critical on a wrestler whose Critical (record +0x54) is n
-CRITICALS = ["Finisher", "Strikes", "Suplex", "Submission", "Power", "Technique",
-             "Give up", "Foul"]
+# status byte 19: bit n (0-5) allows a critical on a wrestler whose Critical (record
+# +0x54) is n; bit 6 can make the opponent give up; bit 7 is a foul
+CRITICALS = ["Finisher", "Strikes", "Suplex", "Submission", "Power", "Technique"]
+GIVE_UP, FOUL = 0x40, 0x80
 BODY = [(8, "neck"), (4, "arm"), (2, "waist"), (1, "leg")]
 # sound effects, overlay 003's table at 0x8007ABE8
 SE = (["none", "(system) move", "(system) select", "(system) entry", "(system) cancel",
@@ -195,7 +196,7 @@ def move_header():
             "hp", "spirit", "neck", "arm", "waist", "leg", "breathing", "blood",
             "attack_rating", "attack_sub_rating", "defence_rating", "defence_sub_rating",
             "uses", "self_hp", "self_spirit", "self_neck", "self_arm", "self_waist",
-            "self_leg", "critical", "offset_x", "offset_y", "range_x", "range_y",
+            "self_leg", "flags", "critical", "give_up", "foul", "offset_x", "offset_y", "range_x", "range_y",
             "attack_dist", "fly_dist", "fly_time", "fly_power", "start_height",
             "end_height", "single_hits", "combo_hits",
             "animations", "frames", "duration", "local_forms", "hit_se", "se_level",
@@ -238,7 +239,9 @@ def move_rows(data, names, sets, fpg010):
                + list(nibble_names(b[10], OFFENCE)) + list(nibble_names(b[11], DEFENCE))
                + ["+".join(n for bit, n in BODY if b[12] & bit)]
                + list(b[13:19])
-               + ["+".join(n for k, n in enumerate(CRITICALS) if b[19] >> k & 1)]
+               + [f"0x{b[19]:02X}",
+                  "+".join(n for k, n in enumerate(CRITICALS) if b[19] >> k & 1),
+                  "yes" if b[19] & GIVE_UP else "", "yes" if b[19] & FOUL else ""]
                + list(struct.unpack_from("<bb", b, 20)) + list(b[22:30])
                + [b[31] & 15, b[31] >> 4,
                   len(anims), head[0], sum(f[6] for f in frames), forms(b),

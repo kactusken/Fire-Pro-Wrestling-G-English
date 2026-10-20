@@ -234,7 +234,7 @@ them is at 0x80060bac, and the code that shows them is at 0x800635e8–0x80063eb
 | 11 | `dm` / `ds` | The defender's main and sub rating: an index into the 10 defence ratings at record +0x69 | defence_rating, defence_sub_rating |
 | 12 | `nek` `arm` `wst` `leg` | Bits 8, 4, 2, 1: the body parts the attacker uses (a punch uses arm + waist, a kick waist + leg) | uses |
 | 13–18 | `hp-bom` … `lg-bom` | Damage the attacker takes, same order as 2–7. Mostly on dives | self_hp … self_leg |
-| 19 | `cri normal` … `hansoku` | Bit flags: which critical types the move can trigger, plus give-up and foul ([Criticals](#criticals)) | critical |
+| 19 | `cri normal` … `hansoku` | Bit flags: 0–5 the critical types the move can trigger, 6 can make the opponent give up, 7 foul ([Criticals](#criticals)) | flags (the byte), critical, give_up, foul |
 | 20, 21 | `offset x`, `y` | Signed hit box offset from the attacker. x is negated when facing the other way (ov0 0x8005be34) | offset_x, offset_y |
 | 22, 23 | `range x`, `y` | Hit box half-width and half-height: the box is position + offset ± range | range_x, range_y |
 | 24 | `atk dist` | Attack distance. Non-zero only on diagonal runs, dives and combinations | attack_dist |
@@ -378,19 +378,73 @@ Status bytes 10 and 11. The index is the order of the ratings in the record and 
 | 9 | Brawling | vs Brawling |
 
 ### Criticals
-Status byte 19. A move can cause a critical on a wrestler whose Critical type is *n* (record
-+0x54) only when bit *n* is set. ov0 0x80064ad8 tests it against the mask table 0x80081848.
+Status byte 19. Bits 0–5 say which critical types the move can trigger. Bit 6 lets the move make
+the opponent give up, and bit 7 marks it as a foul. The match engine reads the byte when a move
+lands, in the damage routine around ov0 0x80064e18.
 
-| Bit | Editor label | Critical type (record +0x54) | Roster wrestlers with that type |
+| Bit | Editor label | Meaning | Moves with it (first ids) |
 |---|---|---|---|
-| 0 | `cri normal` | 0 Finisher | 142 (most) |
-| 1 | `cri dageki` | 1 Striking | 20: Misawa, Kawada, Maeda, the kickboxers |
-| 2 | `cri suplex` | 2 Suplex | 5: Steiner, Albright, Karelin |
-| 3 | `cri submis` | 3 Submission | 16: Inoki, Shamrock, Fujiwara, Tamura |
-| 4 | `cri power` | 4 Power | 3: Vader, Andre, Norton |
-| 5 | `cri techni` | 5 Technical | 8: Fujinami, Rey, Sasuke |
-| 6 | `give up` | Can make the opponent give up | |
-| 7 | `hansoku` | Foul (e.g. Bite) | |
+| 0 (0x01) | `cri normal` | Critical for type 0 (Finisher), only when the move is performed as the wrestler's finisher | 381 |
+| 1 (0x02) | `cri dageki` | Critical for type 1 (Striking) | 27 |
+| 2 (0x04) | `cri suplex` | Critical for type 2 (Suplex) | 13 |
+| 3 (0x08) | `cri submis` | Critical for type 3 (Submission) | 44 |
+| 4 (0x10) | `cri power` | Critical for type 4 (Power) | 27 |
+| 5 (0x20) | `cri techni` | Critical for type 5 (Technical) | 30 |
+| 6 (0x40) | `give up` | The move can make the opponent submit | 115 |
+| 7 (0x80) | `hansoku` | The move is a foul (Bite, Low Blow, weapon attacks…) | 15 |
+
+**Critical check** (ov0 0x80064a7c, per hit):
+1. There is no critical if the attacker has state flag 0x40 (fighter +0x176).
+2. The attacker's Critical type *n* comes from record +0x54.
+   - Type 0 (Finisher): the move must be the finisher (fighter flag 0x80000) and have bit 0.
+   - Types 1–5: the move must have bit *n* (mask table 0x80081848 = 1, 2, 4, 8, 0x10, 0x20).
+3. If the move qualifies, the game rolls a chance from the table at 0x80081E0C, indexed by
+   type × 13 + the defender's record +0x46. The chance doubles when the attacker has flag
+   0x400 (+0x124) with HP (+0x128) below 0x1900 and spirit (+0x12A) above 0x4C00. A second
+   roll, from 0x80081E5C, indexed by type × 16 + the defender's HP / 4096, must also succeed.
+
+**When a critical lands** (0x8006515c):
+- Every stat the move damages (status bytes 2–8 that are not 0) drops to 0 at once: HP,
+  spirit, neck, arm, waist, legs, breathing.
+- Without bit 3 or bit 5 (a striking, suplex, power or finisher critical), the defender is
+  also knocked out: fighter flag 0x200000, and +0x156 = 0x140.
+- A submission or technical critical leaves the defender conscious.
+- A submission critical calls 0x80071084 with 0x5D (93, the "critical!" sound's number); the
+  others call 0x8007103c. What those calls do is not traced.
+- With bit 6, the defender gives up (flag 0x1000000).
+
+**Give up, bit 6.** Without a critical, the move does its normal damage. The defender gives
+up (flag 0x1000000) when either of these happens with a bit-6 move:
+- the move takes their spirit (+0x12A) below 0;
+- the move takes their HP below 0 under the match rule that makes that a KO (match flag
+  0x93C & 4, flag 0x200000).
+
+When the hold ends, the attacker's code checks the flag (ov0 0x8006dc7c). The defender then
+plays the give-up motion and 0x8006f490 counts them as beaten. A hold without bit 6 can drain
+a wrestler to nothing but **cannot win by submission**.
+
+**Foul, bit 7.** It sets attacker flag 0x2000000 (0x8006530c). The referee code checks that
+flag with the match rules (0x97A & 0x20) at 0x8006d934, 0x8006df88 and 0x8006e07c, presumably
+for warnings or disqualification. Not traced further.
+
+**Odd values on the disc.** Most same-named moves agree, but a few do not:
+- **Arching Boston Crab**: face down (1345) is 0x41, Finisher + give up; face up (1248) is
+  0x01, so it can't make anyone submit.
+- **Haruki Special**: Grab C (891) is 0x49; Back C (1073) is 0x40.
+- **Low Blow**: Grab B (782) is 0x81, a foul; Back A (1029) is 0x01, not a foul.
+- Four moves can cause a submission critical but have no give-up bit: Joint Kick, Leg Sweep,
+  Back Joint Kick and Knee Crusher. They are kicks and sweeps, so this may be intended.
+
+The Critical types of the roster wrestlers:
+
+| Value | Skill Edit | Wrestlers |
+|---|---|---|
+| 0 | Finisher | 142 (most) |
+| 1 | Striking | 20: Misawa, Kawada, Maeda, the kickboxers |
+| 2 | Suplex | 5: Steiner, Albright, Karelin |
+| 3 | Submission | 16: Inoki, Shamrock, Fujiwara, Tamura |
+| 4 | Power | 3: Vader, Andre, Norton |
+| 5 | Technical | 8: Fujinami, Rey, Sasuke |
 
 The stored values do not follow the order of the Skill Edit options (Finisher, Suplex, Power,
 Technical, Striking, Submission). The screen converts between them with two tables in ov4:
@@ -450,7 +504,9 @@ Ids 2 and 3 are the same punch for the two diagonals: forms 0x5AA–0x5AC and 0x
 | ov0 0x80085640, 0x80085690, 0x800856e0 | Per-fighter block table: slot, variant, reverse map |
 | ov0 0x80081EBC, 0x80081EC4 | Facing → variant (3-id and 2-id slots) |
 | ov0 0x80064700 | Rating lookup (status bytes 10, 11) |
-| ov0 0x80064ad8, 0x80081848 | Critical check and mask table |
+| ov0 0x80064a7c, 0x80081848, 0x80081E0C | Critical check, mask table, chance table |
+| ov0 0x8006515c | Critical result: drain, knockout, give up |
+| ov0 0x8006dc7c | Give-up check when a hold ends |
 | ov0 0x8005be34 | Hit box from status bytes 20–23 |
 | ov0 0x8007e6e0 | Shout on "wrestler voice" |
 | ov4 0x80067680 | Choose the Move Edit list set |
