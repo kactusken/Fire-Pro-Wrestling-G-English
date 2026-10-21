@@ -18,3 +18,9 @@ __pycache__/
 
 # Image work in progress (see docs/EDITING.md)
 /images/handmade/
+
+# --- Private: notes, drafts, instructions for Claude (private/README.md) ---
+/private/
+/CLAUDE.md
+/CLAUDE.local.md
+/.claude/
