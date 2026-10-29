@@ -7,6 +7,10 @@ It covers the whole game: all 522 scenes of the Fighting Road story mode, the me
 the roster, move names, the Dojo tutorial, Edit Mode, and the menu graphics. Story
 text uses a new variable-width font, so English lines fit in the dialogue box.
 
+**[Read the player's guide](https://kactusken.github.io/Fire-Pro-Wrestling-G-English/guide/)**:
+the controls, every mode, Fighting Road with a map of every branch and ending, Edit Mode,
+and profiles of all the wrestlers with their moves.
+
 **[See screenshots](docs/SCREENSHOTS.md)** of the patched game.
 
 > **Status: first public beta.** Everything is translated. Not every story route has been
