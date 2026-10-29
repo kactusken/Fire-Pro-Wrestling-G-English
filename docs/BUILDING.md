@@ -149,6 +149,6 @@ See [tools/README.md](../tools/README.md) for every tool and its options, and
 | `images/handmade/` | Work in progress (not tracked by git; also used by the build) |
 | `tools/` | The patching code, checks, and research tools ([tools/README.md](../tools/README.md)) |
 | `tests/` | Unit tests and data checks (`python3 -m unittest discover -s tests -t .`) |
-| `docs/` | Documentation, plus reference data: the story name table, scene titles, the battle table, and the route map |
+| `docs/` | Documentation, plus reference data: the story name table, scene titles, the battle table, and the player's guide with its route map |
 | `rom/` | Your original disc image (not tracked) |
 | `extracted/`, `build/`, `release/`, `review/` | Generated output (not tracked) |

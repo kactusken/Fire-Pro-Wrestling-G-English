@@ -204,6 +204,16 @@ class StoryTest(TestCase):
         self.assertTrue(symbols)
 
 
+
+@needs_extracted
+class GuideTest(TestCase):
+    def test_guide_data_is_up_to_date(self):
+        # The guide's tables come from the disc and text/: a renamed move or wrestler, or an
+        # edited scene title, needs `python3 tools/guidedata.py` to refresh the page.
+        r = subprocess.run([sys.executable, repo("tools", "guidedata.py"), "--check", "--extracted", EXTRACTED],
+                           capture_output=True, text=True)
+        self.assertEqual(r.returncode, 0, (r.stdout + r.stderr)[-500:])
+
 @needs_rom
 @unittest.skipUnless(os.environ.get("FPWG_SLOW"), "slow: set FPWG_SLOW=1")
 class ReproducibleBuildTest(TestCase):

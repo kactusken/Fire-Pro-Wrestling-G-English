@@ -291,6 +291,56 @@ The same layout up to the moves, plus:
 | +0x1F2 | u16 head id |
 | +0x1F4..+0x1FB | 8 body part numbers |
 
+### Edit Mode tables (overlay 004)
+*From the code* (read for the player's guide, 2026-10-29; `tools/guidedata.py` reads the
+tables marked with it).
+
+- **Skill Edit rows** (0x80076954, 20 bytes each; `tools/skilledit.py`): +0 flags (byte 0 value
+  box cells; byte 1 low nibble row type, high nibble cost table; byte 2 minimum; byte 3
+  maximum), +4 option list, +8 suffix, +12 label, +16 record offset. Rows 33–38 are a second,
+  short form (Div, birth date, Origin: Amateur, Judo, Karate, Gymnastics, Sumo, Weightlifting,
+  Thug, None), apparently the Fighting Road hero's setup. *guidedata.py*
+- **Critical order:** Skill Edit lists the types in another order than the record stores them;
+  0x8007668C maps stored value → option (0, 4, 1, 5, 2, 3), 0x80076694 the reverse. *guidedata.py*
+- **Edit points:** one budget for Skill Edit and Param. Edit; the limit is a u16 at edit
+  record +0x182. Points used = the cost of each Skill Edit choice (8 cost lists at 0x80076C94,
+  by option: Critical 0/20/20/25/30/30; Special 0 then 15; Recovery, Breathing, Spirit
+  0/10/20 and their bleeding rows 0/5/10; Neck/Arms/Back/Legs 0/2/5; Speed 0/2/6/14/24; Climb
+  0/2/4/6/8; Post 0/4/12) plus, for each of the 20 ratings, its shown value − 1. Every one of
+  the 30 Edit Ranking wrestlers fits its limit under this rule. Param. Edit shows a rating as
+  the stored byte − 2 (1–10).
+- **CPU Logic** (record +0xE6, 156 bytes): situations at 0x80074DFC (8 bytes: label, first
+  condition, count), conditions at 0x80074E8C (label, first action, count, data index),
+  actions at 0x80074FBC (label, u16 code: < 0x200 the Move Edit slot × 2, 0x200 no move,
+  0x201–0x203 actions without a slot). A condition's bytes are **cumulative thresholds** for
+  all its actions but the last: an action's chance is its threshold minus the one before, and
+  the last action takes what is left of 100 (checked on the roster: each row rises to 100 at
+  most). *guidedata.py*
+- **Edit Ranking rewards by wins** (0x8005C160, 30 bytes by the win count after a win; the
+  save's reward level is raised when the table's value is higher; 0x8005C180 flags the
+  reward message): level 1 at 4 wins, 2 at 7, 3 at 8, 4 at 13, 5 at 15, 6 at 16, 7 at 19, 8 at
+  23, 9 at 24, 10 at 28, 11 at 29. Each win also adds an edit point. Not checked in game, nor
+  whether the count is per wrestler.
+
+### Specials and ratings in a match (overlay 000)
+*From the code.* The match start (0x80074040) turns Skill Edit's Special into one bit of
+fighter +0x124 (table 0x8005B028). HP and spirit run 0–0xFFFF.
+
+| Special | Effect | Where |
+|---|---|---|
+| Star Power | moves × 4506/4096 (+10%) when HP < 0xA00 and bit 0x10000 of +0x124 is set (what sets it is not traced) | 0x800649E8 |
+| Quick Up | down time / 8 when knocked down with HP 0xC01–0x32FF and spirit > 0x9900 | 0x80065B18 |
+| Comeback | critical chance × 2 when HP < 0x1900 and spirit > 0x4C00 | 0x80064BAC |
+| Fast Start | signature moves +2 (not +1) to both attack ratings while HP > 0xB333 | 0x8006476C |
+| Guts | spirit damage halved when HP < 0x200 | 0x800650B4 |
+| Fightback | +1 to both attack ratings when HP < 0x500 | 0x800647A8 |
+| One-Hit KO | the finisher × 2.5 for its first two uses (counter +0x196) | 0x80064A34 |
+| Bleeding | moves × 4301/4096 (+5%) while bleeding (+0x120 bit 8) | 0x800649AC |
+
+A move's strength factor (0x80064700) is 3 × the attacker's main rating + his second rating −
+3 × the defender's main defence − his second defence + 64, then scaled by tables not yet
+decoded; the finisher adds 2 to both attack ratings, a signature move 1.
+
 ### Promotions
 Full names (15 × 26 bytes at EXE 0x80049054) and short names (15 × 14 bytes at 0x800491DC).
 Ids of 15 and up are player-made promotions in the save data.

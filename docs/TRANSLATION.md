@@ -187,8 +187,8 @@ in a way the rules don't cover (a nickname, a first name), add a rule.
 - [story_names.csv](story_names.csv): every wrestler code used in the story, with the
   name to write.
 - [story_titles.csv](story_titles.csv): a title and one-line summary for each scene, used
-  by the route map.
+  by the guide's route map.
 - [story_battles.csv](story_battles.csv): every story match, with opponents, partner,
   rules, venue, referee and music (from `tools/storybattles.py`).
-- [route-map/index.html](route-map/index.html): the interactive route map. Rebuild it with
-  `tools/storymap.py` after changing scene titles.
+- [guide/index.html](guide/index.html): the player's guide, with the interactive route map.
+  Refresh its data with `tools/guidedata.py` after changing scene titles, names or moves.

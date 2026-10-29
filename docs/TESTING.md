@@ -74,7 +74,7 @@ Michinoku Pro. Otherwise the style you used most in the prologue tips the offer,
 with your earlier choices. For example, Power or Chokes lean toward New Japan, Throws or
 Technique toward All Japan, Flying or Rough toward FMW, Submissions or Shoot toward the UWF,
 and Striking or Performance toward America. The
-[route map](route-map/index.html) shows every scene, choice and branch.
+[route map](guide/index.html#route-map) shows every scene, choice and branch.
 
 | Route | Scenes | Story matches | Endings | Status | Notes |
 |---|---|---|---|---|---|

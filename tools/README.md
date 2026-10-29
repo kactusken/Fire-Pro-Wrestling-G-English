@@ -71,7 +71,9 @@ of their own.
 |---|---|
 | [extract.py](extract.py) | Unpacks the disc into `extracted/` |
 | [storyflow.py](storyflow.py) | Decodes the story bytecode into branches, choices, stat changes and matches (JSON) |
-| [storymap.py](storymap.py) | Builds the interactive route map, `docs/route-map/index.html`, from storyflow's data and `docs/story_titles.csv` |
+| [storymap.py](storymap.py) | The route map's data: storyflow's branches with each scene's route, title and summary from `docs/story_titles.csv` |
+| [guidedata.py](guidedata.py) | Writes the data block of the player's guide, `docs/guide/index.html`: roster profiles, Skill Edit, moves, Move Edit lists, CPU Logic and the route map, from the original disc with the English of `text/` (`--check` for tests) |
+| [pagedata.py](pagedata.py) | Fills a page's one-line JSON data block (used by guidedata.py) |
 | [storybattles.py](storybattles.py) | Decodes the story battle table into `docs/story_battles.csv` |
 | [mipsdis.py](mipsdis.py) | Disassembler with reference and call search (needs capstone) |
 | [sjisscan.py](sjisscan.py) | Finds Shift-JIS text in binary files |

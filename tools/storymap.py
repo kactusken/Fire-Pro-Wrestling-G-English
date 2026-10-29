@@ -1,16 +1,9 @@
 #!/usr/bin/env python3
-"""Build the standalone story route map (docs/route-map/index.html).
+"""Fighting Road's route data for the guide's route map (docs/guide/, tools/guidedata.py).
 
 Runs the branch analysis in storyflow.py, adds scene titles and summaries from
-docs/story_titles.csv and assigns each scene to its route, then embeds the data
-in tools/storymap_template.html. The page needs internet access only for the
-dagre layout library (cdnjs) and Google Fonts.
-
-Usage: storymap.py [--out PATH] [--titles PATH] [--template PATH]
-                   [--extracted PATH] [--script PATH] [--text PATH]
+docs/story_titles.csv and assigns each scene to its route.
 """
-import argparse
-import json
 import os
 import sys
 
@@ -46,19 +39,12 @@ def routes(scenes):
     return route
 
 
-def main(argv=None):
-    ap = argparse.ArgumentParser(description="Build the standalone story route map page.")
-    paths.add(ap, "--out", os.path.join(paths.DOCS, "route-map", "index.html"), "output page")
-    paths.add(ap, "--titles", os.path.join(paths.DOCS, "story_titles.csv"), "scene titles and summaries")
-    paths.add(ap, "--template", os.path.join("tools", "storymap_template.html"), "page template")
-    storyflow.add_options(ap)
-    args = ap.parse_args(argv)
-    storyflow.configure(args.extracted, args.script, args.text)
-    out_path = args.out
+def page_data(titles_path=paths.repo(os.path.join(paths.DOCS, "story_titles.csv"))):
+    """The route map's data: storyflow.build() with each scene's route, title and summary."""
     d = storyflow.build()
     scenes = d["scenes"]
     route = routes(scenes)
-    names = titles(args.titles)
+    names = titles(titles_path)
     for s in scenes:
         s["route"] = route.get(s["id"], "Demo")
         s["title"], s["summary"] = names.get(s["id"], (s["first"][:40], ""))
@@ -67,13 +53,4 @@ def main(argv=None):
     missing = [s["id"] for s in scenes if s["id"] not in names]
     if missing:
         print(f"warning: no title for scenes {missing}")
-    data = json.dumps(d, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
-    html = open(args.template, encoding="utf-8").read().replace("/*DATA*/", data)
-    os.makedirs(os.path.dirname(out_path), exist_ok=True)
-    with open(out_path, "w", encoding="utf-8", newline="\n") as f:
-        f.write(html)
-    print(f"{len(scenes)} scenes -> {out_path} ({len(html) // 1024} KB)")
-
-
-if __name__ == "__main__":
-    main()
+    return d

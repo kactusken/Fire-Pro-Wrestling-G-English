@@ -411,6 +411,7 @@ prompt), ov001 0x8005C134 (不明, a 5-byte slot, "N/A") and EXE 0x800103B0/BC (
 - `tools/uilint.py`: menu strings whose English needs more cells or pixels than the Japanese.
 - `tools/test_vwf.py`, `tools/test_menu_vwf.py`: run the story and menu hooks in mipsim and
   render the result to PNG.
-- `tools/storyflow.py`, `tools/storymap.py`: the story branch analysis and the route map at
-  `docs/route-map/index.html` (rerun after script edits); `tools/storybattles.py` writes
+- `tools/storyflow.py`, `tools/storymap.py`: the story branch analysis and the route map's
+  data; `tools/guidedata.py` writes it, with the roster and moves, into the guide at
+  `docs/guide/index.html` (rerun after script or name edits); `tools/storybattles.py` writes
   `docs/story_battles.csv`.

@@ -72,6 +72,9 @@ Then:
 - **Saves.** The patch doesn't change the save format, so memory cards from the Japanese
   game should work. The save's title on the memory card is now in English. With an
   "All Unlocked" patch, loading an old save also unlocks everything.
+- **Guide.** The [player's guide](https://kactusken.github.io/Fire-Pro-Wrestling-G-English/guide/)
+  covers the controls, every mode, Fighting Road with a map of every branch and ending, Edit
+  Mode, and profiles of all the wrestlers. Its Names switch matches either patch.
 - **Hidden content.** The game holds a developer menu, cut story scenes, unused art and
   more. See [docs/HIDDEN_CONTENT.md](docs/HIDDEN_CONTENT.md).
 
@@ -107,7 +110,7 @@ documentation of the game's formats.
 | [docs/COSTUMES.md](docs/COSTUMES.md) | How the built-in wrestlers' costumes, body parts and colours are stored and drawn |
 | [docs/MOVES.md](docs/MOVES.md) | How moves are stored and assigned: move slots, Move Edit lists, damage, hit boxes and animations |
 | [tools/README.md](tools/README.md) | Every tool, what it's for and how to run it |
-| [Story Route Map](https://kactusken.github.io/Fire-Pro-Wrestling-G-English/route-map/) | An interactive map of Fighting Road's branches |
+| [Player's Guide](https://kactusken.github.io/Fire-Pro-Wrestling-G-English/guide/) | Controls, modes, Fighting Road with its interactive route map, Edit Mode, and every wrestler's profile |
 
 Quick start:
 
